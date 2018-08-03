@@ -31,6 +31,6 @@ jobs:
       - run:
           command: cd && rm -rf /tmp/rakudo
       - run:
-          command: pacman -S --noconfirm --needed perl ruby nodejs
+          command: pacman -S --noconfirm --needed nodejs ruby perl perl-json-xs
       - run:
           command: perl run.pl
