@@ -1,4 +1,4 @@
-const n = 40;
+const n = 30;
 const repeatCount = 10;
 
 function fib(n) {

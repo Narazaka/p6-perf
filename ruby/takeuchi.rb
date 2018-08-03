@@ -1,7 +1,7 @@
 x = 12
 y = 6
 z = 0
-repeat_count = 10
+repeat_count = 5
 
 def tarai(x, y, z)
   if x <= y

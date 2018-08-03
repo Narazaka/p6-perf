@@ -1,4 +1,4 @@
-n = 40
+n = 30
 repeat_count = 10
 
 def fib(n)

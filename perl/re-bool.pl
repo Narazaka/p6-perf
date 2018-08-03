@@ -2,7 +2,7 @@ use Time::HiRes qw/gettimeofday tv_interval/;
 
 my $re = qr/a(?:bc)+?[de]$/;
 my $str = "regexp123abcbcd";
-my $repeat_count = 100000000;
+my $repeat_count = 10000000;
 
 my $start = [gettimeofday];
 for (my $i = 0; $i < $repeat_count; ++$i) {

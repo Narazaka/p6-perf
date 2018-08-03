@@ -1,7 +1,7 @@
 const x = 12;
 const y = 6;
 const z = 0;
-const repeatCount = 10;
+const repeatCount = 5;
 
 function tarai(x, y, z) {
   return x <= y ?

@@ -7,7 +7,7 @@ my $obj = +{
   foo3 => [1, 2, 3],
   foo4 => undef,
 };
-my $repeat_count = 10000000;
+my $repeat_count = 1000000;
 
 my $start = [gettimeofday];
 for (my $i = 0; $i < $repeat_count; ++$i) {

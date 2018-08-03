@@ -3,7 +3,7 @@ use Time::HiRes qw/gettimeofday tv_interval/;
 my $x = 12;
 my $y = 6;
 my $z = 0;
-my $repeat_count = 10;
+my $repeat_count = 5;
 
 sub tarai {
   my ($x, $y, $z) = @_;

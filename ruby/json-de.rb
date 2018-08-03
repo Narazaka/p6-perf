@@ -6,7 +6,7 @@ json = '{
   "foo3": [1, 2, 3],
   "foo4": null
 }';
-repeat_count = 10000000;
+repeat_count = 1000000
 
 start = Time.now
 repeat_count.times { JSON.parse(json) }

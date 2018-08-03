@@ -1,4 +1,4 @@
-my $n = 40;
+my $n = 30;
 my $repeat-count = 10;
 
 sub fib(Numeric $n) {

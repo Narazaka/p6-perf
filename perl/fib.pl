@@ -1,6 +1,6 @@
 use Time::HiRes qw/gettimeofday tv_interval/;
 
-my $n = 40;
+my $n = 30;
 my $repeat_count = 10;
 
 sub fib {

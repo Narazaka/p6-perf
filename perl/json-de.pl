@@ -9,7 +9,7 @@ my $json = <<'EOM';
   "foo4": null
 }
 EOM
-my $repeat_count = 10000000;
+my $repeat_count = 1000000;
 
 my $start = [gettimeofday];
 for (my $i = 0; $i < $repeat_count; ++$i) {

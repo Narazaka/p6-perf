@@ -4,7 +4,7 @@ const json = `{
   "foo3": [1, 2, 3],
   "foo4": null
 }`;
-const repeatCount = 10000000;
+const repeatCount = 1000000;
 
 const start = Date.now();
 for (let i = 0; i < repeatCount; ++i) {
