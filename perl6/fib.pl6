@@ -2,7 +2,7 @@ my $n = 40;
 my $repeat-count = 10;
 
 sub fib(Numeric $n) {
-  return $n < 2 ? $n : fib($n - 2) + fib($n - 1);
+  return $n < 2 ?? $n !! fib($n - 2) + fib($n - 1);
 }
 
 my $start = now;
