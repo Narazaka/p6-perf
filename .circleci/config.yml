@@ -1,0 +1,36 @@
+version: 2
+
+jobs:
+  perform:
+    docker:
+      - image: base/archlinux:latest
+    steps:
+      - checkout
+      - run:
+          command: pacman -Sy && pacman -S --noconfirm --needed base-devel git
+      - run:
+          command: useradd builduser --create-home -g users
+      - run:
+          command: "echo 'builduser ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers"
+      - run:
+          command: su builduser -c 'git clone https://aur.archlinux.org/moarvm.git /tmp/moarvm'
+      - run:
+          command: cd /tmp/moarvm && su builduser -c 'makepkg --noconfirm --skippgpcheck -si'
+      - run:
+          command: cd && rm -rf /tmp/moarvm
+      - run:
+          command: su builduser -c 'git clone https://aur.archlinux.org/nqp.git /tmp/nqp'
+      - run:
+          command: cd /tmp/nqp && su builduser -c 'makepkg --noconfirm --skippgpcheck -si'
+      - run:
+          command: cd && rm -rf /tmp/nqp
+      - run:
+          command: su builduser -c 'git clone https://aur.archlinux.org/rakudo.git /tmp/rakudo'
+      - run:
+          command: cd /tmp/rakudo && su builduser -c 'makepkg --noconfirm --skippgpcheck -si'
+      - run:
+          command: cd && rm -rf /tmp/rakudo
+      - run:
+          command: pacman -S --noconfirm --needed perl ruby nodejs
+      - run:
+          command: perl run.pl
