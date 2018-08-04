@@ -10,7 +10,7 @@ jobs:
     steps:
       - checkout
       - run:
-          command: pacman -Sy && pacman -S --noconfirm --needed base-devel git
+          command: pacman -Sy && pacman -S --noconfirm --needed base-devel git openssh
       - run:
           command: useradd builduser --create-home -g users
       - run:
