@@ -1,6 +1,6 @@
 re = /(a(?:bc)+?)[de]$/
 str = "regexp123abcbcd"
-repeat_count = 10000000
+repeat_count = 1000000
 
 start = Time.now
 repeat_count.times { re.match(str) }
