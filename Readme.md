@@ -1,5 +1,7 @@
 # p6-perf
 
+[![CircleCI](https://circleci.com/gh/Narazaka/p6-perf/tree/master.svg?style=svg)](https://circleci.com/gh/Narazaka/p6-perf/tree/master)
+
 Performance of Perl6 and other languages.
 
 ## test
