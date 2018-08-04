@@ -35,6 +35,6 @@ our %version = (
     javascript => sub { my $ver = `node --version`; ($ver =~ /(v\d+\.\d+\.\d+)/)[0]; },
     lua => sub { my $ver = `luajit -v`; ($ver =~ /LuaJIT (\d+\.\d+\.\d+)/i)[0]; },
     "c++" => sub { my $ver = `clang --version`; ($ver =~ /version (\d+\.\d+\.\d+)/i)[0]; },
-    nim => sub { my $ver = `nim --version`; ($ver =~ /Version (\d+\.\d+\.\d+)/i)[0]; },
+    nim => sub { my $ver = `nim --version 2>&1`; ($ver =~ /Version (\d+\.\d+\.\d+)/i)[0]; },
     ruby => sub { my $ver = `ruby --version`; ($ver =~ /^ruby (\S+)/)[0]; },
 );
