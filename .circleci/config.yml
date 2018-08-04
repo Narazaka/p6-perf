@@ -38,7 +38,7 @@ jobs:
       - run:
           command: perl run.pl
       - run:
-          command: ssh-keyscan -H github.com >> ~/.ssh/known_hosts
+          command: mkdir -p ~/.ssh && ssh-keyscan -H github.com >> ~/.ssh/known_hosts
       - run:
           command: git clone git@github.com:Narazaka/p6-perf -b gh-pages html
       - run:
