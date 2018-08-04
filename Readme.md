@@ -19,12 +19,12 @@ Performance of Perl6 and other languages.
 - Ruby (cruby)
 - JavaScript (node.js)
 - Lua (LuaJIT)
+- C++ (clang/LLVM)
 - Nim
 
 ### TODO
 
 - C# (.NET Core 2.0)
-- C++ (clang/LLVM)
 
 ## License
 
