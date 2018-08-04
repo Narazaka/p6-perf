@@ -7,12 +7,19 @@ our @languages = qw(
     perl6
 );
 
+our %compiler = (
+    nim => sub {
+        my ($src, $out) = @_;
+        "nim c --nimcache:nimcache --opt:speed -o:$out $src";
+    },
+);
+
 our %runtime = (
     perl6 => "perl6",
     perl => "perl",
     javascript => "node",
     lua => "luajit",
-    nim => "nim c -r",
+    nim => "",
     ruby => "ruby",
 );
 
