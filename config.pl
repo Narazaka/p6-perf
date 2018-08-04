@@ -10,7 +10,7 @@ our @languages = qw(
 our %compiler = (
     nim => sub {
         my ($src, $out) = @_;
-        "nim c --nimcache:nimcache --opt:speed -o:$out $src";
+        "nim c --nimcache:nimcache -d:release --opt:speed -o:$out $src";
     },
 );
 
