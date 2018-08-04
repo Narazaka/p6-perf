@@ -9,6 +9,8 @@ my @languages = qw(
     perl6
 );
 
+@languages = @ARGV if @ARGV;
+
 my %runtime = (
     perl6 => "perl6",
     perl => "perl",
