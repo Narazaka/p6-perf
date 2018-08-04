@@ -4,6 +4,8 @@
 
 Performance of Perl6 and other languages.
 
+-> [RESULTS](https://narazaka.github.io/p6-perf/)
+
 ## test
 
 - fib (function call)
