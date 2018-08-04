@@ -37,3 +37,9 @@ jobs:
           command: pacman -S --noconfirm --needed nodejs ruby perl perl-json-xs
       - run:
           command: perl run.pl
+      - run:
+          command: mkdir -p html/results # todo repo
+      - run:
+          command: perl summarize.pl && perl archive_summarize.pl html/results && perl makehtml.pl html results index.html
+      - store_artifacts:
+          path: html

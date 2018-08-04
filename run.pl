@@ -30,7 +30,7 @@ for my $language (@languages) {
         my $result_dir = catfile $results_dir, $category;
         my $result_path = catfile $result_dir, $language;
         mkdir $result_dir unless -d $result_dir;
-        my $cmd = "$runtime{$language} $filepath tee $result_path";
+        my $cmd = "$runtime{$language} $filepath > $result_path";
         say $cmd;
         system $cmd;
     }
