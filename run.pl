@@ -1,22 +1,11 @@
 use 5.20.0;
 use IO::Dir;
 use File::Spec::Functions qw/catfile/;
-
-my @languages = qw(
-    javascript
-    ruby
-    perl
-    perl6
-);
+require "./config.pl";
+our @languages;
+our %runtime;
 
 @languages = @ARGV if @ARGV;
-
-my %runtime = (
-    perl6 => "perl6",
-    perl => "perl",
-    javascript => "node",
-    ruby => "ruby",
-);
 
 my $results_dir = "results";
 mkdir $results_dir unless -d $results_dir;
