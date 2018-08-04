@@ -10,7 +10,7 @@
             /** @typedef {{[category: string]: {[language: string]: number}}} ResultRecord */
             /** @typedef {{time: Date, version: {[language: string]: string}, result: ResultRecord}} ResultRecordWithTime */
             /** @type {Array<{file: string; time: number}>} */
-            const resultsInfo = [{"time":1533411232,"file":"results/2018-08-04T19-33-52.json"}];
+            const resultsInfo = [{"time":1533411232,"file":"results/2018-08-04T19-33-52.json"},{"file":"results/2018-08-04T20-26-37.json","time":1533414397}];
 
             async function main() {
                 const results = await Promise.all(
@@ -59,6 +59,7 @@
                             },
                             y: {
                                 min: 0,
+                                padding: 0,
                                 label: "(ms)",
                             },
                         },
