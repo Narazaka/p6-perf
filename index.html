@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf8">
+        <title>Perl6 Performance</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.6.6/c3.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.6.6/c3.min.css">
+        <script>
+            /** @typedef {{[category: string]: {[language: string]: number}}} ResultRecord */
+            /** @typedef {{time: Date, version: {[language: string]: string}, result: ResultRecord}} ResultRecordWithTime */
+            /** @type {Array<{file: string; time: number}>} */
+            const resultsInfo = [{"file":"results/2018-08-04T19-22-53.json","time":1533410573}];
+
+            async function main() {
+                const results = await Promise.all(
+                    resultsInfo.map(
+                        ({time, file}) => fetch(file).then(response => response.json()).then(
+                            /** @param {{result: ResultRecord, version: {[language: string]: string}}} json */
+                            json => ({time: new Date(time * 1000), ...json})
+                        )
+                    )
+                );
+
+                const categoriesHash = {};
+                const languagesHash = {};
+                for (const result of results) {
+                    for (const category of Object.keys(result.result)) {
+                        categoriesHash[category] = true;
+                        for (const language of Object.keys(result.result[category])) languagesHash[language] = true;
+                    }
+                }
+                const categories = Object.keys(categoriesHash).sort();
+                delete languagesHash.perl6;
+                const languages = ["perl6", ...Object.keys(languagesHash).sort()];
+
+                const $results = /** @type {HTMLMainElement} */(document.querySelector("#results"));
+                for (const category of categories) {
+                    const chart = addCategoryElement($results, category);
+
+                    const json = convertToCategoryData(category, results);
+                    c3.generate({
+                        bindto: chart,
+                        data: {
+                            x: "time",
+                            keys: {
+                                value: ["time", ...languages],
+                            },
+                            json,
+                            labels: true,
+                        },
+                        axis: {
+                            x: {
+                                type: "timeseries",
+                                tick: {
+                                    format: "%Y-%m-%d",
+                                    rotate: -30,
+                                },
+                            },
+                            y: {
+                                min: 0,
+                                label: "(ms)",
+                            },
+                        },
+                    });
+                }
+            }
+
+            window.onload = main;
+
+            /**
+             * @param {HTMLElement} parent
+             * @param {string} category
+             */
+            function addCategoryElement(parent, category) {
+                const section = document.createElement("div");
+                section.id = `${category}-section`;
+                section.classList.add("category");
+                const title = document.createElement("h2");
+                title.textContent = category;
+                section.appendChild(title);
+                const chart = document.createElement("div");
+                chart.id = `${category}-chart`;
+                chart.classList.add("chart");
+                section.appendChild(chart);
+                parent.appendChild(section);
+                return chart;
+            }
+
+            /**
+             * @param {string} category
+             * @param {ResultRecordWithTime[]} results
+             */
+            function convertToCategoryData(category, results) {
+                return results.map(result => ({time: result.time, ...result.result[category]}));
+            }
+        </script>
+    </head>
+    <body>
+        <main id="results">
+        </main>
+    </body>
+</html>
