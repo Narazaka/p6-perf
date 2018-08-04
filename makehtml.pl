@@ -22,6 +22,7 @@ while (my $result_filename = $dh->read) {
     my $info = {file => "$result_summaries_dir_base/$result_filename", time => $time->epoch};
     push @$results_info, $info;
 }
+@$results_info = sort {$a->{time} <=> $b->{time}} @$results_info;
 
 my $js_str = "const resultsInfo = " . JSON::XS->new->utf8->encode($results_info) . ";";
 
