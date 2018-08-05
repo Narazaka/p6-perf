@@ -29,7 +29,11 @@ for my $language (@languages) {
             system $compiler_cmd;
             $cmd = "$runtime{$language} $compiled_filepath > $result_path";
         } else {
-            $cmd = "$runtime{$language} $filepath > $result_path";
+            if (ref $runtime{$language} eq "CODE") {
+                $cmd = $runtime{$language}->($filepath, $result_path);
+            } else {
+                $cmd = "$runtime{$language} $filepath > $result_path";
+            }
         }
         say $cmd;
         system $cmd;

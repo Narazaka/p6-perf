@@ -2,6 +2,7 @@ our @languages = qw(
     javascript
     lua
     c++
+    c#
     nim
     ruby
     perl
@@ -25,6 +26,12 @@ our %runtime = (
     javascript => "node",
     lua => "luajit",
     "c++" => "",
+    "c#" => sub {
+        my ($src, $result) = @_;
+        my $project = $src;
+        $project =~ s@c#[/\\](.+)\.cs@c#-project/$1.csproj@;
+        "dotnet run --configuration Release --project $project $src > $result";
+    },
     nim => "",
     ruby => "ruby",
 );
@@ -35,6 +42,7 @@ our %version = (
     javascript => sub { my $ver = `node --version`; ($ver =~ /(v\d+\.\d+\.\d+)/)[0]; },
     lua => sub { my $ver = `luajit -v`; ($ver =~ /LuaJIT (\d+\.\d+\.\d+)/i)[0]; },
     "c++" => sub { my $ver = `clang --version`; ($ver =~ /version (\d+\.\d+\.\d+)/i)[0]; },
+    "c#" => sub { my $ver = `dotnet --version`; $ver =~ s/[\r\n]//g; $ver; },
     nim => sub { my $ver = `nim --version 2>&1`; ($ver =~ /Version (\d+\.\d+\.\d+)/i)[0]; },
     ruby => sub { my $ver = `ruby --version`; ($ver =~ /^ruby (\S+)/)[0]; },
 );
