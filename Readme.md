@@ -10,6 +10,7 @@ Performance of Perl6 and other languages.
 
 - fib (function call)
 - Takeuchi (function call)
+- string join
 - regexp (regexp)
 - JSON Serialize
 - JSON Deserialize
@@ -23,9 +24,6 @@ Performance of Perl6 and other languages.
 - Lua (LuaJIT)
 - C++ (clang/LLVM)
 - Nim
-
-### TODO
-
 - C# (.NET Core 2.0)
 
 ## License
