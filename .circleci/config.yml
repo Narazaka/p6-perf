@@ -4,13 +4,14 @@ workflows:
   version: 2
   commit:
     jobs:
-      - build
+      - build:
+          filters:
+            branches:
+              ignore:
+                - gh-pages
 
 jobs:
   build:
-    branches:
-      ignore:
-        - gh-pages
     docker:
       - image: base/archlinux:latest
     steps:
