@@ -14,6 +14,12 @@ our %compiler = (
         my ($src, $out) = @_;
         "clang++ -std=c++17 -O3 -o $out $src";
     },
+    "c#" => sub {
+        my ($src) = @_;
+        my $project = $src;
+        $project =~ s@c#[/\\](.+)\.cs@c#-project/$1.csproj@;
+        "dotnet build --configuration Release $project";
+    },
     nim => sub {
         my ($src, $out) = @_;
         "nim c --nimcache:nimcache -d:release --opt:speed -o:$out $src";
@@ -28,9 +34,8 @@ our %runtime = (
     "c++" => "",
     "c#" => sub {
         my ($src, $result) = @_;
-        my $project = $src;
-        $project =~ s@c#[/\\](.+)\.cs@c#-project/$1.csproj@;
-        "dotnet run --configuration Release --project $project $src > $result";
+        $src =~ s@c#[/\\](.+)\.exe@c#-project/bin/Release/netcoreapp2.0/$1.dll@;
+        "dotnet $src > $result";
     },
     nim => "",
     ruby => "ruby",
