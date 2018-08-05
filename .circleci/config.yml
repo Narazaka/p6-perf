@@ -1,17 +1,5 @@
 version: 2
 
-workflows:
-  version: 2
-  commit:
-    jobs:
-      - build
-  scheduled:
-    triggers:
-      - schedule:
-          cron: "0 0 * * *"
-    jobs:
-      - build
-
 jobs:
   build:
     branches:
@@ -60,3 +48,5 @@ jobs:
           command: perl summarize.pl && perl archive_summarize.pl html/results && perl makehtml.pl html results index.html
       - run:
           command: cd html && git add . && git commit -m "update result at `perl -MTime::Piece -E 'say gmtime->ymd'`" && git push && cd ..
+      - store_artifacts:
+          path: html
