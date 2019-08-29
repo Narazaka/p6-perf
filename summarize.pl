@@ -3,7 +3,7 @@ use utf8;
 use open ":encoding(utf8)";
 use IO::Dir;
 use IO::File;
-use File::Slurp qw/read_file/;
+use IO::All;
 use File::Spec::Functions qw/catfile/;
 use JSON::XS;
 require "./config.pl";
@@ -25,7 +25,7 @@ while (my $category = $dh->read) {
     while (my $language = $dh2->read) {
         next if $language =~ /^\./;
         my $language_file = catfile $category_dir, $language;
-        my $time = int read_file $language_file, binmode => ":utf8";
+        my $time = int io($language_file)->utf8->all;
         $obj->{result}->{$category} = {} unless $obj->{result}->{$category};
         $obj->{result}->{$category}->{$language} = $time;
     }
