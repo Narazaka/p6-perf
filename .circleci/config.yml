@@ -23,7 +23,7 @@ workflows:
 jobs:
   build:
     docker:
-      - image: base/archlinux:latest
+      - image: archlinux/base:latest
     steps:
       - add_ssh_keys:
           fingerprints:
