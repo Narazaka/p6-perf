@@ -1,0 +1,89 @@
+{
+   "version" : {
+      "javascript" : "v13.5.0",
+      "perl" : "v5.30.1",
+      "c++" : "9.0.0",
+      "lua" : "2.0.5",
+      "ruby" : "2.6.5p114",
+      "perl6" : "2019.11",
+      "nim" : "1.0.4",
+      "c#" : "2.2.108"
+   },
+   "result" : {
+      "re_bool" : {
+         "ruby" : 120,
+         "perl" : 441,
+         "lua" : 176,
+         "javascript" : 35,
+         "perl6" : 3826
+      },
+      "fib_fast" : {
+         "perl6" : 4322,
+         "javascript" : 36
+      },
+      "takeuchi" : {
+         "lua" : 348,
+         "c++" : 27,
+         "perl" : 11618,
+         "ruby" : 1867,
+         "javascript" : 326,
+         "nim" : 133,
+         "perl6" : 27865,
+         "c#" : 278
+      },
+      "json_se" : {
+         "perl" : 364,
+         "ruby" : 3107,
+         "javascript" : 871
+      },
+      "json_de" : {
+         "javascript" : 1173,
+         "perl" : 832,
+         "ruby" : 2832
+      },
+      "str_join" : {
+         "c#" : 202,
+         "nim" : 46,
+         "perl6" : 2500,
+         "javascript" : 74,
+         "ruby" : 1189,
+         "lua" : 245,
+         "c++" : 4,
+         "perl" : 469
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "lua" : 140,
+         "ruby" : 55,
+         "perl6" : 23,
+         "nim" : 74
+      },
+      "re_capture" : {
+         "ruby" : 400,
+         "perl" : 164,
+         "lua" : 248,
+         "javascript" : 97,
+         "perl6" : 16844
+      },
+      "str_join_slow" : {
+         "nim" : 364,
+         "perl6" : 7377,
+         "c#" : 238,
+         "javascript" : 318,
+         "lua" : 10120,
+         "c++" : 66,
+         "perl" : 1352,
+         "ruby" : 17390
+      },
+      "fib" : {
+         "perl6" : 12405,
+         "nim" : 42,
+         "c#" : 56,
+         "perl" : 4879,
+         "c++" : 4,
+         "lua" : 144,
+         "ruby" : 747,
+         "javascript" : 120
+      }
+   }
+}
