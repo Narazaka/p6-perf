@@ -38,7 +38,7 @@ jobs:
       - run:
           command: su builduser -c 'git clone https://github.com/rakudo/rakudo.git /tmp/rakudo'
       - run:
-          command: cd /tmp/rakudo && su builduser -c 'perl Configure.pl --gen-moar --gen-nqp --backends=moar'
+          command: cd /tmp/rakudo && su builduser -c 'perl Configure.pl --gen-moar --gen-nqp --backends=moar --prefix=/usr'
       - run:
           command: cd /tmp/rakudo && su builduser -c 'make'
       - run:
