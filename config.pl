@@ -6,6 +6,7 @@ our @languages = qw(
     nim
     ruby
     perl
+    nqp
     perl6
 );
 
@@ -28,6 +29,7 @@ our %compiler = (
 
 our %runtime = (
     perl6 => "perl6",
+    nqp => "nqp",
     perl => "perl",
     javascript => "node",
     lua => "luajit",
@@ -43,6 +45,7 @@ our %runtime = (
 
 our %version = (
     perl6 => sub { my $ver = `perl6 --version`; ($ver =~ /Rakudo version (\S+)/)[0]; },
+    nqp => sub { my $ver = `nqp --version`; ($ver =~ /nqp version (\S+)/)[0]; },
     perl => sub { my $ver = `perl --version`; ($ver =~ /(v\d+\.\d+\.\d+)/)[0]; },
     javascript => sub { my $ver = `node --version`; ($ver =~ /(v\d+\.\d+\.\d+)/)[0]; },
     lua => sub { my $ver = `luajit -v`; ($ver =~ /LuaJIT (\d+\.\d+\.\d+)/i)[0]; },
