@@ -36,7 +36,7 @@ our %runtime = (
     "c++" => "",
     "c#" => sub {
         my ($src, $result) = @_;
-        $src =~ s@c#[/\\](.+)\.exe@c#-project/bin/Release/netcoreapp2.0/$1.dll@;
+        $src =~ s@c#[/\\](.+)\.exe@c#-project/bin/Release/netcoreapp3.1/$1.dll@;
         "dotnet $src > $result";
     },
     nim => "",
