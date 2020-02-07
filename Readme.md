@@ -18,6 +18,7 @@ Performance of Perl6 and other languages.
 ## language
 
 - Perl6
+- NQP
 - Perl5
 - Ruby (cruby)
 - JavaScript (node.js)
