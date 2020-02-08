@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nqp" : 6643,
+         "c++" : 4,
+         "c#" : 68,
+         "perl6" : 12500,
+         "nim" : 46,
+         "ruby" : 919,
+         "perl" : 6054,
+         "javascript" : 134,
+         "lua" : 133
+      },
+      "json_se" : {
+         "perl" : 360,
+         "javascript" : 681,
+         "ruby" : 3068
+      },
+      "re_capture" : {
+         "perl6" : 16498,
+         "nqp" : 13558,
+         "ruby" : 519,
+         "perl" : 197,
+         "lua" : 255,
+         "javascript" : 108
+      },
+      "re_bool" : {
+         "lua" : 252,
+         "javascript" : 61,
+         "perl" : 500,
+         "ruby" : 138,
+         "perl6" : 3786,
+         "nqp" : 3875
+      },
+      "str_join_repeat" : {
+         "nim" : 85,
+         "ruby" : 55,
+         "lua" : 76,
+         "perl6" : 11,
+         "perl" : 4
+      },
+      "json_de" : {
+         "ruby" : 3132,
+         "javascript" : 805,
+         "perl" : 965
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 4060
+      },
+      "str_join_slow" : {
+         "nim" : 525,
+         "ruby" : 18974,
+         "perl6" : 7307,
+         "c++" : 48,
+         "c#" : 330,
+         "lua" : 9668,
+         "javascript" : 281,
+         "perl" : 1526
+      },
+      "str_join" : {
+         "javascript" : 53,
+         "lua" : 246,
+         "perl" : 437,
+         "nim" : 74,
+         "ruby" : 1467,
+         "c++" : 3,
+         "c#" : 282,
+         "nqp" : 1797,
+         "perl6" : 2647
+      },
+      "takeuchi" : {
+         "nim" : 175,
+         "ruby" : 2414,
+         "perl6" : 26054,
+         "c#" : 295,
+         "c++" : 18,
+         "nqp" : 14665,
+         "lua" : 347,
+         "javascript" : 275,
+         "perl" : 13489
+      }
+   },
+   "version" : {
+      "perl" : "v5.30.1",
+      "lua" : "2.0.5",
+      "javascript" : "v13.7.0",
+      "perl6" : "2020.01-87-g37b1be7e7",
+      "c++" : "9.0.1",
+      "c#" : "3.1.100",
+      "nqp" : "2020.01-11-g1a5eb92ef",
+      "ruby" : "2.7.0p0",
+      "nim" : "1.0.4"
+   }
+}
