@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/Narazaka/p6-perf/tree/master.svg?style=svg)](https://circleci.com/gh/Narazaka/p6-perf/tree/master)
 
-Performance of Perl6 and other languages.
+Performance of Raku(Perl6) and other languages.
 
 -> [RESULTS](https://narazaka.github.io/p6-perf/)
 
@@ -17,7 +17,7 @@ Performance of Perl6 and other languages.
 
 ## language
 
-- Perl6
+- Raku(Perl6)
 - NQP
 - Perl5
 - Ruby (cruby)
@@ -25,7 +25,7 @@ Performance of Perl6 and other languages.
 - Lua (LuaJIT)
 - C++ (clang/LLVM)
 - Nim
-- C# (.NET Core 2.0)
+- C# (.NET Core 3.1)
 
 ## License
 
