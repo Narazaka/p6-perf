@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "ruby" : 127,
+         "nqp" : 3948,
+         "perl" : 590,
+         "javascript" : 56,
+         "lua" : 243,
+         "perl6" : 3999
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "nim" : 72,
+         "lua" : 107,
+         "ruby" : 59,
+         "perl6" : 24
+      },
+      "fib" : {
+         "nim" : 28,
+         "ruby" : 828,
+         "c#" : 72,
+         "perl" : 6136,
+         "javascript" : 114,
+         "lua" : 204,
+         "c++" : 8,
+         "nqp" : 7579,
+         "perl6" : 13998
+      },
+      "takeuchi" : {
+         "nim" : 122,
+         "ruby" : 2105,
+         "c#" : 391,
+         "javascript" : 323,
+         "lua" : 514,
+         "perl" : 13783,
+         "nqp" : 15521,
+         "c++" : 25,
+         "perl6" : 28209
+      },
+      "re_capture" : {
+         "perl6" : 15700,
+         "perl" : 187,
+         "lua" : 320,
+         "javascript" : 94,
+         "ruby" : 465,
+         "nqp" : 13181
+      },
+      "str_join_slow" : {
+         "perl" : 1352,
+         "lua" : 12223,
+         "javascript" : 313,
+         "c++" : 61,
+         "perl6" : 8164,
+         "nim" : 367,
+         "ruby" : 16893,
+         "c#" : 327
+      },
+      "str_join" : {
+         "c++" : 4,
+         "nqp" : 2020,
+         "perl" : 477,
+         "lua" : 287,
+         "javascript" : 64,
+         "perl6" : 3071,
+         "ruby" : 1205,
+         "nim" : 52,
+         "c#" : 260
+      },
+      "json_de" : {
+         "perl" : 893,
+         "javascript" : 856,
+         "ruby" : 2679
+      },
+      "json_se" : {
+         "perl" : 396,
+         "javascript" : 769,
+         "ruby" : 2174
+      },
+      "fib_fast" : {
+         "perl6" : 4006,
+         "javascript" : 37
+      }
+   },
+   "version" : {
+      "perl6" : "2020.01-209-g4e12365b1",
+      "c++" : "9.0.1",
+      "nqp" : "2020.01-23-g3bbce8c3a",
+      "perl" : "v5.30.1",
+      "javascript" : "v13.8.0",
+      "lua" : "2.0.5",
+      "c#" : "3.1.100",
+      "ruby" : "2.7.0p0",
+      "nim" : "1.0.6"
+   }
+}
