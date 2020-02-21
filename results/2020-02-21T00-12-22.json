@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "c#" : 68,
+         "ruby" : 901,
+         "lua" : 224,
+         "nim" : 49,
+         "perl6" : 16299,
+         "c++" : 5,
+         "perl" : 6561,
+         "nqp" : 7497,
+         "javascript" : 132
+      },
+      "str_join" : {
+         "javascript" : 51,
+         "perl6" : 3531,
+         "c++" : 5,
+         "perl" : 634,
+         "nqp" : 1929,
+         "lua" : 248,
+         "nim" : 49,
+         "c#" : 202,
+         "ruby" : 1315
+      },
+      "json_de" : {
+         "javascript" : 1021,
+         "perl" : 1103,
+         "ruby" : 3098
+      },
+      "takeuchi" : {
+         "lua" : 422,
+         "nim" : 147,
+         "ruby" : 2268,
+         "c#" : 296,
+         "javascript" : 297,
+         "perl" : 15091,
+         "nqp" : 17384,
+         "c++" : 33,
+         "perl6" : 33120
+      },
+      "re_capture" : {
+         "nqp" : 15736,
+         "perl" : 290,
+         "ruby" : 463,
+         "perl6" : 23216,
+         "lua" : 342,
+         "javascript" : 160
+      },
+      "str_join_slow" : {
+         "perl" : 1811,
+         "perl6" : 8921,
+         "c++" : 72,
+         "javascript" : 358,
+         "c#" : 271,
+         "ruby" : 18665,
+         "nim" : 429,
+         "lua" : 11035
+      },
+      "fib_fast" : {
+         "perl6" : 5441,
+         "javascript" : 31
+      },
+      "re_bool" : {
+         "lua" : 320,
+         "javascript" : 51,
+         "nqp" : 4853,
+         "perl" : 586,
+         "ruby" : 163,
+         "perl6" : 5619
+      },
+      "json_se" : {
+         "javascript" : 689,
+         "ruby" : 2573,
+         "perl" : 516
+      },
+      "str_join_repeat" : {
+         "perl" : 4,
+         "ruby" : 59,
+         "perl6" : 31,
+         "nim" : 76,
+         "lua" : 142
+      }
+   },
+   "version" : {
+      "ruby" : "2.7.0p0",
+      "c#" : "3.1.102",
+      "nim" : "1.0.6",
+      "lua" : "2.0.5",
+      "perl6" : "2020.01-247-gcdbd60c1c",
+      "c++" : "9.0.1",
+      "perl" : "v5.30.1",
+      "nqp" : "2020.01-24-g3f99c1ba6",
+      "javascript" : "v13.9.0"
+   }
+}
