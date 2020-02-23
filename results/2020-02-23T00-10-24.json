@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 11754,
+         "perl6" : 12971,
+         "lua" : 243,
+         "perl" : 155,
+         "ruby" : 386,
+         "javascript" : 76
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "ruby" : 124,
+         "lua" : 169,
+         "perl6" : 3137,
+         "perl" : 418,
+         "nqp" : 3577
+      },
+      "str_join" : {
+         "nim" : 47,
+         "c++" : 3,
+         "javascript" : 44,
+         "perl" : 406,
+         "lua" : 201,
+         "nqp" : 1211,
+         "c#" : 154,
+         "perl6" : 2244,
+         "ruby" : 1064
+      },
+      "fib" : {
+         "perl6" : 10771,
+         "ruby" : 741,
+         "c++" : 4,
+         "javascript" : 114,
+         "nim" : 26,
+         "nqp" : 5394,
+         "c#" : 62,
+         "perl" : 5288,
+         "lua" : 130
+      },
+      "json_de" : {
+         "javascript" : 746,
+         "perl" : 747,
+         "ruby" : 2403
+      },
+      "str_join_repeat" : {
+         "lua" : 74,
+         "perl" : 2,
+         "perl6" : 21,
+         "ruby" : 51,
+         "nim" : 65
+      },
+      "str_join_slow" : {
+         "ruby" : 13573,
+         "perl6" : 9350,
+         "c++" : 47,
+         "javascript" : 199,
+         "nim" : 351,
+         "c#" : 187,
+         "perl" : 1271,
+         "lua" : 8921
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 3484
+      },
+      "json_se" : {
+         "ruby" : 1900,
+         "perl" : 349,
+         "javascript" : 558
+      },
+      "takeuchi" : {
+         "nqp" : 12395,
+         "c#" : 286,
+         "perl" : 11401,
+         "lua" : 341,
+         "javascript" : 242,
+         "c++" : 18,
+         "nim" : 115,
+         "perl6" : 23874,
+         "ruby" : 1948
+      }
+   },
+   "version" : {
+      "perl6" : "2020.01-262-g8dcf652d5",
+      "ruby" : "2.7.0p0",
+      "nim" : "1.0.6",
+      "javascript" : "v13.9.0",
+      "c++" : "9.0.1",
+      "lua" : "2.0.5",
+      "perl" : "v5.30.1",
+      "nqp" : "2020.01-25-g91da25aa0",
+      "c#" : "3.1.102"
+   }
+}
