@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 11821,
+         "javascript" : 94,
+         "perl" : 158,
+         "perl6" : 17639,
+         "lua" : 253,
+         "ruby" : 402
+      },
+      "re_bool" : {
+         "ruby" : 126,
+         "lua" : 171,
+         "perl6" : 3823,
+         "perl" : 423,
+         "javascript" : 36,
+         "nqp" : 3548
+      },
+      "json_de" : {
+         "ruby" : 2502,
+         "perl" : 805,
+         "javascript" : 775
+      },
+      "str_join_repeat" : {
+         "ruby" : 55,
+         "perl6" : 23,
+         "lua" : 76,
+         "perl" : 2,
+         "nim" : 73
+      },
+      "str_join" : {
+         "nim" : 45,
+         "nqp" : 1564,
+         "javascript" : 47,
+         "lua" : 206,
+         "perl6" : 2531,
+         "ruby" : 1111,
+         "c++" : 3,
+         "c#" : 195,
+         "perl" : 449
+      },
+      "fib" : {
+         "javascript" : 114,
+         "nqp" : 5574,
+         "nim" : 26,
+         "ruby" : 759,
+         "c++" : 4,
+         "lua" : 134,
+         "perl6" : 11018,
+         "perl" : 4744,
+         "c#" : 63
+      },
+      "json_se" : {
+         "javascript" : 572,
+         "perl" : 376,
+         "ruby" : 1980
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 4402
+      },
+      "takeuchi" : {
+         "nqp" : 13580,
+         "javascript" : 247,
+         "nim" : 117,
+         "c++" : 21,
+         "ruby" : 2020,
+         "lua" : 348,
+         "perl6" : 26872,
+         "perl" : 12031,
+         "c#" : 292
+      },
+      "str_join_slow" : {
+         "nim" : 354,
+         "javascript" : 203,
+         "lua" : 9280,
+         "perl6" : 6592,
+         "c++" : 50,
+         "ruby" : 16116,
+         "c#" : 231,
+         "perl" : 1306
+      }
+   },
+   "version" : {
+      "perl6" : "2020.02-32-g3ec58489e",
+      "lua" : "2.0.5",
+      "c++" : "9.0.1",
+      "ruby" : "2.7.0p0",
+      "nim" : "1.0.6",
+      "javascript" : "v13.9.0",
+      "nqp" : "2020.02",
+      "c#" : "3.1.102",
+      "perl" : "v5.30.1"
+   }
+}
