@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "nim" : 72,
+         "c#" : 248,
+         "javascript" : 57,
+         "perl" : 519,
+         "nqp" : 1917,
+         "perl6" : 3212,
+         "lua" : 224,
+         "ruby" : 1271,
+         "c++" : 3
+      },
+      "takeuchi" : {
+         "ruby" : 2247,
+         "c++" : 33,
+         "nim" : 161,
+         "javascript" : 267,
+         "c#" : 323,
+         "perl" : 12910,
+         "nqp" : 14750,
+         "perl6" : 30022,
+         "lua" : 359
+      },
+      "json_de" : {
+         "ruby" : 3149,
+         "perl" : 829,
+         "javascript" : 781
+      },
+      "json_se" : {
+         "ruby" : 2566,
+         "perl" : 364,
+         "javascript" : 612
+      },
+      "str_join_slow" : {
+         "ruby" : 17833,
+         "c++" : 49,
+         "nim" : 543,
+         "c#" : 279,
+         "javascript" : 214,
+         "perl" : 1455,
+         "perl6" : 7608,
+         "lua" : 9472
+      },
+      "str_join_repeat" : {
+         "lua" : 90,
+         "perl6" : 33,
+         "perl" : 3,
+         "ruby" : 63,
+         "nim" : 101
+      },
+      "re_capture" : {
+         "perl6" : 23834,
+         "lua" : 268,
+         "nqp" : 12643,
+         "javascript" : 77,
+         "perl" : 162,
+         "ruby" : 527
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 5006
+      },
+      "fib" : {
+         "nim" : 28,
+         "c#" : 76,
+         "javascript" : 114,
+         "perl" : 5503,
+         "nqp" : 6909,
+         "perl6" : 13009,
+         "lua" : 160,
+         "ruby" : 802,
+         "c++" : 7
+      },
+      "re_bool" : {
+         "perl6" : 4260,
+         "lua" : 183,
+         "nqp" : 4563,
+         "javascript" : 35,
+         "perl" : 484,
+         "ruby" : 164
+      }
+   },
+   "version" : {
+      "perl6" : "2020.02-80-ge756e622a",
+      "lua" : "2.0.5",
+      "nqp" : "2020.02-2-g1e88914d9",
+      "c#" : "3.1.102",
+      "javascript" : "v13.9.0",
+      "perl" : "v5.30.1",
+      "nim" : "1.0.6",
+      "c++" : "9.0.1",
+      "ruby" : "2.7.0p0"
+   }
+}
