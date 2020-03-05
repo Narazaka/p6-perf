@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.30.1",
+      "perl6" : "2020.02.1-98-gcf01f7a25",
+      "c#" : "3.1.102",
+      "lua" : "2.0.5",
+      "ruby" : "2.7.0p0",
+      "c++" : "9.0.1",
+      "javascript" : "v13.9.0",
+      "nqp" : "2020.02.1-6-gb0ddeda68",
+      "nim" : "1.0.6"
+   },
+   "result" : {
+      "fib" : {
+         "nqp" : 5973,
+         "nim" : 26,
+         "c++" : 4,
+         "javascript" : 114,
+         "c#" : 67,
+         "ruby" : 763,
+         "lua" : 133,
+         "perl" : 5173,
+         "perl6" : 12737
+      },
+      "json_de" : {
+         "javascript" : 779,
+         "ruby" : 2687,
+         "perl" : 796
+      },
+      "takeuchi" : {
+         "perl6" : 28316,
+         "perl" : 12205,
+         "ruby" : 2025,
+         "lua" : 349,
+         "c#" : 325,
+         "javascript" : 249,
+         "c++" : 18,
+         "nim" : 130,
+         "nqp" : 13535
+      },
+      "fib_fast" : {
+         "perl6" : 4602,
+         "javascript" : 18
+      },
+      "str_join_repeat" : {
+         "nim" : 71,
+         "ruby" : 62,
+         "lua" : 76,
+         "perl" : 2,
+         "perl6" : 33
+      },
+      "re_bool" : {
+         "ruby" : 129,
+         "lua" : 178,
+         "perl6" : 4766,
+         "perl" : 433,
+         "nqp" : 3726,
+         "javascript" : 35
+      },
+      "json_se" : {
+         "javascript" : 597,
+         "perl" : 463,
+         "ruby" : 1991
+      },
+      "str_join_slow" : {
+         "perl6" : 7034,
+         "perl" : 1401,
+         "ruby" : 18352,
+         "lua" : 9749,
+         "c#" : 280,
+         "javascript" : 202,
+         "c++" : 48,
+         "nim" : 367
+      },
+      "re_capture" : {
+         "nqp" : 11561,
+         "javascript" : 105,
+         "lua" : 249,
+         "ruby" : 410,
+         "perl" : 169,
+         "perl6" : 29376
+      },
+      "str_join" : {
+         "nim" : 52,
+         "nqp" : 1580,
+         "javascript" : 50,
+         "c++" : 3,
+         "ruby" : 1254,
+         "lua" : 214,
+         "c#" : 210,
+         "perl6" : 2640,
+         "perl" : 443
+      }
+   }
+}
