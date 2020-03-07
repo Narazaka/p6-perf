@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 844,
+         "ruby" : 3113,
+         "perl" : 792
+      },
+      "fib" : {
+         "c++" : 4,
+         "nim" : 29,
+         "lua" : 143,
+         "perl" : 4873,
+         "javascript" : 118,
+         "nqp" : 6246,
+         "c#" : 70,
+         "perl6" : 12568,
+         "ruby" : 803
+      },
+      "str_join_slow" : {
+         "nim" : 509,
+         "c++" : 50,
+         "lua" : 9662,
+         "perl" : 1397,
+         "perl6" : 6746,
+         "c#" : 248,
+         "javascript" : 220,
+         "ruby" : 16695
+      },
+      "re_bool" : {
+         "perl" : 450,
+         "lua" : 171,
+         "ruby" : 185,
+         "perl6" : 4194,
+         "nqp" : 3458,
+         "javascript" : 68
+      },
+      "fib_fast" : {
+         "javascript" : 33,
+         "perl6" : 4336
+      },
+      "json_se" : {
+         "ruby" : 2134,
+         "perl" : 366,
+         "javascript" : 685
+      },
+      "re_capture" : {
+         "nqp" : 11478,
+         "javascript" : 121,
+         "perl6" : 17389,
+         "ruby" : 541,
+         "perl" : 169,
+         "lua" : 258
+      },
+      "str_join_repeat" : {
+         "perl6" : 18,
+         "nim" : 75,
+         "lua" : 77,
+         "perl" : 5,
+         "ruby" : 63
+      },
+      "str_join" : {
+         "c++" : 4,
+         "nim" : 45,
+         "lua" : 215,
+         "perl" : 413,
+         "javascript" : 47,
+         "c#" : 201,
+         "nqp" : 1600,
+         "perl6" : 2549,
+         "ruby" : 1308
+      },
+      "takeuchi" : {
+         "ruby" : 2055,
+         "c#" : 290,
+         "nqp" : 13344,
+         "javascript" : 280,
+         "perl6" : 28068,
+         "perl" : 11972,
+         "lua" : 366,
+         "nim" : 144,
+         "c++" : 18
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "perl" : "v5.30.1",
+      "c++" : "9.0.1",
+      "nim" : "1.0.6",
+      "ruby" : "2.7.0p0",
+      "nqp" : "2020.02.1-14-g0e341d45e",
+      "c#" : "3.1.102",
+      "javascript" : "v13.10.1",
+      "perl6" : "2020.02.1-112-g9f4a0f1ca"
+   }
+}
