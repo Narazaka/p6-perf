@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "nim" : 367,
+         "ruby" : 16603,
+         "perl6" : 10393,
+         "perl" : 1323,
+         "lua" : 9383,
+         "javascript" : 276,
+         "c#" : 272,
+         "c++" : 48
+      },
+      "fib" : {
+         "javascript" : 117,
+         "c#" : 63,
+         "lua" : 164,
+         "c++" : 4,
+         "ruby" : 764,
+         "nim" : 28,
+         "nqp" : 6127,
+         "perl" : 4842,
+         "perl6" : 12153
+      },
+      "str_join_repeat" : {
+         "perl6" : 41,
+         "perl" : 2,
+         "nim" : 86,
+         "lua" : 81,
+         "ruby" : 53
+      },
+      "re_bool" : {
+         "lua" : 183,
+         "nqp" : 3592,
+         "ruby" : 127,
+         "javascript" : 51,
+         "perl6" : 3915,
+         "perl" : 420
+      },
+      "takeuchi" : {
+         "ruby" : 2142,
+         "nim" : 118,
+         "nqp" : 13186,
+         "perl" : 12092,
+         "perl6" : 26522,
+         "c#" : 310,
+         "javascript" : 250,
+         "lua" : 359,
+         "c++" : 27
+      },
+      "re_capture" : {
+         "nqp" : 11381,
+         "lua" : 251,
+         "ruby" : 409,
+         "javascript" : 79,
+         "perl6" : 17312,
+         "perl" : 186
+      },
+      "json_de" : {
+         "javascript" : 765,
+         "ruby" : 2522,
+         "perl" : 807
+      },
+      "str_join" : {
+         "c++" : 3,
+         "lua" : 204,
+         "javascript" : 48,
+         "c#" : 204,
+         "perl6" : 2542,
+         "perl" : 430,
+         "nim" : 47,
+         "nqp" : 1596,
+         "ruby" : 1133
+      },
+      "json_se" : {
+         "javascript" : 603,
+         "ruby" : 1980,
+         "perl" : 378
+      },
+      "fib_fast" : {
+         "perl6" : 4114,
+         "javascript" : 27
+      }
+   },
+   "version" : {
+      "c++" : "9.0.1",
+      "javascript" : "v13.10.1",
+      "c#" : "3.1.102",
+      "lua" : "2.0.5",
+      "perl" : "v5.30.1",
+      "perl6" : "2020.02.1-114-g2f0dd45e0",
+      "ruby" : "2.7.0p0",
+      "nqp" : "2020.02.1-14-g0e341d45e",
+      "nim" : "1.0.6"
+   }
+}
