@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2020.02.1-14-g0e341d45e",
+      "c#" : "3.1.102",
+      "javascript" : "v13.10.1",
+      "perl" : "v5.30.1",
+      "nim" : "1.0.6",
+      "lua" : "2.0.5",
+      "perl6" : "2020.02.1-120-g370956b91",
+      "c++" : "9.0.1",
+      "ruby" : "2.7.0p0"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "c++" : 48,
+         "ruby" : 16882,
+         "c#" : 242,
+         "perl" : 1311,
+         "javascript" : 262,
+         "nim" : 352,
+         "lua" : 10371,
+         "perl6" : 6553
+      },
+      "str_join" : {
+         "ruby" : 1131,
+         "c++" : 3,
+         "nim" : 50,
+         "lua" : 238,
+         "perl6" : 2472,
+         "perl" : 432,
+         "javascript" : 52,
+         "c#" : 205,
+         "nqp" : 1848
+      },
+      "fib" : {
+         "javascript" : 119,
+         "perl" : 4842,
+         "c#" : 65,
+         "nqp" : 5924,
+         "nim" : 29,
+         "lua" : 149,
+         "perl6" : 12213,
+         "ruby" : 829,
+         "c++" : 4
+      },
+      "re_bool" : {
+         "perl" : 439,
+         "javascript" : 50,
+         "nqp" : 4962,
+         "ruby" : 128,
+         "lua" : 172,
+         "perl6" : 3958
+      },
+      "json_se" : {
+         "ruby" : 2195,
+         "javascript" : 778,
+         "perl" : 365
+      },
+      "fib_fast" : {
+         "perl6" : 4388,
+         "javascript" : 20
+      },
+      "re_capture" : {
+         "nqp" : 11063,
+         "javascript" : 96,
+         "perl" : 206,
+         "perl6" : 17784,
+         "lua" : 258,
+         "ruby" : 488
+      },
+      "str_join_repeat" : {
+         "ruby" : 55,
+         "nim" : 78,
+         "lua" : 76,
+         "perl6" : 11,
+         "perl" : 2
+      },
+      "json_de" : {
+         "ruby" : 2766,
+         "perl" : 791,
+         "javascript" : 771
+      },
+      "takeuchi" : {
+         "ruby" : 2153,
+         "c++" : 31,
+         "perl6" : 26188,
+         "nim" : 117,
+         "lua" : 361,
+         "perl" : 12607,
+         "c#" : 307,
+         "javascript" : 252,
+         "nqp" : 14156
+      }
+   }
+}
