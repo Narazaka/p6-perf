@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 131,
+         "nim" : 80,
+         "perl" : 2,
+         "perl6" : 12,
+         "ruby" : 52
+      },
+      "fib_fast" : {
+         "javascript" : 35,
+         "perl6" : 4597
+      },
+      "json_de" : {
+         "javascript" : 1055,
+         "ruby" : 3065,
+         "perl" : 779
+      },
+      "re_capture" : {
+         "lua" : 348,
+         "javascript" : 137,
+         "perl" : 159,
+         "ruby" : 398,
+         "perl6" : 22776,
+         "nqp" : 10778
+      },
+      "str_join_slow" : {
+         "nim" : 476,
+         "c++" : 87,
+         "javascript" : 367,
+         "perl" : 1312,
+         "c#" : 235,
+         "lua" : 12254,
+         "ruby" : 17030,
+         "perl6" : 10155
+      },
+      "re_bool" : {
+         "lua" : 252,
+         "nqp" : 3511,
+         "javascript" : 41,
+         "perl6" : 4198,
+         "perl" : 428,
+         "ruby" : 126
+      },
+      "str_join" : {
+         "lua" : 289,
+         "ruby" : 1342,
+         "perl6" : 2609,
+         "nqp" : 1395,
+         "nim" : 52,
+         "c++" : 3,
+         "javascript" : 78,
+         "perl" : 424,
+         "c#" : 244
+      },
+      "json_se" : {
+         "ruby" : 2090,
+         "perl" : 362,
+         "javascript" : 743
+      },
+      "fib" : {
+         "lua" : 174,
+         "nqp" : 6401,
+         "ruby" : 808,
+         "perl6" : 12558,
+         "c++" : 6,
+         "nim" : 48,
+         "c#" : 75,
+         "perl" : 4777,
+         "javascript" : 157
+      },
+      "takeuchi" : {
+         "perl" : 13077,
+         "javascript" : 315,
+         "c#" : 335,
+         "nim" : 133,
+         "c++" : 31,
+         "perl6" : 27277,
+         "ruby" : 2170,
+         "nqp" : 14725,
+         "lua" : 458
+      }
+   },
+   "version" : {
+      "perl6" : "2020.02.1-250-gaaa3fdcc3",
+      "ruby" : "2.7.0p0",
+      "nqp" : "2020.02.1-46-g17ac1871f",
+      "lua" : "2.0.5",
+      "perl" : "v5.30.1",
+      "javascript" : "v13.11.0",
+      "c#" : "3.1.103",
+      "c++" : "9.0.1",
+      "nim" : "1.0.6"
+   }
+}
