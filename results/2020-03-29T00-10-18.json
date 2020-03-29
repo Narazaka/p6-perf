@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 9802,
+         "lua" : 9275,
+         "c#" : 224,
+         "perl" : 1292,
+         "javascript" : 199,
+         "c++" : 47,
+         "nim" : 396,
+         "ruby" : 15807
+      },
+      "takeuchi" : {
+         "nqp" : 13052,
+         "perl" : 11484,
+         "nim" : 119,
+         "ruby" : 1997,
+         "c++" : 18,
+         "javascript" : 246,
+         "perl6" : 26205,
+         "c#" : 310,
+         "lua" : 382
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "ruby" : 54,
+         "nim" : 69,
+         "lua" : 77,
+         "perl6" : 32
+      },
+      "str_join" : {
+         "javascript" : 46,
+         "c++" : 3,
+         "nim" : 45,
+         "ruby" : 1090,
+         "nqp" : 1441,
+         "perl" : 411,
+         "lua" : 203,
+         "c#" : 175,
+         "perl6" : 2552
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 3583
+      },
+      "re_capture" : {
+         "lua" : 249,
+         "perl6" : 14343,
+         "javascript" : 77,
+         "ruby" : 398,
+         "perl" : 158,
+         "nqp" : 10965
+      },
+      "fib" : {
+         "c++" : 4,
+         "javascript" : 114,
+         "nim" : 27,
+         "ruby" : 768,
+         "perl" : 4650,
+         "nqp" : 5598,
+         "lua" : 132,
+         "c#" : 63,
+         "perl6" : 11456
+      },
+      "json_se" : {
+         "ruby" : 1942,
+         "javascript" : 587,
+         "perl" : 362
+      },
+      "re_bool" : {
+         "ruby" : 126,
+         "javascript" : 35,
+         "nqp" : 3554,
+         "perl" : 421,
+         "lua" : 193,
+         "perl6" : 4779
+      },
+      "json_de" : {
+         "ruby" : 2470,
+         "javascript" : 787,
+         "perl" : 781
+      }
+   },
+   "version" : {
+      "perl" : "v5.30.1",
+      "nqp" : "2020.02.1-50-g432799ad3",
+      "javascript" : "v13.12.0",
+      "c++" : "9.0.1",
+      "nim" : "1.0.6",
+      "ruby" : "2.7.0p0",
+      "perl6" : "2020.02.1-256-g156356eae",
+      "lua" : "2.0.5",
+      "c#" : "3.1.103"
+   }
+}
