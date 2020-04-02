@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 3989
+      },
+      "str_join_repeat" : {
+         "ruby" : 60,
+         "perl" : 3,
+         "nim" : 83,
+         "lua" : 80,
+         "perl6" : 11
+      },
+      "json_de" : {
+         "perl" : 833,
+         "javascript" : 757,
+         "ruby" : 2490
+      },
+      "str_join" : {
+         "c++" : 4,
+         "c#" : 230,
+         "javascript" : 59,
+         "nqp" : 1603,
+         "perl" : 450,
+         "ruby" : 1106,
+         "nim" : 54,
+         "lua" : 204,
+         "perl6" : 2402
+      },
+      "re_capture" : {
+         "javascript" : 83,
+         "nqp" : 10967,
+         "ruby" : 407,
+         "perl" : 166,
+         "lua" : 253,
+         "perl6" : 15309
+      },
+      "json_se" : {
+         "ruby" : 1979,
+         "javascript" : 627,
+         "perl" : 376
+      },
+      "re_bool" : {
+         "perl6" : 3919,
+         "perl" : 455,
+         "lua" : 194,
+         "nqp" : 3765,
+         "ruby" : 128,
+         "javascript" : 54
+      },
+      "str_join_slow" : {
+         "perl" : 1308,
+         "c#" : 261,
+         "c++" : 50,
+         "javascript" : 211,
+         "nim" : 369,
+         "lua" : 9413,
+         "perl6" : 9933,
+         "ruby" : 16517
+      },
+      "takeuchi" : {
+         "lua" : 351,
+         "nim" : 182,
+         "perl6" : 27221,
+         "ruby" : 2155,
+         "perl" : 11781,
+         "c#" : 304,
+         "javascript" : 247,
+         "c++" : 18,
+         "nqp" : 13135
+      },
+      "fib" : {
+         "perl6" : 13224,
+         "nim" : 27,
+         "lua" : 143,
+         "ruby" : 761,
+         "perl" : 4748,
+         "nqp" : 5730,
+         "c#" : 69,
+         "c++" : 4,
+         "javascript" : 119
+      }
+   },
+   "version" : {
+      "perl6" : "2020.02.1-287-gaa5154e02",
+      "nim" : "1.0.6",
+      "lua" : "2.0.5",
+      "ruby" : "2.7.0p0",
+      "perl" : "v5.30.2",
+      "nqp" : "2020.02.1-59-g57a4d5eac",
+      "c++" : "9.0.1",
+      "c#" : "3.1.103",
+      "javascript" : "v13.12.0"
+   }
+}
