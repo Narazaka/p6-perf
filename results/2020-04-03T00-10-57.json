@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.30.2",
+      "perl6" : "2020.02.1-289-g2cbf58372",
+      "c++" : "9.0.1",
+      "javascript" : "v13.12.0",
+      "lua" : "2.0.5",
+      "nim" : "1.0.6",
+      "nqp" : "2020.02.1-59-g57a4d5eac",
+      "ruby" : "2.7.1p83",
+      "c#" : "3.1.103"
+   },
+   "result" : {
+      "fib" : {
+         "ruby" : 762,
+         "c#" : 64,
+         "nqp" : 6061,
+         "nim" : 27,
+         "lua" : 138,
+         "perl" : 4710,
+         "perl6" : 12286,
+         "javascript" : 114,
+         "c++" : 4
+      },
+      "re_capture" : {
+         "lua" : 293,
+         "javascript" : 79,
+         "perl" : 165,
+         "perl6" : 15383,
+         "ruby" : 409,
+         "nqp" : 11610
+      },
+      "str_join" : {
+         "lua" : 205,
+         "perl" : 413,
+         "perl6" : 3123,
+         "javascript" : 49,
+         "c++" : 3,
+         "ruby" : 1136,
+         "c#" : 199,
+         "nqp" : 1451,
+         "nim" : 48
+      },
+      "json_se" : {
+         "javascript" : 596,
+         "perl" : 371,
+         "ruby" : 2075
+      },
+      "takeuchi" : {
+         "c#" : 292,
+         "ruby" : 1980,
+         "nqp" : 13261,
+         "nim" : 120,
+         "lua" : 380,
+         "c++" : 18,
+         "javascript" : 272,
+         "perl6" : 26413,
+         "perl" : 12115
+      },
+      "str_join_slow" : {
+         "perl6" : 6282,
+         "perl" : 1328,
+         "c++" : 49,
+         "javascript" : 213,
+         "lua" : 9396,
+         "nim" : 362,
+         "ruby" : 16448,
+         "c#" : 260
+      },
+      "str_join_repeat" : {
+         "perl6" : 26,
+         "perl" : 2,
+         "nim" : 72,
+         "ruby" : 55,
+         "lua" : 76
+      },
+      "json_de" : {
+         "perl" : 810,
+         "javascript" : 817,
+         "ruby" : 2492
+      },
+      "re_bool" : {
+         "ruby" : 142,
+         "nqp" : 3640,
+         "lua" : 171,
+         "perl6" : 4214,
+         "perl" : 471,
+         "javascript" : 41
+      },
+      "fib_fast" : {
+         "perl6" : 4338,
+         "javascript" : 19
+      }
+   }
+}
