@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "9.0.1",
+      "nim" : "1.2.0",
+      "nqp" : "2020.02.1-59-g57a4d5eac",
+      "c#" : "3.1.103",
+      "javascript" : "v13.12.0",
+      "perl6" : "2020.02.1-291-g30e7a67c5",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5",
+      "perl" : "v5.30.2"
+   },
+   "result" : {
+      "re_bool" : {
+         "lua" : 176,
+         "nqp" : 3813,
+         "ruby" : 138,
+         "perl6" : 3898,
+         "javascript" : 35,
+         "perl" : 497
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "perl6" : 32,
+         "lua" : 76,
+         "ruby" : 53,
+         "nim" : 57
+      },
+      "str_join_slow" : {
+         "lua" : 9498,
+         "nim" : 359,
+         "perl" : 1397,
+         "ruby" : 15985,
+         "javascript" : 204,
+         "perl6" : 9938,
+         "c#" : 227,
+         "c++" : 47
+      },
+      "json_se" : {
+         "perl" : 392,
+         "ruby" : 2136,
+         "javascript" : 581
+      },
+      "fib" : {
+         "lua" : 188,
+         "nim" : 26,
+         "perl" : 5470,
+         "ruby" : 749,
+         "perl6" : 13141,
+         "javascript" : 138,
+         "c#" : 63,
+         "nqp" : 5602,
+         "c++" : 4
+      },
+      "json_de" : {
+         "ruby" : 2535,
+         "javascript" : 766,
+         "perl" : 759
+      },
+      "fib_fast" : {
+         "perl6" : 4304,
+         "javascript" : 19
+      },
+      "re_capture" : {
+         "lua" : 248,
+         "nqp" : 11284,
+         "perl" : 179,
+         "ruby" : 419,
+         "perl6" : 15857,
+         "javascript" : 76
+      },
+      "takeuchi" : {
+         "ruby" : 2037,
+         "perl6" : 26324,
+         "javascript" : 249,
+         "perl" : 12742,
+         "c++" : 18,
+         "c#" : 306,
+         "nqp" : 13560,
+         "lua" : 359,
+         "nim" : 111
+      },
+      "str_join" : {
+         "javascript" : 46,
+         "perl6" : 2605,
+         "ruby" : 1095,
+         "perl" : 449,
+         "c++" : 3,
+         "nqp" : 1597,
+         "c#" : 189,
+         "lua" : 204,
+         "nim" : 66
+      }
+   }
+}
