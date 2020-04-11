@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "perl6" : 13646,
+         "perl" : 4724,
+         "lua" : 139,
+         "nqp" : 6163,
+         "nim" : 25,
+         "c++" : 4,
+         "javascript" : 115,
+         "c#" : 63,
+         "ruby" : 756
+      },
+      "str_join" : {
+         "perl6" : 3075,
+         "lua" : 208,
+         "perl" : 438,
+         "c++" : 3,
+         "nqp" : 1494,
+         "nim" : 44,
+         "c#" : 195,
+         "ruby" : 1091,
+         "javascript" : 47
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 4513
+      },
+      "takeuchi" : {
+         "lua" : 349,
+         "perl" : 12176,
+         "perl6" : 28420,
+         "c#" : 291,
+         "ruby" : 2017,
+         "javascript" : 245,
+         "c++" : 18,
+         "nqp" : 13942,
+         "nim" : 103
+      },
+      "json_de" : {
+         "javascript" : 759,
+         "perl" : 782,
+         "ruby" : 2458
+      },
+      "re_bool" : {
+         "perl6" : 4446,
+         "lua" : 174,
+         "perl" : 443,
+         "nqp" : 3479,
+         "ruby" : 136,
+         "javascript" : 35
+      },
+      "str_join_repeat" : {
+         "perl6" : 34,
+         "nim" : 56,
+         "ruby" : 55,
+         "lua" : 76,
+         "perl" : 3
+      },
+      "re_capture" : {
+         "nqp" : 11557,
+         "ruby" : 409,
+         "javascript" : 82,
+         "perl6" : 15347,
+         "lua" : 251,
+         "perl" : 167
+      },
+      "json_se" : {
+         "javascript" : 585,
+         "perl" : 438,
+         "ruby" : 2016
+      },
+      "str_join_slow" : {
+         "javascript" : 207,
+         "ruby" : 16098,
+         "c#" : 252,
+         "nim" : 359,
+         "c++" : 47,
+         "perl" : 1346,
+         "lua" : 9291,
+         "perl6" : 10282
+      }
+   },
+   "version" : {
+      "perl" : "v5.30.2",
+      "lua" : "2.0.5",
+      "perl6" : "2020.02.1-306-g3c83ce75a",
+      "javascript" : "v13.12.0",
+      "c#" : "3.1.103",
+      "ruby" : "2.7.1p83",
+      "nqp" : "2020.02.1-59-g57a4d5eac",
+      "nim" : "1.2.0",
+      "c++" : "9.0.1"
+   }
+}
