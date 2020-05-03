@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl6" : 5829,
+         "c++" : 4,
+         "ruby" : 1319,
+         "lua" : 284,
+         "nqp" : 1573,
+         "nim" : 59,
+         "javascript" : 69,
+         "c#" : 250,
+         "perl" : 608
+      },
+      "str_join_slow" : {
+         "lua" : 11292,
+         "ruby" : 17767,
+         "c++" : 78,
+         "perl6" : 12335,
+         "c#" : 310,
+         "perl" : 1424,
+         "nim" : 541,
+         "javascript" : 390
+      },
+      "re_capture" : {
+         "nqp" : 12950,
+         "javascript" : 137,
+         "perl" : 195,
+         "perl6" : 22939,
+         "lua" : 312,
+         "ruby" : 496
+      },
+      "fib" : {
+         "nqp" : 6566,
+         "nim" : 39,
+         "javascript" : 122,
+         "perl" : 5536,
+         "c#" : 66,
+         "perl6" : 20048,
+         "c++" : 6,
+         "ruby" : 753,
+         "lua" : 150
+      },
+      "re_bool" : {
+         "javascript" : 64,
+         "nqp" : 4252,
+         "lua" : 208,
+         "ruby" : 130,
+         "perl" : 452,
+         "perl6" : 5100
+      },
+      "takeuchi" : {
+         "perl" : 13793,
+         "c#" : 353,
+         "nim" : 181,
+         "javascript" : 358,
+         "nqp" : 14900,
+         "c++" : 28,
+         "lua" : 476,
+         "ruby" : 2259,
+         "perl6" : 41684
+      },
+      "json_de" : {
+         "javascript" : 968,
+         "perl" : 790,
+         "ruby" : 3307
+      },
+      "json_se" : {
+         "ruby" : 2457,
+         "perl" : 390,
+         "javascript" : 814
+      },
+      "str_join_repeat" : {
+         "perl" : 5,
+         "perl6" : 34,
+         "lua" : 119,
+         "ruby" : 54,
+         "nim" : 93
+      },
+      "fib_fast" : {
+         "perl6" : 6190,
+         "javascript" : 20
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "ruby" : "2.7.1p83",
+      "c++" : "10.0.0",
+      "perl6" : "2020.02.1-379-gca49c153d",
+      "perl" : "v5.30.2",
+      "c#" : "3.1.103",
+      "javascript" : "v14.1.0",
+      "nim" : "1.2.0",
+      "nqp" : "2020.02.1-158-g9cd9d8f6a"
+   }
+}
