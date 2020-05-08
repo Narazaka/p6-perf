@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nqp" : 5748,
+         "ruby" : 800,
+         "perl" : 4899,
+         "nim" : 29,
+         "c++" : 4,
+         "c#" : 94,
+         "lua" : 138,
+         "perl6" : 12729,
+         "javascript" : 109
+      },
+      "json_se" : {
+         "javascript" : 604,
+         "perl" : 382,
+         "ruby" : 2214
+      },
+      "json_de" : {
+         "javascript" : 889,
+         "perl" : 826,
+         "ruby" : 2483
+      },
+      "takeuchi" : {
+         "ruby" : 2033,
+         "nqp" : 13258,
+         "perl" : 12502,
+         "nim" : 104,
+         "c++" : 19,
+         "c#" : 316,
+         "lua" : 390,
+         "perl6" : 26333,
+         "javascript" : 307
+      },
+      "str_join" : {
+         "javascript" : 69,
+         "lua" : 233,
+         "perl6" : 2514,
+         "c#" : 212,
+         "c++" : 3,
+         "ruby" : 1144,
+         "nqp" : 1570,
+         "nim" : 48,
+         "perl" : 457
+      },
+      "str_join_slow" : {
+         "lua" : 9741,
+         "perl6" : 6561,
+         "c#" : 246,
+         "javascript" : 244,
+         "ruby" : 18406,
+         "nim" : 500,
+         "perl" : 1332,
+         "c++" : 49
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "perl6" : 13,
+         "nim" : 57,
+         "lua" : 82,
+         "ruby" : 62
+      },
+      "re_capture" : {
+         "ruby" : 452,
+         "nqp" : 11209,
+         "perl" : 178,
+         "javascript" : 88,
+         "lua" : 279,
+         "perl6" : 15585
+      },
+      "fib_fast" : {
+         "perl6" : 4532,
+         "javascript" : 26
+      },
+      "re_bool" : {
+         "perl6" : 3856,
+         "lua" : 213,
+         "javascript" : 43,
+         "perl" : 440,
+         "ruby" : 129,
+         "nqp" : 3544
+      }
+   },
+   "version" : {
+      "javascript" : "v14.2.0",
+      "perl6" : "2020.05-50-gd7ce52bfc",
+      "lua" : "2.0.5",
+      "c#" : "3.1.103",
+      "c++" : "10.0.0",
+      "nim" : "1.2.0",
+      "perl" : "v5.30.2",
+      "nqp" : "2020.05",
+      "ruby" : "2.7.1p83"
+   }
+}
