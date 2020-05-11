@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "ruby" : 3082,
+         "perl" : 1097,
+         "javascript" : 837
+      },
+      "takeuchi" : {
+         "nim" : 127,
+         "lua" : 359,
+         "ruby" : 2495,
+         "javascript" : 280,
+         "c++" : 18,
+         "c#" : 349,
+         "nqp" : 13905,
+         "perl6" : 29478,
+         "perl" : 14357
+      },
+      "str_join_slow" : {
+         "nim" : 476,
+         "ruby" : 17521,
+         "lua" : 10400,
+         "javascript" : 258,
+         "c++" : 48,
+         "perl6" : 10265,
+         "c#" : 311,
+         "perl" : 1782
+      },
+      "re_capture" : {
+         "ruby" : 476,
+         "lua" : 278,
+         "javascript" : 101,
+         "perl" : 209,
+         "nqp" : 12912,
+         "perl6" : 17408
+      },
+      "fib" : {
+         "nqp" : 6132,
+         "c#" : 65,
+         "perl6" : 12168,
+         "perl" : 6007,
+         "javascript" : 157,
+         "c++" : 4,
+         "ruby" : 892,
+         "lua" : 143,
+         "nim" : 30
+      },
+      "re_bool" : {
+         "perl" : 574,
+         "perl6" : 5944,
+         "nqp" : 3735,
+         "javascript" : 36,
+         "lua" : 182,
+         "ruby" : 168
+      },
+      "fib_fast" : {
+         "javascript" : 28,
+         "perl6" : 4330
+      },
+      "json_se" : {
+         "javascript" : 691,
+         "ruby" : 2737,
+         "perl" : 427
+      },
+      "str_join_repeat" : {
+         "nim" : 93,
+         "perl6" : 33,
+         "perl" : 4,
+         "lua" : 82,
+         "ruby" : 59
+      },
+      "str_join" : {
+         "javascript" : 79,
+         "c++" : 3,
+         "ruby" : 1598,
+         "lua" : 219,
+         "nim" : 46,
+         "perl" : 585,
+         "c#" : 227,
+         "nqp" : 1956,
+         "perl6" : 2556
+      }
+   },
+   "version" : {
+      "perl6" : "2020.05.1-62-g2b38666f9",
+      "nqp" : "2020.05",
+      "c#" : "3.1.103",
+      "perl" : "v5.30.2",
+      "nim" : "1.2.0",
+      "lua" : "2.0.5",
+      "ruby" : "2.7.1p83",
+      "javascript" : "v14.2.0",
+      "c++" : "10.0.0"
+   }
+}
