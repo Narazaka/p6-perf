@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "lua" : 289,
+         "perl" : 176,
+         "javascript" : 85,
+         "ruby" : 416,
+         "perl6" : 17834,
+         "nqp" : 11212
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 4721
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "nim" : 53,
+         "lua" : 81,
+         "ruby" : 58,
+         "perl6" : 10
+      },
+      "json_de" : {
+         "perl" : 1055,
+         "javascript" : 675,
+         "ruby" : 2867
+      },
+      "json_se" : {
+         "ruby" : 2414,
+         "javascript" : 644,
+         "perl" : 440
+      },
+      "takeuchi" : {
+         "lua" : 405,
+         "perl" : 12331,
+         "nim" : 153,
+         "perl6" : 26045,
+         "ruby" : 2034,
+         "nqp" : 14258,
+         "c++" : 30,
+         "javascript" : 297,
+         "c#" : 320
+      },
+      "str_join" : {
+         "c++" : 4,
+         "nqp" : 1544,
+         "perl6" : 2749,
+         "ruby" : 1185,
+         "nim" : 46,
+         "perl" : 550,
+         "lua" : 219,
+         "c#" : 185,
+         "javascript" : 54
+      },
+      "str_join_slow" : {
+         "lua" : 10209,
+         "nim" : 398,
+         "perl" : 1479,
+         "perl6" : 10141,
+         "ruby" : 18849,
+         "c++" : 49,
+         "javascript" : 247,
+         "c#" : 232
+      },
+      "fib" : {
+         "lua" : 144,
+         "perl" : 5657,
+         "nim" : 23,
+         "ruby" : 872,
+         "perl6" : 12097,
+         "nqp" : 6420,
+         "c++" : 6,
+         "javascript" : 106,
+         "c#" : 64
+      },
+      "re_bool" : {
+         "lua" : 188,
+         "perl" : 506,
+         "javascript" : 35,
+         "perl6" : 4314,
+         "ruby" : 143,
+         "nqp" : 3865
+      }
+   },
+   "version" : {
+      "perl" : "v5.30.2",
+      "nim" : "1.2.0",
+      "lua" : "2.0.5",
+      "c++" : "10.0.0",
+      "perl6" : "2020.05.1-149-g81c0e1454",
+      "ruby" : "2.7.1p83",
+      "nqp" : "2020.05",
+      "javascript" : "v14.3.0",
+      "c#" : "3.1.103"
+   }
+}
