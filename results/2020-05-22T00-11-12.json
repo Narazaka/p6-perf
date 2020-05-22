@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "nqp" : 1466,
+         "perl" : 428,
+         "ruby" : 1144,
+         "c++" : 4,
+         "c#" : 218,
+         "perl6" : 3480,
+         "nim" : 46,
+         "lua" : 216,
+         "javascript" : 53
+      },
+      "re_bool" : {
+         "ruby" : 133,
+         "nqp" : 3940,
+         "perl" : 453,
+         "javascript" : 34,
+         "perl6" : 4362,
+         "lua" : 198
+      },
+      "fib" : {
+         "nim" : 35,
+         "perl6" : 12685,
+         "lua" : 133,
+         "c#" : 73,
+         "javascript" : 104,
+         "perl" : 5019,
+         "nqp" : 6237,
+         "c++" : 7,
+         "ruby" : 780
+      },
+      "json_se" : {
+         "perl" : 371,
+         "ruby" : 2070,
+         "javascript" : 602
+      },
+      "str_join_slow" : {
+         "javascript" : 236,
+         "nim" : 363,
+         "perl6" : 7198,
+         "lua" : 9803,
+         "c#" : 254,
+         "c++" : 75,
+         "ruby" : 16837,
+         "perl" : 1356
+      },
+      "json_de" : {
+         "perl" : 814,
+         "ruby" : 2705,
+         "javascript" : 669
+      },
+      "re_capture" : {
+         "ruby" : 459,
+         "nqp" : 11696,
+         "perl" : 166,
+         "javascript" : 83,
+         "lua" : 273,
+         "perl6" : 17601
+      },
+      "fib_fast" : {
+         "javascript" : 26,
+         "perl6" : 4395
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "nim" : 60,
+         "perl6" : 32,
+         "lua" : 82,
+         "ruby" : 65
+      },
+      "takeuchi" : {
+         "c++" : 19,
+         "ruby" : 2077,
+         "perl" : 12577,
+         "nqp" : 14421,
+         "javascript" : 253,
+         "perl6" : 29380,
+         "lua" : 367,
+         "nim" : 120,
+         "c#" : 320
+      }
+   },
+   "version" : {
+      "c++" : "10.0.0",
+      "ruby" : "2.7.1p83",
+      "perl" : "v5.30.2",
+      "nqp" : "2020.05-20-g5d46adf25",
+      "javascript" : "v14.3.0",
+      "perl6" : "2020.05.1-165-g718d305b8",
+      "lua" : "2.0.5",
+      "nim" : "1.2.0",
+      "c#" : "3.1.103"
+   }
+}
