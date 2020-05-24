@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : "2020.05.1-184-g4a728f2ad",
+      "perl" : "v5.30.2",
+      "nqp" : "2020.05-20-g5d46adf25",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5",
+      "c++" : "10.0.0",
+      "c#" : "3.1.103",
+      "nim" : "1.2.0",
+      "javascript" : "v14.3.0"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "ruby" : 25491,
+         "perl6" : 19297,
+         "perl" : 2208,
+         "c++" : 75,
+         "lua" : 15314,
+         "c#" : 367,
+         "javascript" : 445,
+         "nim" : 914
+      },
+      "re_capture" : {
+         "javascript" : 163,
+         "lua" : 378,
+         "ruby" : 817,
+         "perl" : 285,
+         "perl6" : 43088,
+         "nqp" : 21442
+      },
+      "str_join" : {
+         "javascript" : 107,
+         "nim" : 77,
+         "c#" : 293,
+         "c++" : 4,
+         "lua" : 341,
+         "ruby" : 2114,
+         "perl" : 692,
+         "perl6" : 5220,
+         "nqp" : 3550
+      },
+      "re_bool" : {
+         "ruby" : 218,
+         "perl6" : 9163,
+         "perl" : 810,
+         "nqp" : 6864,
+         "javascript" : 57,
+         "lua" : 281
+      },
+      "str_join_repeat" : {
+         "ruby" : 77,
+         "perl" : 5,
+         "perl6" : 34,
+         "nim" : 105,
+         "lua" : 136
+      },
+      "fib" : {
+         "nim" : 34,
+         "javascript" : 193,
+         "c#" : 85,
+         "lua" : 208,
+         "c++" : 7,
+         "nqp" : 9265,
+         "perl" : 7923,
+         "perl6" : 19199,
+         "ruby" : 1192
+      },
+      "takeuchi" : {
+         "javascript" : 411,
+         "nim" : 170,
+         "c#" : 410,
+         "c++" : 30,
+         "lua" : 538,
+         "ruby" : 2987,
+         "perl6" : 40518,
+         "perl" : 19952,
+         "nqp" : 21261
+      },
+      "json_de" : {
+         "javascript" : 1287,
+         "ruby" : 4910,
+         "perl" : 1322
+      },
+      "json_se" : {
+         "javascript" : 1233,
+         "perl" : 633,
+         "ruby" : 4038
+      },
+      "fib_fast" : {
+         "javascript" : 38,
+         "perl6" : 9315
+      }
+   }
+}
