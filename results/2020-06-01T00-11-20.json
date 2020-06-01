@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "perl6" : 4298,
+         "lua" : 233,
+         "nqp" : 4078,
+         "ruby" : 130,
+         "javascript" : 35,
+         "perl" : 457
+      },
+      "takeuchi" : {
+         "nim" : 193,
+         "javascript" : 246,
+         "lua" : 431,
+         "perl6" : 26431,
+         "perl" : 13134,
+         "c++" : 19,
+         "c#" : 339,
+         "ruby" : 2128,
+         "nqp" : 13378
+      },
+      "str_join_slow" : {
+         "nim" : 524,
+         "javascript" : 245,
+         "lua" : 11504,
+         "perl6" : 6889,
+         "perl" : 1359,
+         "c++" : 47,
+         "c#" : 246,
+         "ruby" : 17449
+      },
+      "fib_fast" : {
+         "perl6" : 4191,
+         "javascript" : 24
+      },
+      "str_join" : {
+         "nqp" : 1524,
+         "perl" : 427,
+         "c++" : 4,
+         "c#" : 189,
+         "ruby" : 1250,
+         "lua" : 289,
+         "perl6" : 2676,
+         "nim" : 45,
+         "javascript" : 86
+      },
+      "re_capture" : {
+         "nqp" : 11733,
+         "lua" : 301,
+         "perl6" : 17067,
+         "perl" : 171,
+         "ruby" : 420,
+         "javascript" : 77
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 96,
+         "ruby" : 68,
+         "lua" : 110,
+         "perl6" : 10
+      },
+      "json_se" : {
+         "ruby" : 2308,
+         "javascript" : 591,
+         "perl" : 374
+      },
+      "json_de" : {
+         "ruby" : 2810,
+         "javascript" : 686,
+         "perl" : 829
+      },
+      "fib" : {
+         "nim" : 28,
+         "javascript" : 107,
+         "lua" : 182,
+         "perl6" : 12170,
+         "c++" : 4,
+         "perl" : 5136,
+         "ruby" : 761,
+         "c#" : 68,
+         "nqp" : 6461
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "perl6" : "2020.05.1-226-g62adc88c6",
+      "nim" : "1.2.0",
+      "javascript" : "v14.3.0",
+      "nqp" : "2020.05-43-g79fb9251e",
+      "perl" : "v5.30.2",
+      "c++" : "10.0.0",
+      "c#" : "3.1.103",
+      "ruby" : "2.7.1p83"
+   }
+}
