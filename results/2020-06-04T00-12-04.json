@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl6" : 3186,
+         "c++" : 4,
+         "c#" : 300,
+         "perl" : 424,
+         "ruby" : 1149,
+         "lua" : 305,
+         "javascript" : 55,
+         "nqp" : 1602,
+         "nim" : 60
+      },
+      "str_join_repeat" : {
+         "nim" : 87,
+         "perl" : 2,
+         "perl6" : 30,
+         "ruby" : 60,
+         "lua" : 93
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 4332
+      },
+      "re_capture" : {
+         "perl6" : 17096,
+         "perl" : 192,
+         "ruby" : 574,
+         "lua" : 257,
+         "javascript" : 82,
+         "nqp" : 11901
+      },
+      "fib" : {
+         "javascript" : 131,
+         "nqp" : 6628,
+         "nim" : 35,
+         "lua" : 162,
+         "ruby" : 831,
+         "c#" : 74,
+         "perl6" : 12101,
+         "c++" : 6,
+         "perl" : 5071
+      },
+      "json_de" : {
+         "perl" : 881,
+         "javascript" : 748,
+         "ruby" : 2799
+      },
+      "re_bool" : {
+         "perl" : 522,
+         "perl6" : 4046,
+         "ruby" : 177,
+         "lua" : 195,
+         "nqp" : 3683,
+         "javascript" : 39
+      },
+      "json_se" : {
+         "perl" : 369,
+         "javascript" : 683,
+         "ruby" : 2472
+      },
+      "takeuchi" : {
+         "nim" : 174,
+         "nqp" : 13827,
+         "javascript" : 261,
+         "perl" : 12859,
+         "perl6" : 29973,
+         "c++" : 22,
+         "c#" : 351,
+         "ruby" : 2080,
+         "lua" : 405
+      },
+      "str_join_slow" : {
+         "nim" : 442,
+         "javascript" : 272,
+         "lua" : 10062,
+         "ruby" : 19819,
+         "perl" : 1326,
+         "perl6" : 11199,
+         "c#" : 372,
+         "c++" : 61
+      }
+   },
+   "version" : {
+      "perl6" : "2020.05.1-232-g519a5726b",
+      "c++" : "10.0.0",
+      "c#" : "3.1.103",
+      "perl" : "v5.30.2",
+      "lua" : "2.0.5",
+      "ruby" : "2.7.1p83",
+      "nqp" : "2020.05-43-g79fb9251e",
+      "javascript" : "v14.3.0",
+      "nim" : "1.2.0"
+   }
+}
