@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 24097,
+         "nqp" : 10953,
+         "lua" : 325,
+         "ruby" : 407,
+         "javascript" : 82,
+         "perl" : 166
+      },
+      "fib_fast" : {
+         "perl6" : 4537,
+         "javascript" : 19
+      },
+      "str_join" : {
+         "javascript" : 82,
+         "c#" : 207,
+         "c++" : 3,
+         "perl" : 420,
+         "perl6" : 3132,
+         "nqp" : 1320,
+         "nim" : 47,
+         "ruby" : 1098,
+         "lua" : 219
+      },
+      "takeuchi" : {
+         "javascript" : 273,
+         "c#" : 327,
+         "perl" : 12180,
+         "c++" : 19,
+         "perl6" : 28891,
+         "nqp" : 14456,
+         "ruby" : 2154,
+         "lua" : 414,
+         "nim" : 128
+      },
+      "fib" : {
+         "perl6" : 12454,
+         "nqp" : 7625,
+         "nim" : 28,
+         "ruby" : 813,
+         "lua" : 142,
+         "javascript" : 103,
+         "c#" : 74,
+         "perl" : 4735,
+         "c++" : 8
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 80,
+         "ruby" : 53,
+         "nim" : 50,
+         "perl6" : 15
+      },
+      "json_de" : {
+         "perl" : 775,
+         "ruby" : 2473,
+         "javascript" : 702
+      },
+      "re_bool" : {
+         "javascript" : 33,
+         "perl" : 446,
+         "perl6" : 4819,
+         "nqp" : 3688,
+         "ruby" : 144,
+         "lua" : 210
+      },
+      "json_se" : {
+         "javascript" : 571,
+         "ruby" : 2053,
+         "perl" : 383
+      },
+      "str_join_slow" : {
+         "perl6" : 6987,
+         "nim" : 453,
+         "lua" : 10738,
+         "ruby" : 16442,
+         "javascript" : 207,
+         "c#" : 241,
+         "perl" : 1293,
+         "c++" : 62
+      }
+   },
+   "version" : {
+      "javascript" : "v14.3.0",
+      "c++" : "10.0.0",
+      "perl" : "v5.30.2",
+      "c#" : "3.1.103",
+      "nqp" : "2020.05-49-gdb4395b5b",
+      "perl6" : "2020.05.1-257-ga9796fe5a",
+      "nim" : "1.2.0",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5"
+   }
+}
