@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 931,
+         "ruby" : 2664,
+         "perl" : 789
+      },
+      "str_join_repeat" : {
+         "perl6" : 11,
+         "perl" : 2,
+         "nim" : 68,
+         "lua" : 133,
+         "ruby" : 51
+      },
+      "re_capture" : {
+         "perl6" : 16241,
+         "lua" : 378,
+         "javascript" : 113,
+         "perl" : 181,
+         "ruby" : 403,
+         "nqp" : 11394
+      },
+      "takeuchi" : {
+         "javascript" : 366,
+         "perl6" : 27616,
+         "c#" : 397,
+         "lua" : 546,
+         "c++" : 26,
+         "nqp" : 13573,
+         "ruby" : 2064,
+         "nim" : 120,
+         "perl" : 12613
+      },
+      "str_join_slow" : {
+         "perl6" : 10850,
+         "c#" : 370,
+         "lua" : 13745,
+         "javascript" : 354,
+         "perl" : 1343,
+         "nim" : 518,
+         "c++" : 74,
+         "ruby" : 16657
+      },
+      "json_se" : {
+         "javascript" : 694,
+         "ruby" : 2370,
+         "perl" : 381
+      },
+      "fib" : {
+         "javascript" : 143,
+         "lua" : 234,
+         "c#" : 64,
+         "perl6" : 12213,
+         "nqp" : 5763,
+         "ruby" : 801,
+         "c++" : 7,
+         "perl" : 5038,
+         "nim" : 25
+      },
+      "str_join" : {
+         "c++" : 4,
+         "ruby" : 1104,
+         "nqp" : 1566,
+         "perl" : 464,
+         "nim" : 45,
+         "javascript" : 142,
+         "perl6" : 2569,
+         "c#" : 253,
+         "lua" : 334
+      },
+      "re_bool" : {
+         "javascript" : 56,
+         "perl6" : 4045,
+         "lua" : 281,
+         "nqp" : 3686,
+         "ruby" : 132,
+         "perl" : 449
+      },
+      "fib_fast" : {
+         "perl6" : 4341,
+         "javascript" : 32
+      }
+   },
+   "version" : {
+      "perl6" : "2020.05.1-262-g0a84aa7f6",
+      "c#" : "3.1.103",
+      "lua" : "2.0.5",
+      "javascript" : "v14.3.0",
+      "perl" : "v5.30.3",
+      "nim" : "1.2.0",
+      "c++" : "10.0.0",
+      "ruby" : "2.7.1p83",
+      "nqp" : "2020.05-58-gf18e01790"
+   }
+}
