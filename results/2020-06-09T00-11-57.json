@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "ruby" : 3096,
+         "javascript" : 1045,
+         "perl" : 1021
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 13,
+         "nim" : 50,
+         "ruby" : 55,
+         "lua" : 134
+      },
+      "str_join" : {
+         "perl6" : 3242,
+         "perl" : 524,
+         "c++" : 3,
+         "lua" : 268,
+         "ruby" : 1208,
+         "javascript" : 66,
+         "nqp" : 1879,
+         "c#" : 230,
+         "nim" : 49
+      },
+      "fib" : {
+         "perl6" : 14068,
+         "perl" : 6192,
+         "c++" : 7,
+         "lua" : 236,
+         "ruby" : 841,
+         "javascript" : 180,
+         "nqp" : 6798,
+         "c#" : 73,
+         "nim" : 23
+      },
+      "json_se" : {
+         "ruby" : 2285,
+         "perl" : 544,
+         "javascript" : 870
+      },
+      "takeuchi" : {
+         "perl6" : 29361,
+         "c++" : 22,
+         "perl" : 15942,
+         "lua" : 425,
+         "ruby" : 2092,
+         "nqp" : 15959,
+         "javascript" : 333,
+         "c#" : 361,
+         "nim" : 115
+      },
+      "re_capture" : {
+         "nqp" : 14253,
+         "javascript" : 97,
+         "perl" : 257,
+         "perl6" : 16417,
+         "lua" : 294,
+         "ruby" : 407
+      },
+      "re_bool" : {
+         "nqp" : 4389,
+         "perl" : 521,
+         "javascript" : 40,
+         "perl6" : 4638,
+         "lua" : 280,
+         "ruby" : 184
+      },
+      "fib_fast" : {
+         "javascript" : 22,
+         "perl6" : 4418
+      },
+      "str_join_slow" : {
+         "c++" : 56,
+         "perl" : 1706,
+         "perl6" : 6853,
+         "lua" : 11508,
+         "ruby" : 19839,
+         "javascript" : 369,
+         "nim" : 354,
+         "c#" : 281
+      }
+   },
+   "version" : {
+      "perl6" : "2020.05.1-263-g15961f91b",
+      "perl" : "v5.30.3",
+      "c++" : "10.0.0",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5",
+      "javascript" : "v14.3.0",
+      "nqp" : "2020.05-58-gf18e01790",
+      "c#" : "3.1.103",
+      "nim" : "1.2.0"
+   }
+}
