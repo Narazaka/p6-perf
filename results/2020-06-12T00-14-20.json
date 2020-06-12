@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "ruby" : 1016,
+         "nim" : 32,
+         "javascript" : 0,
+         "c#" : 72,
+         "perl" : 6720,
+         "c++" : 4,
+         "perl6" : 16907,
+         "nqp" : 7625,
+         "lua" : 181
+      },
+      "takeuchi" : {
+         "perl" : 17228,
+         "c++" : 24,
+         "perl6" : 34772,
+         "lua" : 498,
+         "nqp" : 19115,
+         "nim" : 151,
+         "ruby" : 2690,
+         "javascript" : 0,
+         "c#" : 358
+      },
+      "str_join_repeat" : {
+         "nim" : 99,
+         "perl" : 2,
+         "ruby" : 62,
+         "perl6" : 19,
+         "lua" : 104
+      },
+      "re_bool" : {
+         "lua" : 251,
+         "nqp" : 5851,
+         "javascript" : 0,
+         "perl6" : 5713,
+         "ruby" : 175,
+         "perl" : 632
+      },
+      "str_join" : {
+         "nqp" : 2224,
+         "lua" : 296,
+         "perl" : 566,
+         "c++" : 4,
+         "perl6" : 3727,
+         "javascript" : 0,
+         "c#" : 255,
+         "ruby" : 1632,
+         "nim" : 72
+      },
+      "str_join_slow" : {
+         "perl" : 2011,
+         "perl6" : 9626,
+         "c++" : 54,
+         "lua" : 13035,
+         "ruby" : 21385,
+         "nim" : 586,
+         "javascript" : 0,
+         "c#" : 322
+      },
+      "json_de" : {
+         "ruby" : 3705,
+         "perl" : 1034,
+         "javascript" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 0,
+         "perl6" : 6936
+      },
+      "re_capture" : {
+         "javascript" : 0,
+         "nqp" : 16828,
+         "lua" : 335,
+         "perl6" : 22457,
+         "ruby" : 686,
+         "perl" : 269
+      },
+      "json_se" : {
+         "javascript" : 0,
+         "perl" : 501,
+         "ruby" : 2982
+      }
+   },
+   "version" : {
+      "c#" : "3.1.103",
+      "javascript" : null,
+      "nim" : "1.2.0",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5",
+      "nqp" : "2020.05-59-g015a76d38",
+      "c++" : "10.0.0",
+      "perl6" : "2020.05.1-277-g87e91defd",
+      "perl" : "v5.30.3"
+   }
+}
