@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 3028,
+         "javascript" : 0,
+         "perl" : 503
+      },
+      "json_de" : {
+         "ruby" : 3905,
+         "javascript" : 0,
+         "perl" : 1049
+      },
+      "fib_fast" : {
+         "javascript" : 0,
+         "perl6" : 5940
+      },
+      "fib" : {
+         "ruby" : 1028,
+         "perl6" : 16360,
+         "perl" : 6277,
+         "nqp" : 7731,
+         "c++" : 6,
+         "c#" : 78,
+         "lua" : 192,
+         "nim" : 38,
+         "javascript" : 0
+      },
+      "takeuchi" : {
+         "nqp" : 17932,
+         "perl" : 16897,
+         "c#" : 384,
+         "c++" : 26,
+         "javascript" : 0,
+         "lua" : 560,
+         "nim" : 161,
+         "perl6" : 34108,
+         "ruby" : 2878
+      },
+      "str_join" : {
+         "ruby" : 1892,
+         "perl6" : 3803,
+         "lua" : 298,
+         "nim" : 80,
+         "javascript" : 0,
+         "c++" : 4,
+         "c#" : 292,
+         "nqp" : 2426,
+         "perl" : 540
+      },
+      "re_bool" : {
+         "perl6" : 6680,
+         "ruby" : 171,
+         "perl" : 638,
+         "nqp" : 5515,
+         "javascript" : 0,
+         "lua" : 264
+      },
+      "str_join_repeat" : {
+         "nim" : 89,
+         "lua" : 138,
+         "ruby" : 73,
+         "perl6" : 16,
+         "perl" : 2
+      },
+      "str_join_slow" : {
+         "javascript" : 0,
+         "lua" : 14056,
+         "nim" : 673,
+         "c#" : 346,
+         "c++" : 66,
+         "perl" : 1811,
+         "perl6" : 14750,
+         "ruby" : 23392
+      },
+      "re_capture" : {
+         "ruby" : 657,
+         "perl6" : 22352,
+         "lua" : 360,
+         "javascript" : 0,
+         "perl" : 218,
+         "nqp" : 17019
+      }
+   },
+   "version" : {
+      "ruby" : "2.7.1p83",
+      "perl6" : "2020.05.1-285-g813447053",
+      "perl" : "v5.30.3",
+      "nqp" : "2020.05-65-g4f599deaf",
+      "c#" : "3.1.103",
+      "c++" : "10.0.0",
+      "nim" : "1.2.0",
+      "lua" : "2.0.5",
+      "javascript" : null
+   }
+}
