@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : null,
+      "lua" : "2.0.5",
+      "nqp" : "2020.05-65-g4f599deaf",
+      "c#" : "3.1.103",
+      "perl" : "v5.30.3",
+      "ruby" : "2.7.1p83",
+      "c++" : "10.0.0",
+      "nim" : "1.2.0",
+      "perl6" : "2020.05.1-290-gafe851108"
+   },
+   "result" : {
+      "json_se" : {
+         "javascript" : 0,
+         "ruby" : 2735,
+         "perl" : 388
+      },
+      "fib" : {
+         "perl6" : 14050,
+         "nim" : 24,
+         "nqp" : 6400,
+         "lua" : 136,
+         "javascript" : 0,
+         "ruby" : 1055,
+         "c++" : 4,
+         "perl" : 5277,
+         "c#" : 76
+      },
+      "json_de" : {
+         "javascript" : 0,
+         "perl" : 1099,
+         "ruby" : 3020
+      },
+      "re_bool" : {
+         "ruby" : 150,
+         "perl" : 516,
+         "nqp" : 4698,
+         "lua" : 180,
+         "perl6" : 5003,
+         "javascript" : 0
+      },
+      "str_join" : {
+         "lua" : 231,
+         "nqp" : 1548,
+         "javascript" : 0,
+         "ruby" : 1366,
+         "c++" : 4,
+         "c#" : 202,
+         "perl" : 614,
+         "perl6" : 3718,
+         "nim" : 45
+      },
+      "fib_fast" : {
+         "perl6" : 5918,
+         "javascript" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 104,
+         "perl6" : 11,
+         "nim" : 57,
+         "ruby" : 64,
+         "perl" : 5
+      },
+      "re_capture" : {
+         "ruby" : 410,
+         "perl" : 170,
+         "lua" : 250,
+         "nqp" : 12947,
+         "perl6" : 17576,
+         "javascript" : 0
+      },
+      "takeuchi" : {
+         "nim" : 157,
+         "perl6" : 31040,
+         "javascript" : 0,
+         "lua" : 393,
+         "nqp" : 15316,
+         "perl" : 13417,
+         "c#" : 302,
+         "ruby" : 2286,
+         "c++" : 18
+      },
+      "str_join_slow" : {
+         "c++" : 54,
+         "ruby" : 18348,
+         "c#" : 269,
+         "perl" : 1398,
+         "lua" : 10529,
+         "javascript" : 0,
+         "perl6" : 7752,
+         "nim" : 450
+      }
+   }
+}
