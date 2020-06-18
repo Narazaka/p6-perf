@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : null,
+      "perl6" : "2020.05.1-292-gcd6172480",
+      "c#" : "3.1.103",
+      "c++" : "10.0.0",
+      "perl" : "v5.30.3",
+      "lua" : "2.0.5",
+      "nqp" : "2020.05-65-g4f599deaf",
+      "nim" : "1.2.0",
+      "ruby" : "2.7.1p83"
+   },
+   "result" : {
+      "json_de" : {
+         "ruby" : 3152,
+         "perl" : 780,
+         "javascript" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 0,
+         "perl6" : 4952
+      },
+      "re_capture" : {
+         "ruby" : 435,
+         "javascript" : 0,
+         "perl" : 226,
+         "nqp" : 11582,
+         "perl6" : 18076,
+         "lua" : 272
+      },
+      "re_bool" : {
+         "javascript" : 0,
+         "perl" : 527,
+         "nqp" : 4001,
+         "lua" : 285,
+         "perl6" : 4714,
+         "ruby" : 168
+      },
+      "str_join" : {
+         "c++" : 3,
+         "c#" : 226,
+         "perl6" : 2802,
+         "javascript" : 0,
+         "ruby" : 1137,
+         "nim" : 47,
+         "lua" : 268,
+         "nqp" : 1516,
+         "perl" : 436
+      },
+      "str_join_slow" : {
+         "perl6" : 7316,
+         "lua" : 10592,
+         "javascript" : 0,
+         "perl" : 1292,
+         "c#" : 266,
+         "ruby" : 18180,
+         "c++" : 47,
+         "nim" : 395
+      },
+      "takeuchi" : {
+         "nqp" : 15265,
+         "lua" : 383,
+         "perl" : 12549,
+         "ruby" : 2205,
+         "nim" : 161,
+         "perl6" : 30124,
+         "javascript" : 0,
+         "c++" : 18,
+         "c#" : 306
+      },
+      "json_se" : {
+         "ruby" : 2023,
+         "perl" : 365,
+         "javascript" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 64,
+         "ruby" : 54,
+         "perl" : 2,
+         "perl6" : 20,
+         "lua" : 127
+      },
+      "fib" : {
+         "lua" : 142,
+         "nqp" : 6135,
+         "perl" : 4882,
+         "ruby" : 787,
+         "nim" : 24,
+         "perl6" : 12598,
+         "javascript" : 0,
+         "c#" : 63,
+         "c++" : 4
+      }
+   }
+}
