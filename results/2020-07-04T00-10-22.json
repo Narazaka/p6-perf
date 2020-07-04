@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl" : 404,
+         "perl6" : 2277,
+         "c++" : 3,
+         "c#" : 148,
+         "nim" : 46,
+         "nqp" : 1202,
+         "ruby" : 1062,
+         "javascript" : 45,
+         "lua" : 212
+      },
+      "re_capture" : {
+         "perl6" : 12483,
+         "lua" : 240,
+         "javascript" : 76,
+         "nqp" : 9769,
+         "ruby" : 393,
+         "perl" : 152
+      },
+      "takeuchi" : {
+         "perl" : 11427,
+         "c#" : 287,
+         "c++" : 18,
+         "perl6" : 25014,
+         "nim" : 114,
+         "javascript" : 240,
+         "nqp" : 14006,
+         "ruby" : 1946,
+         "lua" : 342
+      },
+      "json_se" : {
+         "perl" : 357,
+         "ruby" : 1917,
+         "javascript" : 549
+      },
+      "fib" : {
+         "c++" : 4,
+         "c#" : 62,
+         "perl6" : 11701,
+         "nim" : 23,
+         "perl" : 4651,
+         "lua" : 131,
+         "javascript" : 101,
+         "ruby" : 757,
+         "nqp" : 5676
+      },
+      "str_join_slow" : {
+         "perl6" : 9509,
+         "c++" : 47,
+         "c#" : 187,
+         "nim" : 351,
+         "perl" : 1232,
+         "lua" : 9417,
+         "javascript" : 218,
+         "ruby" : 13796
+      },
+      "re_bool" : {
+         "lua" : 177,
+         "perl6" : 3195,
+         "javascript" : 33,
+         "perl" : 416,
+         "ruby" : 124,
+         "nqp" : 3290
+      },
+      "json_de" : {
+         "javascript" : 653,
+         "perl" : 740,
+         "ruby" : 2394
+      },
+      "fib_fast" : {
+         "javascript" : 16,
+         "perl6" : 3282
+      },
+      "str_join_repeat" : {
+         "ruby" : 50,
+         "perl" : 2,
+         "perl6" : 10,
+         "nim" : 48,
+         "lua" : 79
+      }
+   },
+   "version" : {
+      "nim" : "1.2.0",
+      "c++" : "10.0.0",
+      "perl6" : "2020.06-16-gc7c18c214",
+      "c#" : "3.1.103",
+      "perl" : "v5.32.0",
+      "lua" : "2.0.5",
+      "nqp" : "2020.06-9-gdb0c1088f",
+      "ruby" : "2.7.1p83",
+      "javascript" : "v14.5.0"
+   }
+}
