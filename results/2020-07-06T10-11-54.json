@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "1.2.0",
+      "perl6" : "2020.06-44-gf550c9f97",
+      "lua" : "2.0.5",
+      "nqp" : "2020.06-9-gdb0c1088f",
+      "ruby" : "2.7.1p83",
+      "c#" : "3.1.103",
+      "perl" : "v5.32.0",
+      "c++" : "10.0.0",
+      "javascript" : "v14.5.0"
+   },
+   "result" : {
+      "re_capture" : {
+         "perl" : 167,
+         "javascript" : 76,
+         "nqp" : 11179,
+         "perl6" : 15128,
+         "lua" : 253,
+         "ruby" : 396
+      },
+      "re_bool" : {
+         "perl" : 446,
+         "javascript" : 34,
+         "nqp" : 3807,
+         "perl6" : 3874,
+         "lua" : 195,
+         "ruby" : 143
+      },
+      "fib" : {
+         "c#" : 66,
+         "ruby" : 753,
+         "nqp" : 5817,
+         "perl6" : 11681,
+         "nim" : 23,
+         "lua" : 134,
+         "javascript" : 103,
+         "c++" : 4,
+         "perl" : 4664
+      },
+      "takeuchi" : {
+         "javascript" : 249,
+         "c++" : 22,
+         "perl" : 12167,
+         "ruby" : 2070,
+         "c#" : 296,
+         "lua" : 364,
+         "perl6" : 25474,
+         "nim" : 116,
+         "nqp" : 15619
+      },
+      "str_join" : {
+         "perl" : 419,
+         "c++" : 3,
+         "javascript" : 47,
+         "nqp" : 1437,
+         "lua" : 215,
+         "perl6" : 2524,
+         "nim" : 49,
+         "c#" : 218,
+         "ruby" : 1093
+      },
+      "json_se" : {
+         "ruby" : 1966,
+         "perl" : 364,
+         "javascript" : 570
+      },
+      "fib_fast" : {
+         "perl6" : 4272,
+         "javascript" : 20
+      },
+      "json_de" : {
+         "ruby" : 2464,
+         "perl" : 750,
+         "javascript" : 696
+      },
+      "str_join_slow" : {
+         "c#" : 243,
+         "ruby" : 17910,
+         "perl6" : 6385,
+         "lua" : 9860,
+         "nim" : 368,
+         "perl" : 1305,
+         "javascript" : 223,
+         "c++" : 48
+      },
+      "str_join_repeat" : {
+         "ruby" : 57,
+         "perl" : 2,
+         "perl6" : 11,
+         "lua" : 81,
+         "nim" : 55
+      }
+   }
+}
