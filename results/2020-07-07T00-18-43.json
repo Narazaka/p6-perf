@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2020.06-9-gdb0c1088f",
+      "javascript" : "v14.5.0",
+      "lua" : "2.0.5",
+      "perl6" : "2020.06-52-ga74550507",
+      "c#" : "3.1.103",
+      "ruby" : "2.7.1p83",
+      "perl" : "v5.32.0",
+      "nim" : "1.2.0",
+      "c++" : "10.0.0"
+   },
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 8327,
+         "javascript" : 37
+      },
+      "re_bool" : {
+         "perl" : 745,
+         "lua" : 295,
+         "nqp" : 8470,
+         "javascript" : 57,
+         "perl6" : 9655,
+         "ruby" : 225
+      },
+      "json_se" : {
+         "perl" : 635,
+         "javascript" : 1243,
+         "ruby" : 4293
+      },
+      "fib" : {
+         "perl6" : 19245,
+         "ruby" : 1288,
+         "c#" : 85,
+         "perl" : 8205,
+         "nim" : 38,
+         "c++" : 7,
+         "lua" : 224,
+         "javascript" : 193,
+         "nqp" : 10078
+      },
+      "json_de" : {
+         "ruby" : 5069,
+         "perl" : 1321,
+         "javascript" : 1244
+      },
+      "str_join_slow" : {
+         "c#" : 379,
+         "ruby" : 25443,
+         "perl6" : 20322,
+         "c++" : 100,
+         "nim" : 940,
+         "perl" : 2209,
+         "javascript" : 460,
+         "lua" : 15638
+      },
+      "str_join_repeat" : {
+         "lua" : 129,
+         "perl" : 5,
+         "nim" : 127,
+         "ruby" : 78,
+         "perl6" : 17
+      },
+      "takeuchi" : {
+         "perl6" : 43016,
+         "c#" : 423,
+         "ruby" : 3137,
+         "perl" : 20184,
+         "nim" : 181,
+         "c++" : 30,
+         "javascript" : 419,
+         "nqp" : 23871,
+         "lua" : 571
+      },
+      "re_capture" : {
+         "perl" : 279,
+         "javascript" : 160,
+         "nqp" : 22046,
+         "lua" : 400,
+         "perl6" : 49586,
+         "ruby" : 879
+      },
+      "str_join" : {
+         "lua" : 345,
+         "javascript" : 100,
+         "nqp" : 3632,
+         "ruby" : 2149,
+         "c#" : 300,
+         "perl6" : 9630,
+         "c++" : 4,
+         "perl" : 686,
+         "nim" : 78
+      }
+   }
+}
