@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "c#" : 71,
+         "c++" : 4,
+         "javascript" : 103,
+         "ruby" : 763,
+         "perl6" : 12037,
+         "lua" : 134,
+         "perl" : 4797,
+         "nim" : 24,
+         "nqp" : 5967
+      },
+      "str_join" : {
+         "javascript" : 45,
+         "c++" : 3,
+         "c#" : 165,
+         "ruby" : 1138,
+         "lua" : 216,
+         "perl6" : 2598,
+         "nqp" : 1386,
+         "nim" : 46,
+         "perl" : 414
+      },
+      "str_join_slow" : {
+         "nim" : 381,
+         "perl" : 1507,
+         "perl6" : 6486,
+         "lua" : 10007,
+         "ruby" : 15215,
+         "c++" : 47,
+         "c#" : 215,
+         "javascript" : 219
+      },
+      "takeuchi" : {
+         "nqp" : 15025,
+         "nim" : 117,
+         "perl" : 12387,
+         "perl6" : 25879,
+         "lua" : 352,
+         "ruby" : 2081,
+         "c++" : 18,
+         "c#" : 294,
+         "javascript" : 247
+      },
+      "re_bool" : {
+         "lua" : 182,
+         "perl6" : 3676,
+         "perl" : 442,
+         "nqp" : 3652,
+         "javascript" : 34,
+         "ruby" : 126
+      },
+      "re_capture" : {
+         "javascript" : 77,
+         "ruby" : 404,
+         "lua" : 258,
+         "perl6" : 14081,
+         "nqp" : 10918,
+         "perl" : 165
+      },
+      "json_de" : {
+         "ruby" : 2577,
+         "perl" : 824,
+         "javascript" : 675
+      },
+      "fib_fast" : {
+         "perl6" : 3995,
+         "javascript" : 17
+      },
+      "json_se" : {
+         "ruby" : 2047,
+         "perl" : 368,
+         "javascript" : 563
+      },
+      "str_join_repeat" : {
+         "perl6" : 11,
+         "lua" : 81,
+         "perl" : 2,
+         "nim" : 49,
+         "ruby" : 51
+      }
+   },
+   "version" : {
+      "ruby" : "2.7.1p83",
+      "javascript" : "v14.5.0",
+      "c#" : "3.1.103",
+      "c++" : "10.0.0",
+      "perl" : "v5.32.0",
+      "nim" : "1.2.0",
+      "nqp" : "2020.06-9-gdb0c1088f",
+      "lua" : "2.0.5",
+      "perl6" : "2020.06-65-g90f86d4c9"
+   }
+}
