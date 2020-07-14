@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 693,
+         "perl" : 758,
+         "ruby" : 2472
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 4699
+      },
+      "json_se" : {
+         "perl" : 361,
+         "javascript" : 607,
+         "ruby" : 2034
+      },
+      "fib" : {
+         "perl" : 4638,
+         "c#" : 63,
+         "c++" : 4,
+         "perl6" : 11927,
+         "nqp" : 5872,
+         "nim" : 25,
+         "javascript" : 155,
+         "lua" : 134,
+         "ruby" : 760
+      },
+      "re_capture" : {
+         "perl" : 155,
+         "ruby" : 418,
+         "lua" : 252,
+         "javascript" : 87,
+         "nqp" : 10946,
+         "perl6" : 16939
+      },
+      "takeuchi" : {
+         "c++" : 18,
+         "c#" : 293,
+         "perl" : 11777,
+         "ruby" : 2019,
+         "lua" : 348,
+         "nim" : 125,
+         "javascript" : 271,
+         "perl6" : 26750,
+         "nqp" : 14115
+      },
+      "re_bool" : {
+         "perl" : 433,
+         "ruby" : 139,
+         "lua" : 189,
+         "javascript" : 58,
+         "nqp" : 3832,
+         "perl6" : 4649
+      },
+      "str_join" : {
+         "c++" : 3,
+         "perl" : 452,
+         "c#" : 200,
+         "ruby" : 1091,
+         "lua" : 220,
+         "perl6" : 2848,
+         "nqp" : 1482,
+         "nim" : 46,
+         "javascript" : 47
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "perl6" : 11,
+         "nim" : 52,
+         "ruby" : 57,
+         "lua" : 82
+      },
+      "str_join_slow" : {
+         "ruby" : 17422,
+         "lua" : 9559,
+         "perl6" : 6603,
+         "nim" : 388,
+         "javascript" : 224,
+         "c++" : 48,
+         "perl" : 1259,
+         "c#" : 254
+      }
+   },
+   "version" : {
+      "c++" : "10.0.0",
+      "c#" : "3.1.103",
+      "perl" : "v5.32.0",
+      "lua" : "2.0.5",
+      "ruby" : "2.7.1p83",
+      "javascript" : "v14.5.0",
+      "nim" : "1.2.0",
+      "nqp" : "2020.06-9-gdb0c1088f",
+      "perl6" : "2020.06-72-g85320f466"
+   }
+}
