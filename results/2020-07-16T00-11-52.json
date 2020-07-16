@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nim" : 23,
+         "c++" : 7,
+         "lua" : 132,
+         "javascript" : 103,
+         "ruby" : 775,
+         "perl6" : 13689,
+         "c#" : 63,
+         "perl" : 5077,
+         "nqp" : 6469
+      },
+      "json_de" : {
+         "ruby" : 2530,
+         "perl" : 810,
+         "javascript" : 663
+      },
+      "json_se" : {
+         "ruby" : 1995,
+         "javascript" : 743,
+         "perl" : 368
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 6308
+      },
+      "takeuchi" : {
+         "javascript" : 263,
+         "c++" : 19,
+         "lua" : 375,
+         "perl6" : 30447,
+         "ruby" : 1946,
+         "nim" : 119,
+         "perl" : 11630,
+         "c#" : 314,
+         "nqp" : 15572
+      },
+      "re_capture" : {
+         "lua" : 258,
+         "perl" : 156,
+         "javascript" : 75,
+         "ruby" : 418,
+         "nqp" : 12299,
+         "perl6" : 16354
+      },
+      "re_bool" : {
+         "ruby" : 128,
+         "nqp" : 3811,
+         "perl6" : 4600,
+         "lua" : 197,
+         "perl" : 509,
+         "javascript" : 39
+      },
+      "str_join_slow" : {
+         "ruby" : 16139,
+         "perl6" : 11068,
+         "lua" : 9879,
+         "c++" : 56,
+         "javascript" : 258,
+         "nim" : 362,
+         "c#" : 238,
+         "perl" : 1464
+      },
+      "str_join" : {
+         "nim" : 50,
+         "perl6" : 3143,
+         "ruby" : 1159,
+         "javascript" : 49,
+         "lua" : 244,
+         "c++" : 4,
+         "nqp" : 1647,
+         "perl" : 449,
+         "c#" : 204
+      },
+      "str_join_repeat" : {
+         "nim" : 72,
+         "perl" : 4,
+         "lua" : 98,
+         "perl6" : 11,
+         "ruby" : 52
+      }
+   },
+   "version" : {
+      "perl6" : "2020.06-72-g85320f466",
+      "ruby" : "2.7.1p83",
+      "javascript" : "v14.5.0",
+      "c++" : "10.0.0",
+      "lua" : "2.0.5",
+      "nim" : "1.2.0",
+      "nqp" : "2020.06-9-gdb0c1088f",
+      "perl" : "v5.32.0",
+      "c#" : "3.1.103"
+   }
+}
