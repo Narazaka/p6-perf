@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2020.07",
+      "perl" : "v5.32.0",
+      "c++" : "10.0.0",
+      "ruby" : "2.7.1p83",
+      "perl6" : "2020.07-25-g8ca13eb2a",
+      "c#" : "3.1.103",
+      "nim" : "1.2.4",
+      "javascript" : "v14.5.0",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 28,
+         "perl6" : 5081
+      },
+      "fib" : {
+         "c#" : 64,
+         "nim" : 26,
+         "lua" : 188,
+         "javascript" : 102,
+         "ruby" : 873,
+         "perl6" : 12488,
+         "perl" : 5688,
+         "c++" : 7,
+         "nqp" : 6035
+      },
+      "takeuchi" : {
+         "perl" : 12244,
+         "c++" : 19,
+         "nqp" : 16363,
+         "lua" : 352,
+         "javascript" : 252,
+         "nim" : 116,
+         "c#" : 290,
+         "perl6" : 26931,
+         "ruby" : 2133
+      },
+      "json_de" : {
+         "javascript" : 671,
+         "perl" : 832,
+         "ruby" : 2600
+      },
+      "str_join_repeat" : {
+         "ruby" : 55,
+         "perl6" : 10,
+         "perl" : 2,
+         "nim" : 64,
+         "lua" : 80
+      },
+      "str_join_slow" : {
+         "perl" : 1832,
+         "c++" : 50,
+         "perl6" : 6711,
+         "ruby" : 16639,
+         "c#" : 238,
+         "lua" : 9771,
+         "javascript" : 242,
+         "nim" : 391
+      },
+      "json_se" : {
+         "perl" : 372,
+         "javascript" : 567,
+         "ruby" : 2289
+      },
+      "re_bool" : {
+         "ruby" : 126,
+         "perl6" : 4065,
+         "nqp" : 3994,
+         "perl" : 602,
+         "lua" : 180,
+         "javascript" : 34
+      },
+      "re_capture" : {
+         "javascript" : 75,
+         "lua" : 288,
+         "perl" : 286,
+         "nqp" : 12279,
+         "perl6" : 17053,
+         "ruby" : 442
+      },
+      "str_join" : {
+         "nim" : 45,
+         "javascript" : 46,
+         "lua" : 221,
+         "c#" : 193,
+         "ruby" : 1144,
+         "perl6" : 3158,
+         "perl" : 488,
+         "c++" : 3,
+         "nqp" : 2018
+      }
+   }
+}
