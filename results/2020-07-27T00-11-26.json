@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 4757,
+         "javascript" : 22
+      },
+      "json_se" : {
+         "javascript" : 608,
+         "perl" : 367,
+         "ruby" : 2279
+      },
+      "re_capture" : {
+         "javascript" : 162,
+         "lua" : 318,
+         "perl" : 157,
+         "nqp" : 11463,
+         "ruby" : 433,
+         "perl6" : 15269
+      },
+      "json_de" : {
+         "javascript" : 816,
+         "perl" : 764,
+         "ruby" : 2599
+      },
+      "str_join_repeat" : {
+         "perl6" : 10,
+         "nim" : 92,
+         "ruby" : 53,
+         "perl" : 4,
+         "lua" : 123
+      },
+      "fib" : {
+         "ruby" : 776,
+         "nim" : 36,
+         "perl6" : 13189,
+         "c++" : 4,
+         "lua" : 135,
+         "javascript" : 167,
+         "c#" : 72,
+         "nqp" : 5839,
+         "perl" : 4694
+      },
+      "re_bool" : {
+         "perl6" : 3927,
+         "ruby" : 131,
+         "nqp" : 3907,
+         "perl" : 448,
+         "lua" : 241,
+         "javascript" : 33
+      },
+      "str_join" : {
+         "javascript" : 62,
+         "c++" : 4,
+         "lua" : 268,
+         "c#" : 203,
+         "ruby" : 1196,
+         "nim" : 71,
+         "perl6" : 2575,
+         "perl" : 416,
+         "nqp" : 1514
+      },
+      "takeuchi" : {
+         "c#" : 331,
+         "javascript" : 241,
+         "lua" : 354,
+         "c++" : 18,
+         "perl6" : 27464,
+         "nim" : 135,
+         "ruby" : 1979,
+         "perl" : 11902,
+         "nqp" : 14734
+      },
+      "str_join_slow" : {
+         "perl6" : 6549,
+         "nim" : 459,
+         "ruby" : 16576,
+         "c#" : 282,
+         "lua" : 10879,
+         "c++" : 73,
+         "javascript" : 223,
+         "perl" : 1314
+      }
+   },
+   "version" : {
+      "nim" : "1.2.4",
+      "ruby" : "2.7.1p83",
+      "perl6" : "2020.07-41-g3843a1e89",
+      "javascript" : "v14.6.0",
+      "lua" : "2.0.5",
+      "c++" : "10.0.1",
+      "c#" : "3.1.103",
+      "nqp" : "2020.07",
+      "perl" : "v5.32.0"
+   }
+}
