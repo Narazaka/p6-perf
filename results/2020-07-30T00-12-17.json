@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 6144,
+         "javascript" : 18
+      },
+      "json_se" : {
+         "perl" : 377,
+         "ruby" : 2569,
+         "javascript" : 567
+      },
+      "fib" : {
+         "nqp" : 7599,
+         "perl" : 4945,
+         "perl6" : 16291,
+         "lua" : 133,
+         "c#" : 63,
+         "c++" : 7,
+         "nim" : 27,
+         "ruby" : 761,
+         "javascript" : 100
+      },
+      "str_join_slow" : {
+         "nim" : 462,
+         "c++" : 54,
+         "javascript" : 212,
+         "ruby" : 19778,
+         "c#" : 251,
+         "lua" : 9586,
+         "perl6" : 7041,
+         "perl" : 1354
+      },
+      "str_join" : {
+         "nqp" : 2270,
+         "perl" : 442,
+         "perl6" : 2790,
+         "lua" : 219,
+         "c#" : 207,
+         "c++" : 3,
+         "nim" : 47,
+         "ruby" : 1646,
+         "javascript" : 53
+      },
+      "takeuchi" : {
+         "c#" : 290,
+         "lua" : 354,
+         "perl" : 12428,
+         "perl6" : 27005,
+         "nqp" : 19563,
+         "javascript" : 230,
+         "ruby" : 2291,
+         "nim" : 148,
+         "c++" : 18
+      },
+      "json_de" : {
+         "javascript" : 677,
+         "ruby" : 2735,
+         "perl" : 754
+      },
+      "str_join_repeat" : {
+         "lua" : 81,
+         "perl6" : 33,
+         "ruby" : 70,
+         "perl" : 2,
+         "nim" : 94
+      },
+      "re_capture" : {
+         "lua" : 245,
+         "perl6" : 16038,
+         "perl" : 155,
+         "nqp" : 12388,
+         "javascript" : 81,
+         "ruby" : 479
+      },
+      "re_bool" : {
+         "lua" : 180,
+         "perl6" : 3967,
+         "perl" : 465,
+         "nqp" : 5708,
+         "javascript" : 35,
+         "ruby" : 127
+      }
+   },
+   "version" : {
+      "nim" : "1.2.4",
+      "c++" : "10.0.1",
+      "javascript" : "v14.6.0",
+      "ruby" : "2.7.1p83",
+      "nqp" : "2020.07",
+      "perl" : "v5.32.0",
+      "perl6" : "2020.07-46-ga3af5833d",
+      "c#" : "3.1.106",
+      "lua" : "2.0.5"
+   }
+}
