@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 4354,
+         "javascript" : 17
+      },
+      "re_bool" : {
+         "javascript" : 34,
+         "nqp" : 3329,
+         "ruby" : 163,
+         "perl" : 509,
+         "lua" : 180,
+         "perl6" : 3391
+      },
+      "json_de" : {
+         "javascript" : 672,
+         "ruby" : 2773,
+         "perl" : 747
+      },
+      "str_join_slow" : {
+         "perl" : 1252,
+         "nim" : 354,
+         "perl6" : 9880,
+         "c#" : 203,
+         "javascript" : 207,
+         "ruby" : 15901,
+         "c++" : 47,
+         "lua" : 9577
+      },
+      "re_capture" : {
+         "perl6" : 13227,
+         "lua" : 244,
+         "perl" : 155,
+         "ruby" : 474,
+         "nqp" : 10498,
+         "javascript" : 82
+      },
+      "fib" : {
+         "nim" : 25,
+         "perl6" : 11792,
+         "c#" : 63,
+         "nqp" : 5718,
+         "perl" : 4595,
+         "lua" : 132,
+         "javascript" : 99,
+         "ruby" : 746,
+         "c++" : 4
+      },
+      "takeuchi" : {
+         "nim" : 115,
+         "perl6" : 24327,
+         "c#" : 289,
+         "perl" : 11699,
+         "nqp" : 13902,
+         "lua" : 347,
+         "ruby" : 2256,
+         "c++" : 18,
+         "javascript" : 227
+      },
+      "json_se" : {
+         "ruby" : 2377,
+         "perl" : 363,
+         "javascript" : 548
+      },
+      "str_join" : {
+         "lua" : 215,
+         "javascript" : 43,
+         "ruby" : 1218,
+         "c++" : 3,
+         "c#" : 167,
+         "nim" : 46,
+         "perl6" : 2458,
+         "nqp" : 1289,
+         "perl" : 438
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "ruby" : 53,
+         "lua" : 80,
+         "perl6" : 11,
+         "nim" : 57
+      }
+   },
+   "version" : {
+      "c#" : "3.1.106",
+      "perl6" : "2020.07-52-gfcfc60b63",
+      "nim" : "1.2.4",
+      "perl" : "v5.32.0",
+      "nqp" : "2020.07",
+      "lua" : "2.0.5",
+      "ruby" : "2.7.1p83",
+      "c++" : "10.0.1",
+      "javascript" : "v14.7.0"
+   }
+}
