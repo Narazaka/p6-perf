@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "ruby" : 2591,
+         "perl" : 840,
+         "javascript" : 865
+      },
+      "re_capture" : {
+         "perl" : 172,
+         "perl6" : 21207,
+         "nqp" : 12490,
+         "ruby" : 448,
+         "javascript" : 117,
+         "lua" : 302
+      },
+      "str_join_slow" : {
+         "nim" : 518,
+         "javascript" : 279,
+         "perl6" : 11298,
+         "perl" : 1397,
+         "lua" : 10736,
+         "c++" : 59,
+         "c#" : 291,
+         "ruby" : 16934
+      },
+      "fib" : {
+         "lua" : 133,
+         "c#" : 81,
+         "nqp" : 6598,
+         "ruby" : 843,
+         "c++" : 6,
+         "perl6" : 14219,
+         "perl" : 5199,
+         "javascript" : 135,
+         "nim" : 27
+      },
+      "re_bool" : {
+         "lua" : 184,
+         "nqp" : 3855,
+         "perl6" : 4460,
+         "perl" : 485,
+         "ruby" : 171,
+         "javascript" : 55
+      },
+      "str_join_repeat" : {
+         "lua" : 86,
+         "perl6" : 10,
+         "perl" : 2,
+         "ruby" : 57,
+         "nim" : 75
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 6405
+      },
+      "json_se" : {
+         "perl" : 384,
+         "ruby" : 2291,
+         "javascript" : 731
+      },
+      "takeuchi" : {
+         "javascript" : 327,
+         "nim" : 117,
+         "perl6" : 26984,
+         "perl" : 12756,
+         "c++" : 30,
+         "c#" : 350,
+         "nqp" : 16033,
+         "ruby" : 2127,
+         "lua" : 578
+      },
+      "str_join" : {
+         "lua" : 309,
+         "c#" : 258,
+         "nqp" : 1782,
+         "ruby" : 1227,
+         "c++" : 3,
+         "perl" : 416,
+         "perl6" : 3083,
+         "javascript" : 49,
+         "nim" : 53
+      }
+   },
+   "version" : {
+      "perl" : "v5.32.0",
+      "perl6" : "2020.07-56-g798614cb7",
+      "nim" : "1.2.4",
+      "javascript" : "v14.7.0",
+      "lua" : "2.0.5",
+      "ruby" : "2.7.1p83",
+      "c#" : "3.1.106",
+      "nqp" : "2020.07",
+      "c++" : "10.0.1"
+   }
+}
