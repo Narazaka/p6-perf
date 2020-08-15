@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl6" : 10,
+         "ruby" : 55,
+         "perl" : 3,
+         "lua" : 80,
+         "nim" : 59
+      },
+      "re_capture" : {
+         "perl" : 164,
+         "lua" : 245,
+         "nqp" : 11176,
+         "perl6" : 14310,
+         "ruby" : 405,
+         "javascript" : 79
+      },
+      "takeuchi" : {
+         "javascript" : 228,
+         "nqp" : 14786,
+         "c++" : 18,
+         "ruby" : 1988,
+         "perl6" : 26727,
+         "nim" : 116,
+         "lua" : 347,
+         "c#" : 291,
+         "perl" : 12231
+      },
+      "str_join" : {
+         "lua" : 223,
+         "nim" : 46,
+         "perl" : 416,
+         "c#" : 198,
+         "ruby" : 1109,
+         "perl6" : 2366,
+         "nqp" : 1294,
+         "c++" : 3,
+         "javascript" : 46
+      },
+      "json_se" : {
+         "javascript" : 558,
+         "ruby" : 1975,
+         "perl" : 374
+      },
+      "json_de" : {
+         "ruby" : 2500,
+         "javascript" : 655,
+         "perl" : 847
+      },
+      "str_join_slow" : {
+         "perl" : 1252,
+         "c#" : 243,
+         "lua" : 9593,
+         "nim" : 357,
+         "perl6" : 6223,
+         "ruby" : 17596,
+         "c++" : 48,
+         "javascript" : 200
+      },
+      "re_bool" : {
+         "perl6" : 3816,
+         "ruby" : 126,
+         "javascript" : 33,
+         "perl" : 424,
+         "lua" : 199,
+         "nqp" : 3595
+      },
+      "fib" : {
+         "nqp" : 6057,
+         "c++" : 4,
+         "javascript" : 99,
+         "c#" : 63,
+         "perl" : 4650,
+         "nim" : 25,
+         "lua" : 132,
+         "perl6" : 11779,
+         "ruby" : 767
+      },
+      "fib_fast" : {
+         "perl6" : 4662,
+         "javascript" : 17
+      }
+   },
+   "version" : {
+      "c++" : "10.0.1",
+      "nqp" : "2020.07-10-g36670be51",
+      "javascript" : "v14.8.0",
+      "nim" : "1.2.4",
+      "lua" : "2.0.5",
+      "c#" : "3.1.107",
+      "perl" : "v5.32.0",
+      "ruby" : "2.7.1p83",
+      "perl6" : "2020.07-64-g9d6d8dd7a"
+   }
+}
