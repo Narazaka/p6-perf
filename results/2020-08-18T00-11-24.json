@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 2069,
+         "javascript" : 569,
+         "perl" : 406
+      },
+      "str_join_repeat" : {
+         "nim" : 83,
+         "ruby" : 64,
+         "perl6" : 9,
+         "perl" : 2,
+         "lua" : 116
+      },
+      "re_capture" : {
+         "nqp" : 11540,
+         "perl" : 212,
+         "ruby" : 416,
+         "lua" : 293,
+         "javascript" : 78,
+         "perl6" : 20260
+      },
+      "re_bool" : {
+         "javascript" : 34,
+         "perl6" : 3998,
+         "lua" : 186,
+         "ruby" : 134,
+         "nqp" : 3732,
+         "perl" : 425
+      },
+      "takeuchi" : {
+         "lua" : 356,
+         "c++" : 18,
+         "perl6" : 25345,
+         "nim" : 131,
+         "javascript" : 235,
+         "perl" : 13118,
+         "nqp" : 14519,
+         "c#" : 293,
+         "ruby" : 2295
+      },
+      "str_join_slow" : {
+         "c#" : 234,
+         "ruby" : 17038,
+         "perl" : 1294,
+         "c++" : 54,
+         "perl6" : 11230,
+         "nim" : 375,
+         "javascript" : 236,
+         "lua" : 9964
+      },
+      "str_join" : {
+         "c#" : 190,
+         "ruby" : 1265,
+         "perl" : 476,
+         "nqp" : 1631,
+         "perl6" : 2609,
+         "c++" : 4,
+         "javascript" : 56,
+         "nim" : 69,
+         "lua" : 227
+      },
+      "fib_fast" : {
+         "perl6" : 4707,
+         "javascript" : 18
+      },
+      "json_de" : {
+         "javascript" : 657,
+         "ruby" : 2589,
+         "perl" : 848
+      },
+      "fib" : {
+         "ruby" : 886,
+         "c#" : 64,
+         "nqp" : 6706,
+         "perl" : 4734,
+         "javascript" : 111,
+         "nim" : 27,
+         "perl6" : 11785,
+         "c++" : 8,
+         "lua" : 177
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "c++" : "10.0.1",
+      "perl6" : "2020.07-64-g9d6d8dd7a",
+      "nim" : "1.2.4",
+      "javascript" : "v14.8.0",
+      "perl" : "v5.32.0",
+      "nqp" : "2020.07-10-g36670be51",
+      "c#" : "3.1.107",
+      "ruby" : "2.7.1p83"
+   }
+}
