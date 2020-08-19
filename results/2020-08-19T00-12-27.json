@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 4890
+      },
+      "str_join_slow" : {
+         "nim" : 468,
+         "c++" : 48,
+         "lua" : 10253,
+         "javascript" : 273,
+         "ruby" : 17067,
+         "perl6" : 7141,
+         "perl" : 1487,
+         "c#" : 258
+      },
+      "str_join_repeat" : {
+         "ruby" : 54,
+         "nim" : 63,
+         "lua" : 96,
+         "perl6" : 11,
+         "perl" : 4
+      },
+      "str_join" : {
+         "ruby" : 1454,
+         "javascript" : 46,
+         "nim" : 50,
+         "c++" : 4,
+         "lua" : 230,
+         "nqp" : 1604,
+         "perl" : 520,
+         "c#" : 248,
+         "perl6" : 2567
+      },
+      "re_bool" : {
+         "perl6" : 4077,
+         "lua" : 182,
+         "perl" : 438,
+         "javascript" : 35,
+         "ruby" : 187,
+         "nqp" : 3620
+      },
+      "json_se" : {
+         "javascript" : 589,
+         "ruby" : 2289,
+         "perl" : 386
+      },
+      "re_capture" : {
+         "javascript" : 116,
+         "nqp" : 11479,
+         "ruby" : 404,
+         "lua" : 297,
+         "perl6" : 15543,
+         "perl" : 158
+      },
+      "fib" : {
+         "nqp" : 5896,
+         "c#" : 74,
+         "perl" : 5050,
+         "perl6" : 12731,
+         "ruby" : 800,
+         "javascript" : 162,
+         "nim" : 32,
+         "c++" : 4,
+         "lua" : 134
+      },
+      "takeuchi" : {
+         "c#" : 308,
+         "perl" : 12194,
+         "perl6" : 27573,
+         "nqp" : 14540,
+         "nim" : 145,
+         "c++" : 31,
+         "lua" : 392,
+         "ruby" : 2092,
+         "javascript" : 246
+      },
+      "json_de" : {
+         "ruby" : 2687,
+         "javascript" : 712,
+         "perl" : 795
+      }
+   },
+   "version" : {
+      "nqp" : "2020.07-10-g36670be51",
+      "perl6" : "2020.07-66-g2db92e04f",
+      "perl" : "v5.32.0",
+      "c#" : "3.1.107",
+      "javascript" : "v14.8.0",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5",
+      "c++" : "10.0.1",
+      "nim" : "1.2.4"
+   }
+}
