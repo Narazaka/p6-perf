@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl6" : 17,
+         "perl" : 2,
+         "lua" : 116,
+         "nim" : 105,
+         "ruby" : 0
+      },
+      "fib" : {
+         "javascript" : 0,
+         "nim" : 39,
+         "nqp" : 9208,
+         "c#" : 89,
+         "lua" : 184,
+         "ruby" : 0,
+         "c++" : 0,
+         "perl" : 7527,
+         "perl6" : 17217
+      },
+      "str_join_slow" : {
+         "lua" : 12263,
+         "c#" : 315,
+         "nim" : 451,
+         "javascript" : 0,
+         "perl6" : 7358,
+         "perl" : 2121,
+         "c++" : 0,
+         "ruby" : 0
+      },
+      "json_de" : {
+         "perl" : 1210,
+         "javascript" : 0,
+         "ruby" : 0
+      },
+      "re_capture" : {
+         "javascript" : 0,
+         "ruby" : 0,
+         "nqp" : 15243,
+         "lua" : 330,
+         "perl6" : 17203,
+         "perl" : 238
+      },
+      "takeuchi" : {
+         "perl" : 18581,
+         "perl6" : 27427,
+         "c++" : 0,
+         "ruby" : 0,
+         "c#" : 374,
+         "lua" : 479,
+         "nim" : 140,
+         "nqp" : 22139,
+         "javascript" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 5727,
+         "javascript" : 0
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 593,
+         "perl6" : 3939,
+         "ruby" : 0,
+         "lua" : 303,
+         "c#" : 246,
+         "javascript" : 0,
+         "nqp" : 2221,
+         "nim" : 70
+      },
+      "re_bool" : {
+         "lua" : 230,
+         "perl6" : 4798,
+         "perl" : 690,
+         "javascript" : 0,
+         "ruby" : 0,
+         "nqp" : 5337
+      },
+      "json_se" : {
+         "perl" : 608,
+         "javascript" : 0,
+         "ruby" : 0
+      }
+   },
+   "version" : {
+      "c#" : "3.1.107",
+      "lua" : "2.0.5",
+      "nqp" : "2020.08.1-4-g05bd3a7df",
+      "nim" : "1.2.6",
+      "javascript" : null,
+      "perl" : "v5.32.0",
+      "perl6" : "2020.08.2-32-gfc75105fb",
+      "c++" : null,
+      "ruby" : null
+   }
+}
