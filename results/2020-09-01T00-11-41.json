@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "perl" : 507,
+         "ruby" : 0,
+         "perl6" : 3560,
+         "nqp" : 3518,
+         "lua" : 185,
+         "javascript" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 0,
+         "perl6" : 4672
+      },
+      "json_se" : {
+         "perl" : 367,
+         "javascript" : 0,
+         "ruby" : 0
+      },
+      "json_de" : {
+         "ruby" : 0,
+         "javascript" : 0,
+         "perl" : 796
+      },
+      "fib" : {
+         "javascript" : 0,
+         "lua" : 133,
+         "c++" : 0,
+         "c#" : 67,
+         "nqp" : 5916,
+         "nim" : 25,
+         "ruby" : 0,
+         "perl6" : 11426,
+         "perl" : 4873
+      },
+      "str_join_repeat" : {
+         "lua" : 80,
+         "ruby" : 0,
+         "perl6" : 20,
+         "nim" : 72,
+         "perl" : 3
+      },
+      "re_capture" : {
+         "javascript" : 0,
+         "lua" : 244,
+         "nqp" : 10953,
+         "ruby" : 0,
+         "perl6" : 14299,
+         "perl" : 176
+      },
+      "str_join_slow" : {
+         "perl6" : 9903,
+         "ruby" : 0,
+         "perl" : 1314,
+         "c#" : 252,
+         "c++" : 0,
+         "javascript" : 0,
+         "lua" : 9685,
+         "nim" : 373
+      },
+      "str_join" : {
+         "perl" : 411,
+         "ruby" : 0,
+         "perl6" : 2703,
+         "nim" : 48,
+         "nqp" : 1681,
+         "c++" : 0,
+         "c#" : 188,
+         "javascript" : 0,
+         "lua" : 218
+      },
+      "takeuchi" : {
+         "perl" : 11864,
+         "ruby" : 0,
+         "perl6" : 29425,
+         "nqp" : 14133,
+         "nim" : 118,
+         "lua" : 384,
+         "javascript" : 0,
+         "c++" : 0,
+         "c#" : 302
+      }
+   },
+   "version" : {
+      "perl" : "v5.32.0",
+      "ruby" : null,
+      "perl6" : "2020.08.2-35-g09e4f2333",
+      "nim" : "1.2.6",
+      "nqp" : "2020.08.2-8-g5633a49b8",
+      "c++" : null,
+      "c#" : "3.1.107",
+      "lua" : "2.0.5",
+      "javascript" : null
+   }
+}
