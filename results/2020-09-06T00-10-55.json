@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.32.0",
+      "c++" : "10.0.1",
+      "ruby" : "2.7.1p83",
+      "c#" : "3.1.107",
+      "perl6" : "2020.08.2-54-ge59262f65",
+      "nqp" : "2020.08.2-8-g5633a49b8",
+      "nim" : "1.2.6",
+      "javascript" : "v14.9.0",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "takeuchi" : {
+         "lua" : 347,
+         "javascript" : 227,
+         "c++" : 18,
+         "ruby" : 1998,
+         "perl6" : 25143,
+         "nqp" : 14029,
+         "nim" : 116,
+         "perl" : 11954,
+         "c#" : 291
+      },
+      "str_join_repeat" : {
+         "lua" : 80,
+         "ruby" : 57,
+         "perl6" : 20,
+         "nim" : 59,
+         "perl" : 2
+      },
+      "json_se" : {
+         "perl" : 364,
+         "javascript" : 553,
+         "ruby" : 1876
+      },
+      "json_de" : {
+         "perl" : 745,
+         "javascript" : 664,
+         "ruby" : 2441
+      },
+      "str_join_slow" : {
+         "nim" : 363,
+         "perl6" : 10012,
+         "c#" : 216,
+         "perl" : 1280,
+         "javascript" : 199,
+         "lua" : 9462,
+         "ruby" : 17103,
+         "c++" : 50
+      },
+      "re_bool" : {
+         "perl" : 424,
+         "perl6" : 3513,
+         "nqp" : 3530,
+         "ruby" : 158,
+         "lua" : 180,
+         "javascript" : 34
+      },
+      "str_join" : {
+         "javascript" : 44,
+         "lua" : 216,
+         "ruby" : 1185,
+         "c++" : 4,
+         "nim" : 47,
+         "nqp" : 1378,
+         "perl6" : 2515,
+         "c#" : 170,
+         "perl" : 411
+      },
+      "re_capture" : {
+         "javascript" : 78,
+         "lua" : 243,
+         "ruby" : 423,
+         "perl6" : 13599,
+         "nqp" : 9994,
+         "perl" : 155
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 4651
+      },
+      "fib" : {
+         "lua" : 132,
+         "javascript" : 99,
+         "c++" : 4,
+         "ruby" : 783,
+         "nqp" : 5733,
+         "perl6" : 11629,
+         "nim" : 25,
+         "perl" : 4686,
+         "c#" : 63
+      }
+   }
+}
