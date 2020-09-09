@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 898,
+         "ruby" : 3441,
+         "perl" : 975
+      },
+      "str_join_slow" : {
+         "c#" : 304,
+         "nim" : 574,
+         "c++" : 69,
+         "javascript" : 284,
+         "perl6" : 9067,
+         "perl" : 1695,
+         "ruby" : 20247,
+         "lua" : 12662
+      },
+      "str_join" : {
+         "lua" : 320,
+         "nqp" : 2202,
+         "ruby" : 1621,
+         "perl" : 551,
+         "javascript" : 62,
+         "perl6" : 3701,
+         "c++" : 4,
+         "nim" : 69,
+         "c#" : 223
+      },
+      "takeuchi" : {
+         "c#" : 342,
+         "nim" : 150,
+         "c++" : 31,
+         "perl6" : 33784,
+         "javascript" : 293,
+         "ruby" : 2529,
+         "perl" : 15066,
+         "nqp" : 19136,
+         "lua" : 524
+      },
+      "fib_fast" : {
+         "javascript" : 36,
+         "perl6" : 6443
+      },
+      "str_join_repeat" : {
+         "nim" : 82,
+         "lua" : 103,
+         "perl6" : 30,
+         "ruby" : 60,
+         "perl" : 4
+      },
+      "json_se" : {
+         "javascript" : 807,
+         "perl" : 459,
+         "ruby" : 2701
+      },
+      "re_capture" : {
+         "javascript" : 111,
+         "lua" : 317,
+         "perl6" : 34638,
+         "nqp" : 15132,
+         "ruby" : 608,
+         "perl" : 216
+      },
+      "re_bool" : {
+         "nqp" : 5201,
+         "javascript" : 42,
+         "lua" : 224,
+         "perl6" : 5431,
+         "ruby" : 179,
+         "perl" : 565
+      },
+      "fib" : {
+         "c#" : 75,
+         "perl6" : 15983,
+         "javascript" : 129,
+         "c++" : 4,
+         "nim" : 28,
+         "ruby" : 972,
+         "perl" : 6119,
+         "lua" : 160,
+         "nqp" : 7805
+      }
+   },
+   "version" : {
+      "perl" : "v5.32.0",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5",
+      "nqp" : "2020.08.2-8-g5633a49b8",
+      "c#" : "3.1.107",
+      "javascript" : "v14.10.0",
+      "perl6" : "2020.08.2-59-ge65466fcd",
+      "c++" : "10.0.1",
+      "nim" : "1.2.6"
+   }
+}
