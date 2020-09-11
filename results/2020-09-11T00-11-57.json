@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "c++" : 55,
+         "lua" : 10789,
+         "ruby" : 19594,
+         "perl6" : 7212,
+         "perl" : 1545,
+         "javascript" : 200,
+         "nim" : 378,
+         "c#" : 295
+      },
+      "str_join" : {
+         "c#" : 245,
+         "nim" : 49,
+         "javascript" : 59,
+         "nqp" : 1721,
+         "perl" : 425,
+         "c++" : 3,
+         "lua" : 237,
+         "ruby" : 1291,
+         "perl6" : 2901
+      },
+      "json_se" : {
+         "javascript" : 629,
+         "ruby" : 2036,
+         "perl" : 375
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 6230
+      },
+      "json_de" : {
+         "javascript" : 787,
+         "perl" : 807,
+         "ruby" : 2573
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "nqp" : 4193,
+         "perl" : 461,
+         "ruby" : 151,
+         "perl6" : 4646,
+         "lua" : 191
+      },
+      "re_capture" : {
+         "javascript" : 109,
+         "nqp" : 12167,
+         "perl" : 190,
+         "perl6" : 16369,
+         "ruby" : 461,
+         "lua" : 285
+      },
+      "takeuchi" : {
+         "nim" : 142,
+         "c#" : 349,
+         "nqp" : 16763,
+         "javascript" : 318,
+         "lua" : 468,
+         "ruby" : 2225,
+         "perl6" : 27469,
+         "c++" : 30,
+         "perl" : 12994
+      },
+      "fib" : {
+         "c#" : 71,
+         "nim" : 27,
+         "nqp" : 6740,
+         "javascript" : 120,
+         "perl" : 4982,
+         "ruby" : 801,
+         "perl6" : 13066,
+         "lua" : 132,
+         "c++" : 7
+      },
+      "str_join_repeat" : {
+         "perl" : 4,
+         "nim" : 77,
+         "perl6" : 28,
+         "ruby" : 63,
+         "lua" : 112
+      }
+   },
+   "version" : {
+      "c#" : "3.1.107",
+      "nim" : "1.2.6",
+      "nqp" : "2020.08.2-8-g5633a49b8",
+      "javascript" : "v14.10.0",
+      "perl" : "v5.32.0",
+      "perl6" : "2020.08.2-59-ge65466fcd",
+      "ruby" : "2.7.1p83",
+      "lua" : "2.0.5",
+      "c++" : "10.0.1"
+   }
+}
