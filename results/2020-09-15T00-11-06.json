@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 5054,
+         "javascript" : 18
+      },
+      "json_se" : {
+         "ruby" : 1883,
+         "perl" : 402,
+         "javascript" : 626
+      },
+      "re_bool" : {
+         "lua" : 183,
+         "nqp" : 3521,
+         "perl6" : 3591,
+         "javascript" : 55,
+         "ruby" : 145,
+         "perl" : 461
+      },
+      "fib" : {
+         "ruby" : 809,
+         "nim" : 26,
+         "c++" : 4,
+         "perl6" : 12198,
+         "javascript" : 106,
+         "nqp" : 5829,
+         "perl" : 4916,
+         "lua" : 160,
+         "c#" : 71
+      },
+      "json_de" : {
+         "ruby" : 2471,
+         "perl" : 785,
+         "javascript" : 759
+      },
+      "re_capture" : {
+         "perl" : 199,
+         "ruby" : 427,
+         "nqp" : 10361,
+         "javascript" : 95,
+         "perl6" : 21471,
+         "lua" : 246
+      },
+      "str_join_slow" : {
+         "perl6" : 10589,
+         "javascript" : 237,
+         "c++" : 50,
+         "nim" : 366,
+         "ruby" : 16309,
+         "lua" : 9765,
+         "c#" : 240,
+         "perl" : 1343
+      },
+      "str_join" : {
+         "c++" : 3,
+         "javascript" : 45,
+         "perl6" : 3094,
+         "nqp" : 1320,
+         "ruby" : 1202,
+         "nim" : 52,
+         "lua" : 234,
+         "c#" : 166,
+         "perl" : 429
+      },
+      "str_join_repeat" : {
+         "lua" : 80,
+         "perl6" : 21,
+         "ruby" : 56,
+         "perl" : 2,
+         "nim" : 59
+      },
+      "takeuchi" : {
+         "perl" : 12074,
+         "lua" : 357,
+         "c#" : 306,
+         "ruby" : 2015,
+         "nim" : 132,
+         "c++" : 18,
+         "nqp" : 14484,
+         "javascript" : 338,
+         "perl6" : 26461
+      }
+   },
+   "version" : {
+      "perl" : "v5.32.0",
+      "lua" : "2.0.5",
+      "c#" : "3.1.108",
+      "ruby" : "2.7.1p83",
+      "nim" : "1.2.6",
+      "c++" : "10.0.1",
+      "nqp" : "2020.08.2-15-gea2e8f080",
+      "javascript" : "v14.10.1",
+      "perl6" : "2020.08.2-68-gd87eaa7e1"
+   }
+}
