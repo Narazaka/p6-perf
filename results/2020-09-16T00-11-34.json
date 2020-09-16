@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 17341,
+         "lua" : 244,
+         "nqp" : 12488,
+         "ruby" : 486,
+         "javascript" : 81,
+         "perl" : 245
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "ruby" : 61,
+         "perl6" : 16,
+         "lua" : 80,
+         "perl" : 4
+      },
+      "str_join_slow" : {
+         "ruby" : 16906,
+         "nim" : 413,
+         "perl6" : 11781,
+         "javascript" : 226,
+         "c#" : 231,
+         "lua" : 9472,
+         "perl" : 1408,
+         "c++" : 51
+      },
+      "takeuchi" : {
+         "perl" : 14035,
+         "c++" : 18,
+         "lua" : 349,
+         "c#" : 335,
+         "javascript" : 229,
+         "perl6" : 29232,
+         "nqp" : 17170,
+         "ruby" : 2305,
+         "nim" : 190
+      },
+      "fib" : {
+         "c#" : 67,
+         "lua" : 132,
+         "perl" : 4961,
+         "c++" : 4,
+         "ruby" : 1017,
+         "nim" : 25,
+         "perl6" : 12320,
+         "nqp" : 7086,
+         "javascript" : 99
+      },
+      "json_se" : {
+         "perl" : 437,
+         "javascript" : 570,
+         "ruby" : 2043
+      },
+      "str_join" : {
+         "lua" : 217,
+         "c#" : 170,
+         "c++" : 3,
+         "perl" : 448,
+         "nqp" : 1685,
+         "perl6" : 3065,
+         "ruby" : 1485,
+         "nim" : 57,
+         "javascript" : 46
+      },
+      "re_bool" : {
+         "javascript" : 33,
+         "perl" : 500,
+         "lua" : 180,
+         "nqp" : 4018,
+         "perl6" : 4161,
+         "ruby" : 140
+      },
+      "fib_fast" : {
+         "perl6" : 5359,
+         "javascript" : 17
+      },
+      "json_de" : {
+         "ruby" : 2658,
+         "perl" : 892,
+         "javascript" : 671
+      }
+   },
+   "version" : {
+      "javascript" : "v14.10.1",
+      "perl6" : "2020.08.2-72-gf352b6d33",
+      "nqp" : "2020.08.2-15-gea2e8f080",
+      "ruby" : "2.7.1p83",
+      "nim" : "1.2.6",
+      "perl" : "v5.32.0",
+      "c++" : "10.0.1",
+      "lua" : "2.0.5",
+      "c#" : "3.1.108"
+   }
+}
