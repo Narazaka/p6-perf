@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "c++" : 4,
+         "nqp" : 8653,
+         "perl" : 6813,
+         "ruby" : 803,
+         "javascript" : 102,
+         "perl6" : 12012,
+         "lua" : 143,
+         "c#" : 63,
+         "nim" : 25
+      },
+      "json_se" : {
+         "ruby" : 2091,
+         "javascript" : 563,
+         "perl" : 402
+      },
+      "str_join_repeat" : {
+         "lua" : 81,
+         "nim" : 78,
+         "perl" : 5,
+         "ruby" : 56,
+         "perl6" : 21
+      },
+      "json_de" : {
+         "ruby" : 2618,
+         "javascript" : 663,
+         "perl" : 1112
+      },
+      "str_join_slow" : {
+         "perl" : 1859,
+         "c++" : 57,
+         "javascript" : 236,
+         "perl6" : 8074,
+         "ruby" : 17828,
+         "nim" : 379,
+         "lua" : 9631,
+         "c#" : 242
+      },
+      "takeuchi" : {
+         "c#" : 297,
+         "lua" : 359,
+         "nim" : 161,
+         "ruby" : 2440,
+         "javascript" : 271,
+         "perl6" : 29067,
+         "c++" : 18,
+         "perl" : 13330,
+         "nqp" : 19029
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 4897
+      },
+      "re_bool" : {
+         "nqp" : 4580,
+         "perl" : 627,
+         "ruby" : 282,
+         "perl6" : 4372,
+         "javascript" : 35,
+         "lua" : 207
+      },
+      "str_join" : {
+         "lua" : 230,
+         "c#" : 194,
+         "nim" : 64,
+         "ruby" : 1266,
+         "javascript" : 45,
+         "perl6" : 2729,
+         "c++" : 3,
+         "nqp" : 2318,
+         "perl" : 444
+      },
+      "re_capture" : {
+         "nqp" : 15072,
+         "perl" : 203,
+         "lua" : 251,
+         "ruby" : 440,
+         "perl6" : 15307,
+         "javascript" : 78
+      }
+   },
+   "version" : {
+      "perl" : "v5.32.0",
+      "nqp" : "2020.08.2-18-gb28db8914",
+      "c++" : "10.0.1",
+      "nim" : "1.2.6",
+      "c#" : "3.1.108",
+      "lua" : "2.0.5",
+      "perl6" : "2020.08.2-83-gef0ecec34",
+      "javascript" : "v14.12.0",
+      "ruby" : "2.7.1p83"
+   }
+}
