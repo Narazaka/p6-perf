@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "lua" : 226,
+         "javascript" : 34,
+         "perl" : 644,
+         "ruby" : 147,
+         "nqp" : 4392,
+         "perl6" : 4630
+      },
+      "str_join" : {
+         "c#" : 288,
+         "ruby" : 1432,
+         "perl" : 429,
+         "c++" : 4,
+         "nim" : 69,
+         "javascript" : 46,
+         "nqp" : 2081,
+         "perl6" : 3318,
+         "lua" : 326
+      },
+      "str_join_repeat" : {
+         "nim" : 95,
+         "ruby" : 61,
+         "perl" : 2,
+         "perl6" : 22,
+         "lua" : 103
+      },
+      "json_de" : {
+         "javascript" : 692,
+         "ruby" : 3003,
+         "perl" : 968
+      },
+      "re_capture" : {
+         "lua" : 261,
+         "javascript" : 78,
+         "perl" : 249,
+         "ruby" : 558,
+         "perl6" : 18100,
+         "nqp" : 14963
+      },
+      "fib" : {
+         "c#" : 64,
+         "lua" : 183,
+         "nim" : 27,
+         "javascript" : 100,
+         "ruby" : 831,
+         "c++" : 7,
+         "perl" : 5968,
+         "nqp" : 7909,
+         "perl6" : 14240
+      },
+      "json_se" : {
+         "javascript" : 682,
+         "perl" : 433,
+         "ruby" : 2477
+      },
+      "str_join_slow" : {
+         "c#" : 294,
+         "ruby" : 19684,
+         "perl" : 1514,
+         "c++" : 74,
+         "javascript" : 204,
+         "nim" : 457,
+         "perl6" : 7822,
+         "lua" : 10758
+      },
+      "takeuchi" : {
+         "lua" : 493,
+         "javascript" : 228,
+         "nim" : 176,
+         "ruby" : 2286,
+         "perl" : 12087,
+         "c++" : 22,
+         "perl6" : 28261,
+         "nqp" : 19534,
+         "c#" : 303
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 5265
+      }
+   },
+   "version" : {
+      "c#" : "3.1.108",
+      "c++" : "10.0.1",
+      "perl" : "v5.32.0",
+      "ruby" : "2.7.1p83",
+      "javascript" : "v14.13.0",
+      "nim" : "1.2.6",
+      "perl6" : "2020.09-8-g62a22d0fe",
+      "nqp" : "2020.09-3-g30dd003b1",
+      "lua" : "2.0.5"
+   }
+}
