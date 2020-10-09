@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 4415
+      },
+      "json_se" : {
+         "perl" : 453,
+         "javascript" : 775,
+         "ruby" : 1951
+      },
+      "fib" : {
+         "ruby" : 826,
+         "perl6" : 12425,
+         "lua" : 183,
+         "c#" : 67,
+         "javascript" : 99,
+         "c++" : 4,
+         "nqp" : 5994,
+         "nim" : 25,
+         "perl" : 5889
+      },
+      "str_join_slow" : {
+         "perl6" : 11222,
+         "lua" : 9770,
+         "ruby" : 17340,
+         "c++" : 86,
+         "javascript" : 299,
+         "c#" : 206,
+         "perl" : 1688,
+         "nim" : 360
+      },
+      "json_de" : {
+         "javascript" : 924,
+         "perl" : 942,
+         "ruby" : 2474
+      },
+      "takeuchi" : {
+         "lua" : 349,
+         "perl6" : 29088,
+         "perl" : 12551,
+         "nim" : 115,
+         "javascript" : 273,
+         "c++" : 27,
+         "nqp" : 14899,
+         "c#" : 291,
+         "ruby" : 2433
+      },
+      "re_bool" : {
+         "nqp" : 3521,
+         "javascript" : 34,
+         "perl" : 527,
+         "perl6" : 3447,
+         "lua" : 209,
+         "ruby" : 187
+      },
+      "str_join_repeat" : {
+         "perl" : 4,
+         "nim" : 59,
+         "lua" : 81,
+         "ruby" : 54,
+         "perl6" : 22
+      },
+      "str_join" : {
+         "ruby" : 1153,
+         "c#" : 159,
+         "javascript" : 46,
+         "c++" : 3,
+         "nqp" : 1301,
+         "nim" : 61,
+         "perl" : 413,
+         "perl6" : 3628,
+         "lua" : 218
+      },
+      "re_capture" : {
+         "ruby" : 442,
+         "lua" : 245,
+         "perl6" : 13866,
+         "perl" : 184,
+         "nqp" : 11677,
+         "javascript" : 100
+      }
+   },
+   "version" : {
+      "ruby" : "2.7.2p137",
+      "perl6" : "2020.09-22-ga57740946",
+      "lua" : "2.0.5",
+      "c#" : "3.1.108",
+      "c++" : "10.0.1",
+      "javascript" : "v14.13.1",
+      "nqp" : "2020.09-4-ga2435ee1f",
+      "nim" : "1.2.6",
+      "perl" : "v5.32.0"
+   }
+}
