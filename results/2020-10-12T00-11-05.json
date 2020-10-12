@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "2.7.2p137",
+      "javascript" : "v14.13.1",
+      "perl6" : "2020.09-36-g1c08e66b7",
+      "c#" : "3.1.108",
+      "lua" : "2.0.5",
+      "c++" : "10.0.1",
+      "nim" : "1.2.6",
+      "nqp" : "2020.09-4-ga2435ee1f",
+      "perl" : "v5.32.0"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "nim" : 362,
+         "c++" : 50,
+         "lua" : 9591,
+         "c#" : 210,
+         "perl6" : 9767,
+         "javascript" : 198,
+         "ruby" : 16465,
+         "perl" : 1310
+      },
+      "fib_fast" : {
+         "javascript" : 16,
+         "perl6" : 4454
+      },
+      "takeuchi" : {
+         "perl" : 11821,
+         "javascript" : 228,
+         "lua" : 347,
+         "perl6" : 25865,
+         "c#" : 291,
+         "ruby" : 2092,
+         "nqp" : 14174,
+         "nim" : 118,
+         "c++" : 18
+      },
+      "str_join_repeat" : {
+         "nim" : 62,
+         "perl" : 2,
+         "ruby" : 54,
+         "perl6" : 21,
+         "lua" : 80
+      },
+      "json_se" : {
+         "perl" : 385,
+         "ruby" : 1980,
+         "javascript" : 552
+      },
+      "json_de" : {
+         "javascript" : 661,
+         "ruby" : 2627,
+         "perl" : 891
+      },
+      "fib" : {
+         "c++" : 4,
+         "nqp" : 5728,
+         "nim" : 26,
+         "ruby" : 824,
+         "javascript" : 99,
+         "lua" : 134,
+         "perl6" : 12189,
+         "c#" : 63,
+         "perl" : 5369
+      },
+      "re_capture" : {
+         "perl" : 185,
+         "nqp" : 10915,
+         "perl6" : 12765,
+         "lua" : 245,
+         "javascript" : 79,
+         "ruby" : 442
+      },
+      "re_bool" : {
+         "perl" : 441,
+         "nqp" : 3325,
+         "ruby" : 141,
+         "javascript" : 36,
+         "lua" : 181,
+         "perl6" : 3313
+      },
+      "str_join" : {
+         "perl" : 413,
+         "ruby" : 1202,
+         "javascript" : 43,
+         "lua" : 225,
+         "perl6" : 2558,
+         "c#" : 167,
+         "c++" : 3,
+         "nqp" : 1469,
+         "nim" : 45
+      }
+   }
+}
