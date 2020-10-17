@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : "2020.09-59-g198f60304",
+      "perl" : "v5.32.0",
+      "c++" : "10.0.1",
+      "c#" : "3.1.108",
+      "javascript" : "v14.14.0",
+      "nim" : "1.4.0",
+      "ruby" : "2.7.2p137",
+      "lua" : "2.0.5",
+      "nqp" : "2020.09-4-ga2435ee1f"
+   },
+   "result" : {
+      "re_bool" : {
+         "javascript" : 53,
+         "nqp" : 4124,
+         "lua" : 187,
+         "ruby" : 168,
+         "perl6" : 4376,
+         "perl" : 536
+      },
+      "str_join_repeat" : {
+         "lua" : 129,
+         "nim" : 55,
+         "perl" : 3,
+         "perl6" : 24,
+         "ruby" : 60
+      },
+      "str_join_slow" : {
+         "ruby" : 17468,
+         "lua" : 9683,
+         "perl" : 1598,
+         "c++" : 73,
+         "c#" : 253,
+         "perl6" : 7574,
+         "javascript" : 195,
+         "nim" : 355
+      },
+      "takeuchi" : {
+         "javascript" : 278,
+         "nim" : 120,
+         "c++" : 33,
+         "perl" : 13843,
+         "c#" : 312,
+         "perl6" : 27678,
+         "lua" : 362,
+         "nqp" : 14741,
+         "ruby" : 2326
+      },
+      "str_join" : {
+         "nqp" : 1523,
+         "lua" : 302,
+         "ruby" : 1415,
+         "nim" : 49,
+         "javascript" : 63,
+         "c++" : 3,
+         "perl" : 493,
+         "c#" : 191,
+         "perl6" : 3181
+      },
+      "re_capture" : {
+         "nqp" : 11816,
+         "lua" : 245,
+         "javascript" : 80,
+         "perl" : 188,
+         "ruby" : 511,
+         "perl6" : 24901
+      },
+      "json_se" : {
+         "ruby" : 2304,
+         "perl" : 415,
+         "javascript" : 591
+      },
+      "fib_fast" : {
+         "perl6" : 5340,
+         "javascript" : 25
+      },
+      "json_de" : {
+         "javascript" : 691,
+         "ruby" : 2803,
+         "perl" : 875
+      },
+      "fib" : {
+         "javascript" : 99,
+         "nim" : 31,
+         "perl6" : 14517,
+         "perl" : 5684,
+         "c++" : 6,
+         "c#" : 63,
+         "nqp" : 6922,
+         "lua" : 135,
+         "ruby" : 901
+      }
+   }
+}
