@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 92,
+         "perl" : 3,
+         "ruby" : 51,
+         "perl6" : 20,
+         "nim" : 55
+      },
+      "re_bool" : {
+         "perl" : 630,
+         "nqp" : 3982,
+         "javascript" : 57,
+         "perl6" : 3984,
+         "lua" : 181,
+         "ruby" : 151
+      },
+      "str_join_slow" : {
+         "lua" : 10105,
+         "ruby" : 17908,
+         "nim" : 392,
+         "c#" : 245,
+         "c++" : 51,
+         "perl" : 1367,
+         "javascript" : 252,
+         "perl6" : 7195
+      },
+      "str_join" : {
+         "perl6" : 2773,
+         "javascript" : 44,
+         "nqp" : 1742,
+         "c++" : 3,
+         "perl" : 411,
+         "c#" : 189,
+         "ruby" : 1309,
+         "nim" : 45,
+         "lua" : 251
+      },
+      "fib_fast" : {
+         "perl6" : 5124,
+         "javascript" : 17
+      },
+      "fib" : {
+         "lua" : 140,
+         "nim" : 25,
+         "ruby" : 819,
+         "c#" : 63,
+         "c++" : 4,
+         "perl" : 5158,
+         "javascript" : 99,
+         "nqp" : 6452,
+         "perl6" : 12593
+      },
+      "json_se" : {
+         "ruby" : 2014,
+         "perl" : 400,
+         "javascript" : 553
+      },
+      "json_de" : {
+         "javascript" : 757,
+         "perl" : 821,
+         "ruby" : 2986
+      },
+      "re_capture" : {
+         "perl6" : 17418,
+         "nqp" : 12720,
+         "javascript" : 95,
+         "perl" : 176,
+         "ruby" : 438,
+         "lua" : 277
+      },
+      "takeuchi" : {
+         "javascript" : 286,
+         "nqp" : 17103,
+         "perl" : 13804,
+         "c++" : 18,
+         "perl6" : 27020,
+         "lua" : 378,
+         "c#" : 308,
+         "ruby" : 2076,
+         "nim" : 116
+      }
+   },
+   "version" : {
+      "c#" : "3.1.108",
+      "nim" : "1.4.0",
+      "ruby" : "2.7.2p137",
+      "lua" : "2.0.5",
+      "perl6" : "2020.09-64-gc701a4825",
+      "javascript" : "v14.14.0",
+      "nqp" : "2020.09-10-g2c5ad3b15",
+      "c++" : "10.0.1",
+      "perl" : "v5.32.0"
+   }
+}
