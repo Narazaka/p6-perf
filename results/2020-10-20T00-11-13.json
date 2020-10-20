@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "1.4.0",
+      "c++" : "10.0.1",
+      "ruby" : "2.7.2p137",
+      "perl" : "v5.32.0",
+      "javascript" : "v14.14.0",
+      "c#" : "3.1.108",
+      "nqp" : "2020.09-14-g6f3d917fc",
+      "lua" : "2.0.5",
+      "perl6" : "2020.09-74-g409737062"
+   },
+   "result" : {
+      "str_join" : {
+         "perl6" : 2570,
+         "lua" : 217,
+         "c#" : 200,
+         "nqp" : 1259,
+         "perl" : 460,
+         "javascript" : 45,
+         "ruby" : 1174,
+         "c++" : 3,
+         "nim" : 46
+      },
+      "json_de" : {
+         "ruby" : 2573,
+         "perl" : 774,
+         "javascript" : 692
+      },
+      "takeuchi" : {
+         "nim" : 115,
+         "c++" : 18,
+         "c#" : 303,
+         "nqp" : 15320,
+         "ruby" : 2018,
+         "javascript" : 262,
+         "perl" : 12022,
+         "perl6" : 29182,
+         "lua" : 350
+      },
+      "str_join_repeat" : {
+         "perl6" : 24,
+         "lua" : 83,
+         "nim" : 57,
+         "ruby" : 57,
+         "perl" : 2
+      },
+      "re_bool" : {
+         "perl" : 430,
+         "javascript" : 36,
+         "ruby" : 143,
+         "nqp" : 3583,
+         "lua" : 188,
+         "perl6" : 3818
+      },
+      "re_capture" : {
+         "perl6" : 14249,
+         "lua" : 246,
+         "nqp" : 10690,
+         "ruby" : 424,
+         "javascript" : 81,
+         "perl" : 164
+      },
+      "fib" : {
+         "ruby" : 958,
+         "perl" : 4786,
+         "javascript" : 99,
+         "nqp" : 5734,
+         "c#" : 63,
+         "lua" : 139,
+         "perl6" : 12609,
+         "nim" : 32,
+         "c++" : 4
+      },
+      "fib_fast" : {
+         "perl6" : 4440,
+         "javascript" : 18
+      },
+      "str_join_slow" : {
+         "lua" : 9972,
+         "perl6" : 6887,
+         "ruby" : 16581,
+         "javascript" : 199,
+         "perl" : 1309,
+         "c#" : 254,
+         "c++" : 51,
+         "nim" : 360
+      },
+      "json_se" : {
+         "ruby" : 1923,
+         "javascript" : 625,
+         "perl" : 368
+      }
+   }
+}
