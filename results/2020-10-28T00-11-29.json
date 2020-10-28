@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.32.0",
+      "perl6" : null,
+      "lua" : "2.0.5",
+      "nim" : "1.4.0",
+      "c++" : "10.0.1",
+      "ruby" : "2.7.2p137",
+      "nqp" : "2020.10",
+      "javascript" : "v15.0.1",
+      "c#" : "3.1.108"
+   },
+   "result" : {
+      "takeuchi" : {
+         "nqp" : 15740,
+         "c#" : 291,
+         "javascript" : 245,
+         "ruby" : 2152,
+         "c++" : 18,
+         "lua" : 347,
+         "perl" : 13743,
+         "perl6" : 26582,
+         "nim" : 118
+      },
+      "str_join_repeat" : {
+         "lua" : 80,
+         "perl" : 2,
+         "perl6" : 10,
+         "ruby" : 52,
+         "nim" : 55
+      },
+      "json_de" : {
+         "javascript" : 670,
+         "perl" : 798,
+         "ruby" : 2534
+      },
+      "fib" : {
+         "c++" : 4,
+         "ruby" : 845,
+         "javascript" : 105,
+         "c#" : 63,
+         "nqp" : 5776,
+         "nim" : 25,
+         "perl6" : 12648,
+         "perl" : 5833,
+         "lua" : 133
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 4810
+      },
+      "json_se" : {
+         "ruby" : 1908,
+         "perl" : 414,
+         "javascript" : 551
+      },
+      "re_bool" : {
+         "ruby" : 145,
+         "lua" : 181,
+         "perl" : 623,
+         "perl6" : 3753,
+         "javascript" : 36,
+         "nqp" : 4294
+      },
+      "re_capture" : {
+         "nqp" : 13333,
+         "javascript" : 85,
+         "lua" : 247,
+         "perl" : 220,
+         "perl6" : 14529,
+         "ruby" : 553
+      },
+      "str_join" : {
+         "perl" : 429,
+         "perl6" : 2795,
+         "lua" : 220,
+         "nim" : 45,
+         "nqp" : 1406,
+         "javascript" : 46,
+         "c#" : 159,
+         "c++" : 3,
+         "ruby" : 1165
+      },
+      "str_join_slow" : {
+         "c++" : 48,
+         "ruby" : 15369,
+         "javascript" : 191,
+         "c#" : 198,
+         "nim" : 354,
+         "perl" : 1564,
+         "perl6" : 10849,
+         "lua" : 9559
+      }
+   }
+}
