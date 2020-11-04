@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "1.4.0",
+      "c#" : "3.1.108",
+      "nqp" : "2020.10-63-gc10e950ec",
+      "javascript" : "v15.0.1",
+      "perl" : "v5.32.0",
+      "lua" : "2.0.5",
+      "c++" : "10.0.1",
+      "ruby" : "2.7.2p137",
+      "perl6" : null
+   },
+   "result" : {
+      "re_capture" : {
+         "perl6" : 14803,
+         "ruby" : 425,
+         "perl" : 159,
+         "lua" : 248,
+         "javascript" : 84,
+         "nqp" : 12011
+      },
+      "str_join_slow" : {
+         "nim" : 363,
+         "javascript" : 225,
+         "c++" : 50,
+         "perl6" : 7275,
+         "ruby" : 16270,
+         "perl" : 1352,
+         "lua" : 9580,
+         "c#" : 273
+      },
+      "re_bool" : {
+         "perl6" : 3744,
+         "ruby" : 137,
+         "lua" : 181,
+         "perl" : 435,
+         "javascript" : 36,
+         "nqp" : 3702
+      },
+      "str_join" : {
+         "c++" : 3,
+         "perl6" : 2633,
+         "ruby" : 1171,
+         "lua" : 217,
+         "perl" : 450,
+         "javascript" : 47,
+         "nqp" : 1337,
+         "c#" : 201,
+         "nim" : 71
+      },
+      "takeuchi" : {
+         "nim" : 122,
+         "javascript" : 246,
+         "nqp" : 15087,
+         "c++" : 18,
+         "perl6" : 26042,
+         "ruby" : 2047,
+         "perl" : 11863,
+         "lua" : 355,
+         "c#" : 291
+      },
+      "json_de" : {
+         "perl" : 799,
+         "ruby" : 2571,
+         "javascript" : 713
+      },
+      "fib_fast" : {
+         "perl6" : 4885,
+         "javascript" : 30
+      },
+      "str_join_repeat" : {
+         "nim" : 67,
+         "perl" : 2,
+         "lua" : 130,
+         "ruby" : 58,
+         "perl6" : 21
+      },
+      "json_se" : {
+         "javascript" : 569,
+         "perl" : 374,
+         "ruby" : 1893
+      },
+      "fib" : {
+         "perl" : 4951,
+         "lua" : 132,
+         "perl6" : 12189,
+         "c++" : 4,
+         "ruby" : 788,
+         "nqp" : 6317,
+         "javascript" : 105,
+         "c#" : 63,
+         "nim" : 25
+      }
+   }
+}
