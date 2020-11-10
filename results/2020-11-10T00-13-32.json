@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 80,
+         "nim" : 68,
+         "perl6" : 10,
+         "ruby" : 53,
+         "perl" : 2
+      },
+      "json_de" : {
+         "ruby" : 2442,
+         "perl" : 769,
+         "javascript" : 662
+      },
+      "takeuchi" : {
+         "javascript" : 245,
+         "perl" : 11754,
+         "nqp" : 17277,
+         "nim" : 121,
+         "perl6" : 30064,
+         "c++" : 19,
+         "ruby" : 2220,
+         "lua" : 346,
+         "c#" : 290
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 5702
+      },
+      "re_bool" : {
+         "perl6" : 3918,
+         "javascript" : 36,
+         "perl" : 437,
+         "nqp" : 5112,
+         "lua" : 180,
+         "ruby" : 139
+      },
+      "re_capture" : {
+         "lua" : 244,
+         "ruby" : 422,
+         "perl6" : 16850,
+         "nqp" : 11939,
+         "javascript" : 82,
+         "perl" : 158
+      },
+      "str_join" : {
+         "nqp" : 1392,
+         "perl" : 411,
+         "javascript" : 47,
+         "nim" : 45,
+         "perl6" : 2703,
+         "ruby" : 1628,
+         "c++" : 3,
+         "lua" : 218,
+         "c#" : 173
+      },
+      "fib" : {
+         "perl" : 4990,
+         "javascript" : 102,
+         "nqp" : 6070,
+         "perl6" : 13297,
+         "nim" : 25,
+         "c++" : 4,
+         "ruby" : 803,
+         "c#" : 113,
+         "lua" : 132
+      },
+      "str_join_slow" : {
+         "perl" : 1272,
+         "javascript" : 187,
+         "perl6" : 12492,
+         "nim" : 348,
+         "c++" : 50,
+         "ruby" : 17455,
+         "c#" : 336,
+         "lua" : 9559
+      },
+      "json_se" : {
+         "perl" : 365,
+         "javascript" : 547,
+         "ruby" : 1943
+      }
+   },
+   "version" : {
+      "c++" : "10.0.1",
+      "ruby" : "2.7.2p137",
+      "lua" : "2.0.5",
+      "c#" : "3.1.108",
+      "perl" : "v5.32.0",
+      "javascript" : "v15.1.0",
+      "nqp" : "2020.10-64-g217d54151",
+      "nim" : "1.4.0",
+      "perl6" : null
+   }
+}
