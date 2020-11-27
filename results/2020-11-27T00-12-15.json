@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 592,
+         "ruby" : 3098,
+         "perl" : 597
+      },
+      "str_join_slow" : {
+         "lua" : 9830,
+         "nim" : 493,
+         "perl" : 1590,
+         "c#" : 241,
+         "javascript" : 229,
+         "perl6" : 10437,
+         "c++" : 51,
+         "ruby" : 19861
+      },
+      "str_join_repeat" : {
+         "perl6" : 21,
+         "lua" : 127,
+         "ruby" : 65,
+         "nim" : 98,
+         "perl" : 5
+      },
+      "str_join" : {
+         "nim" : 51,
+         "lua" : 278,
+         "nqp" : 1425,
+         "c++" : 3,
+         "ruby" : 1590,
+         "javascript" : 45,
+         "c#" : 231,
+         "perl6" : 2633,
+         "perl" : 415
+      },
+      "fib" : {
+         "nim" : 26,
+         "lua" : 133,
+         "nqp" : 5880,
+         "c++" : 5,
+         "ruby" : 989,
+         "javascript" : 106,
+         "c#" : 63,
+         "perl6" : 12017,
+         "perl" : 5050
+      },
+      "takeuchi" : {
+         "perl6" : 26116,
+         "c#" : 293,
+         "javascript" : 258,
+         "ruby" : 2812,
+         "c++" : 21,
+         "perl" : 16820,
+         "lua" : 349,
+         "nim" : 136,
+         "nqp" : 15044
+      },
+      "json_de" : {
+         "perl" : 936,
+         "javascript" : 722,
+         "ruby" : 3855
+      },
+      "re_capture" : {
+         "ruby" : 813,
+         "javascript" : 85,
+         "lua" : 244,
+         "perl6" : 13985,
+         "perl" : 195,
+         "nqp" : 11058
+      },
+      "re_bool" : {
+         "perl6" : 3705,
+         "lua" : 180,
+         "javascript" : 37,
+         "ruby" : 203,
+         "nqp" : 3582,
+         "perl" : 744
+      },
+      "fib_fast" : {
+         "perl6" : 5171,
+         "javascript" : 29
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "nim" : "1.4.0",
+      "nqp" : "2020.11",
+      "c#" : "3.1.108",
+      "javascript" : "v15.3.0",
+      "perl6" : null,
+      "c++" : "11.0.0",
+      "ruby" : "2.7.2p137",
+      "perl" : "v5.32.0"
+   }
+}
