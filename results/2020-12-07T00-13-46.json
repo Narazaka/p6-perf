@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "ruby" : 505,
+         "nqp" : 11807,
+         "javascript" : 142,
+         "perl" : 199,
+         "lua" : 248,
+         "perl6" : 15218
+      },
+      "fib" : {
+         "c++" : 3,
+         "lua" : 197,
+         "perl" : 5426,
+         "nqp" : 6383,
+         "nim" : 25,
+         "ruby" : 796,
+         "c#" : 71,
+         "perl6" : 13094,
+         "javascript" : 118
+      },
+      "json_se" : {
+         "ruby" : 2090,
+         "perl" : 427,
+         "javascript" : 695
+      },
+      "fib_fast" : {
+         "perl6" : 4747,
+         "javascript" : 31
+      },
+      "str_join" : {
+         "javascript" : 68,
+         "perl6" : 3617,
+         "perl" : 504,
+         "nqp" : 1595,
+         "nim" : 62,
+         "c#" : 202,
+         "ruby" : 1291,
+         "c++" : 3,
+         "lua" : 229
+      },
+      "str_join_repeat" : {
+         "perl" : 4,
+         "ruby" : 59,
+         "nim" : 69,
+         "perl6" : 10,
+         "lua" : 80
+      },
+      "takeuchi" : {
+         "javascript" : 291,
+         "perl6" : 28852,
+         "perl" : 12872,
+         "ruby" : 2155,
+         "c#" : 292,
+         "nqp" : 15198,
+         "nim" : 140,
+         "c++" : 38,
+         "lua" : 354
+      },
+      "str_join_slow" : {
+         "c++" : 51,
+         "lua" : 9690,
+         "perl" : 1469,
+         "ruby" : 18876,
+         "c#" : 269,
+         "nim" : 488,
+         "perl6" : 9508,
+         "javascript" : 218
+      },
+      "re_bool" : {
+         "ruby" : 150,
+         "nqp" : 3538,
+         "javascript" : 44,
+         "perl" : 604,
+         "lua" : 182,
+         "perl6" : 3981
+      },
+      "json_de" : {
+         "ruby" : 2632,
+         "perl" : 939,
+         "javascript" : 715
+      }
+   },
+   "version" : {
+      "perl" : "v5.32.0",
+      "c#" : "3.1.108",
+      "ruby" : "2.7.2p137",
+      "nqp" : "2020.11-12-gb3cc2dbc6",
+      "nim" : "1.4.0",
+      "c++" : "11.0.0",
+      "lua" : "2.0.5",
+      "javascript" : "v15.3.0",
+      "perl6" : null
+   }
+}
