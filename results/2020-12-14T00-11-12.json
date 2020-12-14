@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "perl" : 371,
+         "javascript" : 560,
+         "ruby" : 2025
+      },
+      "str_join" : {
+         "c#" : 174,
+         "perl6" : 2847,
+         "nqp" : 1470,
+         "javascript" : 48,
+         "lua" : 218,
+         "ruby" : 1254,
+         "c++" : 3,
+         "nim" : 46,
+         "perl" : 430
+      },
+      "str_join_repeat" : {
+         "nim" : 86,
+         "perl" : 2,
+         "ruby" : 50,
+         "lua" : 80,
+         "perl6" : 18
+      },
+      "re_bool" : {
+         "ruby" : 142,
+         "lua" : 181,
+         "perl" : 423,
+         "perl6" : 4033,
+         "nqp" : 3628,
+         "javascript" : 36
+      },
+      "str_join_slow" : {
+         "ruby" : 15139,
+         "lua" : 9723,
+         "c++" : 51,
+         "nim" : 411,
+         "perl" : 1309,
+         "c#" : 210,
+         "perl6" : 14142,
+         "javascript" : 190
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 5501
+      },
+      "takeuchi" : {
+         "nqp" : 15888,
+         "javascript" : 246,
+         "perl6" : 28354,
+         "c#" : 296,
+         "nim" : 115,
+         "perl" : 11457,
+         "c++" : 22,
+         "ruby" : 2117,
+         "lua" : 351
+      },
+      "fib" : {
+         "nim" : 25,
+         "perl" : 4678,
+         "c++" : 3,
+         "ruby" : 878,
+         "lua" : 134,
+         "javascript" : 103,
+         "nqp" : 6430,
+         "c#" : 63,
+         "perl6" : 13925
+      },
+      "json_de" : {
+         "javascript" : 684,
+         "perl" : 740,
+         "ruby" : 2548
+      },
+      "re_capture" : {
+         "javascript" : 80,
+         "nqp" : 10953,
+         "perl6" : 14931,
+         "perl" : 157,
+         "lua" : 252,
+         "ruby" : 453
+      }
+   },
+   "version" : {
+      "javascript" : "v15.4.0",
+      "nqp" : "2020.11-23-geb4173a36",
+      "perl6" : null,
+      "c#" : "3.1.108",
+      "perl" : "v5.32.0",
+      "nim" : "1.4.0",
+      "c++" : "11.0.0",
+      "ruby" : "2.7.2p137",
+      "lua" : "2.0.5"
+   }
+}
