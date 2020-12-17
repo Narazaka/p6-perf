@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2020.11-34-gb8cadb3cf",
+      "lua" : "2.0.5",
+      "c++" : "11.0.0",
+      "nim" : "1.4.2",
+      "javascript" : "v15.4.0",
+      "ruby" : "2.7.2p137",
+      "perl" : "v5.32.0",
+      "c#" : "3.1.108",
+      "perl6" : null
+   },
+   "result" : {
+      "json_se" : {
+         "javascript" : 613,
+         "perl" : 377,
+         "ruby" : 2224
+      },
+      "re_bool" : {
+         "lua" : 187,
+         "perl6" : 3895,
+         "ruby" : 200,
+         "perl" : 429,
+         "javascript" : 45,
+         "nqp" : 3592
+      },
+      "str_join" : {
+         "nqp" : 1492,
+         "lua" : 231,
+         "c++" : 3,
+         "nim" : 46,
+         "javascript" : 47,
+         "perl" : 420,
+         "ruby" : 1319,
+         "c#" : 195,
+         "perl6" : 2609
+      },
+      "str_join_slow" : {
+         "lua" : 10177,
+         "javascript" : 208,
+         "c++" : 47,
+         "nim" : 400,
+         "c#" : 360,
+         "perl6" : 13358,
+         "perl" : 1316,
+         "ruby" : 17041
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 5450
+      },
+      "str_join_repeat" : {
+         "ruby" : 61,
+         "perl" : 4,
+         "lua" : 83,
+         "perl6" : 9,
+         "nim" : 82
+      },
+      "fib" : {
+         "lua" : 157,
+         "nqp" : 6279,
+         "perl6" : 12973,
+         "c#" : 68,
+         "ruby" : 808,
+         "perl" : 4891,
+         "javascript" : 104,
+         "nim" : 26,
+         "c++" : 3
+      },
+      "json_de" : {
+         "javascript" : 703,
+         "ruby" : 2618,
+         "perl" : 778
+      },
+      "takeuchi" : {
+         "perl6" : 27032,
+         "c#" : 349,
+         "perl" : 11672,
+         "ruby" : 2221,
+         "javascript" : 298,
+         "c++" : 21,
+         "nim" : 148,
+         "lua" : 358,
+         "nqp" : 17035
+      },
+      "re_capture" : {
+         "perl6" : 14692,
+         "lua" : 284,
+         "perl" : 220,
+         "ruby" : 433,
+         "javascript" : 117,
+         "nqp" : 10698
+      }
+   }
+}
