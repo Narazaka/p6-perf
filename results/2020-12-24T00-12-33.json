@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "2.7.2p137",
+      "c#" : "3.1.108",
+      "perl" : "v5.32.0",
+      "perl6" : null,
+      "javascript" : "v15.5.0",
+      "nqp" : "2020.12",
+      "nim" : "1.4.2",
+      "c++" : "11.0.0",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "takeuchi" : {
+         "perl6" : 25978,
+         "nqp" : 17692,
+         "javascript" : 259,
+         "ruby" : 2080,
+         "perl" : 13372,
+         "c#" : 326,
+         "c++" : 21,
+         "lua" : 373,
+         "nim" : 156
+      },
+      "str_join" : {
+         "nim" : 74,
+         "c++" : 3,
+         "lua" : 237,
+         "perl" : 417,
+         "c#" : 187,
+         "ruby" : 1240,
+         "nqp" : 1697,
+         "javascript" : 49,
+         "perl6" : 2436
+      },
+      "json_de" : {
+         "javascript" : 674,
+         "ruby" : 2612,
+         "perl" : 763
+      },
+      "fib" : {
+         "lua" : 136,
+         "c++" : 5,
+         "nim" : 26,
+         "nqp" : 6834,
+         "javascript" : 109,
+         "perl6" : 12381,
+         "perl" : 5063,
+         "c#" : 65,
+         "ruby" : 825
+      },
+      "str_join_repeat" : {
+         "perl6" : 11,
+         "lua" : 80,
+         "ruby" : 55,
+         "nim" : 64,
+         "perl" : 2
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 4996
+      },
+      "json_se" : {
+         "javascript" : 561,
+         "ruby" : 2393,
+         "perl" : 418
+      },
+      "re_capture" : {
+         "perl" : 206,
+         "ruby" : 458,
+         "javascript" : 85,
+         "lua" : 248,
+         "nqp" : 12911,
+         "perl6" : 13845
+      },
+      "re_bool" : {
+         "perl" : 540,
+         "ruby" : 140,
+         "nqp" : 4482,
+         "lua" : 181,
+         "javascript" : 37,
+         "perl6" : 3956
+      },
+      "str_join_slow" : {
+         "perl" : 1284,
+         "c#" : 278,
+         "ruby" : 17112,
+         "javascript" : 205,
+         "perl6" : 13080,
+         "nim" : 403,
+         "c++" : 50,
+         "lua" : 9718
+      }
+   }
+}
