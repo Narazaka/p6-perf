@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl6" : 20,
+         "perl" : 2,
+         "nim" : 77,
+         "lua" : 82,
+         "ruby" : 57
+      },
+      "re_bool" : {
+         "lua" : 181,
+         "ruby" : 139,
+         "javascript" : 37,
+         "perl" : 513,
+         "nqp" : 4195,
+         "perl6" : 3927
+      },
+      "str_join" : {
+         "nim" : 45,
+         "javascript" : 48,
+         "c++" : 4,
+         "ruby" : 1177,
+         "c#" : 264,
+         "nqp" : 1960,
+         "perl" : 520,
+         "lua" : 221,
+         "perl6" : 3253
+      },
+      "fib_fast" : {
+         "perl6" : 5224,
+         "javascript" : 19
+      },
+      "json_de" : {
+         "javascript" : 657,
+         "ruby" : 2570,
+         "perl" : 959
+      },
+      "takeuchi" : {
+         "perl" : 12244,
+         "nqp" : 18270,
+         "c#" : 315,
+         "ruby" : 2015,
+         "c++" : 21,
+         "javascript" : 262,
+         "nim" : 126,
+         "perl6" : 26067,
+         "lua" : 360
+      },
+      "json_se" : {
+         "javascript" : 561,
+         "ruby" : 1884,
+         "perl" : 418
+      },
+      "str_join_slow" : {
+         "ruby" : 16406,
+         "c++" : 87,
+         "javascript" : 208,
+         "nim" : 365,
+         "perl" : 1513,
+         "c#" : 257,
+         "lua" : 10036,
+         "perl6" : 9865
+      },
+      "fib" : {
+         "c++" : 3,
+         "javascript" : 103,
+         "nim" : 25,
+         "ruby" : 803,
+         "nqp" : 8046,
+         "c#" : 73,
+         "perl" : 4899,
+         "lua" : 134,
+         "perl6" : 13845
+      },
+      "re_capture" : {
+         "ruby" : 452,
+         "lua" : 251,
+         "javascript" : 84,
+         "perl" : 288,
+         "nqp" : 12320,
+         "perl6" : 16437
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "lua" : "2.0.5",
+      "nqp" : "2020.12",
+      "c#" : "3.1.108",
+      "perl" : "v5.32.0",
+      "nim" : "1.4.2",
+      "c++" : "11.0.0",
+      "javascript" : "v15.5.0",
+      "ruby" : "2.7.2p137"
+   }
+}
