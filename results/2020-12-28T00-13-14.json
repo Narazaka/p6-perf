@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "javascript" : "v15.5.0",
+      "nqp" : "2020.12-1-gde93c668c",
+      "nim" : "1.4.2",
+      "c++" : "11.0.0",
+      "c#" : "3.1.108",
+      "ruby" : "2.7.2p137",
+      "perl" : "v5.32.0",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "ruby" : 60,
+         "perl6" : 19,
+         "nim" : 93,
+         "perl" : 2,
+         "lua" : 117
+      },
+      "fib" : {
+         "perl6" : 13342,
+         "javascript" : 107,
+         "nqp" : 6391,
+         "nim" : 32,
+         "c++" : 4,
+         "c#" : 69,
+         "ruby" : 870,
+         "perl" : 5514,
+         "lua" : 208
+      },
+      "fib_fast" : {
+         "perl6" : 7332,
+         "javascript" : 31
+      },
+      "re_capture" : {
+         "nqp" : 13839,
+         "perl6" : 22035,
+         "javascript" : 153,
+         "ruby" : 622,
+         "lua" : 272,
+         "perl" : 261
+      },
+      "json_de" : {
+         "javascript" : 802,
+         "ruby" : 2985,
+         "perl" : 857
+      },
+      "str_join_slow" : {
+         "perl6" : 16646,
+         "javascript" : 210,
+         "nim" : 419,
+         "c++" : 87,
+         "ruby" : 17607,
+         "c#" : 332,
+         "perl" : 1385,
+         "lua" : 10549
+      },
+      "json_se" : {
+         "ruby" : 2792,
+         "javascript" : 622,
+         "perl" : 401
+      },
+      "re_bool" : {
+         "lua" : 195,
+         "perl" : 557,
+         "nqp" : 4682,
+         "perl6" : 4800,
+         "javascript" : 38,
+         "ruby" : 204
+      },
+      "takeuchi" : {
+         "c#" : 361,
+         "ruby" : 2616,
+         "perl" : 13362,
+         "lua" : 448,
+         "perl6" : 36608,
+         "javascript" : 258,
+         "nqp" : 16467,
+         "nim" : 161,
+         "c++" : 39
+      },
+      "str_join" : {
+         "ruby" : 1575,
+         "c#" : 262,
+         "lua" : 317,
+         "perl" : 465,
+         "nqp" : 2162,
+         "javascript" : 46,
+         "perl6" : 3198,
+         "c++" : 3,
+         "nim" : 74
+      }
+   }
+}
