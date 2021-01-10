@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 61,
+         "perl6" : 10,
+         "ruby" : 53,
+         "perl" : 2,
+         "lua" : 79
+      },
+      "re_capture" : {
+         "ruby" : 428,
+         "perl" : 190,
+         "javascript" : 82,
+         "nqp" : 10158,
+         "perl6" : 12756,
+         "lua" : 246
+      },
+      "str_join_slow" : {
+         "c#" : 200,
+         "ruby" : 14776,
+         "perl" : 1263,
+         "javascript" : 182,
+         "c++" : 50,
+         "lua" : 9520,
+         "perl6" : 8617,
+         "nim" : 357
+      },
+      "fib" : {
+         "javascript" : 102,
+         "nqp" : 5868,
+         "c#" : 63,
+         "ruby" : 779,
+         "perl" : 4651,
+         "nim" : 24,
+         "perl6" : 11977,
+         "c++" : 3,
+         "lua" : 131
+      },
+      "fib_fast" : {
+         "perl6" : 4114,
+         "javascript" : 18
+      },
+      "json_se" : {
+         "javascript" : 549,
+         "ruby" : 1852,
+         "perl" : 360
+      },
+      "re_bool" : {
+         "lua" : 180,
+         "perl6" : 3156,
+         "javascript" : 37,
+         "nqp" : 3242,
+         "perl" : 420,
+         "ruby" : 139
+      },
+      "takeuchi" : {
+         "perl6" : 24769,
+         "lua" : 345,
+         "c++" : 21,
+         "nim" : 114,
+         "perl" : 11369,
+         "ruby" : 1995,
+         "c#" : 289,
+         "nqp" : 14835,
+         "javascript" : 245
+      },
+      "str_join" : {
+         "nim" : 45,
+         "perl6" : 2628,
+         "c++" : 3,
+         "lua" : 231,
+         "javascript" : 46,
+         "nqp" : 1288,
+         "c#" : 146,
+         "ruby" : 1141,
+         "perl" : 409
+      },
+      "json_de" : {
+         "javascript" : 650,
+         "ruby" : 2416,
+         "perl" : 738
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "lua" : "2.0.5",
+      "c++" : "11.0.0",
+      "nim" : "1.4.2",
+      "perl" : "v5.32.0",
+      "ruby" : "2.7.2p137",
+      "c#" : "3.1.108",
+      "nqp" : "2020.12-4-gd65a8c109",
+      "javascript" : "v15.5.1"
+   }
+}
