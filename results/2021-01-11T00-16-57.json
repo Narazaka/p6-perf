@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "3.1.108",
+      "perl6" : null,
+      "javascript" : "v15.5.1",
+      "ruby" : "2.7.2p137",
+      "nqp" : "2020.12-4-gd65a8c109",
+      "c++" : "11.0.0",
+      "perl" : "v5.32.0",
+      "nim" : "1.4.2",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "str_join" : {
+         "c#" : 265,
+         "perl6" : 5319,
+         "ruby" : 1703,
+         "javascript" : 141,
+         "nqp" : 2168,
+         "perl" : 566,
+         "c++" : 3,
+         "nim" : 79,
+         "lua" : 306
+      },
+      "fib_fast" : {
+         "perl6" : 12287,
+         "javascript" : 49
+      },
+      "json_de" : {
+         "perl" : 1086,
+         "ruby" : 4191,
+         "javascript" : 1170
+      },
+      "json_se" : {
+         "perl" : 506,
+         "javascript" : 988,
+         "ruby" : 3788
+      },
+      "fib" : {
+         "c#" : 74,
+         "javascript" : 171,
+         "ruby" : 1012,
+         "perl6" : 21224,
+         "c++" : 3,
+         "perl" : 6659,
+         "nqp" : 8657,
+         "lua" : 183,
+         "nim" : 24
+      },
+      "re_capture" : {
+         "nqp" : 15772,
+         "perl" : 246,
+         "perl6" : 31875,
+         "ruby" : 702,
+         "javascript" : 137,
+         "lua" : 339
+      },
+      "re_bool" : {
+         "perl" : 623,
+         "nqp" : 5056,
+         "lua" : 236,
+         "ruby" : 246,
+         "perl6" : 7593,
+         "javascript" : 37
+      },
+      "takeuchi" : {
+         "nqp" : 21231,
+         "perl" : 16097,
+         "c++" : 29,
+         "nim" : 193,
+         "lua" : 424,
+         "c#" : 398,
+         "perl6" : 50605,
+         "ruby" : 2632,
+         "javascript" : 396
+      },
+      "str_join_repeat" : {
+         "ruby" : 84,
+         "perl6" : 30,
+         "nim" : 89,
+         "lua" : 115,
+         "perl" : 2
+      },
+      "str_join_slow" : {
+         "c#" : 328,
+         "perl6" : 19797,
+         "ruby" : 24559,
+         "javascript" : 346,
+         "c++" : 81,
+         "perl" : 1795,
+         "nim" : 536,
+         "lua" : 13604
+      }
+   }
+}
