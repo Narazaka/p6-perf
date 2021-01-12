@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 834,
+         "ruby" : 3021,
+         "perl" : 829
+      },
+      "str_join" : {
+         "lua" : 238,
+         "c#" : 238,
+         "javascript" : 62,
+         "nim" : 66,
+         "c++" : 4,
+         "ruby" : 1452,
+         "perl6" : 2874,
+         "nqp" : 1728,
+         "perl" : 445
+      },
+      "str_join_repeat" : {
+         "ruby" : 67,
+         "perl6" : 12,
+         "perl" : 2,
+         "lua" : 93,
+         "nim" : 87
+      },
+      "fib_fast" : {
+         "javascript" : 26,
+         "perl6" : 6403
+      },
+      "re_capture" : {
+         "lua" : 310,
+         "javascript" : 97,
+         "nqp" : 12057,
+         "perl6" : 18160,
+         "perl" : 187,
+         "ruby" : 456
+      },
+      "str_join_slow" : {
+         "c++" : 81,
+         "perl" : 1453,
+         "perl6" : 14774,
+         "ruby" : 20560,
+         "nim" : 472,
+         "javascript" : 291,
+         "c#" : 308,
+         "lua" : 10938
+      },
+      "json_se" : {
+         "javascript" : 692,
+         "perl" : 407,
+         "ruby" : 2129
+      },
+      "re_bool" : {
+         "javascript" : 52,
+         "lua" : 290,
+         "ruby" : 152,
+         "perl" : 483,
+         "nqp" : 3925,
+         "perl6" : 4841
+      },
+      "fib" : {
+         "nim" : 29,
+         "ruby" : 859,
+         "nqp" : 6766,
+         "perl" : 5518,
+         "perl6" : 14531,
+         "c++" : 3,
+         "lua" : 147,
+         "c#" : 73,
+         "javascript" : 154
+      },
+      "takeuchi" : {
+         "c++" : 39,
+         "perl" : 13071,
+         "nqp" : 17074,
+         "perl6" : 30608,
+         "ruby" : 2281,
+         "nim" : 124,
+         "javascript" : 278,
+         "c#" : 319,
+         "lua" : 447
+      }
+   },
+   "version" : {
+      "nim" : "1.4.2",
+      "perl6" : null,
+      "perl" : "v5.32.0",
+      "nqp" : "2020.12-8-g7061e6292",
+      "ruby" : "2.7.2p137",
+      "c++" : "11.0.1",
+      "lua" : "2.0.5",
+      "javascript" : "v15.5.1",
+      "c#" : "3.1.108"
+   }
+}
