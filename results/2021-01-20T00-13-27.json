@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nqp" : 6374,
+         "perl" : 5031,
+         "lua" : 133,
+         "nim" : 32,
+         "javascript" : 103,
+         "c++" : 6,
+         "perl6" : 13256,
+         "c#" : 75,
+         "ruby" : 823
+      },
+      "str_join_slow" : {
+         "perl" : 1398,
+         "lua" : 9996,
+         "javascript" : 215,
+         "nim" : 401,
+         "c++" : 89,
+         "perl6" : 9722,
+         "c#" : 302,
+         "ruby" : 18156
+      },
+      "str_join_repeat" : {
+         "lua" : 104,
+         "perl" : 2,
+         "nim" : 88,
+         "ruby" : 59,
+         "perl6" : 11
+      },
+      "re_capture" : {
+         "perl6" : 15741,
+         "nqp" : 11661,
+         "perl" : 208,
+         "lua" : 249,
+         "javascript" : 83,
+         "ruby" : 479
+      },
+      "str_join" : {
+         "javascript" : 48,
+         "nim" : 73,
+         "perl" : 500,
+         "lua" : 261,
+         "nqp" : 1522,
+         "ruby" : 1208,
+         "c#" : 217,
+         "perl6" : 2536,
+         "c++" : 3
+      },
+      "json_se" : {
+         "perl" : 374,
+         "javascript" : 572,
+         "ruby" : 2169
+      },
+      "json_de" : {
+         "ruby" : 2844,
+         "javascript" : 707,
+         "perl" : 819
+      },
+      "takeuchi" : {
+         "perl" : 11932,
+         "lua" : 410,
+         "javascript" : 248,
+         "nim" : 122,
+         "nqp" : 16553,
+         "c#" : 330,
+         "ruby" : 2166,
+         "c++" : 21,
+         "perl6" : 27612
+      },
+      "fib_fast" : {
+         "perl6" : 5317,
+         "javascript" : 19
+      },
+      "re_bool" : {
+         "lua" : 222,
+         "perl" : 547,
+         "ruby" : 257,
+         "javascript" : 40,
+         "nqp" : 4631,
+         "perl6" : 3581
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "perl" : "v5.32.0",
+      "nim" : "1.4.2",
+      "javascript" : "v15.6.0",
+      "nqp" : "2020.12-11-gd0646a8d7",
+      "c#" : "3.1.108",
+      "ruby" : "2.7.2p137",
+      "c++" : "11.0.1",
+      "perl6" : null
+   }
+}
