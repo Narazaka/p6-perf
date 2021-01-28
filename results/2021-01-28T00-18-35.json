@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "nim" : 85,
+         "lua" : 330,
+         "nqp" : 2309,
+         "c#" : 255,
+         "c++" : 7,
+         "ruby" : 1797,
+         "perl6" : 3779,
+         "perl" : 648,
+         "javascript" : 84
+      },
+      "str_join_repeat" : {
+         "lua" : 136,
+         "perl6" : 13,
+         "nim" : 103,
+         "ruby" : 80,
+         "perl" : 7
+      },
+      "fib" : {
+         "c#" : 71,
+         "c++" : 4,
+         "ruby" : 859,
+         "perl6" : 18857,
+         "perl" : 8014,
+         "javascript" : 142,
+         "nim" : 31,
+         "lua" : 135,
+         "nqp" : 9125
+      },
+      "re_bool" : {
+         "nqp" : 5426,
+         "javascript" : 53,
+         "perl" : 772,
+         "perl6" : 5751,
+         "lua" : 267,
+         "ruby" : 257
+      },
+      "json_se" : {
+         "perl" : 568,
+         "javascript" : 829,
+         "ruby" : 3401
+      },
+      "fib_fast" : {
+         "perl6" : 7814,
+         "javascript" : 43
+      },
+      "json_de" : {
+         "perl" : 1196,
+         "javascript" : 964,
+         "ruby" : 4941
+      },
+      "re_capture" : {
+         "perl" : 224,
+         "javascript" : 140,
+         "nqp" : 16625,
+         "lua" : 321,
+         "perl6" : 24632,
+         "ruby" : 842
+      },
+      "takeuchi" : {
+         "perl" : 19725,
+         "javascript" : 316,
+         "perl6" : 39151,
+         "c++" : 38,
+         "c#" : 348,
+         "ruby" : 2920,
+         "nqp" : 22761,
+         "lua" : 438,
+         "nim" : 145
+      },
+      "str_join_slow" : {
+         "ruby" : 24507,
+         "c++" : 76,
+         "c#" : 338,
+         "perl6" : 14395,
+         "javascript" : 302,
+         "perl" : 1719,
+         "nim" : 661,
+         "lua" : 11870
+      }
+   },
+   "version" : {
+      "perl" : "v5.32.0",
+      "javascript" : "v15.7.0",
+      "perl6" : null,
+      "c++" : "11.0.1",
+      "c#" : "3.1.108",
+      "ruby" : "2.7.2p137",
+      "nqp" : "2020.12-11-gd0646a8d7",
+      "lua" : "2.0.5",
+      "nim" : "1.4.2"
+   }
+}
