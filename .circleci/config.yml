@@ -22,7 +22,7 @@ workflows:
 
 jobs:
   build:
-    docker:
+    machine:
       - image: archlinux/archlinux:base
     steps:
       - add_ssh_keys:
