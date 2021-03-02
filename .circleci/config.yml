@@ -22,15 +22,15 @@ workflows:
 
 jobs:
   build:
-    machine:
-      image: archlinux/archlinux:base
+    docker:
+      - image: archlinux/base:latest
     steps:
       - add_ssh_keys:
           fingerprints:
             - b6:ef:bc:c5:14:21:e5:97:d4:7a:a1:ce:44:78:40:26
       - checkout
       - run:
-          command: pacman -Sy && pacman -S --noconfirm --needed base-devel git openssh
+          command: pacman -Sy && pacman -S --noconfirm --needed glibc base-devel git openssh
       - run:
           command: useradd builduser --create-home -g users
       - run:
