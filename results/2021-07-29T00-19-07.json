@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v16.5.0",
+      "lua" : "2.0.5",
+      "perl6" : null,
+      "nim" : "1.4.8",
+      "ruby" : "3.0.2p107",
+      "c++" : "12.0.1",
+      "perl" : "v5.34.0",
+      "c#" : "5.0.205",
+      "nqp" : "2021.07"
+   },
+   "result" : {
+      "json_se" : {
+         "ruby" : 1886,
+         "javascript" : 656,
+         "perl" : 352
+      },
+      "re_bool" : {
+         "ruby" : 140,
+         "lua" : 179,
+         "perl6" : 3241,
+         "javascript" : 36,
+         "perl" : 411,
+         "nqp" : 0
+      },
+      "fib" : {
+         "nqp" : 0,
+         "c#" : 0,
+         "perl" : 4503,
+         "c++" : 2,
+         "lua" : 132,
+         "perl6" : 14192,
+         "nim" : 23,
+         "ruby" : 836,
+         "javascript" : 118
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 4869
+      },
+      "takeuchi" : {
+         "javascript" : 259,
+         "nim" : 61,
+         "ruby" : 2121,
+         "perl6" : 27322,
+         "lua" : 348,
+         "c++" : 17,
+         "perl" : 11202,
+         "c#" : 0,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "perl6" : 10123,
+         "lua" : 9486,
+         "ruby" : 13280,
+         "nim" : 367,
+         "javascript" : 206,
+         "perl" : 1298,
+         "c++" : 47,
+         "c#" : 0
+      },
+      "json_de" : {
+         "perl" : 746,
+         "ruby" : 1770,
+         "javascript" : 698
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "javascript" : 80,
+         "lua" : 246,
+         "perl6" : 12822,
+         "ruby" : 468,
+         "perl" : 151
+      },
+      "str_join_repeat" : {
+         "lua" : 80,
+         "perl6" : 23,
+         "ruby" : 48,
+         "nim" : 49,
+         "perl" : 2
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "c#" : 0,
+         "c++" : 3,
+         "perl" : 401,
+         "javascript" : 44,
+         "perl6" : 3745,
+         "lua" : 219,
+         "ruby" : 1235,
+         "nim" : 50
+      }
+   }
+}
