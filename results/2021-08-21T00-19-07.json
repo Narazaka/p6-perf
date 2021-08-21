@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "12.0.1",
+      "c#" : "5.0.205",
+      "ruby" : "3.0.2p107",
+      "perl6" : null,
+      "nqp" : "2021.07-1-gc3aca8ac6",
+      "perl" : "v5.34.0",
+      "javascript" : "v16.7.0",
+      "nim" : "1.4.8",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "re_bool" : {
+         "lua" : 204,
+         "javascript" : 38,
+         "perl" : 469,
+         "nqp" : 0,
+         "perl6" : 3588,
+         "ruby" : 141
+      },
+      "re_capture" : {
+         "perl6" : 15547,
+         "nqp" : 0,
+         "javascript" : 79,
+         "perl" : 164,
+         "ruby" : 483,
+         "lua" : 257
+      },
+      "takeuchi" : {
+         "lua" : 363,
+         "nim" : 62,
+         "perl" : 13208,
+         "javascript" : 283,
+         "perl6" : 29633,
+         "nqp" : 0,
+         "ruby" : 2335,
+         "c++" : 20,
+         "c#" : 0
+      },
+      "fib" : {
+         "c++" : 3,
+         "c#" : 0,
+         "ruby" : 833,
+         "perl6" : 15829,
+         "nqp" : 0,
+         "perl" : 5247,
+         "javascript" : 138,
+         "nim" : 23,
+         "lua" : 140
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 5091
+      },
+      "str_join" : {
+         "c#" : 0,
+         "c++" : 3,
+         "ruby" : 1436,
+         "javascript" : 44,
+         "perl" : 489,
+         "perl6" : 4330,
+         "nqp" : 0,
+         "nim" : 49,
+         "lua" : 222
+      },
+      "json_de" : {
+         "perl" : 864,
+         "javascript" : 696,
+         "ruby" : 1763
+      },
+      "str_join_repeat" : {
+         "nim" : 49,
+         "ruby" : 57,
+         "perl" : 4,
+         "lua" : 81,
+         "perl6" : 10
+      },
+      "str_join_slow" : {
+         "nim" : 368,
+         "lua" : 10150,
+         "ruby" : 16672,
+         "c++" : 49,
+         "c#" : 0,
+         "perl" : 1467,
+         "javascript" : 240,
+         "perl6" : 14715
+      },
+      "json_se" : {
+         "perl" : 518,
+         "javascript" : 642,
+         "ruby" : 1942
+      }
+   }
+}
