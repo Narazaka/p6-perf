@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v16.7.0",
+      "nqp" : "2021.08",
+      "perl6" : null,
+      "c#" : "5.0.205",
+      "perl" : "v5.34.0",
+      "ruby" : "3.0.2p107",
+      "nim" : "1.4.8",
+      "c++" : "12.0.1",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "ruby" : 53,
+         "nim" : 80,
+         "lua" : 82,
+         "perl6" : 8,
+         "perl" : 3
+      },
+      "json_se" : {
+         "perl" : 377,
+         "javascript" : 641,
+         "ruby" : 2290
+      },
+      "str_join" : {
+         "perl" : 407,
+         "perl6" : 3865,
+         "nqp" : 0,
+         "c#" : 0,
+         "lua" : 224,
+         "c++" : 3,
+         "ruby" : 1255,
+         "nim" : 73,
+         "javascript" : 45
+      },
+      "fib_fast" : {
+         "javascript" : 29,
+         "perl6" : 4878
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "lua" : 232,
+         "ruby" : 152,
+         "perl" : 442,
+         "nqp" : 0,
+         "perl6" : 3304
+      },
+      "str_join_slow" : {
+         "c++" : 51,
+         "ruby" : 16044,
+         "nim" : 475,
+         "lua" : 9996,
+         "perl" : 1306,
+         "perl6" : 10544,
+         "c#" : 0,
+         "javascript" : 221
+      },
+      "re_capture" : {
+         "ruby" : 505,
+         "lua" : 269,
+         "perl" : 157,
+         "nqp" : 0,
+         "perl6" : 15727,
+         "javascript" : 80
+      },
+      "fib" : {
+         "javascript" : 118,
+         "nim" : 23,
+         "ruby" : 890,
+         "c++" : 4,
+         "lua" : 134,
+         "c#" : 0,
+         "perl6" : 14494,
+         "nqp" : 0,
+         "perl" : 4754
+      },
+      "takeuchi" : {
+         "javascript" : 323,
+         "perl" : 11468,
+         "nqp" : 0,
+         "perl6" : 26827,
+         "c#" : 0,
+         "lua" : 377,
+         "c++" : 32,
+         "nim" : 76,
+         "ruby" : 2168
+      },
+      "json_de" : {
+         "perl" : 743,
+         "javascript" : 677,
+         "ruby" : 1957
+      }
+   }
+}
