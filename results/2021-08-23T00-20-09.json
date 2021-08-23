@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2021.08",
+      "perl" : "v5.34.0",
+      "nim" : "1.4.8",
+      "c++" : "12.0.1",
+      "ruby" : "3.0.2p107",
+      "c#" : "5.0.205",
+      "lua" : "2.0.5",
+      "javascript" : "v16.7.0",
+      "perl6" : null
+   },
+   "result" : {
+      "json_se" : {
+         "ruby" : 2467,
+         "javascript" : 853,
+         "perl" : 395
+      },
+      "str_join_repeat" : {
+         "perl" : 4,
+         "nim" : 58,
+         "lua" : 96,
+         "perl6" : 10,
+         "ruby" : 59
+      },
+      "fib_fast" : {
+         "perl6" : 6364,
+         "javascript" : 30
+      },
+      "fib" : {
+         "nim" : 38,
+         "nqp" : 0,
+         "perl" : 5231,
+         "c++" : 4,
+         "ruby" : 978,
+         "lua" : 181,
+         "c#" : 0,
+         "javascript" : 136,
+         "perl6" : 18301
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl" : 498,
+         "ruby" : 171,
+         "lua" : 254,
+         "perl6" : 3904,
+         "javascript" : 58
+      },
+      "str_join_slow" : {
+         "javascript" : 306,
+         "perl6" : 16349,
+         "lua" : 11396,
+         "c#" : 0,
+         "c++" : 52,
+         "ruby" : 17968,
+         "nim" : 439,
+         "perl" : 1525
+      },
+      "json_de" : {
+         "ruby" : 2362,
+         "javascript" : 880,
+         "perl" : 803
+      },
+      "re_capture" : {
+         "lua" : 293,
+         "javascript" : 132,
+         "perl6" : 16813,
+         "nqp" : 0,
+         "perl" : 222,
+         "ruby" : 611
+      },
+      "takeuchi" : {
+         "perl6" : 32601,
+         "javascript" : 393,
+         "lua" : 406,
+         "c#" : 0,
+         "ruby" : 2476,
+         "c++" : 17,
+         "nim" : 77,
+         "nqp" : 0,
+         "perl" : 13785
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "perl" : 475,
+         "nim" : 72,
+         "ruby" : 1519,
+         "c++" : 3,
+         "c#" : 0,
+         "lua" : 249,
+         "perl6" : 4627,
+         "javascript" : 82
+      }
+   }
+}
