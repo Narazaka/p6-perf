@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "javascript" : 240,
+         "ruby" : 16532,
+         "perl" : 1532,
+         "lua" : 10444,
+         "nim" : 421,
+         "c++" : 51,
+         "c#" : 0,
+         "perl6" : 14134
+      },
+      "str_join" : {
+         "javascript" : 45,
+         "nqp" : 0,
+         "perl" : 498,
+         "ruby" : 1434,
+         "lua" : 243,
+         "perl6" : 4439,
+         "c++" : 3,
+         "nim" : 74,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "ruby" : 548,
+         "perl" : 181,
+         "lua" : 275,
+         "javascript" : 91,
+         "nqp" : 0,
+         "perl6" : 19131
+      },
+      "json_se" : {
+         "javascript" : 716,
+         "ruby" : 2417,
+         "perl" : 434
+      },
+      "takeuchi" : {
+         "ruby" : 2370,
+         "perl" : 13776,
+         "lua" : 385,
+         "javascript" : 290,
+         "nqp" : 0,
+         "perl6" : 30641,
+         "c#" : 0,
+         "nim" : 72,
+         "c++" : 17
+      },
+      "json_de" : {
+         "perl" : 943,
+         "ruby" : 2071,
+         "javascript" : 738
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "javascript" : 40,
+         "ruby" : 165,
+         "perl" : 491,
+         "lua" : 199,
+         "perl6" : 4691
+      },
+      "str_join_repeat" : {
+         "lua" : 94,
+         "perl" : 4,
+         "perl6" : 12,
+         "ruby" : 60,
+         "nim" : 61
+      },
+      "fib" : {
+         "ruby" : 940,
+         "perl" : 5494,
+         "lua" : 146,
+         "nqp" : 0,
+         "javascript" : 176,
+         "c#" : 0,
+         "nim" : 27,
+         "c++" : 2,
+         "perl6" : 16544
+      },
+      "fib_fast" : {
+         "perl6" : 5736,
+         "javascript" : 26
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c#" : "5.0.205",
+      "nim" : "1.4.8",
+      "c++" : "12.0.1",
+      "lua" : "2.0.5",
+      "ruby" : "3.0.2p107",
+      "perl" : "v5.34.0",
+      "javascript" : "v16.7.0",
+      "nqp" : "2021.08"
+   }
+}
