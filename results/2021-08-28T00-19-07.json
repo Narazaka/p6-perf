@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.0.2p107",
+      "nqp" : "2021.08",
+      "lua" : "2.0.5",
+      "perl6" : null,
+      "nim" : "1.4.8",
+      "c++" : "12.0.1",
+      "javascript" : "v16.8.0",
+      "c#" : "5.0.205",
+      "perl" : "v5.34.0"
+   },
+   "result" : {
+      "re_capture" : {
+         "perl" : 152,
+         "javascript" : 81,
+         "perl6" : 13720,
+         "nqp" : 0,
+         "lua" : 250,
+         "ruby" : 468
+      },
+      "json_de" : {
+         "javascript" : 692,
+         "perl" : 772,
+         "ruby" : 1826
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "perl" : 441,
+         "perl6" : 2992,
+         "ruby" : 141,
+         "nqp" : 0,
+         "lua" : 180
+      },
+      "str_join_repeat" : {
+         "perl6" : 11,
+         "perl" : 2,
+         "lua" : 80,
+         "nim" : 49,
+         "ruby" : 47
+      },
+      "fib" : {
+         "perl6" : 14642,
+         "lua" : 137,
+         "nqp" : 0,
+         "ruby" : 907,
+         "c#" : 0,
+         "perl" : 4582,
+         "javascript" : 137,
+         "nim" : 23,
+         "c++" : 2
+      },
+      "str_join_slow" : {
+         "ruby" : 14692,
+         "lua" : 9583,
+         "perl6" : 10140,
+         "nim" : 375,
+         "c++" : 47,
+         "javascript" : 217,
+         "c#" : 0,
+         "perl" : 1301
+      },
+      "takeuchi" : {
+         "perl" : 11368,
+         "c#" : 0,
+         "javascript" : 262,
+         "nim" : 102,
+         "c++" : 17,
+         "perl6" : 26315,
+         "lua" : 349,
+         "nqp" : 0,
+         "ruby" : 2163
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 4300
+      },
+      "str_join" : {
+         "c#" : 0,
+         "perl" : 404,
+         "javascript" : 45,
+         "nim" : 50,
+         "c++" : 3,
+         "perl6" : 3971,
+         "lua" : 265,
+         "nqp" : 0,
+         "ruby" : 1243
+      },
+      "json_se" : {
+         "javascript" : 657,
+         "perl" : 360,
+         "ruby" : 1913
+      }
+   }
+}
