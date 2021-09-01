@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "lua" : 206,
+         "perl" : 488,
+         "perl6" : 3512,
+         "javascript" : 37,
+         "nqp" : 0,
+         "ruby" : 187
+      },
+      "fib_fast" : {
+         "perl6" : 5272,
+         "javascript" : 20
+      },
+      "str_join_slow" : {
+         "perl6" : 12890,
+         "perl" : 1582,
+         "nim" : 394,
+         "javascript" : 217,
+         "ruby" : 16517,
+         "c#" : 0,
+         "lua" : 10224,
+         "c++" : 47
+      },
+      "takeuchi" : {
+         "perl6" : 27869,
+         "nim" : 62,
+         "perl" : 13709,
+         "c++" : 18,
+         "lua" : 413,
+         "nqp" : 0,
+         "ruby" : 2455,
+         "javascript" : 285,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "ruby" : 59,
+         "perl6" : 9,
+         "lua" : 80,
+         "perl" : 6,
+         "nim" : 49
+      },
+      "str_join" : {
+         "ruby" : 1443,
+         "nqp" : 0,
+         "javascript" : 43,
+         "c#" : 0,
+         "c++" : 3,
+         "lua" : 245,
+         "perl6" : 4252,
+         "nim" : 49,
+         "perl" : 492
+      },
+      "re_capture" : {
+         "javascript" : 81,
+         "nqp" : 0,
+         "ruby" : 529,
+         "lua" : 267,
+         "perl" : 173,
+         "perl6" : 14799
+      },
+      "json_de" : {
+         "ruby" : 2061,
+         "javascript" : 716,
+         "perl" : 890
+      },
+      "fib" : {
+         "perl" : 5411,
+         "nim" : 23,
+         "perl6" : 16440,
+         "c#" : 0,
+         "javascript" : 133,
+         "ruby" : 843,
+         "nqp" : 0,
+         "lua" : 157,
+         "c++" : 2
+      },
+      "json_se" : {
+         "perl" : 423,
+         "javascript" : 703,
+         "ruby" : 2274
+      }
+   },
+   "version" : {
+      "perl" : "v5.34.0",
+      "nim" : "1.4.8",
+      "perl6" : null,
+      "lua" : "2.0.5",
+      "c++" : "12.0.1",
+      "c#" : "5.0.205",
+      "javascript" : "v16.8.0",
+      "nqp" : "2021.08-2-gad59fbac9",
+      "ruby" : "3.0.2p107"
+   }
+}
