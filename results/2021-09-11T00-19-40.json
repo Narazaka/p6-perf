@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 49,
+         "perl" : 3,
+         "ruby" : 59,
+         "lua" : 85,
+         "perl6" : 8
+      },
+      "json_de" : {
+         "javascript" : 792,
+         "perl" : 834,
+         "ruby" : 1964
+      },
+      "re_bool" : {
+         "perl6" : 3511,
+         "nqp" : 0,
+         "lua" : 188,
+         "ruby" : 157,
+         "perl" : 447,
+         "javascript" : 36
+      },
+      "json_se" : {
+         "perl" : 390,
+         "ruby" : 2084,
+         "javascript" : 657
+      },
+      "str_join_slow" : {
+         "ruby" : 15364,
+         "perl6" : 10755,
+         "c++" : 48,
+         "c#" : 0,
+         "perl" : 1439,
+         "nim" : 404,
+         "javascript" : 218,
+         "lua" : 9932
+      },
+      "str_join" : {
+         "perl" : 448,
+         "c#" : 0,
+         "nim" : 50,
+         "javascript" : 44,
+         "lua" : 232,
+         "ruby" : 1380,
+         "nqp" : 0,
+         "perl6" : 4259,
+         "c++" : 4
+      },
+      "fib" : {
+         "ruby" : 884,
+         "nqp" : 0,
+         "perl6" : 14934,
+         "c++" : 2,
+         "perl" : 5051,
+         "nim" : 23,
+         "c#" : 0,
+         "javascript" : 127,
+         "lua" : 139
+      },
+      "re_capture" : {
+         "perl6" : 14592,
+         "nqp" : 0,
+         "lua" : 253,
+         "perl" : 170,
+         "ruby" : 519,
+         "javascript" : 91
+      },
+      "fib_fast" : {
+         "perl6" : 4921,
+         "javascript" : 19
+      },
+      "takeuchi" : {
+         "lua" : 364,
+         "nim" : 61,
+         "perl" : 12349,
+         "c#" : 0,
+         "javascript" : 282,
+         "perl6" : 27691,
+         "nqp" : 0,
+         "c++" : 17,
+         "ruby" : 2252
+      }
+   },
+   "version" : {
+      "c#" : "5.0.205",
+      "perl" : "v5.34.0",
+      "nim" : "1.4.8",
+      "javascript" : "v16.9.1",
+      "lua" : "2.0.5",
+      "ruby" : "3.0.2p107",
+      "nqp" : "2021.08-2-gad59fbac9",
+      "perl6" : null,
+      "c++" : "12.0.1"
+   }
+}
