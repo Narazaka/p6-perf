@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "c++" : 4,
+         "lua" : 227,
+         "c#" : 0,
+         "javascript" : 272,
+         "perl" : 8668,
+         "perl6" : 23189,
+         "nim" : 43,
+         "nqp" : 0,
+         "ruby" : 1384
+      },
+      "fib_fast" : {
+         "perl6" : 7003,
+         "javascript" : 60
+      },
+      "str_join" : {
+         "ruby" : 2544,
+         "nim" : 73,
+         "perl6" : 7155,
+         "nqp" : 0,
+         "perl" : 823,
+         "javascript" : 117,
+         "lua" : 372,
+         "c++" : 4,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "perl" : 5,
+         "nim" : 110,
+         "perl6" : 14,
+         "ruby" : 81,
+         "lua" : 129
+      },
+      "re_capture" : {
+         "lua" : 409,
+         "perl6" : 25507,
+         "nqp" : 0,
+         "ruby" : 924,
+         "javascript" : 183,
+         "perl" : 327
+      },
+      "json_se" : {
+         "javascript" : 1093,
+         "perl" : 655,
+         "ruby" : 3932
+      },
+      "json_de" : {
+         "ruby" : 3353,
+         "perl" : 1464,
+         "javascript" : 1247
+      },
+      "str_join_slow" : {
+         "lua" : 14076,
+         "c++" : 107,
+         "c#" : 0,
+         "ruby" : 20274,
+         "nim" : 673,
+         "perl6" : 17637,
+         "perl" : 2451,
+         "javascript" : 441
+      },
+      "takeuchi" : {
+         "lua" : 570,
+         "c++" : 39,
+         "c#" : 0,
+         "ruby" : 3441,
+         "perl6" : 45172,
+         "nqp" : 0,
+         "nim" : 157,
+         "perl" : 21507,
+         "javascript" : 524
+      },
+      "re_bool" : {
+         "lua" : 291,
+         "nqp" : 0,
+         "perl6" : 5695,
+         "ruby" : 319,
+         "javascript" : 97,
+         "perl" : 856
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "c++" : "12.0.1",
+      "c#" : "5.0.205",
+      "perl" : "v5.34.0",
+      "javascript" : "v16.9.1",
+      "ruby" : "3.0.2p107",
+      "nim" : "1.4.8",
+      "perl6" : null,
+      "nqp" : "2021.09"
+   }
+}
