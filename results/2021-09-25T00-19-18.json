@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.0.2p107",
+      "nqp" : "2021.09",
+      "c#" : "5.0.205",
+      "lua" : "2.0.5",
+      "perl" : "v5.34.0",
+      "perl6" : null,
+      "c++" : "12.0.1",
+      "nim" : "1.4.8",
+      "javascript" : "v16.10.0"
+   },
+   "result" : {
+      "fib" : {
+         "javascript" : 127,
+         "c++" : 2,
+         "nim" : 23,
+         "lua" : 149,
+         "c#" : 0,
+         "ruby" : 919,
+         "nqp" : 0,
+         "perl6" : 15453,
+         "perl" : 5163
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 5259
+      },
+      "re_bool" : {
+         "perl6" : 3560,
+         "perl" : 450,
+         "javascript" : 37,
+         "lua" : 193,
+         "ruby" : 148,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "javascript" : 720,
+         "perl" : 821,
+         "ruby" : 2036
+      },
+      "str_join_slow" : {
+         "nim" : 400,
+         "c++" : 47,
+         "javascript" : 236,
+         "perl" : 1411,
+         "perl6" : 11301,
+         "ruby" : 16896,
+         "c#" : 0,
+         "lua" : 10176
+      },
+      "str_join_repeat" : {
+         "perl6" : 11,
+         "nim" : 59,
+         "perl" : 5,
+         "lua" : 87,
+         "ruby" : 56
+      },
+      "str_join" : {
+         "perl6" : 4304,
+         "perl" : 439,
+         "lua" : 230,
+         "c#" : 0,
+         "ruby" : 1363,
+         "nqp" : 0,
+         "javascript" : 45,
+         "c++" : 3,
+         "nim" : 62
+      },
+      "takeuchi" : {
+         "nim" : 62,
+         "c++" : 18,
+         "javascript" : 288,
+         "lua" : 368,
+         "ruby" : 2243,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl6" : 28484,
+         "perl" : 12497
+      },
+      "re_capture" : {
+         "lua" : 263,
+         "nqp" : 0,
+         "ruby" : 543,
+         "perl6" : 15652,
+         "perl" : 168,
+         "javascript" : 84
+      },
+      "json_se" : {
+         "perl" : 399,
+         "javascript" : 645,
+         "ruby" : 2133
+      }
+   }
+}
