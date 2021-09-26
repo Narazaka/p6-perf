@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v16.10.0",
+      "perl" : "v5.34.0",
+      "nqp" : "2021.09",
+      "perl6" : null,
+      "nim" : "1.4.8",
+      "c#" : "5.0.205",
+      "lua" : "2.0.5",
+      "c++" : "12.0.1",
+      "ruby" : "3.0.2p107"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 3568
+      },
+      "json_se" : {
+         "javascript" : 580,
+         "perl" : 371,
+         "ruby" : 1935
+      },
+      "str_join_slow" : {
+         "perl6" : 12007,
+         "nim" : 368,
+         "perl" : 1312,
+         "javascript" : 213,
+         "ruby" : 14404,
+         "c++" : 48,
+         "lua" : 10238,
+         "c#" : 0
+      },
+      "str_join" : {
+         "c#" : 0,
+         "ruby" : 1252,
+         "c++" : 3,
+         "lua" : 219,
+         "perl" : 412,
+         "javascript" : 43,
+         "perl6" : 3609,
+         "nim" : 50,
+         "nqp" : 0
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 45,
+         "nim" : 49,
+         "perl6" : 7,
+         "lua" : 80
+      },
+      "json_de" : {
+         "ruby" : 1892,
+         "perl" : 768,
+         "javascript" : 645
+      },
+      "re_capture" : {
+         "javascript" : 83,
+         "perl" : 152,
+         "nqp" : 0,
+         "lua" : 242,
+         "perl6" : 13069,
+         "ruby" : 470
+      },
+      "fib" : {
+         "c#" : 0,
+         "lua" : 132,
+         "c++" : 2,
+         "ruby" : 845,
+         "javascript" : 115,
+         "perl" : 4556,
+         "nqp" : 0,
+         "nim" : 23,
+         "perl6" : 13414
+      },
+      "takeuchi" : {
+         "ruby" : 2109,
+         "c++" : 17,
+         "lua" : 366,
+         "c#" : 0,
+         "nim" : 61,
+         "perl6" : 25604,
+         "nqp" : 0,
+         "perl" : 11293,
+         "javascript" : 259
+      },
+      "re_bool" : {
+         "lua" : 178,
+         "nqp" : 0,
+         "ruby" : 140,
+         "perl6" : 3119,
+         "perl" : 417,
+         "javascript" : 37
+      }
+   }
+}
