@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "perl" : 429,
+         "ruby" : 2224,
+         "javascript" : 666
+      },
+      "str_join" : {
+         "lua" : 238,
+         "perl" : 449,
+         "c#" : 0,
+         "nim" : 56,
+         "c++" : 4,
+         "javascript" : 57,
+         "nqp" : 0,
+         "ruby" : 1412,
+         "perl6" : 3271
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nim" : 75,
+         "c++" : 17,
+         "javascript" : 293,
+         "lua" : 381,
+         "perl" : 12732,
+         "ruby" : 2301,
+         "perl6" : 13527,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "ruby" : 2090,
+         "javascript" : 764,
+         "perl" : 852
+      },
+      "str_join_slow" : {
+         "c++" : 53,
+         "javascript" : 259,
+         "nim" : 411,
+         "c#" : 0,
+         "lua" : 11056,
+         "perl" : 1508,
+         "perl6" : 10444,
+         "ruby" : 16532
+      },
+      "fib_fast" : {
+         "perl6" : 3242,
+         "javascript" : 19
+      },
+      "re_bool" : {
+         "ruby" : 155,
+         "perl6" : 4995,
+         "nqp" : 0,
+         "javascript" : 44,
+         "perl" : 473,
+         "lua" : 201
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "ruby" : 544,
+         "perl6" : 17250,
+         "perl" : 175,
+         "lua" : 274,
+         "javascript" : 87
+      },
+      "str_join_repeat" : {
+         "ruby" : 53,
+         "nim" : 49,
+         "perl6" : 6,
+         "perl" : 5,
+         "lua" : 90
+      },
+      "fib" : {
+         "nqp" : 0,
+         "ruby" : 923,
+         "perl6" : 5437,
+         "lua" : 150,
+         "perl" : 5177,
+         "nim" : 23,
+         "c#" : 0,
+         "c++" : 2,
+         "javascript" : 132
+      }
+   },
+   "version" : {
+      "nqp" : "2021.10-24-gf3a510cbf",
+      "ruby" : "3.0.2p107",
+      "perl6" : null,
+      "perl" : "v5.34.0",
+      "lua" : "2.0.5",
+      "nim" : "1.4.8",
+      "c#" : "6.0.100",
+      "javascript" : "v17.1.0",
+      "c++" : "13.0.0"
+   }
+}
