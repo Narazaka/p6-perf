@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.0.5",
+      "nim" : "1.4.8",
+      "perl" : "v5.34.0",
+      "c#" : "6.0.100",
+      "ruby" : "3.0.3p157",
+      "nqp" : "2021.12",
+      "javascript" : "v17.3.0",
+      "perl6" : null,
+      "c++" : "13.0.0"
+   },
+   "result" : {
+      "re_bool" : {
+         "ruby" : 140,
+         "nqp" : 0,
+         "javascript" : 35,
+         "perl6" : 4338,
+         "lua" : 181,
+         "perl" : 416
+      },
+      "re_capture" : {
+         "lua" : 244,
+         "perl" : 152,
+         "nqp" : 0,
+         "javascript" : 81,
+         "perl6" : 14814,
+         "ruby" : 452
+      },
+      "json_se" : {
+         "javascript" : 579,
+         "ruby" : 1884,
+         "perl" : 356
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 2646
+      },
+      "str_join" : {
+         "lua" : 221,
+         "nim" : 50,
+         "perl" : 409,
+         "nqp" : 0,
+         "perl6" : 2469,
+         "javascript" : 49,
+         "c++" : 3,
+         "c#" : 0,
+         "ruby" : 1236
+      },
+      "fib" : {
+         "javascript" : 120,
+         "perl6" : 5029,
+         "c++" : 2,
+         "nqp" : 0,
+         "ruby" : 822,
+         "c#" : 0,
+         "nim" : 23,
+         "perl" : 4544,
+         "lua" : 132
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "lua" : 80,
+         "ruby" : 52,
+         "nim" : 52,
+         "perl" : 2
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "ruby" : 15632,
+         "perl6" : 9093,
+         "c++" : 47,
+         "javascript" : 223,
+         "nim" : 368,
+         "perl" : 1302,
+         "lua" : 9594
+      },
+      "takeuchi" : {
+         "lua" : 348,
+         "perl" : 11299,
+         "nim" : 62,
+         "nqp" : 0,
+         "javascript" : 259,
+         "perl6" : 12016,
+         "c++" : 17,
+         "ruby" : 2162,
+         "c#" : 0
+      },
+      "json_de" : {
+         "javascript" : 652,
+         "perl" : 764,
+         "ruby" : 1825
+      }
+   }
+}
