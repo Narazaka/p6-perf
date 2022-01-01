@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 1874,
+         "perl" : 352,
+         "javascript" : 573
+      },
+      "fib" : {
+         "nqp" : 0,
+         "ruby" : 833,
+         "nim" : 23,
+         "perl" : 4487,
+         "lua" : 131,
+         "javascript" : 119,
+         "c#" : 0,
+         "perl6" : 4851,
+         "c++" : 2
+      },
+      "str_join" : {
+         "javascript" : 49,
+         "perl" : 399,
+         "nim" : 53,
+         "lua" : 216,
+         "c++" : 3,
+         "perl6" : 2395,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 1196
+      },
+      "re_bool" : {
+         "perl6" : 3636,
+         "lua" : 177,
+         "perl" : 414,
+         "javascript" : 35,
+         "ruby" : 139,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "javascript" : 257,
+         "lua" : 342,
+         "nim" : 61,
+         "perl" : 11160,
+         "c++" : 17,
+         "perl6" : 11927,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 2120
+      },
+      "json_de" : {
+         "javascript" : 642,
+         "perl" : 759,
+         "ruby" : 1776
+      },
+      "re_capture" : {
+         "ruby" : 445,
+         "nqp" : 0,
+         "perl6" : 12772,
+         "perl" : 151,
+         "lua" : 246,
+         "javascript" : 81
+      },
+      "fib_fast" : {
+         "perl6" : 2280,
+         "javascript" : 18
+      },
+      "str_join_slow" : {
+         "ruby" : 14025,
+         "javascript" : 222,
+         "lua" : 9441,
+         "perl" : 1278,
+         "nim" : 365,
+         "c++" : 47,
+         "perl6" : 8557,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "ruby" : 49,
+         "perl6" : 6,
+         "perl" : 2,
+         "lua" : 79,
+         "nim" : 49
+      }
+   },
+   "version" : {
+      "c++" : "13.0.0",
+      "perl6" : null,
+      "c#" : "6.0.100",
+      "javascript" : "v17.3.0",
+      "perl" : "v5.34.0",
+      "lua" : "2.0.5",
+      "nim" : "1.4.8",
+      "ruby" : "3.0.3p157",
+      "nqp" : "2021.12"
+   }
+}
