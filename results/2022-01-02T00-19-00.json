@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.34.0",
+      "ruby" : "3.0.3p157",
+      "c++" : "13.0.0",
+      "perl6" : null,
+      "nqp" : "2021.12",
+      "c#" : "6.0.100",
+      "javascript" : "v17.3.0",
+      "nim" : "1.4.8",
+      "lua" : "2.0.5"
+   },
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 2677,
+         "javascript" : 21
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "nim" : 64,
+         "javascript" : 269,
+         "c#" : 0,
+         "lua" : 366,
+         "perl" : 11718,
+         "ruby" : 2192,
+         "perl6" : 12684,
+         "c++" : 17
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "lua" : 182,
+         "nqp" : 0,
+         "ruby" : 147,
+         "perl6" : 4250,
+         "perl" : 425
+      },
+      "json_se" : {
+         "javascript" : 598,
+         "ruby" : 1976,
+         "perl" : 366
+      },
+      "re_capture" : {
+         "perl" : 159,
+         "ruby" : 479,
+         "perl6" : 19837,
+         "nqp" : 0,
+         "javascript" : 84,
+         "lua" : 251
+      },
+      "fib" : {
+         "perl" : 4662,
+         "ruby" : 838,
+         "c++" : 2,
+         "perl6" : 4973,
+         "nqp" : 0,
+         "c#" : 0,
+         "nim" : 27,
+         "javascript" : 125,
+         "lua" : 136
+      },
+      "str_join_slow" : {
+         "perl" : 1344,
+         "ruby" : 15639,
+         "c++" : 47,
+         "perl6" : 7485,
+         "c#" : 0,
+         "javascript" : 230,
+         "nim" : 375,
+         "lua" : 9763
+      },
+      "str_join_repeat" : {
+         "perl" : 2,
+         "lua" : 83,
+         "perl6" : 6,
+         "ruby" : 60,
+         "nim" : 50
+      },
+      "json_de" : {
+         "javascript" : 678,
+         "ruby" : 1914,
+         "perl" : 771
+      },
+      "str_join" : {
+         "c#" : 0,
+         "nim" : 50,
+         "javascript" : 51,
+         "lua" : 225,
+         "nqp" : 0,
+         "ruby" : 1269,
+         "c++" : 3,
+         "perl6" : 2734,
+         "perl" : 416
+      }
+   }
+}
