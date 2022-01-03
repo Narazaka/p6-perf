@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "6.0.100",
+      "lua" : "2.0.5",
+      "perl" : "v5.34.0",
+      "nim" : "1.4.8",
+      "javascript" : "v17.3.0",
+      "ruby" : "3.0.3p157",
+      "nqp" : "2021.12",
+      "c++" : "13.0.0",
+      "perl6" : null
+   },
+   "result" : {
+      "json_de" : {
+         "perl" : 786,
+         "javascript" : 648,
+         "ruby" : 1786
+      },
+      "fib" : {
+         "javascript" : 133,
+         "ruby" : 815,
+         "nqp" : 0,
+         "c++" : 2,
+         "perl6" : 4771,
+         "c#" : 0,
+         "lua" : 132,
+         "perl" : 4618,
+         "nim" : 23
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 2311
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "perl6" : 12334,
+         "c++" : 17,
+         "javascript" : 259,
+         "ruby" : 2176,
+         "lua" : 347,
+         "nim" : 62,
+         "perl" : 11326,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "perl6" : 8493,
+         "c++" : 48,
+         "javascript" : 225,
+         "ruby" : 13382,
+         "lua" : 9544,
+         "nim" : 370,
+         "perl" : 1292,
+         "c#" : 0
+      },
+      "json_se" : {
+         "perl" : 354,
+         "javascript" : 671,
+         "ruby" : 1920
+      },
+      "re_bool" : {
+         "perl6" : 3658,
+         "perl" : 412,
+         "nqp" : 0,
+         "lua" : 179,
+         "ruby" : 141,
+         "javascript" : 35
+      },
+      "re_capture" : {
+         "ruby" : 448,
+         "javascript" : 83,
+         "perl6" : 13028,
+         "perl" : 152,
+         "nqp" : 0,
+         "lua" : 244
+      },
+      "str_join" : {
+         "perl6" : 2377,
+         "c++" : 3,
+         "nqp" : 0,
+         "ruby" : 1224,
+         "javascript" : 49,
+         "nim" : 49,
+         "perl" : 404,
+         "lua" : 222,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 49,
+         "perl6" : 6,
+         "perl" : 3,
+         "lua" : 80,
+         "ruby" : 50
+      }
+   }
+}
