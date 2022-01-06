@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "ruby" : 825,
+         "nqp" : 0,
+         "c#" : 0,
+         "javascript" : 121,
+         "c++" : 2,
+         "lua" : 132,
+         "perl6" : 4958,
+         "nim" : 23,
+         "perl" : 4714
+      },
+      "json_se" : {
+         "ruby" : 1929,
+         "javascript" : 580,
+         "perl" : 370
+      },
+      "json_de" : {
+         "perl" : 792,
+         "javascript" : 661,
+         "ruby" : 1832
+      },
+      "str_join" : {
+         "ruby" : 1227,
+         "nqp" : 0,
+         "c#" : 0,
+         "javascript" : 50,
+         "c++" : 3,
+         "lua" : 219,
+         "perl6" : 3120,
+         "nim" : 49,
+         "perl" : 436
+      },
+      "re_bool" : {
+         "lua" : 179,
+         "ruby" : 141,
+         "perl6" : 4546,
+         "nqp" : 0,
+         "javascript" : 35,
+         "perl" : 426
+      },
+      "str_join_slow" : {
+         "c++" : 48,
+         "lua" : 9650,
+         "perl6" : 9802,
+         "nim" : 373,
+         "perl" : 1335,
+         "ruby" : 15294,
+         "c#" : 0,
+         "javascript" : 223
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 53,
+         "perl6" : 8,
+         "lua" : 80,
+         "ruby" : 51
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "perl" : 158,
+         "lua" : 247,
+         "ruby" : 450,
+         "perl6" : 16292,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 2870
+      },
+      "takeuchi" : {
+         "perl6" : 12756,
+         "c++" : 17,
+         "lua" : 359,
+         "perl" : 11556,
+         "nim" : 62,
+         "nqp" : 0,
+         "c#" : 0,
+         "ruby" : 2191,
+         "javascript" : 260
+      }
+   },
+   "version" : {
+      "nim" : "1.4.8",
+      "perl" : "v5.34.0",
+      "c++" : "13.0.0",
+      "lua" : "2.0.5",
+      "perl6" : null,
+      "javascript" : "v17.3.0",
+      "ruby" : "3.0.3p157",
+      "nqp" : "2021.12-6-gce013f1c1",
+      "c#" : "6.0.100"
+   }
+}
