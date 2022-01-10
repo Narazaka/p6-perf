@@ -12,4 +12,4 @@ while $i < $repeat-count {
   fib($n);
 }
 my $end := nqp::time();
-say(nqp::mul_n(nqp::sub_n($end, $start), 0.000000001) + 0);
+say(nqp::mul_n(nqp::sub_n($end, $start), 0.000001) + 0);
