@@ -13,11 +13,11 @@ sub tarai($x, $y, $z) {
     );
 }
 
-my $start := nqp::time_n();
+my $start := nqp::time();
 my $i := 0;
 while $i < $repeat-count {
   ++$i;
   tarai($x, $y, $z);
 }
-my $end := nqp::time_n();
-say(nqp::mul_n(nqp::sub_n($end, $start), 1000) + 0);
+my $end := nqp::time();
+say(nqp::mul_n(nqp::sub_n($end, $start), 0.000000001) + 0);
