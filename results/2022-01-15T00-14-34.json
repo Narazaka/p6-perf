@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.0.3p157",
+      "nqp" : "2021.12-7-gc20c2ffb7",
+      "perl" : "v5.34.0",
+      "perl6" : null,
+      "javascript" : "v17.3.0",
+      "lua" : "2.0.5",
+      "c#" : "6.0.100",
+      "c++" : "13.0.0",
+      "nim" : "1.4.8"
+   },
+   "result" : {
+      "re_capture" : {
+         "perl" : 152,
+         "ruby" : 453,
+         "nqp" : 10397,
+         "lua" : 255,
+         "perl6" : 14409,
+         "javascript" : 88
+      },
+      "json_de" : {
+         "perl" : 796,
+         "javascript" : 701,
+         "ruby" : 1787
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 2608
+      },
+      "str_join_slow" : {
+         "ruby" : 15852,
+         "perl" : 1359,
+         "lua" : 10190,
+         "perl6" : 8968,
+         "javascript" : 240,
+         "nim" : 363,
+         "c++" : 56,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "ruby" : 54,
+         "lua" : 80,
+         "perl" : 3,
+         "nim" : 52
+      },
+      "str_join" : {
+         "c#" : 0,
+         "nim" : 49,
+         "c++" : 3,
+         "perl6" : 2640,
+         "javascript" : 56,
+         "lua" : 230,
+         "perl" : 454,
+         "nqp" : 1262,
+         "ruby" : 1240
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "perl6" : 4231,
+         "lua" : 200,
+         "perl" : 421,
+         "ruby" : 142,
+         "nqp" : 4865
+      },
+      "takeuchi" : {
+         "nqp" : 18431,
+         "ruby" : 2154,
+         "perl" : 11382,
+         "lua" : 366,
+         "javascript" : 297,
+         "perl6" : 11809,
+         "nim" : 62,
+         "c++" : 21,
+         "c#" : 0
+      },
+      "json_se" : {
+         "javascript" : 633,
+         "ruby" : 1942,
+         "perl" : 374
+      },
+      "fib" : {
+         "perl" : 4604,
+         "nqp" : 7757,
+         "ruby" : 843,
+         "nim" : 23,
+         "c++" : 4,
+         "c#" : 0,
+         "lua" : 139,
+         "perl6" : 4809,
+         "javascript" : 128
+      }
+   }
+}
