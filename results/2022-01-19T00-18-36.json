@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "lua" : 133,
+         "c#" : 0,
+         "perl" : 4538,
+         "javascript" : 120,
+         "perl6" : 4778,
+         "nqp" : 0,
+         "c++" : 2,
+         "nim" : 23,
+         "ruby" : 824
+      },
+      "takeuchi" : {
+         "lua" : 345,
+         "c#" : 0,
+         "perl" : 11284,
+         "javascript" : 260,
+         "perl6" : 11841,
+         "nqp" : 0,
+         "c++" : 17,
+         "nim" : 61,
+         "ruby" : 2212
+      },
+      "json_se" : {
+         "perl" : 355,
+         "javascript" : 583,
+         "ruby" : 1997
+      },
+      "str_join_slow" : {
+         "nim" : 372,
+         "ruby" : 15911,
+         "lua" : 9467,
+         "c#" : 0,
+         "perl" : 1291,
+         "javascript" : 228,
+         "perl6" : 8514,
+         "c++" : 49
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "perl" : 153,
+         "lua" : 243,
+         "ruby" : 450,
+         "nqp" : 0,
+         "perl6" : 12214
+      },
+      "str_join" : {
+         "ruby" : 1230,
+         "nim" : 50,
+         "nqp" : 0,
+         "c++" : 3,
+         "perl6" : 2113,
+         "c#" : 0,
+         "javascript" : 49,
+         "perl" : 413,
+         "lua" : 220
+      },
+      "json_de" : {
+         "ruby" : 1807,
+         "javascript" : 662,
+         "perl" : 789
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "perl6" : 5,
+         "ruby" : 54,
+         "lua" : 81,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "perl6" : 2420,
+         "javascript" : 18
+      },
+      "re_bool" : {
+         "perl" : 412,
+         "javascript" : 35,
+         "lua" : 180,
+         "ruby" : 140,
+         "nqp" : 0,
+         "perl6" : 3369
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.3p157",
+      "nim" : "1.4.8",
+      "c++" : "13.0.0",
+      "nqp" : "2021.12-10-g5e5502ecb",
+      "perl6" : null,
+      "javascript" : "v17.3.0",
+      "perl" : "v5.34.0",
+      "c#" : "6.0.100",
+      "lua" : "2.0.5"
+   }
+}
