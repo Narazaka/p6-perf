@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "ruby" : 50,
+         "perl" : 3,
+         "perl6" : 5,
+         "nim" : 49,
+         "lua" : 80
+      },
+      "takeuchi" : {
+         "nim" : 63,
+         "c++" : 17,
+         "ruby" : 2272,
+         "lua" : 347,
+         "javascript" : 267,
+         "perl" : 11296,
+         "c#" : 0,
+         "perl6" : 12475,
+         "nqp" : 17873
+      },
+      "json_de" : {
+         "javascript" : 670,
+         "ruby" : 1788,
+         "perl" : 755
+      },
+      "fib_fast" : {
+         "perl6" : 2423,
+         "javascript" : 18
+      },
+      "str_join_slow" : {
+         "lua" : 9550,
+         "perl6" : 8674,
+         "javascript" : 224,
+         "c#" : 0,
+         "perl" : 1287,
+         "c++" : 47,
+         "nim" : 367,
+         "ruby" : 14636
+      },
+      "fib" : {
+         "lua" : 133,
+         "perl6" : 4876,
+         "nqp" : 7900,
+         "c#" : 0,
+         "perl" : 4655,
+         "javascript" : 123,
+         "c++" : 2,
+         "nim" : 23,
+         "ruby" : 821
+      },
+      "str_join" : {
+         "nim" : 50,
+         "c++" : 3,
+         "ruby" : 1222,
+         "lua" : 219,
+         "c#" : 0,
+         "perl" : 417,
+         "javascript" : 50,
+         "perl6" : 2127,
+         "nqp" : 928
+      },
+      "json_se" : {
+         "ruby" : 1890,
+         "javascript" : 580,
+         "perl" : 358
+      },
+      "re_capture" : {
+         "ruby" : 450,
+         "lua" : 244,
+         "perl" : 154,
+         "javascript" : 81,
+         "nqp" : 9884,
+         "perl6" : 12252
+      },
+      "re_bool" : {
+         "ruby" : 140,
+         "lua" : 179,
+         "javascript" : 36,
+         "perl" : 416,
+         "nqp" : 4983,
+         "perl6" : 3329
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.3p157",
+      "c++" : "13.0.0",
+      "nim" : "1.4.8",
+      "nqp" : "2021.12-10-g5e5502ecb",
+      "perl6" : null,
+      "c#" : "6.0.100",
+      "perl" : "v5.34.0",
+      "javascript" : "v17.3.0",
+      "lua" : "2.0.5"
+   }
+}
