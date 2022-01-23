@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "lua" : 392,
+         "perl" : 11313,
+         "c++" : 18,
+         "nim" : 62,
+         "c#" : 0,
+         "ruby" : 2246,
+         "perl6" : 12083,
+         "nqp" : 18046,
+         "javascript" : 264
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "lua" : 82,
+         "ruby" : 54,
+         "perl" : 3,
+         "nim" : 52
+      },
+      "str_join" : {
+         "c++" : 3,
+         "perl" : 404,
+         "lua" : 222,
+         "c#" : 0,
+         "nim" : 49,
+         "nqp" : 1008,
+         "perl6" : 2226,
+         "ruby" : 1237,
+         "javascript" : 51
+      },
+      "fib_fast" : {
+         "perl6" : 2878,
+         "javascript" : 18
+      },
+      "re_bool" : {
+         "javascript" : 38,
+         "ruby" : 141,
+         "perl6" : 3709,
+         "nqp" : 3313,
+         "lua" : 183,
+         "perl" : 424
+      },
+      "str_join_slow" : {
+         "javascript" : 241,
+         "ruby" : 15888,
+         "perl6" : 9037,
+         "nim" : 368,
+         "c#" : 0,
+         "lua" : 9946,
+         "perl" : 1294,
+         "c++" : 50
+      },
+      "json_de" : {
+         "ruby" : 1834,
+         "perl" : 769,
+         "javascript" : 674
+      },
+      "json_se" : {
+         "javascript" : 593,
+         "ruby" : 2033,
+         "perl" : 354
+      },
+      "fib" : {
+         "c++" : 2,
+         "perl" : 4558,
+         "lua" : 137,
+         "c#" : 0,
+         "nim" : 23,
+         "nqp" : 7999,
+         "perl6" : 5201,
+         "ruby" : 850,
+         "javascript" : 121
+      },
+      "re_capture" : {
+         "ruby" : 453,
+         "perl6" : 13510,
+         "nqp" : 10450,
+         "javascript" : 85,
+         "lua" : 253,
+         "perl" : 167
+      }
+   },
+   "version" : {
+      "lua" : "2.0.5",
+      "perl" : "v5.34.0",
+      "c++" : "13.0.0",
+      "nim" : "1.4.8",
+      "c#" : "6.0.100",
+      "ruby" : "3.0.3p157",
+      "perl6" : null,
+      "nqp" : "2021.12-29-gcf5b93884",
+      "javascript" : "v17.3.0"
+   }
+}
