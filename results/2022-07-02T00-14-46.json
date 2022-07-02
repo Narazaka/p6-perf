@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 645,
+         "perl" : 347,
+         "ruby" : 2301
+      },
+      "json_de" : {
+         "ruby" : 2152,
+         "perl" : 727,
+         "javascript" : 843
+      },
+      "str_join_repeat" : {
+         "ruby" : 55,
+         "nim" : 57,
+         "perl6" : 5,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "perl" : 432,
+         "javascript" : 41,
+         "perl6" : 2828,
+         "ruby" : 161,
+         "lua" : 180,
+         "nqp" : 3294
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nqp" : 19943,
+         "c++" : 26,
+         "lua" : 488,
+         "ruby" : 2224,
+         "javascript" : 280,
+         "perl" : 12062,
+         "nim" : 48,
+         "perl6" : 11946
+      },
+      "str_join" : {
+         "c#" : 0,
+         "ruby" : 1410,
+         "lua" : 100,
+         "c++" : 3,
+         "nqp" : 1033,
+         "perl" : 404,
+         "javascript" : 68,
+         "nim" : 54,
+         "perl6" : 2089
+      },
+      "str_join_slow" : {
+         "ruby" : 15591,
+         "lua" : 9507,
+         "c++" : 72,
+         "c#" : 0,
+         "nim" : 410,
+         "perl6" : 8888,
+         "javascript" : 237,
+         "perl" : 1320
+      },
+      "fib_fast" : {
+         "javascript" : 34,
+         "perl6" : 2575
+      },
+      "re_capture" : {
+         "perl6" : 11114,
+         "perl" : 167,
+         "javascript" : 90,
+         "lua" : 250,
+         "ruby" : 513,
+         "nqp" : 9387
+      },
+      "fib" : {
+         "c#" : 0,
+         "ruby" : 897,
+         "lua" : 158,
+         "c++" : 2,
+         "nqp" : 8366,
+         "perl" : 4999,
+         "javascript" : 134,
+         "perl6" : 5005,
+         "nim" : 24
+      }
+   },
+   "version" : {
+      "c#" : "6.0.102",
+      "c++" : "13.0.1",
+      "lua" : "2.1.0",
+      "ruby" : "3.0.4p208",
+      "nqp" : "2022.06-1-ge3c439991",
+      "perl" : "v5.36.0",
+      "javascript" : "v18.4.0",
+      "nim" : "1.6.6",
+      "perl6" : null
+   }
+}
