@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v18.4.0",
+      "nim" : "1.6.6",
+      "perl" : "v5.36.0",
+      "lua" : "2.1.0",
+      "c#" : "6.0.102",
+      "perl6" : null,
+      "ruby" : "3.0.4p208",
+      "c++" : "14.0.6",
+      "nqp" : "2022.06-1-ge3c439991"
+   },
+   "result" : {
+      "re_capture" : {
+         "perl" : 164,
+         "lua" : 223,
+         "javascript" : 85,
+         "nqp" : 9583,
+         "ruby" : 448,
+         "perl6" : 11828
+      },
+      "str_join" : {
+         "perl6" : 2120,
+         "ruby" : 1250,
+         "c++" : 0,
+         "nqp" : 870,
+         "nim" : 51,
+         "javascript" : 52,
+         "c#" : 0,
+         "perl" : 433,
+         "lua" : 89
+      },
+      "json_de" : {
+         "perl" : 724,
+         "javascript" : 677,
+         "ruby" : 1855
+      },
+      "json_se" : {
+         "javascript" : 592,
+         "ruby" : 1939,
+         "perl" : 351
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "perl" : 1458,
+         "lua" : 8044,
+         "javascript" : 224,
+         "nim" : 360,
+         "perl6" : 6652,
+         "ruby" : 13322,
+         "c++" : 48
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 2710
+      },
+      "takeuchi" : {
+         "nqp" : 19051,
+         "ruby" : 2198,
+         "perl6" : 12340,
+         "c++" : 19,
+         "perl" : 11732,
+         "c#" : 0,
+         "lua" : 429,
+         "nim" : 47,
+         "javascript" : 259
+      },
+      "re_bool" : {
+         "ruby" : 145,
+         "perl6" : 2868,
+         "nqp" : 2975,
+         "javascript" : 35,
+         "lua" : 162,
+         "perl" : 455
+      },
+      "str_join_repeat" : {
+         "nim" : 57,
+         "perl6" : 5,
+         "ruby" : 53,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "fib" : {
+         "nim" : 15,
+         "javascript" : 125,
+         "perl" : 4759,
+         "lua" : 152,
+         "c#" : 0,
+         "c++" : 2,
+         "ruby" : 815,
+         "perl6" : 4835,
+         "nqp" : 7956
+      }
+   }
+}
