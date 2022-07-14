@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 587,
+         "ruby" : 1965,
+         "perl" : 343
+      },
+      "takeuchi" : {
+         "javascript" : 258,
+         "perl6" : 11920,
+         "c#" : 0,
+         "nim" : 47,
+         "lua" : 425,
+         "nqp" : 0,
+         "ruby" : 2216,
+         "perl" : 11532,
+         "c++" : 17
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 58,
+         "perl" : 3,
+         "ruby" : 56,
+         "perl6" : 5
+      },
+      "str_join_slow" : {
+         "javascript" : 224,
+         "perl6" : 7076,
+         "lua" : 7982,
+         "c#" : 0,
+         "nim" : 363,
+         "perl" : 1304,
+         "c++" : 48,
+         "ruby" : 15231
+      },
+      "re_capture" : {
+         "javascript" : 81,
+         "perl6" : 13177,
+         "lua" : 224,
+         "nqp" : 0,
+         "perl" : 161,
+         "ruby" : 452
+      },
+      "str_join" : {
+         "javascript" : 51,
+         "perl6" : 2127,
+         "nim" : 49,
+         "c#" : 0,
+         "nqp" : 0,
+         "lua" : 95,
+         "ruby" : 1257,
+         "c++" : 0,
+         "perl" : 416
+      },
+      "json_de" : {
+         "javascript" : 685,
+         "ruby" : 1933,
+         "perl" : 750
+      },
+      "fib" : {
+         "c#" : 0,
+         "nim" : 15,
+         "lua" : 170,
+         "nqp" : 0,
+         "ruby" : 819,
+         "perl" : 4664,
+         "c++" : 2,
+         "javascript" : 128,
+         "perl6" : 4924
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 2880
+      },
+      "re_bool" : {
+         "ruby" : 146,
+         "perl" : 430,
+         "lua" : 161,
+         "nqp" : 0,
+         "perl6" : 2786,
+         "javascript" : 35
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "javascript" : "v18.5.0",
+      "c++" : "14.0.6",
+      "perl" : "v5.36.0",
+      "ruby" : "3.0.4p208",
+      "nqp" : "2022.06-1-ge3c439991",
+      "lua" : "2.1.0",
+      "nim" : "1.6.6",
+      "c#" : "6.0.106"
+   }
+}
