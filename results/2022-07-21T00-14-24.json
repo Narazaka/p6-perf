@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.0",
+      "c++" : "14.0.6",
+      "javascript" : "v18.6.0",
+      "nqp" : "2022.06-1-ge3c439991",
+      "perl6" : null,
+      "ruby" : "3.0.4p208",
+      "nim" : "1.6.6",
+      "c#" : "6.0.106",
+      "perl" : "v5.36.0"
+   },
+   "result" : {
+      "re_bool" : {
+         "lua" : 162,
+         "javascript" : 35,
+         "nqp" : 3156,
+         "ruby" : 152,
+         "perl6" : 2662,
+         "perl" : 424
+      },
+      "fib" : {
+         "c#" : 0,
+         "perl" : 4562,
+         "ruby" : 834,
+         "perl6" : 4794,
+         "nim" : 15,
+         "javascript" : 126,
+         "nqp" : 7896,
+         "lua" : 206,
+         "c++" : 2
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "perl" : 11376,
+         "ruby" : 2068,
+         "perl6" : 12050,
+         "nim" : 46,
+         "javascript" : 258,
+         "nqp" : 18333,
+         "lua" : 422,
+         "c++" : 17
+      },
+      "re_capture" : {
+         "lua" : 223,
+         "javascript" : 86,
+         "nqp" : 9623,
+         "ruby" : 462,
+         "perl6" : 11513,
+         "perl" : 159
+      },
+      "str_join" : {
+         "nqp" : 880,
+         "javascript" : 52,
+         "lua" : 90,
+         "c++" : 0,
+         "c#" : 0,
+         "perl" : 393,
+         "ruby" : 1349,
+         "perl6" : 2013,
+         "nim" : 51
+      },
+      "fib_fast" : {
+         "perl6" : 2598,
+         "javascript" : 25
+      },
+      "json_se" : {
+         "ruby" : 1962,
+         "javascript" : 589,
+         "perl" : 328
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 57,
+         "perl6" : 6,
+         "ruby" : 59,
+         "lua" : 1
+      },
+      "str_join_slow" : {
+         "lua" : 7763,
+         "c++" : 48,
+         "javascript" : 226,
+         "nim" : 358,
+         "perl6" : 8986,
+         "ruby" : 15167,
+         "perl" : 1263,
+         "c#" : 0
+      },
+      "json_de" : {
+         "ruby" : 2013,
+         "javascript" : 678,
+         "perl" : 700
+      }
+   }
+}
