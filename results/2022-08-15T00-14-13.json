@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "javascript" : 35,
+         "lua" : 164,
+         "perl6" : 2384,
+         "nqp" : 2872,
+         "ruby" : 154,
+         "perl" : 452
+      },
+      "takeuchi" : {
+         "nqp" : 18410,
+         "perl6" : 11762,
+         "c++" : 17,
+         "lua" : 422,
+         "javascript" : 259,
+         "perl" : 11898,
+         "nim" : 119,
+         "c#" : 0,
+         "ruby" : 2209
+      },
+      "json_de" : {
+         "perl" : 732,
+         "ruby" : 1919,
+         "javascript" : 675
+      },
+      "fib" : {
+         "nqp" : 7864,
+         "perl6" : 4912,
+         "lua" : 209,
+         "javascript" : 125,
+         "c++" : 2,
+         "perl" : 4955,
+         "nim" : 22,
+         "c#" : 0,
+         "ruby" : 837
+      },
+      "json_se" : {
+         "ruby" : 2006,
+         "perl" : 351,
+         "javascript" : 622
+      },
+      "str_join" : {
+         "nqp" : 894,
+         "perl6" : 2001,
+         "c++" : 0,
+         "lua" : 89,
+         "javascript" : 52,
+         "perl" : 449,
+         "nim" : 49,
+         "ruby" : 1357,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "perl6" : 9066,
+         "javascript" : 218,
+         "lua" : 7843,
+         "c++" : 53,
+         "c#" : 0,
+         "ruby" : 14815,
+         "perl" : 1308,
+         "nim" : 366
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "lua" : 1,
+         "ruby" : 48,
+         "perl" : 3,
+         "nim" : 53
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 2453
+      },
+      "re_capture" : {
+         "perl" : 169,
+         "ruby" : 467,
+         "lua" : 247,
+         "javascript" : 82,
+         "nqp" : 9302,
+         "perl6" : 10819
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "nqp" : "2022.07-2-g4f4d4ef1f",
+      "c#" : "6.0.108",
+      "ruby" : "3.0.4p208",
+      "perl" : "v5.36.0",
+      "nim" : "1.6.6",
+      "c++" : "14.0.6",
+      "javascript" : "v18.7.0",
+      "lua" : "2.1.0"
+   }
+}
