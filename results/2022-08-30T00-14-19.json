@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "perl" : 748,
+         "ruby" : 1864,
+         "javascript" : 686
+      },
+      "fib" : {
+         "ruby" : 833,
+         "perl" : 4958,
+         "javascript" : 125,
+         "perl6" : 4992,
+         "c#" : 0,
+         "c++" : 2,
+         "nim" : 15,
+         "nqp" : 8429,
+         "lua" : 152
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 2502
+      },
+      "re_bool" : {
+         "nqp" : 4667,
+         "lua" : 164,
+         "ruby" : 155,
+         "perl" : 435,
+         "perl6" : 2520,
+         "javascript" : 35
+      },
+      "str_join" : {
+         "ruby" : 1486,
+         "perl" : 396,
+         "perl6" : 1980,
+         "javascript" : 51,
+         "c++" : 0,
+         "c#" : 0,
+         "nqp" : 859,
+         "lua" : 90,
+         "nim" : 50
+      },
+      "re_capture" : {
+         "perl" : 160,
+         "ruby" : 442,
+         "perl6" : 11290,
+         "javascript" : 82,
+         "nqp" : 9316,
+         "lua" : 247
+      },
+      "str_join_slow" : {
+         "lua" : 7809,
+         "nim" : 356,
+         "c++" : 53,
+         "c#" : 0,
+         "perl6" : 6697,
+         "javascript" : 213,
+         "ruby" : 15636,
+         "perl" : 1254
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 58,
+         "perl" : 3,
+         "ruby" : 69
+      },
+      "takeuchi" : {
+         "nim" : 46,
+         "nqp" : 18795,
+         "lua" : 422,
+         "c#" : 0,
+         "c++" : 17,
+         "perl6" : 12274,
+         "javascript" : 258,
+         "perl" : 11361,
+         "ruby" : 2091
+      },
+      "json_se" : {
+         "perl" : 368,
+         "ruby" : 2067,
+         "javascript" : 595
+      }
+   },
+   "version" : {
+      "c++" : "14.0.6",
+      "c#" : "6.0.108",
+      "nqp" : "2022.07-3-gac688b0f2",
+      "lua" : "2.1.0",
+      "nim" : "1.6.6",
+      "perl" : "v5.36.0",
+      "ruby" : "3.0.4p208",
+      "perl6" : null,
+      "javascript" : "v18.8.0"
+   }
+}
