@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "nim" : "1.6.6",
+      "lua" : "2.1.0",
+      "javascript" : "v18.8.0",
+      "perl" : "v5.36.0",
+      "c#" : "6.0.108",
+      "ruby" : "3.0.4p208",
+      "nqp" : "2022.07-3-gac688b0f2",
+      "c++" : "14.0.6"
+   },
+   "result" : {
+      "re_capture" : {
+         "perl6" : 12610,
+         "lua" : 247,
+         "ruby" : 469,
+         "nqp" : 10102,
+         "perl" : 179,
+         "javascript" : 83
+      },
+      "json_de" : {
+         "perl" : 683,
+         "javascript" : 692,
+         "ruby" : 1984
+      },
+      "re_bool" : {
+         "perl6" : 2805,
+         "lua" : 166,
+         "perl" : 432,
+         "javascript" : 34,
+         "ruby" : 161,
+         "nqp" : 3079
+      },
+      "json_se" : {
+         "javascript" : 608,
+         "perl" : 323,
+         "ruby" : 2063
+      },
+      "fib" : {
+         "perl6" : 4967,
+         "nim" : 16,
+         "lua" : 205,
+         "ruby" : 853,
+         "c++" : 2,
+         "nqp" : 8138,
+         "perl" : 4578,
+         "javascript" : 126,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 3234,
+         "javascript" : 25
+      },
+      "takeuchi" : {
+         "perl6" : 12044,
+         "nim" : 55,
+         "lua" : 427,
+         "ruby" : 2190,
+         "nqp" : 19268,
+         "c++" : 17,
+         "perl" : 12083,
+         "javascript" : 259,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 6,
+         "perl" : 3,
+         "nim" : 58,
+         "ruby" : 50
+      },
+      "str_join" : {
+         "lua" : 92,
+         "c#" : 0,
+         "perl" : 416,
+         "javascript" : 53,
+         "c++" : 0,
+         "nqp" : 1011,
+         "ruby" : 1389,
+         "perl6" : 2588,
+         "nim" : 49
+      },
+      "str_join_slow" : {
+         "nim" : 376,
+         "perl6" : 9740,
+         "ruby" : 15587,
+         "c++" : 54,
+         "perl" : 1317,
+         "javascript" : 220,
+         "c#" : 0,
+         "lua" : 7803
+      }
+   }
+}
