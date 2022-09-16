@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v18.9.0",
+      "nqp" : "2022.07-4-gc25f65458",
+      "perl6" : null,
+      "c++" : "14.0.6",
+      "perl" : "v5.36.0",
+      "nim" : "1.6.6",
+      "c#" : "6.0.109",
+      "lua" : "2.1.0",
+      "ruby" : "3.0.4p208"
+   },
+   "result" : {
+      "re_capture" : {
+         "ruby" : 461,
+         "lua" : 414,
+         "perl6" : 12091,
+         "nqp" : 10949,
+         "perl" : 159,
+         "javascript" : 111
+      },
+      "str_join" : {
+         "nqp" : 1095,
+         "javascript" : 63,
+         "perl6" : 2059,
+         "c++" : 0,
+         "perl" : 399,
+         "ruby" : 1407,
+         "lua" : 109,
+         "c#" : 0,
+         "nim" : 49
+      },
+      "json_de" : {
+         "ruby" : 1949,
+         "javascript" : 823,
+         "perl" : 688
+      },
+      "fib" : {
+         "perl6" : 5299,
+         "nqp" : 7843,
+         "javascript" : 155,
+         "ruby" : 839,
+         "c#" : 0,
+         "lua" : 171,
+         "nim" : 15,
+         "c++" : 2,
+         "perl" : 4732
+      },
+      "json_se" : {
+         "perl" : 359,
+         "javascript" : 681,
+         "ruby" : 2074
+      },
+      "re_bool" : {
+         "ruby" : 180,
+         "lua" : 262,
+         "perl6" : 2625,
+         "nqp" : 3531,
+         "perl" : 437,
+         "javascript" : 71
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 51,
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 62
+      },
+      "fib_fast" : {
+         "javascript" : 27,
+         "perl6" : 3015
+      },
+      "str_join_slow" : {
+         "nim" : 363,
+         "ruby" : 16248,
+         "c#" : 0,
+         "lua" : 8265,
+         "perl" : 1261,
+         "c++" : 53,
+         "perl6" : 8049,
+         "javascript" : 263
+      },
+      "takeuchi" : {
+         "perl" : 11380,
+         "c++" : 18,
+         "ruby" : 2145,
+         "c#" : 0,
+         "lua" : 423,
+         "nim" : 52,
+         "nqp" : 18455,
+         "javascript" : 284,
+         "perl6" : 12357
+      }
+   }
+}
