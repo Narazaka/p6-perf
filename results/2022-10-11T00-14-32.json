@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "perl" : 11451,
+         "ruby" : 2125,
+         "javascript" : 260,
+         "nim" : 47,
+         "c#" : 0,
+         "perl6" : 12262,
+         "lua" : 422,
+         "c++" : 17,
+         "nqp" : 17991
+      },
+      "str_join_slow" : {
+         "c++" : 53,
+         "lua" : 7892,
+         "perl6" : 6859,
+         "nim" : 353,
+         "c#" : 0,
+         "perl" : 1272,
+         "ruby" : 14794,
+         "javascript" : 222
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 54,
+         "perl6" : 6,
+         "perl" : 3,
+         "ruby" : 55
+      },
+      "re_capture" : {
+         "perl6" : 11568,
+         "ruby" : 463,
+         "perl" : 158,
+         "javascript" : 82,
+         "lua" : 247,
+         "nqp" : 10021
+      },
+      "re_bool" : {
+         "perl6" : 2564,
+         "perl" : 429,
+         "javascript" : 34,
+         "ruby" : 155,
+         "lua" : 164,
+         "nqp" : 4810
+      },
+      "str_join" : {
+         "lua" : 90,
+         "c++" : 0,
+         "nqp" : 1001,
+         "perl6" : 2046,
+         "c#" : 0,
+         "nim" : 50,
+         "perl" : 398,
+         "ruby" : 1363,
+         "javascript" : 51
+      },
+      "fib" : {
+         "perl6" : 4934,
+         "nqp" : 8430,
+         "lua" : 170,
+         "c++" : 2,
+         "javascript" : 128,
+         "perl" : 4651,
+         "ruby" : 838,
+         "c#" : 0,
+         "nim" : 15
+      },
+      "fib_fast" : {
+         "perl6" : 2708,
+         "javascript" : 24
+      },
+      "json_de" : {
+         "javascript" : 677,
+         "perl" : 677,
+         "ruby" : 1903
+      },
+      "json_se" : {
+         "perl" : 328,
+         "javascript" : 651,
+         "ruby" : 1990
+      }
+   },
+   "version" : {
+      "nim" : "1.6.6",
+      "c#" : "6.0.109",
+      "javascript" : "v18.10.0",
+      "ruby" : "3.0.4p208",
+      "perl" : "v5.36.0",
+      "nqp" : "2022.07-9-gd397598a1",
+      "c++" : "14.0.6",
+      "lua" : "2.1.0",
+      "perl6" : null
+   }
+}
