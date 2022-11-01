@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.36.0",
+      "perl6" : null,
+      "javascript" : "v19.0.0",
+      "nqp" : "2022.07-9-gd397598a1",
+      "c++" : "14.0.6",
+      "lua" : "2.1.0",
+      "nim" : "1.6.6",
+      "c#" : "6.0.110",
+      "ruby" : "3.0.4p208"
+   },
+   "result" : {
+      "json_se" : {
+         "perl" : 324,
+         "javascript" : 634,
+         "ruby" : 2302
+      },
+      "fib" : {
+         "perl" : 4719,
+         "perl6" : 5477,
+         "nqp" : 8319,
+         "c++" : 2,
+         "javascript" : 126,
+         "lua" : 203,
+         "nim" : 15,
+         "c#" : 0,
+         "ruby" : 833
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "c#" : 0,
+         "ruby" : 2076,
+         "lua" : 404,
+         "perl" : 11586,
+         "perl6" : 13519,
+         "nqp" : 18245,
+         "c++" : 18,
+         "javascript" : 260
+      },
+      "str_join" : {
+         "nim" : 51,
+         "ruby" : 1358,
+         "c#" : 0,
+         "perl6" : 1940,
+         "perl" : 396,
+         "c++" : 0,
+         "nqp" : 869,
+         "javascript" : 45,
+         "lua" : 91
+      },
+      "re_capture" : {
+         "perl6" : 11238,
+         "perl" : 159,
+         "nqp" : 9790,
+         "javascript" : 74,
+         "lua" : 247,
+         "ruby" : 465
+      },
+      "str_join_repeat" : {
+         "nim" : 56,
+         "ruby" : 54,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 5
+      },
+      "re_bool" : {
+         "perl" : 425,
+         "perl6" : 2459,
+         "javascript" : 33,
+         "nqp" : 4684,
+         "ruby" : 157,
+         "lua" : 164
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 2675
+      },
+      "json_de" : {
+         "ruby" : 1900,
+         "javascript" : 788,
+         "perl" : 681
+      },
+      "str_join_slow" : {
+         "javascript" : 213,
+         "c++" : 54,
+         "perl6" : 9965,
+         "perl" : 1265,
+         "lua" : 7726,
+         "ruby" : 14354,
+         "c#" : 0,
+         "nim" : 384
+      }
+   }
+}
