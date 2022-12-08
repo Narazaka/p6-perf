@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "7.0.100",
+      "ruby" : "3.0.4p208",
+      "nqp" : "2022.12",
+      "perl6" : null,
+      "lua" : "2.1.0",
+      "c++" : "14.0.6",
+      "nim" : "1.6.10",
+      "perl" : "v5.36.0",
+      "javascript" : "v19.2.0"
+   },
+   "result" : {
+      "takeuchi" : {
+         "perl" : 11955,
+         "javascript" : 298,
+         "nim" : 46,
+         "nqp" : 0,
+         "perl6" : 12516,
+         "c++" : 17,
+         "lua" : 451,
+         "ruby" : 2177,
+         "c#" : 0
+      },
+      "fib" : {
+         "c#" : 0,
+         "perl" : 5114,
+         "javascript" : 138,
+         "nim" : 15,
+         "nqp" : 0,
+         "perl6" : 5175,
+         "lua" : 214,
+         "c++" : 2,
+         "ruby" : 893
+      },
+      "re_bool" : {
+         "perl6" : 2605,
+         "lua" : 169,
+         "nqp" : 0,
+         "ruby" : 168,
+         "javascript" : 39,
+         "perl" : 451
+      },
+      "str_join_repeat" : {
+         "nim" : 56,
+         "perl" : 3,
+         "ruby" : 53,
+         "perl6" : 5,
+         "lua" : 1
+      },
+      "str_join" : {
+         "ruby" : 1450,
+         "nqp" : 0,
+         "perl6" : 2183,
+         "c++" : 0,
+         "lua" : 93,
+         "nim" : 55,
+         "javascript" : 50,
+         "perl" : 441,
+         "c#" : 0
+      },
+      "json_de" : {
+         "ruby" : 2066,
+         "perl" : 724,
+         "javascript" : 811
+      },
+      "json_se" : {
+         "ruby" : 2253,
+         "javascript" : 689,
+         "perl" : 353
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2828
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "nim" : 387,
+         "javascript" : 215,
+         "perl" : 1335,
+         "ruby" : 14555,
+         "perl6" : 8350,
+         "c++" : 54,
+         "lua" : 8364
+      },
+      "re_capture" : {
+         "ruby" : 514,
+         "perl6" : 11994,
+         "lua" : 259,
+         "nqp" : 0,
+         "javascript" : 86,
+         "perl" : 171
+      }
+   }
+}
