@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.36.0",
+      "c++" : "14.0.6",
+      "ruby" : "3.0.4p208",
+      "c#" : "7.0.100",
+      "javascript" : "v19.2.0",
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "perl6" : null,
+      "nqp" : "2022.12"
+   },
+   "result" : {
+      "json_de" : {
+         "javascript" : 752,
+         "perl" : 682,
+         "ruby" : 1870
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "perl6" : 12898,
+         "lua" : 422,
+         "nim" : 48,
+         "javascript" : 260,
+         "c#" : 0,
+         "perl" : 11373,
+         "c++" : 18,
+         "ruby" : 2081
+      },
+      "json_se" : {
+         "javascript" : 624,
+         "perl" : 321,
+         "ruby" : 2026
+      },
+      "str_join_slow" : {
+         "lua" : 7728,
+         "perl6" : 7734,
+         "nim" : 366,
+         "javascript" : 205,
+         "c++" : 53,
+         "perl" : 1262,
+         "ruby" : 12695,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 5,
+         "perl" : 3,
+         "ruby" : 49,
+         "nim" : 56
+      },
+      "fib" : {
+         "c++" : 2,
+         "perl" : 4661,
+         "ruby" : 828,
+         "c#" : 0,
+         "javascript" : 126,
+         "nim" : 15,
+         "perl6" : 5195,
+         "lua" : 181,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "perl6" : 2586,
+         "lua" : 165,
+         "nqp" : 0,
+         "javascript" : 35,
+         "perl" : 425,
+         "ruby" : 158
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "perl6" : 12286,
+         "lua" : 247,
+         "perl" : 158,
+         "ruby" : 467,
+         "javascript" : 79
+      },
+      "fib_fast" : {
+         "perl6" : 2468,
+         "javascript" : 16
+      },
+      "str_join" : {
+         "nim" : 51,
+         "javascript" : 45,
+         "c#" : 0,
+         "perl" : 396,
+         "ruby" : 1355,
+         "c++" : 0,
+         "nqp" : 0,
+         "perl6" : 2023,
+         "lua" : 88
+      }
+   }
+}
