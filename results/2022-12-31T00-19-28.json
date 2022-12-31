@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 9556,
+         "nim" : 359,
+         "javascript" : 209,
+         "perl" : 1310,
+         "ruby" : 17252,
+         "c#" : 0,
+         "lua" : 7793,
+         "c++" : 54
+      },
+      "str_join" : {
+         "perl6" : 2195,
+         "javascript" : 59,
+         "nim" : 53,
+         "perl" : 401,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 1444,
+         "lua" : 97,
+         "c++" : 0
+      },
+      "takeuchi" : {
+         "javascript" : 261,
+         "perl6" : 12176,
+         "nim" : 47,
+         "perl" : 11645,
+         "nqp" : 0,
+         "ruby" : 2160,
+         "c#" : 0,
+         "lua" : 419,
+         "c++" : 32
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 58,
+         "perl6" : 6,
+         "lua" : 1,
+         "ruby" : 58
+      },
+      "json_de" : {
+         "ruby" : 1968,
+         "javascript" : 765,
+         "perl" : 685
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 3059
+      },
+      "re_capture" : {
+         "lua" : 235,
+         "perl6" : 12291,
+         "javascript" : 84,
+         "perl" : 158,
+         "nqp" : 0,
+         "ruby" : 500
+      },
+      "re_bool" : {
+         "perl6" : 2913,
+         "javascript" : 39,
+         "perl" : 440,
+         "nqp" : 0,
+         "ruby" : 156,
+         "lua" : 164
+      },
+      "json_se" : {
+         "ruby" : 2160,
+         "perl" : 326,
+         "javascript" : 631
+      },
+      "fib" : {
+         "lua" : 170,
+         "c++" : 2,
+         "perl6" : 5104,
+         "nim" : 15,
+         "javascript" : 127,
+         "perl" : 4984,
+         "nqp" : 0,
+         "ruby" : 913,
+         "c#" : 0
+      }
+   },
+   "version" : {
+      "lua" : "2.1.0",
+      "c++" : "14.0.6",
+      "javascript" : "v19.3.0",
+      "perl6" : null,
+      "nim" : "1.6.10",
+      "perl" : "v5.36.0",
+      "c#" : "7.0.101",
+      "nqp" : "2022.12-16-g0b4a25a26",
+      "ruby" : "3.0.4p208"
+   }
+}
