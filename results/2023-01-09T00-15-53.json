@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v19.4.0",
+      "perl" : "v5.36.0",
+      "nim" : "1.6.10",
+      "perl6" : null,
+      "ruby" : "3.0.4p208",
+      "nqp" : "2022.12-19-g97b87b4fd",
+      "c#" : "7.0.101",
+      "lua" : "2.1.0",
+      "c++" : "14.0.6"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 62,
+         "perl6" : 5,
+         "ruby" : 53,
+         "perl" : 4
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "lua" : 8090,
+         "c++" : 53,
+         "perl6" : 7259,
+         "ruby" : 13823,
+         "nim" : 389,
+         "javascript" : 217,
+         "perl" : 1361
+      },
+      "re_bool" : {
+         "ruby" : 171,
+         "javascript" : 35,
+         "perl" : 459,
+         "nqp" : 5217,
+         "perl6" : 2647,
+         "lua" : 168
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "javascript" : 284,
+         "perl" : 12522,
+         "lua" : 432,
+         "c++" : 17,
+         "c#" : 0,
+         "ruby" : 2412,
+         "nqp" : 19473,
+         "perl6" : 14257
+      },
+      "json_de" : {
+         "javascript" : 799,
+         "ruby" : 2038,
+         "perl" : 743
+      },
+      "json_se" : {
+         "ruby" : 2167,
+         "javascript" : 662,
+         "perl" : 350
+      },
+      "str_join" : {
+         "perl" : 422,
+         "javascript" : 53,
+         "nim" : 56,
+         "perl6" : 2202,
+         "nqp" : 957,
+         "ruby" : 1477,
+         "c#" : 0,
+         "c++" : 0,
+         "lua" : 95
+      },
+      "fib_fast" : {
+         "perl6" : 2615,
+         "javascript" : 17
+      },
+      "fib" : {
+         "ruby" : 960,
+         "nqp" : 8759,
+         "perl6" : 5812,
+         "lua" : 212,
+         "c++" : 2,
+         "c#" : 0,
+         "javascript" : 141,
+         "perl" : 4998,
+         "nim" : 15
+      },
+      "re_capture" : {
+         "lua" : 232,
+         "perl6" : 12573,
+         "ruby" : 503,
+         "javascript" : 86,
+         "perl" : 173,
+         "nqp" : 10833
+      }
+   }
+}
