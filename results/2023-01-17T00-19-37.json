@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "lua" : 94,
+         "c++" : 0,
+         "c#" : 0,
+         "javascript" : 45,
+         "perl6" : 2285,
+         "ruby" : 1360,
+         "nqp" : 0,
+         "perl" : 391,
+         "nim" : 49
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl" : 427,
+         "ruby" : 155,
+         "javascript" : 35,
+         "perl6" : 2861,
+         "lua" : 159
+      },
+      "json_de" : {
+         "javascript" : 756,
+         "perl" : 696,
+         "ruby" : 1867
+      },
+      "json_se" : {
+         "perl" : 331,
+         "ruby" : 2024,
+         "javascript" : 619
+      },
+      "re_capture" : {
+         "lua" : 227,
+         "perl6" : 12277,
+         "javascript" : 82,
+         "nqp" : 0,
+         "perl" : 158,
+         "ruby" : 451
+      },
+      "str_join_slow" : {
+         "lua" : 7906,
+         "c++" : 54,
+         "c#" : 0,
+         "javascript" : 219,
+         "perl6" : 7155,
+         "perl" : 1305,
+         "nim" : 362,
+         "ruby" : 15051
+      },
+      "fib" : {
+         "ruby" : 834,
+         "nqp" : 0,
+         "perl" : 4766,
+         "nim" : 15,
+         "javascript" : 131,
+         "perl6" : 5299,
+         "c++" : 2,
+         "c#" : 0,
+         "lua" : 207
+      },
+      "takeuchi" : {
+         "perl6" : 13027,
+         "javascript" : 261,
+         "perl" : 11890,
+         "nqp" : 0,
+         "ruby" : 2187,
+         "nim" : 48,
+         "lua" : 420,
+         "c++" : 17,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 2836,
+         "javascript" : 15
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 52,
+         "nim" : 59,
+         "lua" : 1,
+         "perl6" : 5
+      }
+   },
+   "version" : {
+      "lua" : "2.1.0",
+      "c++" : "14.0.6",
+      "c#" : "7.0.102",
+      "perl6" : null,
+      "javascript" : "v19.4.0",
+      "nqp" : "2022.12-20-gaa7fbea48",
+      "perl" : "v5.36.0",
+      "ruby" : "3.0.5p211",
+      "nim" : "1.6.10"
+   }
+}
