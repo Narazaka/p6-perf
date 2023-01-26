@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "javascript" : 46,
+         "c++" : 0,
+         "perl6" : 2057,
+         "nim" : 50,
+         "perl" : 390,
+         "c#" : 0,
+         "ruby" : 1440,
+         "nqp" : 986,
+         "lua" : 95
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 57,
+         "lua" : 1,
+         "perl6" : 6,
+         "ruby" : 52
+      },
+      "json_se" : {
+         "ruby" : 2000,
+         "javascript" : 612,
+         "perl" : 325
+      },
+      "re_capture" : {
+         "nqp" : 10216,
+         "lua" : 227,
+         "perl" : 159,
+         "ruby" : 456,
+         "javascript" : 81,
+         "perl6" : 11853
+      },
+      "json_de" : {
+         "perl" : 676,
+         "ruby" : 1878,
+         "javascript" : 751
+      },
+      "fib_fast" : {
+         "javascript" : 16,
+         "perl6" : 2338
+      },
+      "re_bool" : {
+         "perl" : 450,
+         "lua" : 161,
+         "nqp" : 2978,
+         "perl6" : 2614,
+         "ruby" : 154,
+         "javascript" : 35
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "perl" : 11333,
+         "javascript" : 262,
+         "c++" : 18,
+         "perl6" : 13200,
+         "lua" : 421,
+         "nqp" : 18215,
+         "c#" : 0,
+         "ruby" : 2346
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "ruby" : 13518,
+         "lua" : 7977,
+         "javascript" : 204,
+         "perl6" : 7840,
+         "c++" : 54,
+         "perl" : 1263,
+         "nim" : 361
+      },
+      "fib" : {
+         "lua" : 103,
+         "nqp" : 7935,
+         "c#" : 0,
+         "ruby" : 891,
+         "perl" : 4623,
+         "nim" : 15,
+         "perl6" : 5579,
+         "c++" : 2,
+         "javascript" : 125
+      }
+   },
+   "version" : {
+      "c++" : "15.0.7",
+      "perl6" : null,
+      "javascript" : "v19.4.0",
+      "nim" : "1.6.10",
+      "perl" : "v5.36.0",
+      "c#" : "7.0.102",
+      "ruby" : "3.0.5p211",
+      "nqp" : "2022.12-21-g54518e913",
+      "lua" : "2.1.0"
+   }
+}
