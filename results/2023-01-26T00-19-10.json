@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "perl" : 330,
+         "javascript" : 599,
+         "ruby" : 1996
+      },
+      "re_capture" : {
+         "perl" : 157,
+         "lua" : 225,
+         "nqp" : 0,
+         "ruby" : 463,
+         "javascript" : 80,
+         "perl6" : 10303
+      },
+      "re_bool" : {
+         "perl6" : 2300,
+         "perl" : 425,
+         "lua" : 161,
+         "javascript" : 35,
+         "nqp" : 0,
+         "ruby" : 155
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "lua" : 7826,
+         "ruby" : 12174,
+         "javascript" : 202,
+         "perl6" : 7185,
+         "c++" : 53,
+         "perl" : 1266,
+         "nim" : 360
+      },
+      "fib" : {
+         "nqp" : 0,
+         "ruby" : 823,
+         "javascript" : 125,
+         "lua" : 217,
+         "c#" : 0,
+         "nim" : 15,
+         "perl" : 4597,
+         "c++" : 2,
+         "perl6" : 5017
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 52,
+         "nim" : 54,
+         "lua" : 1,
+         "perl6" : 6
+      },
+      "str_join" : {
+         "perl" : 389,
+         "nim" : 50,
+         "perl6" : 1992,
+         "c++" : 0,
+         "lua" : 95,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 1346,
+         "javascript" : 45
+      },
+      "takeuchi" : {
+         "ruby" : 2114,
+         "nqp" : 0,
+         "javascript" : 258,
+         "c#" : 0,
+         "lua" : 400,
+         "perl" : 11360,
+         "nim" : 47,
+         "c++" : 18,
+         "perl6" : 12439
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2265
+      },
+      "json_de" : {
+         "javascript" : 729,
+         "ruby" : 1812,
+         "perl" : 682
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c++" : "15.0.7",
+      "perl" : "v5.36.0",
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "c#" : "7.0.102",
+      "nqp" : "2022.12-21-g54518e913",
+      "ruby" : "3.0.5p211",
+      "javascript" : "v19.4.0"
+   }
+}
