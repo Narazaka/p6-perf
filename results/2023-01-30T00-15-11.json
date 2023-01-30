@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 1995,
+         "perl" : 338,
+         "javascript" : 635
+      },
+      "re_bool" : {
+         "nqp" : 3124,
+         "javascript" : 35,
+         "lua" : 215,
+         "perl" : 435,
+         "ruby" : 159,
+         "perl6" : 2861
+      },
+      "str_join_slow" : {
+         "lua" : 8062,
+         "nim" : 363,
+         "javascript" : 221,
+         "c++" : 58,
+         "perl6" : 9456,
+         "perl" : 1302,
+         "c#" : 0,
+         "ruby" : 14681
+      },
+      "str_join" : {
+         "ruby" : 1434,
+         "perl" : 405,
+         "c#" : 0,
+         "perl6" : 2412,
+         "nqp" : 946,
+         "c++" : 0,
+         "nim" : 51,
+         "lua" : 100,
+         "javascript" : 47
+      },
+      "takeuchi" : {
+         "nqp" : 20151,
+         "c++" : 18,
+         "nim" : 47,
+         "lua" : 430,
+         "javascript" : 266,
+         "perl" : 11690,
+         "c#" : 0,
+         "ruby" : 2146,
+         "perl6" : 13217
+      },
+      "re_capture" : {
+         "perl" : 169,
+         "ruby" : 461,
+         "perl6" : 12812,
+         "nqp" : 10000,
+         "lua" : 230,
+         "javascript" : 82
+      },
+      "json_de" : {
+         "javascript" : 766,
+         "perl" : 706,
+         "ruby" : 1923
+      },
+      "fib_fast" : {
+         "perl6" : 3059,
+         "javascript" : 15
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 6,
+         "nim" : 61,
+         "perl" : 3,
+         "ruby" : 52
+      },
+      "fib" : {
+         "lua" : 141,
+         "nim" : 15,
+         "javascript" : 129,
+         "nqp" : 8109,
+         "c++" : 2,
+         "perl6" : 5381,
+         "perl" : 4681,
+         "c#" : 0,
+         "ruby" : 837
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "ruby" : "3.0.5p211",
+      "c#" : "7.0.102",
+      "perl" : "v5.36.0",
+      "javascript" : "v19.5.0",
+      "lua" : "2.1.0",
+      "nim" : "1.6.10",
+      "c++" : "15.0.7",
+      "nqp" : "2022.12-21-g54518e913"
+   }
+}
