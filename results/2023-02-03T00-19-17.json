@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 746,
+         "perl" : 674,
+         "ruby" : 1858
+      },
+      "fib" : {
+         "javascript" : 130,
+         "nqp" : 0,
+         "lua" : 149,
+         "c#" : 0,
+         "ruby" : 865,
+         "perl" : 5145,
+         "nim" : 15,
+         "perl6" : 6181,
+         "c++" : 2
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 75,
+         "perl" : 3,
+         "ruby" : 58
+      },
+      "re_capture" : {
+         "perl6" : 12134,
+         "javascript" : 81,
+         "nqp" : 0,
+         "lua" : 226,
+         "perl" : 159,
+         "ruby" : 463
+      },
+      "str_join" : {
+         "ruby" : 1372,
+         "perl" : 418,
+         "c#" : 0,
+         "javascript" : 48,
+         "nqp" : 0,
+         "lua" : 96,
+         "perl6" : 2122,
+         "nim" : 50,
+         "c++" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 2486
+      },
+      "json_se" : {
+         "ruby" : 1973,
+         "perl" : 330,
+         "javascript" : 666
+      },
+      "str_join_slow" : {
+         "javascript" : 210,
+         "lua" : 7938,
+         "c#" : 0,
+         "perl" : 1253,
+         "ruby" : 14672,
+         "nim" : 357,
+         "perl6" : 6449,
+         "c++" : 54
+      },
+      "takeuchi" : {
+         "javascript" : 259,
+         "lua" : 403,
+         "nqp" : 0,
+         "ruby" : 2261,
+         "perl" : 12206,
+         "c#" : 0,
+         "perl6" : 12723,
+         "nim" : 47,
+         "c++" : 18
+      },
+      "re_bool" : {
+         "perl" : 427,
+         "ruby" : 155,
+         "perl6" : 2672,
+         "javascript" : 37,
+         "lua" : 162,
+         "nqp" : 0
+      }
+   },
+   "version" : {
+      "c++" : "15.0.7",
+      "perl6" : null,
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "nqp" : "2022.12-24-g1ba83bc2f",
+      "javascript" : "v19.6.0",
+      "c#" : "7.0.102",
+      "ruby" : "3.0.5p211",
+      "perl" : "v5.36.0"
+   }
+}
