@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 7,
+         "ruby" : 52,
+         "nim" : 59
+      },
+      "json_se" : {
+         "ruby" : 2066,
+         "perl" : 346,
+         "javascript" : 726
+      },
+      "str_join_slow" : {
+         "ruby" : 15024,
+         "perl" : 1427,
+         "javascript" : 255,
+         "c#" : 0,
+         "c++" : 68,
+         "perl6" : 8018,
+         "lua" : 8107,
+         "nim" : 356
+      },
+      "re_capture" : {
+         "lua" : 235,
+         "perl6" : 12906,
+         "nqp" : 0,
+         "perl" : 169,
+         "javascript" : 94,
+         "ruby" : 453
+      },
+      "fib_fast" : {
+         "perl6" : 2807,
+         "javascript" : 16
+      },
+      "fib" : {
+         "c#" : 0,
+         "javascript" : 137,
+         "perl" : 4790,
+         "ruby" : 862,
+         "nim" : 15,
+         "perl6" : 5518,
+         "nqp" : 0,
+         "lua" : 153,
+         "c++" : 3
+      },
+      "re_bool" : {
+         "lua" : 162,
+         "nqp" : 0,
+         "perl6" : 2782,
+         "ruby" : 158,
+         "javascript" : 34,
+         "perl" : 449
+      },
+      "json_de" : {
+         "perl" : 781,
+         "javascript" : 971,
+         "ruby" : 2141
+      },
+      "str_join" : {
+         "c#" : 0,
+         "ruby" : 1374,
+         "perl" : 409,
+         "javascript" : 67,
+         "nim" : 48,
+         "c++" : 0,
+         "perl6" : 2206,
+         "lua" : 95,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "lua" : 444,
+         "perl6" : 13831,
+         "nqp" : 0,
+         "c++" : 18,
+         "c#" : 0,
+         "ruby" : 2268,
+         "javascript" : 292,
+         "perl" : 11675
+      }
+   },
+   "version" : {
+      "c#" : "7.0.102",
+      "javascript" : "v19.6.0",
+      "perl" : "v5.36.0",
+      "ruby" : "3.0.5p211",
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "nqp" : "2022.12-26-g848bf1b2f",
+      "perl6" : null,
+      "c++" : "15.0.7"
+   }
+}
