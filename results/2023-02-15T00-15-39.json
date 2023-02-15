@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "7.0.102",
+      "ruby" : "3.0.5p211",
+      "c++" : "15.0.7",
+      "nqp" : "2022.12-30-gd19ece240",
+      "lua" : "2.1.0",
+      "perl6" : null,
+      "perl" : "v5.36.0",
+      "nim" : "1.6.10",
+      "javascript" : "v19.6.0"
+   },
+   "result" : {
+      "str_join" : {
+         "ruby" : 1489,
+         "c#" : 0,
+         "perl" : 393,
+         "nqp" : 888,
+         "c++" : 0,
+         "perl6" : 2064,
+         "lua" : 99,
+         "nim" : 52,
+         "javascript" : 52
+      },
+      "fib" : {
+         "javascript" : 132,
+         "nim" : 15,
+         "ruby" : 855,
+         "c#" : 0,
+         "perl" : 4673,
+         "perl6" : 5313,
+         "lua" : 149,
+         "nqp" : 8078,
+         "c++" : 2
+      },
+      "str_join_slow" : {
+         "nim" : 357,
+         "javascript" : 217,
+         "c++" : 54,
+         "perl6" : 9222,
+         "lua" : 8109,
+         "perl" : 1274,
+         "c#" : 0,
+         "ruby" : 14390
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "javascript" : 273,
+         "perl" : 11648,
+         "lua" : 434,
+         "perl6" : 12714,
+         "nqp" : 18860,
+         "c++" : 18,
+         "ruby" : 2158,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "ruby" : 463,
+         "nqp" : 9360,
+         "lua" : 239,
+         "perl6" : 10949,
+         "perl" : 158,
+         "javascript" : 84
+      },
+      "str_join_repeat" : {
+         "ruby" : 53,
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 56,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "perl" : 428,
+         "nqp" : 4709,
+         "perl6" : 2484,
+         "lua" : 170,
+         "ruby" : 163
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2556
+      },
+      "json_se" : {
+         "javascript" : 680,
+         "perl" : 327,
+         "ruby" : 2035
+      },
+      "json_de" : {
+         "perl" : 685,
+         "javascript" : 795,
+         "ruby" : 2037
+      }
+   }
+}
