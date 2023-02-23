@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.36.0",
+      "ruby" : "3.0.5p211",
+      "c#" : "7.0.102",
+      "nqp" : "2023.02",
+      "javascript" : "v19.7.0",
+      "lua" : "2.1.0",
+      "perl6" : null,
+      "nim" : "1.6.10",
+      "c++" : "15.0.7"
+   },
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 2280,
+         "javascript" : 15
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "nim" : 56,
+         "ruby" : 52,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nim" : 49,
+         "perl6" : 2043,
+         "lua" : 93,
+         "javascript" : 45,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl" : 389,
+         "ruby" : 1350
+      },
+      "json_de" : {
+         "javascript" : 780,
+         "perl" : 684,
+         "ruby" : 1863
+      },
+      "json_se" : {
+         "ruby" : 1931,
+         "perl" : 325,
+         "javascript" : 694
+      },
+      "re_capture" : {
+         "perl" : 158,
+         "lua" : 225,
+         "ruby" : 447,
+         "nqp" : 0,
+         "perl6" : 11311,
+         "javascript" : 80
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "perl" : 424,
+         "lua" : 163,
+         "ruby" : 154,
+         "nqp" : 0,
+         "perl6" : 2471
+      },
+      "fib" : {
+         "ruby" : 823,
+         "perl" : 4598,
+         "c#" : 0,
+         "nqp" : 0,
+         "javascript" : 125,
+         "lua" : 108,
+         "perl6" : 5268,
+         "nim" : 15,
+         "c++" : 2
+      },
+      "takeuchi" : {
+         "javascript" : 259,
+         "ruby" : 2104,
+         "perl" : 11494,
+         "c#" : 0,
+         "nqp" : 0,
+         "c++" : 18,
+         "lua" : 422,
+         "perl6" : 12544,
+         "nim" : 47
+      },
+      "str_join_slow" : {
+         "perl" : 1264,
+         "ruby" : 13389,
+         "c#" : 0,
+         "javascript" : 209,
+         "perl6" : 6716,
+         "nim" : 358,
+         "lua" : 7864,
+         "c++" : 53
+      }
+   }
+}
