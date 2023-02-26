@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "15.0.7",
+      "ruby" : "3.0.5p211",
+      "nim" : "1.6.10",
+      "javascript" : "v19.7.0",
+      "lua" : "2.1.0",
+      "nqp" : "2023.02",
+      "perl" : "v5.36.0",
+      "c#" : "7.0.102",
+      "perl6" : null
+   },
+   "result" : {
+      "re_capture" : {
+         "perl" : 159,
+         "perl6" : 10509,
+         "nqp" : 0,
+         "javascript" : 80,
+         "lua" : 247,
+         "ruby" : 448
+      },
+      "str_join" : {
+         "c++" : 0,
+         "lua" : 95,
+         "javascript" : 45,
+         "nqp" : 0,
+         "ruby" : 1343,
+         "nim" : 49,
+         "perl" : 400,
+         "perl6" : 1954,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "perl6" : 6416,
+         "c#" : 0,
+         "perl" : 1287,
+         "javascript" : 203,
+         "lua" : 7753,
+         "ruby" : 11856,
+         "nim" : 360,
+         "c++" : 54
+      },
+      "json_se" : {
+         "javascript" : 613,
+         "ruby" : 1924,
+         "perl" : 327
+      },
+      "fib" : {
+         "perl" : 4630,
+         "c#" : 0,
+         "perl6" : 5129,
+         "c++" : 2,
+         "ruby" : 828,
+         "nim" : 15,
+         "lua" : 201,
+         "javascript" : 125,
+         "nqp" : 0
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 54,
+         "ruby" : 50,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2083
+      },
+      "json_de" : {
+         "perl" : 677,
+         "ruby" : 1899,
+         "javascript" : 749
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "lua" : 164,
+         "nqp" : 0,
+         "ruby" : 155,
+         "perl6" : 2273,
+         "perl" : 424
+      },
+      "takeuchi" : {
+         "ruby" : 2150,
+         "nim" : 47,
+         "lua" : 422,
+         "javascript" : 259,
+         "nqp" : 0,
+         "c++" : 18,
+         "perl6" : 12689,
+         "c#" : 0,
+         "perl" : 11191
+      }
+   }
+}
