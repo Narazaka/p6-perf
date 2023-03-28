@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 66,
+         "perl6" : 5,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 54
+      },
+      "json_de" : {
+         "javascript" : 773,
+         "perl" : 705,
+         "ruby" : 2044
+      },
+      "re_bool" : {
+         "nqp" : 4672,
+         "ruby" : 161,
+         "perl" : 450,
+         "lua" : 167,
+         "perl6" : 2376,
+         "javascript" : 35
+      },
+      "fib" : {
+         "lua" : 205,
+         "perl" : 4898,
+         "javascript" : 147,
+         "perl6" : 5084,
+         "ruby" : 959,
+         "nqp" : 7981,
+         "nim" : 15,
+         "c#" : 0,
+         "c++" : 2
+      },
+      "re_capture" : {
+         "perl6" : 10593,
+         "javascript" : 83,
+         "ruby" : 464,
+         "nqp" : 9236,
+         "perl" : 201,
+         "lua" : 255
+      },
+      "fib_fast" : {
+         "perl6" : 2194,
+         "javascript" : 15
+      },
+      "json_se" : {
+         "javascript" : 652,
+         "perl" : 342,
+         "ruby" : 2039
+      },
+      "str_join_slow" : {
+         "lua" : 7763,
+         "perl" : 1312,
+         "javascript" : 214,
+         "perl6" : 6480,
+         "ruby" : 15428,
+         "c#" : 0,
+         "nim" : 358,
+         "c++" : 55
+      },
+      "takeuchi" : {
+         "nqp" : 18114,
+         "ruby" : 2247,
+         "c#" : 0,
+         "nim" : 47,
+         "c++" : 18,
+         "lua" : 433,
+         "perl" : 11328,
+         "javascript" : 261,
+         "perl6" : 12345
+      },
+      "str_join" : {
+         "perl6" : 1961,
+         "javascript" : 45,
+         "perl" : 408,
+         "lua" : 97,
+         "c#" : 0,
+         "nim" : 51,
+         "c++" : 0,
+         "nqp" : 877,
+         "ruby" : 1371
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.5p211",
+      "nqp" : "2023.02-4-g90ca9a6e8",
+      "c#" : "7.0.103",
+      "nim" : "1.6.10",
+      "c++" : "15.0.7",
+      "perl" : "v5.36.0",
+      "lua" : "2.1.0",
+      "perl6" : null,
+      "javascript" : "v19.8.1"
+   }
+}
