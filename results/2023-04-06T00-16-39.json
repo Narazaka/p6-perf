@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "7.0.103",
+      "nim" : "1.6.10",
+      "perl6" : null,
+      "perl" : "v5.36.0",
+      "nqp" : "2023.02-4-g90ca9a6e8",
+      "lua" : "2.1.0",
+      "ruby" : "3.0.5p211",
+      "javascript" : "v19.8.1",
+      "c++" : "15.0.7"
+   },
+   "result" : {
+      "str_join" : {
+         "perl" : 435,
+         "perl6" : 2277,
+         "nim" : 49,
+         "c#" : 0,
+         "nqp" : 1178,
+         "lua" : 94,
+         "ruby" : 1370,
+         "javascript" : 67,
+         "c++" : 0
+      },
+      "json_de" : {
+         "javascript" : 815,
+         "ruby" : 2105,
+         "perl" : 844
+      },
+      "re_capture" : {
+         "perl6" : 11945,
+         "perl" : 193,
+         "nqp" : 11776,
+         "ruby" : 463,
+         "lua" : 252,
+         "javascript" : 143
+      },
+      "fib" : {
+         "nqp" : 8135,
+         "c#" : 0,
+         "perl" : 5818,
+         "perl6" : 5181,
+         "nim" : 20,
+         "c++" : 2,
+         "javascript" : 133,
+         "ruby" : 856,
+         "lua" : 152
+      },
+      "str_join_repeat" : {
+         "ruby" : 55,
+         "perl6" : 9,
+         "nim" : 65,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "re_bool" : {
+         "nqp" : 3257,
+         "perl" : 463,
+         "perl6" : 2630,
+         "javascript" : 40,
+         "ruby" : 179,
+         "lua" : 172
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "perl6" : 6758,
+         "perl" : 1469,
+         "nim" : 457,
+         "lua" : 8289,
+         "ruby" : 15808,
+         "javascript" : 236,
+         "c++" : 56
+      },
+      "fib_fast" : {
+         "perl6" : 2712,
+         "javascript" : 18
+      },
+      "json_se" : {
+         "ruby" : 2392,
+         "perl" : 354,
+         "javascript" : 715
+      },
+      "takeuchi" : {
+         "lua" : 426,
+         "ruby" : 2358,
+         "javascript" : 269,
+         "c++" : 18,
+         "perl" : 12119,
+         "perl6" : 12907,
+         "nim" : 48,
+         "c#" : 0,
+         "nqp" : 20464
+      }
+   }
+}
