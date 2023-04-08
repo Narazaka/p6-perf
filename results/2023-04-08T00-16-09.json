@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "c#" : 0,
+         "nqp" : 8576,
+         "lua" : 114,
+         "perl6" : 5352,
+         "javascript" : 138,
+         "perl" : 5141,
+         "nim" : 24,
+         "c++" : 2,
+         "ruby" : 883
+      },
+      "json_de" : {
+         "javascript" : 840,
+         "ruby" : 2070,
+         "perl" : 840
+      },
+      "str_join_repeat" : {
+         "ruby" : 52,
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 72,
+         "perl" : 3
+      },
+      "str_join" : {
+         "nim" : 55,
+         "perl" : 410,
+         "ruby" : 1577,
+         "c++" : 0,
+         "nqp" : 1125,
+         "perl6" : 2259,
+         "lua" : 112,
+         "c#" : 0,
+         "javascript" : 54
+      },
+      "re_bool" : {
+         "perl" : 573,
+         "ruby" : 172,
+         "nqp" : 5268,
+         "lua" : 202,
+         "perl6" : 2779,
+         "javascript" : 35
+      },
+      "takeuchi" : {
+         "perl" : 12648,
+         "nim" : 47,
+         "c++" : 18,
+         "ruby" : 2302,
+         "c#" : 0,
+         "nqp" : 19819,
+         "lua" : 449,
+         "perl6" : 13320,
+         "javascript" : 295
+      },
+      "fib_fast" : {
+         "javascript" : 27,
+         "perl6" : 3122
+      },
+      "re_capture" : {
+         "ruby" : 545,
+         "perl" : 160,
+         "javascript" : 130,
+         "nqp" : 10739,
+         "lua" : 266,
+         "perl6" : 12244
+      },
+      "str_join_slow" : {
+         "c++" : 62,
+         "ruby" : 16194,
+         "perl" : 1424,
+         "nim" : 377,
+         "javascript" : 239,
+         "c#" : 0,
+         "lua" : 8841,
+         "perl6" : 6938
+      },
+      "json_se" : {
+         "javascript" : 802,
+         "ruby" : 2114,
+         "perl" : 348
+      }
+   },
+   "version" : {
+      "nim" : "1.6.10",
+      "perl" : "v5.36.0",
+      "ruby" : "3.0.5p211",
+      "c++" : "15.0.7",
+      "nqp" : "2023.02-4-g90ca9a6e8",
+      "lua" : "2.1.0",
+      "perl6" : null,
+      "c#" : "7.0.103",
+      "javascript" : "v19.8.1"
+   }
+}
