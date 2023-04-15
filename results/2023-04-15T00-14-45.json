@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "c#" : 0,
+         "nim" : 356,
+         "perl" : 1253,
+         "ruby" : 13538,
+         "lua" : 8138,
+         "c++" : 54,
+         "javascript" : 203,
+         "perl6" : 6525
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "ruby" : 51,
+         "perl" : 3,
+         "nim" : 55
+      },
+      "fib" : {
+         "lua" : 171,
+         "c++" : 2,
+         "javascript" : 128,
+         "ruby" : 832,
+         "perl" : 4701,
+         "c#" : 0,
+         "nim" : 15,
+         "perl6" : 4931,
+         "nqp" : 7898
+      },
+      "json_se" : {
+         "javascript" : 624,
+         "ruby" : 1940,
+         "perl" : 330
+      },
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2182
+      },
+      "takeuchi" : {
+         "perl6" : 12224,
+         "nqp" : 18151,
+         "perl" : 11382,
+         "nim" : 47,
+         "c#" : 0,
+         "javascript" : 259,
+         "lua" : 419,
+         "c++" : 18,
+         "ruby" : 2129
+      },
+      "json_de" : {
+         "ruby" : 1876,
+         "javascript" : 729,
+         "perl" : 689
+      },
+      "str_join" : {
+         "nqp" : 844,
+         "perl6" : 1955,
+         "nim" : 50,
+         "c#" : 0,
+         "perl" : 403,
+         "ruby" : 1355,
+         "lua" : 96,
+         "javascript" : 45,
+         "c++" : 0
+      },
+      "re_bool" : {
+         "nqp" : 4437,
+         "ruby" : 154,
+         "javascript" : 35,
+         "lua" : 165,
+         "perl6" : 2443,
+         "perl" : 425
+      },
+      "re_capture" : {
+         "ruby" : 449,
+         "nqp" : 8806,
+         "perl6" : 10824,
+         "javascript" : 81,
+         "lua" : 246,
+         "perl" : 161
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "nqp" : "2023.02-4-g90ca9a6e8",
+      "perl" : "v5.36.0",
+      "nim" : "1.6.10",
+      "c#" : "7.0.103",
+      "c++" : "15.0.7",
+      "lua" : "2.1.0",
+      "javascript" : "v19.8.1",
+      "ruby" : "3.0.5p211"
+   }
+}
