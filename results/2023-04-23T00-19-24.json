@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "15.0.7",
+      "lua" : "2.1.0",
+      "javascript" : "v19.9.0",
+      "ruby" : "3.0.5p211",
+      "nim" : "1.6.10",
+      "perl6" : null,
+      "perl" : "v5.36.0",
+      "nqp" : "2023.04",
+      "c#" : "7.0.103"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 9,
+         "perl" : 3,
+         "nim" : 63,
+         "ruby" : 50
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl" : 442,
+         "javascript" : 37,
+         "lua" : 179,
+         "perl6" : 2422,
+         "ruby" : 160
+      },
+      "fib_fast" : {
+         "perl6" : 2243,
+         "javascript" : 15
+      },
+      "json_se" : {
+         "perl" : 342,
+         "ruby" : 1976,
+         "javascript" : 622
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "perl" : 1319,
+         "perl6" : 9166,
+         "ruby" : 13056,
+         "nim" : 366,
+         "javascript" : 216,
+         "lua" : 8058,
+         "c++" : 60
+      },
+      "fib" : {
+         "c#" : 0,
+         "perl" : 4789,
+         "nqp" : 0,
+         "lua" : 202,
+         "javascript" : 132,
+         "c++" : 2,
+         "ruby" : 834,
+         "nim" : 15,
+         "perl6" : 5081
+      },
+      "re_capture" : {
+         "javascript" : 81,
+         "lua" : 249,
+         "perl6" : 11845,
+         "ruby" : 469,
+         "nqp" : 0,
+         "perl" : 163
+      },
+      "json_de" : {
+         "javascript" : 733,
+         "ruby" : 1932,
+         "perl" : 746
+      },
+      "takeuchi" : {
+         "perl6" : 12292,
+         "ruby" : 2191,
+         "nim" : 50,
+         "c++" : 18,
+         "javascript" : 274,
+         "lua" : 429,
+         "nqp" : 0,
+         "perl" : 11729,
+         "c#" : 0
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "perl" : 413,
+         "c#" : 0,
+         "perl6" : 2307,
+         "ruby" : 1436,
+         "nim" : 50,
+         "c++" : 0,
+         "javascript" : 45,
+         "lua" : 95
+      }
+   }
+}
