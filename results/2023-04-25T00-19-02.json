@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v19.9.0",
+      "perl6" : null,
+      "c#" : "7.0.103",
+      "c++" : "15.0.7",
+      "lua" : "2.1.0",
+      "nim" : "1.6.10",
+      "nqp" : "2023.04",
+      "perl" : "v5.36.0",
+      "ruby" : "3.0.5p211"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2036
+      },
+      "re_capture" : {
+         "perl6" : 10446,
+         "perl" : 157,
+         "nqp" : 0,
+         "javascript" : 80,
+         "lua" : 249,
+         "ruby" : 451
+      },
+      "json_se" : {
+         "ruby" : 2013,
+         "javascript" : 607,
+         "perl" : 334
+      },
+      "takeuchi" : {
+         "perl6" : 11926,
+         "javascript" : 257,
+         "nim" : 46,
+         "lua" : 393,
+         "c++" : 18,
+         "c#" : 0,
+         "perl" : 11191,
+         "nqp" : 0,
+         "ruby" : 2108
+      },
+      "json_de" : {
+         "ruby" : 1872,
+         "perl" : 673,
+         "javascript" : 746
+      },
+      "re_bool" : {
+         "perl6" : 2271,
+         "perl" : 425,
+         "nqp" : 0,
+         "javascript" : 35,
+         "lua" : 164,
+         "ruby" : 153
+      },
+      "str_join" : {
+         "ruby" : 1324,
+         "nqp" : 0,
+         "perl" : 390,
+         "c#" : 0,
+         "lua" : 94,
+         "c++" : 0,
+         "nim" : 49,
+         "javascript" : 44,
+         "perl6" : 2010
+      },
+      "str_join_slow" : {
+         "c++" : 54,
+         "nim" : 354,
+         "lua" : 8061,
+         "c#" : 0,
+         "ruby" : 11983,
+         "perl6" : 6309,
+         "perl" : 1270,
+         "javascript" : 202
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 6,
+         "ruby" : 48,
+         "nim" : 54,
+         "lua" : 1
+      },
+      "fib" : {
+         "perl" : 4670,
+         "nqp" : 0,
+         "ruby" : 902,
+         "perl6" : 5036,
+         "javascript" : 125,
+         "c#" : 0,
+         "c++" : 2,
+         "lua" : 142,
+         "nim" : 15
+      }
+   }
+}
