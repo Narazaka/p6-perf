@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "1.6.10",
+      "perl6" : null,
+      "c++" : "15.0.7",
+      "javascript" : "v19.9.0",
+      "lua" : "2.1.0",
+      "c#" : "7.0.103",
+      "perl" : "v5.36.0",
+      "nqp" : "2023.04",
+      "ruby" : "3.0.5p211"
+   },
+   "result" : {
+      "json_se" : {
+         "ruby" : 1880,
+         "javascript" : 611,
+         "perl" : 330
+      },
+      "str_join_repeat" : {
+         "perl6" : 9,
+         "ruby" : 50,
+         "nim" : 55,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "ruby" : 2110,
+         "lua" : 419,
+         "perl" : 11258,
+         "c#" : 0,
+         "c++" : 18,
+         "javascript" : 259,
+         "perl6" : 12701,
+         "nim" : 47
+      },
+      "str_join" : {
+         "perl6" : 1973,
+         "nim" : 50,
+         "perl" : 390,
+         "c#" : 0,
+         "lua" : 94,
+         "javascript" : 44,
+         "c++" : 0,
+         "ruby" : 1334,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "perl6" : 2280,
+         "nqp" : 0,
+         "ruby" : 154,
+         "lua" : 163,
+         "perl" : 427,
+         "javascript" : 34
+      },
+      "re_capture" : {
+         "perl6" : 10678,
+         "ruby" : 443,
+         "nqp" : 0,
+         "perl" : 157,
+         "lua" : 246,
+         "javascript" : 80
+      },
+      "json_de" : {
+         "javascript" : 724,
+         "perl" : 713,
+         "ruby" : 2004
+      },
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2174
+      },
+      "fib" : {
+         "perl6" : 5130,
+         "nim" : 15,
+         "lua" : 200,
+         "c#" : 0,
+         "perl" : 4649,
+         "c++" : 2,
+         "javascript" : 125,
+         "nqp" : 0,
+         "ruby" : 822
+      },
+      "str_join_slow" : {
+         "ruby" : 11983,
+         "lua" : 7870,
+         "c#" : 0,
+         "perl" : 1299,
+         "c++" : 54,
+         "javascript" : 202,
+         "perl6" : 6478,
+         "nim" : 358
+      }
+   }
+}
