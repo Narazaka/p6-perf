@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2023.04",
+      "ruby" : "3.0.5p211",
+      "c#" : "7.0.103",
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "javascript" : "v19.9.0",
+      "c++" : "15.0.7",
+      "perl" : "v5.36.0",
+      "perl6" : null
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "perl" : 6,
+         "perl6" : 6,
+         "nim" : 59,
+         "ruby" : 53,
+         "lua" : 1
+      },
+      "str_join" : {
+         "javascript" : 47,
+         "perl" : 467,
+         "perl6" : 2574,
+         "c++" : 0,
+         "nim" : 49,
+         "lua" : 98,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 1492
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 3232
+      },
+      "re_capture" : {
+         "javascript" : 87,
+         "perl6" : 13826,
+         "perl" : 174,
+         "lua" : 255,
+         "nqp" : 0,
+         "ruby" : 489
+      },
+      "json_se" : {
+         "perl" : 398,
+         "javascript" : 645,
+         "ruby" : 2173
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "ruby" : 162,
+         "lua" : 184,
+         "javascript" : 38,
+         "perl6" : 2905,
+         "perl" : 453
+      },
+      "fib" : {
+         "nqp" : 0,
+         "ruby" : 861,
+         "c#" : 0,
+         "nim" : 15,
+         "lua" : 139,
+         "javascript" : 135,
+         "perl6" : 5449,
+         "perl" : 5349,
+         "c++" : 2
+      },
+      "takeuchi" : {
+         "ruby" : 2509,
+         "nqp" : 0,
+         "c#" : 0,
+         "lua" : 430,
+         "nim" : 54,
+         "c++" : 18,
+         "perl6" : 13788,
+         "perl" : 12715,
+         "javascript" : 281
+      },
+      "str_join_slow" : {
+         "lua" : 8148,
+         "nim" : 389,
+         "perl" : 1511,
+         "perl6" : 8112,
+         "c++" : 64,
+         "javascript" : 233,
+         "ruby" : 15698,
+         "c#" : 0
+      },
+      "json_de" : {
+         "ruby" : 2031,
+         "perl" : 805,
+         "javascript" : 761
+      }
+   }
+}
