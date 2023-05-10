@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.36.1",
+      "lua" : "2.1.0",
+      "javascript" : "v19.9.0",
+      "c++" : "15.0.7",
+      "nim" : "1.6.10",
+      "nqp" : "2023.04",
+      "c#" : "7.0.103",
+      "perl6" : null,
+      "ruby" : "3.0.5p211"
+   },
+   "result" : {
+      "re_bool" : {
+         "ruby" : 160,
+         "perl6" : 2707,
+         "nqp" : 0,
+         "javascript" : 37,
+         "perl" : 448,
+         "lua" : 194
+      },
+      "re_capture" : {
+         "perl" : 160,
+         "lua" : 279,
+         "javascript" : 86,
+         "nqp" : 0,
+         "ruby" : 473,
+         "perl6" : 13642
+      },
+      "str_join_repeat" : {
+         "ruby" : 56,
+         "perl6" : 6,
+         "nim" : 54,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "str_join_slow" : {
+         "lua" : 8112,
+         "perl" : 1422,
+         "c++" : 60,
+         "nim" : 372,
+         "javascript" : 239,
+         "c#" : 0,
+         "ruby" : 15504,
+         "perl6" : 7476
+      },
+      "fib" : {
+         "javascript" : 136,
+         "c++" : 3,
+         "nim" : 15,
+         "perl" : 4988,
+         "lua" : 204,
+         "perl6" : 5327,
+         "ruby" : 837,
+         "nqp" : 0,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 3376
+      },
+      "str_join" : {
+         "perl" : 426,
+         "lua" : 91,
+         "javascript" : 47,
+         "c++" : 0,
+         "nim" : 49,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl6" : 2522,
+         "ruby" : 1454
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "c++" : 18,
+         "javascript" : 278,
+         "lua" : 432,
+         "perl" : 12594,
+         "ruby" : 2123,
+         "perl6" : 13829,
+         "c#" : 0,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "ruby" : 2298,
+         "javascript" : 645,
+         "perl" : 356
+      },
+      "json_de" : {
+         "perl" : 739,
+         "javascript" : 758,
+         "ruby" : 2032
+      }
+   }
+}
