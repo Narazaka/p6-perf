@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "nqp" : "2023.04",
+      "lua" : "2.1.0",
+      "javascript" : "v19.9.0",
+      "ruby" : "3.0.5p211",
+      "perl" : "v5.36.1",
+      "c++" : "15.0.7",
+      "c#" : "7.0.103",
+      "nim" : "1.6.10"
+   },
+   "result" : {
+      "str_join" : {
+         "c#" : 0,
+         "c++" : 0,
+         "nim" : 48,
+         "perl" : 404,
+         "ruby" : 1458,
+         "nqp" : 0,
+         "perl6" : 2622,
+         "lua" : 92,
+         "javascript" : 46
+      },
+      "json_se" : {
+         "ruby" : 2139,
+         "perl" : 412,
+         "javascript" : 638
+      },
+      "takeuchi" : {
+         "ruby" : 2142,
+         "perl6" : 12947,
+         "lua" : 429,
+         "nqp" : 0,
+         "javascript" : 302,
+         "c++" : 17,
+         "c#" : 0,
+         "nim" : 46,
+         "perl" : 12533
+      },
+      "str_join_slow" : {
+         "c++" : 60,
+         "c#" : 0,
+         "nim" : 371,
+         "perl" : 1344,
+         "ruby" : 14955,
+         "lua" : 8109,
+         "perl6" : 9763,
+         "javascript" : 226
+      },
+      "fib_fast" : {
+         "javascript" : 16,
+         "perl6" : 2732
+      },
+      "re_capture" : {
+         "perl" : 160,
+         "perl6" : 12696,
+         "nqp" : 0,
+         "lua" : 280,
+         "javascript" : 89,
+         "ruby" : 470
+      },
+      "fib" : {
+         "nqp" : 0,
+         "perl6" : 5549,
+         "lua" : 107,
+         "javascript" : 133,
+         "ruby" : 897,
+         "perl" : 4989,
+         "c++" : 3,
+         "c#" : 0,
+         "nim" : 16
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl6" : 2840,
+         "lua" : 194,
+         "javascript" : 37,
+         "ruby" : 172,
+         "perl" : 489
+      },
+      "json_de" : {
+         "ruby" : 1956,
+         "perl" : 804,
+         "javascript" : 763
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 6,
+         "perl" : 3,
+         "nim" : 50,
+         "ruby" : 55
+      }
+   }
+}
