@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "perl" : 4814,
+         "ruby" : 844,
+         "c++" : 2,
+         "nim" : 15,
+         "c#" : 0,
+         "javascript" : 133,
+         "lua" : 201,
+         "nqp" : 7911,
+         "perl6" : 4967
+      },
+      "json_de" : {
+         "javascript" : 748,
+         "perl" : 747,
+         "ruby" : 1937
+      },
+      "fib_fast" : {
+         "perl6" : 2304,
+         "javascript" : 15
+      },
+      "str_join_slow" : {
+         "perl6" : 6396,
+         "lua" : 7687,
+         "javascript" : 218,
+         "c#" : 0,
+         "nim" : 369,
+         "c++" : 59,
+         "ruby" : 11883,
+         "perl" : 1348
+      },
+      "re_capture" : {
+         "lua" : 280,
+         "nqp" : 9057,
+         "perl6" : 10839,
+         "javascript" : 82,
+         "perl" : 160,
+         "ruby" : 466
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 50,
+         "perl6" : 5,
+         "nim" : 49,
+         "lua" : 1
+      },
+      "takeuchi" : {
+         "ruby" : 2132,
+         "perl" : 11928,
+         "c++" : 17,
+         "nim" : 46,
+         "c#" : 0,
+         "javascript" : 277,
+         "lua" : 434,
+         "nqp" : 18251,
+         "perl6" : 12966
+      },
+      "json_se" : {
+         "javascript" : 722,
+         "perl" : 356,
+         "ruby" : 1952
+      },
+      "str_join" : {
+         "javascript" : 45,
+         "lua" : 92,
+         "nqp" : 871,
+         "perl6" : 2122,
+         "ruby" : 1447,
+         "perl" : 401,
+         "c++" : 0,
+         "nim" : 51,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "lua" : 193,
+         "nqp" : 4378,
+         "perl6" : 2324,
+         "javascript" : 38,
+         "perl" : 447,
+         "ruby" : 160
+      }
+   },
+   "version" : {
+      "c#" : "7.0.103",
+      "nim" : "1.6.10",
+      "c++" : "15.0.7",
+      "ruby" : "3.0.5p211",
+      "perl" : "v5.36.1",
+      "javascript" : "v19.9.0",
+      "perl6" : null,
+      "nqp" : "2023.04",
+      "lua" : "2.1.0"
+   }
+}
