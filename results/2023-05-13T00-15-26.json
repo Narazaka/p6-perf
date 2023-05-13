@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 685,
+         "ruby" : 2152,
+         "perl" : 363
+      },
+      "str_join_repeat" : {
+         "ruby" : 49,
+         "nim" : 49,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 5
+      },
+      "re_capture" : {
+         "javascript" : 93,
+         "ruby" : 474,
+         "lua" : 280,
+         "nqp" : 10325,
+         "perl" : 160,
+         "perl6" : 11843
+      },
+      "fib_fast" : {
+         "perl6" : 2333,
+         "javascript" : 16
+      },
+      "str_join" : {
+         "perl" : 415,
+         "nqp" : 992,
+         "perl6" : 2171,
+         "c++" : 0,
+         "c#" : 0,
+         "ruby" : 1455,
+         "nim" : 49,
+         "lua" : 92,
+         "javascript" : 49
+      },
+      "fib" : {
+         "lua" : 144,
+         "ruby" : 838,
+         "nim" : 16,
+         "javascript" : 137,
+         "perl6" : 5010,
+         "nqp" : 8559,
+         "perl" : 5081,
+         "c++" : 2,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "nim" : 46,
+         "ruby" : 2134,
+         "lua" : 428,
+         "javascript" : 276,
+         "perl" : 12082,
+         "nqp" : 18870,
+         "perl6" : 12584,
+         "c++" : 17,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "javascript" : 38,
+         "lua" : 195,
+         "ruby" : 161,
+         "perl6" : 2372,
+         "nqp" : 3072,
+         "perl" : 463
+      },
+      "json_de" : {
+         "ruby" : 2073,
+         "perl" : 742,
+         "javascript" : 834
+      },
+      "str_join_slow" : {
+         "javascript" : 224,
+         "ruby" : 12812,
+         "nim" : 369,
+         "lua" : 8127,
+         "c#" : 0,
+         "c++" : 61,
+         "perl" : 1344,
+         "perl6" : 9538
+      }
+   },
+   "version" : {
+      "javascript" : "v19.9.0",
+      "lua" : "2.1.0",
+      "ruby" : "3.0.5p211",
+      "nim" : "1.6.10",
+      "c#" : "7.0.103",
+      "c++" : "15.0.7",
+      "perl6" : null,
+      "nqp" : "2023.04",
+      "perl" : "v5.36.1"
+   }
+}
