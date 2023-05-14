@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2023.04",
+      "c#" : "7.0.103",
+      "lua" : "2.1.0",
+      "javascript" : "v19.9.0",
+      "nim" : "1.6.10",
+      "c++" : "15.0.7",
+      "perl" : "v5.36.1",
+      "perl6" : null,
+      "ruby" : "3.0.5p211"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 2371
+      },
+      "fib" : {
+         "perl6" : 5238,
+         "perl" : 4939,
+         "ruby" : 901,
+         "c#" : 0,
+         "nqp" : 0,
+         "lua" : 201,
+         "c++" : 2,
+         "javascript" : 133,
+         "nim" : 15
+      },
+      "str_join_repeat" : {
+         "nim" : 50,
+         "ruby" : 56,
+         "perl6" : 5,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "re_capture" : {
+         "ruby" : 502,
+         "perl6" : 11714,
+         "perl" : 176,
+         "javascript" : 83,
+         "lua" : 279,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "perl" : 752,
+         "javascript" : 749,
+         "ruby" : 2147
+      },
+      "re_bool" : {
+         "lua" : 193,
+         "nqp" : 0,
+         "javascript" : 37,
+         "perl6" : 2486,
+         "perl" : 477,
+         "ruby" : 167
+      },
+      "json_se" : {
+         "javascript" : 656,
+         "ruby" : 2064,
+         "perl" : 375
+      },
+      "str_join" : {
+         "ruby" : 1550,
+         "perl6" : 2317,
+         "perl" : 433,
+         "c++" : 0,
+         "nim" : 56,
+         "javascript" : 45,
+         "nqp" : 0,
+         "c#" : 0,
+         "lua" : 104
+      },
+      "str_join_slow" : {
+         "perl" : 1416,
+         "perl6" : 7021,
+         "ruby" : 14637,
+         "c#" : 0,
+         "lua" : 8295,
+         "c++" : 60,
+         "nim" : 386,
+         "javascript" : 220
+      },
+      "takeuchi" : {
+         "lua" : 457,
+         "nqp" : 0,
+         "c#" : 0,
+         "c++" : 18,
+         "javascript" : 276,
+         "nim" : 46,
+         "perl6" : 12978,
+         "perl" : 12440,
+         "ruby" : 2255
+      }
+   }
+}
