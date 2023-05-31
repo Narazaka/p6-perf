@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 685,
+         "ruby" : 2113,
+         "perl" : 364
+      },
+      "str_join_repeat" : {
+         "ruby" : 55,
+         "perl6" : 6,
+         "nim" : 52,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "lua" : 210,
+         "javascript" : 35,
+         "perl6" : 2749,
+         "ruby" : 160,
+         "perl" : 450
+      },
+      "str_join_slow" : {
+         "perl" : 1379,
+         "nim" : 389,
+         "c++" : 63,
+         "ruby" : 14342,
+         "lua" : 8433,
+         "javascript" : 166,
+         "perl6" : 9866,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "ruby" : 2258,
+         "c++" : 17,
+         "perl" : 12084,
+         "nim" : 47,
+         "c#" : 0,
+         "perl6" : 12883,
+         "nqp" : 0,
+         "javascript" : 330,
+         "lua" : 435
+      },
+      "fib" : {
+         "javascript" : 140,
+         "lua" : 155,
+         "nqp" : 0,
+         "perl6" : 5172,
+         "c#" : 0,
+         "perl" : 5419,
+         "nim" : 17,
+         "c++" : 2,
+         "ruby" : 882
+      },
+      "fib_fast" : {
+         "perl6" : 2722,
+         "javascript" : 17
+      },
+      "re_capture" : {
+         "lua" : 301,
+         "javascript" : 83,
+         "nqp" : 0,
+         "perl6" : 12406,
+         "perl" : 162,
+         "ruby" : 481
+      },
+      "str_join" : {
+         "perl" : 462,
+         "nim" : 50,
+         "c++" : 0,
+         "ruby" : 1451,
+         "javascript" : 54,
+         "lua" : 96,
+         "nqp" : 0,
+         "perl6" : 2598,
+         "c#" : 0
+      },
+      "json_de" : {
+         "javascript" : 767,
+         "ruby" : 2165,
+         "perl" : 784
+      }
+   },
+   "version" : {
+      "javascript" : "v20.2.0",
+      "lua" : "2.1.0",
+      "nqp" : "2023.04-3-g4f0c01f7c",
+      "perl6" : null,
+      "c#" : "7.0.105",
+      "nim" : "1.6.10",
+      "perl" : "v5.36.1",
+      "ruby" : "3.0.5p211",
+      "c++" : "15.0.7"
+   }
+}
