@@ -29,7 +29,7 @@ jobs:
             path: html
       - name: install
         run: |
-          cpanm -v IO::All
+          cpan -i IO::All
       - name: Build
         run: |
           perl makehtml.pl html results index.html
