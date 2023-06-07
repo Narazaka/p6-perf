@@ -9,16 +9,16 @@
         <script>
             /** @typedef {{[category: string]: {[language: string]: number}}} ResultRecord */
             /** @typedef {{time: Date, version: {[language: string]: string}, result: ResultRecord}} ResultRecordWithTime */
-            /** @type {Array<{file: string; time: number}>} */
+            /** @type {{time: number, version: {[language: string]: string}, result: ResultRecord}[]} */
             const resultsInfo = [];
 
             async function main() {
                 const results = await Promise.all(
                     resultsInfo.map(
-                        ({time, file}) => fetch(file).then(response => response.json()).then(
+                        ({time, ...rest}) =>
                             /** @param {{result: ResultRecord, version: {[language: string]: string}}} json */
-                            json => ({time: new Date(time * 1000), ...json})
-                        )
+                            ({time: new Date(time * 1000), ...rest})
+                        
                     )
                 );
 

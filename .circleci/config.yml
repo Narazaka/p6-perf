@@ -50,6 +50,6 @@ jobs:
       - run:
           command: git clone git@github.com:Narazaka/p6-perf -b gh-pages html
       - run:
-          command: perl summarize.pl && perl archive_summarize.pl html/results && perl makehtml.pl html results index.html
+          command: perl summarize.pl && perl archive_summarize.pl html/results
       - run:
           command: cd html && git add . && git commit -m "update result at `perl -MTime::Piece -E 'say gmtime->ymd'`" && git push && cd ..

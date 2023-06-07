@@ -19,7 +19,9 @@ my $dh = new IO::Dir($result_summaries_dir);
 while (my $result_filename = $dh->read) {
     next if $result_filename =~ /^\./;
     my $time = Time::Piece->strptime($result_filename, "%Y-%m-%dT%H-%M-%S.json");
-    my $info = {file => "$result_summaries_dir_base/$result_filename", time => $time->epoch};
+    my $json = io(catfile $result_summaries_dir, $result_filename)->utf8->all;
+    my $data = JSON::XS->new->decode($json);
+    my $info = {%$data, time => $time->epoch};
     push @$results_info, $info;
 }
 @$results_info = sort {$a->{time} <=> $b->{time}} @$results_info;
