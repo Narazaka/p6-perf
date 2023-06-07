@@ -27,9 +27,11 @@ jobs:
             fetch-depth: 1
             ref: gh-pages
             path: html
-      - name: install
-        run: |
-          cpan -i IO::All
+      - name: install cpanm and multiple modules
+        uses: perl-actions/install-with-cpanm@stable
+        with:
+          install: |
+            IO::All
       - name: Build
         run: |
           perl makehtml.pl html results index.html
