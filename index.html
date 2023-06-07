@@ -48,7 +48,7 @@
                         data: json.map(data => ({x: data.time, y: data[language]})),
                         fill: false,
                         borderColor: colors[language],
-                    }));
+                    })).filter(({data}) => data.some(({y}) => y != null));
 
                     const chart = new Chart(chartCanvas, {
                         type: "line",
