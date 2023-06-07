@@ -27,6 +27,9 @@ jobs:
             fetch-depth: 1
             ref: gh-pages
             path: html
+      - name: install
+        run: |
+          cpanm -v IO::All
       - name: Build
         run: |
           perl makehtml.pl html results index.html
