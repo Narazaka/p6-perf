@@ -13,14 +13,7 @@
 
             const charts = [];
             async function main() {
-                const results = await Promise.all(
-                    resultsInfo.map(
-                        ({time, ...rest}) =>
-                            /** @param {{result: ResultRecord, version: {[language: string]: string}}} json */
-                            ({time: new Date(time * 1000), ...rest})
-                        
-                    )
-                );
+                const results = resultsInfo;
 
                 const categoriesHash = {};
                 const languagesHash = {};
