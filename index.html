@@ -26,6 +26,16 @@
                 const categories = Object.keys(categoriesHash).sort();
                 delete languagesHash.perl6;
                 const languages = ["perl6", ...Object.keys(languagesHash).sort()];
+                const colors = {
+                    perl6: "#1F77B4",
+                    "c#": "#FF7F0E",
+                    "c++": "#2CA02C",
+                    javascript: "#D62728",
+                    lua: "#9467BD",
+                    nim: "#8C564B",
+                    perl: "#7F7F7F",
+                    ruby: "#BCBD22",
+                }
 
                 const $results = /** @type {HTMLMainElement} */(document.querySelector("#results"));
                 for (const category of categories) {
@@ -37,6 +47,7 @@
                         label: language,
                         data: json.map(data => ({x: data.time, y: data[language]})),
                         fill: false,
+                        borderColor: colors[language],
                     }));
 
                     const chart = new Chart(chartCanvas, {
