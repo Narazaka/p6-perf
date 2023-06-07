@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "1.6.10",
+      "nqp" : "2023.05-3-g7f434701f",
+      "c#" : "7.0.105",
+      "ruby" : "3.0.5p211",
+      "javascript" : "v20.2.0",
+      "lua" : "2.1.0",
+      "perl6" : null,
+      "c++" : "15.0.7",
+      "perl" : "v5.36.1"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 70,
+         "ruby" : 54,
+         "perl6" : 10,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "ruby" : 160,
+         "nqp" : 4699,
+         "javascript" : 36,
+         "perl" : 482,
+         "lua" : 192,
+         "perl6" : 3421
+      },
+      "re_capture" : {
+         "perl6" : 15094,
+         "perl" : 183,
+         "lua" : 233,
+         "javascript" : 108,
+         "nqp" : 9850,
+         "ruby" : 538
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 435,
+         "javascript" : 52,
+         "nim" : 54,
+         "nqp" : 1081,
+         "c#" : 0,
+         "ruby" : 1537,
+         "perl6" : 2741,
+         "lua" : 111
+      },
+      "takeuchi" : {
+         "javascript" : 313,
+         "nqp" : 19605,
+         "ruby" : 2201,
+         "c#" : 0,
+         "nim" : 64,
+         "perl6" : 12939,
+         "lua" : 470,
+         "c++" : 18,
+         "perl" : 12283
+      },
+      "fib" : {
+         "javascript" : 151,
+         "c#" : 0,
+         "nqp" : 8014,
+         "nim" : 18,
+         "ruby" : 876,
+         "perl6" : 5585,
+         "lua" : 191,
+         "c++" : 2,
+         "perl" : 5444
+      },
+      "json_de" : {
+         "perl" : 735,
+         "javascript" : 760,
+         "ruby" : 2150
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 4019
+      },
+      "json_se" : {
+         "perl" : 364,
+         "javascript" : 721,
+         "ruby" : 2331
+      },
+      "str_join_slow" : {
+         "perl" : 1430,
+         "c++" : 63,
+         "lua" : 8763,
+         "perl6" : 9812,
+         "c#" : 0,
+         "ruby" : 15607,
+         "nim" : 430,
+         "javascript" : 179
+      }
+   }
+}
