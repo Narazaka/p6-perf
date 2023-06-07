@@ -1,7 +1,7 @@
 use 5.20.0;
 use utf8;
 use IO::Dir;
-use File::Slurp;
+use IO::All;
 use File::Spec::Functions qw/catfile/;
 use Time::Piece;
 use JSON::XS;
@@ -19,7 +19,7 @@ my $dh = new IO::Dir($result_summaries_dir);
 while (my $result_filename = $dh->read) {
     next if $result_filename =~ /^\./;
     my $time = Time::Piece->strptime($result_filename, "%Y-%m-%dT%H-%M-%S.json");
-    my $json = read_file(catfile($result_summaries_dir, $result_filename), binmode => ":utf8");
+    my $json = io(catfile $result_summaries_dir, $result_filename)->utf8->all;
     my $data = JSON::XS->new->decode($json);
     my $info = {%$data, time => $time->epoch};
     push @$results_info, $info;
@@ -28,7 +28,7 @@ while (my $result_filename = $dh->read) {
 
 my $js_str = "const resultsInfo = " . JSON::XS->new->utf8->encode($results_info) . ";";
 
-my $template = read_file($html_template_file, binmode => ":utf8");
+my $template = io($html_template_file)->utf8->all;
 $template =~ s@const resultsInfo = \[\];@$js_str@;
 my $fh = new IO::File($html_file, ">:encoding(utf8)");
 print $fh $template;
