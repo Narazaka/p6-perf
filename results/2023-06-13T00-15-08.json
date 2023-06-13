@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 636,
+         "perl" : 344,
+         "ruby" : 2065
+      },
+      "str_join_repeat" : {
+         "ruby" : 53,
+         "nim" : 49,
+         "perl6" : 5,
+         "perl" : 4,
+         "lua" : 1
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "perl" : 12337,
+         "lua" : 428,
+         "javascript" : 298,
+         "c++" : 17,
+         "nqp" : 18212,
+         "c#" : 265,
+         "ruby" : 2115,
+         "perl6" : 12326
+      },
+      "fib_fast" : {
+         "perl6" : 2453,
+         "javascript" : 17
+      },
+      "str_join_slow" : {
+         "nim" : 380,
+         "lua" : 7835,
+         "c++" : 59,
+         "javascript" : 167,
+         "perl" : 1406,
+         "perl6" : 6540,
+         "ruby" : 14313,
+         "c#" : 209
+      },
+      "fib" : {
+         "nim" : 15,
+         "perl" : 4967,
+         "javascript" : 136,
+         "lua" : 151,
+         "c++" : 2,
+         "c#" : 47,
+         "nqp" : 7950,
+         "perl6" : 4965,
+         "ruby" : 857
+      },
+      "re_capture" : {
+         "nqp" : 9411,
+         "ruby" : 479,
+         "perl6" : 11928,
+         "perl" : 170,
+         "javascript" : 74,
+         "lua" : 229
+      },
+      "re_bool" : {
+         "nqp" : 4548,
+         "ruby" : 160,
+         "perl6" : 2415,
+         "perl" : 450,
+         "javascript" : 34,
+         "lua" : 181
+      },
+      "json_de" : {
+         "javascript" : 734,
+         "perl" : 745,
+         "ruby" : 2387
+      },
+      "str_join" : {
+         "nqp" : 990,
+         "c#" : 208,
+         "perl6" : 2200,
+         "ruby" : 1457,
+         "nim" : 50,
+         "perl" : 447,
+         "lua" : 102,
+         "c++" : 0,
+         "javascript" : 46
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.5p211",
+      "perl6" : null,
+      "c#" : "7.0.105",
+      "nqp" : "2023.05-3-g7f434701f",
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "c++" : "15.0.7",
+      "javascript" : "v20.3.0",
+      "perl" : "v5.36.1"
+   }
+}
