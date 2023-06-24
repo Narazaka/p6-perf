@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nim" : 15,
+         "c++" : 2,
+         "perl6" : 4960,
+         "c#" : 47,
+         "lua" : 179,
+         "javascript" : 139,
+         "perl" : 5173,
+         "nqp" : 8719,
+         "ruby" : 843
+      },
+      "re_bool" : {
+         "perl6" : 2851,
+         "lua" : 181,
+         "ruby" : 160,
+         "javascript" : 34,
+         "nqp" : 4837,
+         "perl" : 472
+      },
+      "str_join" : {
+         "perl6" : 2322,
+         "lua" : 99,
+         "c#" : 206,
+         "c++" : 0,
+         "nim" : 50,
+         "ruby" : 1454,
+         "javascript" : 48,
+         "perl" : 422,
+         "nqp" : 994
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 2816
+      },
+      "re_capture" : {
+         "nqp" : 9925,
+         "perl" : 180,
+         "javascript" : 94,
+         "ruby" : 522,
+         "lua" : 229,
+         "perl6" : 12181
+      },
+      "json_se" : {
+         "perl" : 346,
+         "javascript" : 663,
+         "ruby" : 2077
+      },
+      "takeuchi" : {
+         "nim" : 47,
+         "perl6" : 13284,
+         "lua" : 409,
+         "c#" : 262,
+         "c++" : 17,
+         "javascript" : 301,
+         "perl" : 13080,
+         "nqp" : 18195,
+         "ruby" : 2182
+      },
+      "json_de" : {
+         "perl" : 764,
+         "javascript" : 804,
+         "ruby" : 2025
+      },
+      "str_join_slow" : {
+         "perl" : 1649,
+         "javascript" : 167,
+         "ruby" : 14938,
+         "nim" : 366,
+         "lua" : 7618,
+         "c#" : 220,
+         "perl6" : 9446,
+         "c++" : 59
+      },
+      "str_join_repeat" : {
+         "ruby" : 51,
+         "lua" : 1,
+         "perl6" : 6,
+         "nim" : 51,
+         "perl" : 3
+      }
+   },
+   "version" : {
+      "javascript" : "v20.3.0",
+      "nqp" : "2023.05-5-g43e8c520b",
+      "perl" : "v5.36.1",
+      "ruby" : "3.0.5p211",
+      "nim" : "1.6.10",
+      "c++" : "15.0.7",
+      "perl6" : null,
+      "c#" : "7.0.107",
+      "lua" : "2.1.0"
+   }
+}
