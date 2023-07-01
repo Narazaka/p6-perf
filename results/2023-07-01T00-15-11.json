@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "javascript" : 314,
+         "nqp" : 18534,
+         "perl" : 11962,
+         "c#" : 267,
+         "lua" : 438,
+         "perl6" : 11996,
+         "ruby" : 2226,
+         "c++" : 26,
+         "nim" : 47
+      },
+      "json_se" : {
+         "ruby" : 1962,
+         "perl" : 344,
+         "javascript" : 659
+      },
+      "re_capture" : {
+         "perl" : 160,
+         "javascript" : 74,
+         "nqp" : 8963,
+         "perl6" : 10747,
+         "lua" : 248,
+         "ruby" : 464
+      },
+      "json_de" : {
+         "ruby" : 1934,
+         "javascript" : 791,
+         "perl" : 749
+      },
+      "re_bool" : {
+         "perl" : 439,
+         "nqp" : 4379,
+         "javascript" : 35,
+         "ruby" : 160,
+         "lua" : 188,
+         "perl6" : 2186
+      },
+      "str_join_repeat" : {
+         "nim" : 49,
+         "ruby" : 50,
+         "perl6" : 5,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nim" : 50,
+         "ruby" : 1443,
+         "lua" : 103,
+         "perl6" : 2091,
+         "c#" : 192,
+         "javascript" : 46,
+         "nqp" : 880,
+         "perl" : 419
+      },
+      "str_join_slow" : {
+         "c#" : 213,
+         "perl" : 1320,
+         "javascript" : 167,
+         "nim" : 374,
+         "c++" : 66,
+         "ruby" : 12689,
+         "perl6" : 6300,
+         "lua" : 8093
+      },
+      "fib_fast" : {
+         "perl6" : 2086,
+         "javascript" : 15
+      },
+      "fib" : {
+         "c#" : 54,
+         "perl" : 4844,
+         "nqp" : 7988,
+         "javascript" : 168,
+         "nim" : 16,
+         "c++" : 2,
+         "ruby" : 830,
+         "perl6" : 5075,
+         "lua" : 208
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "lua" : "2.1.0",
+      "nim" : "1.6.10",
+      "c++" : "15.0.7",
+      "ruby" : "3.0.5p211",
+      "perl" : "v5.36.1",
+      "nqp" : "2023.06",
+      "javascript" : "v20.3.1",
+      "c#" : "7.0.107"
+   }
+}
