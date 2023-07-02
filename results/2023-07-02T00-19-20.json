@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "c++" : 2,
+         "c#" : 0,
+         "nqp" : 0,
+         "perl" : 4876,
+         "ruby" : 834,
+         "javascript" : 138,
+         "lua" : 201,
+         "nim" : 15,
+         "perl6" : 5123
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "c#" : 0,
+         "ruby" : 2189,
+         "nqp" : 0,
+         "perl" : 12479,
+         "javascript" : 295,
+         "lua" : 410,
+         "nim" : 46,
+         "perl6" : 12832
+      },
+      "re_bool" : {
+         "ruby" : 181,
+         "nqp" : 0,
+         "perl" : 453,
+         "perl6" : 2452,
+         "javascript" : 34,
+         "lua" : 181
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2556
+      },
+      "str_join_slow" : {
+         "lua" : 7997,
+         "javascript" : 157,
+         "perl6" : 7288,
+         "nim" : 371,
+         "c#" : 0,
+         "c++" : 60,
+         "perl" : 1468,
+         "ruby" : 14572
+      },
+      "json_de" : {
+         "ruby" : 1961,
+         "perl" : 796,
+         "javascript" : 725
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 51,
+         "nim" : 49,
+         "perl6" : 5
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "ruby" : 1451,
+         "perl" : 440,
+         "c#" : 0,
+         "c++" : 0,
+         "perl6" : 2333,
+         "nim" : 50,
+         "lua" : 99,
+         "javascript" : 48
+      },
+      "json_se" : {
+         "javascript" : 632,
+         "ruby" : 2004,
+         "perl" : 355
+      },
+      "re_capture" : {
+         "perl6" : 12305,
+         "perl" : 167,
+         "nqp" : 0,
+         "ruby" : 467,
+         "lua" : 231,
+         "javascript" : 75
+      }
+   },
+   "version" : {
+      "javascript" : "v20.3.1",
+      "lua" : "2.1.0",
+      "nim" : "1.6.10",
+      "perl6" : null,
+      "c++" : "15.0.7",
+      "c#" : "7.0.107",
+      "perl" : "v5.36.1",
+      "nqp" : "2023.06",
+      "ruby" : "3.0.5p211"
+   }
+}
