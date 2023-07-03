@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.0",
+      "perl" : "v5.36.1",
+      "c++" : "15.0.7",
+      "javascript" : "v20.3.1",
+      "c#" : "7.0.107",
+      "perl6" : null,
+      "nqp" : "2023.06",
+      "nim" : "1.6.10",
+      "ruby" : "3.0.5p211"
+   },
+   "result" : {
+      "re_capture" : {
+         "lua" : 238,
+         "nqp" : 0,
+         "perl" : 161,
+         "ruby" : 492,
+         "perl6" : 11663,
+         "javascript" : 75
+      },
+      "fib" : {
+         "c++" : 3,
+         "c#" : 0,
+         "javascript" : 146,
+         "nim" : 16,
+         "nqp" : 0,
+         "ruby" : 840,
+         "perl6" : 5042,
+         "lua" : 114,
+         "perl" : 4905
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 2375
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 52,
+         "nim" : 50,
+         "perl6" : 5
+      },
+      "json_se" : {
+         "perl" : 352,
+         "ruby" : 2025,
+         "javascript" : 646
+      },
+      "json_de" : {
+         "javascript" : 764,
+         "perl" : 737,
+         "ruby" : 1980
+      },
+      "re_bool" : {
+         "perl6" : 2359,
+         "nqp" : 0,
+         "perl" : 447,
+         "ruby" : 160,
+         "javascript" : 35,
+         "lua" : 185
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "javascript" : 164,
+         "nim" : 372,
+         "ruby" : 13514,
+         "perl6" : 8847,
+         "c++" : 60,
+         "perl" : 1364,
+         "lua" : 8339
+      },
+      "str_join" : {
+         "c++" : 0,
+         "javascript" : 49,
+         "c#" : 0,
+         "perl6" : 2124,
+         "nim" : 49,
+         "nqp" : 0,
+         "ruby" : 1451,
+         "lua" : 99,
+         "perl" : 417
+      },
+      "takeuchi" : {
+         "perl" : 12032,
+         "lua" : 438,
+         "perl6" : 12445,
+         "nqp" : 0,
+         "nim" : 46,
+         "ruby" : 2216,
+         "javascript" : 314,
+         "c#" : 0,
+         "c++" : 17
+      }
+   }
+}
