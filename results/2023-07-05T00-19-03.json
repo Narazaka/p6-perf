@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "lua" : 7821,
+         "nim" : 370,
+         "c++" : 59,
+         "perl6" : 6711,
+         "perl" : 1328,
+         "javascript" : 150,
+         "ruby" : 13271,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2711
+      },
+      "str_join_repeat" : {
+         "ruby" : 50,
+         "perl" : 3,
+         "nim" : 49,
+         "lua" : 1,
+         "perl6" : 5
+      },
+      "json_se" : {
+         "ruby" : 2122,
+         "perl" : 347,
+         "javascript" : 622
+      },
+      "re_bool" : {
+         "perl6" : 2565,
+         "javascript" : 35,
+         "perl" : 441,
+         "ruby" : 160,
+         "lua" : 181,
+         "nqp" : 0
+      },
+      "fib" : {
+         "c++" : 2,
+         "nqp" : 0,
+         "nim" : 15,
+         "lua" : 169,
+         "perl" : 5071,
+         "ruby" : 885,
+         "javascript" : 136,
+         "c#" : 0,
+         "perl6" : 5262
+      },
+      "re_capture" : {
+         "lua" : 229,
+         "nqp" : 0,
+         "perl6" : 11420,
+         "perl" : 161,
+         "ruby" : 469,
+         "javascript" : 75
+      },
+      "str_join" : {
+         "perl6" : 2134,
+         "c#" : 0,
+         "perl" : 417,
+         "javascript" : 47,
+         "ruby" : 1461,
+         "lua" : 100,
+         "nim" : 49,
+         "nqp" : 0,
+         "c++" : 0
+      },
+      "takeuchi" : {
+         "lua" : 428,
+         "nim" : 47,
+         "c++" : 17,
+         "nqp" : 0,
+         "perl6" : 12562,
+         "c#" : 0,
+         "perl" : 12407,
+         "javascript" : 295,
+         "ruby" : 2145
+      },
+      "json_de" : {
+         "perl" : 737,
+         "javascript" : 726,
+         "ruby" : 2019
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "perl" : "v5.36.1",
+      "javascript" : "v20.3.1",
+      "ruby" : "3.0.5p211",
+      "c#" : "7.0.107",
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "nqp" : "2023.06",
+      "c++" : "15.0.7"
+   }
+}
