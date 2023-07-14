@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.0.5p211",
+      "perl6" : null,
+      "lua" : "2.1.0",
+      "c#" : "7.0.107",
+      "c++" : "15.0.7",
+      "nqp" : "2023.06",
+      "nim" : "1.6.10",
+      "javascript" : "v20.4.0",
+      "perl" : "v5.36.1"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "c#" : 0,
+         "c++" : 60,
+         "nim" : 407,
+         "javascript" : 189,
+         "perl" : 1363,
+         "ruby" : 15733,
+         "perl6" : 7105,
+         "lua" : 8431
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 5,
+         "lua" : 1,
+         "ruby" : 53,
+         "nim" : 57
+      },
+      "str_join" : {
+         "lua" : 148,
+         "perl6" : 2382,
+         "ruby" : 1609,
+         "perl" : 421,
+         "javascript" : 59,
+         "nqp" : 0,
+         "nim" : 49,
+         "c#" : 0,
+         "c++" : 0
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "javascript" : 39,
+         "ruby" : 166,
+         "lua" : 234,
+         "perl6" : 2699,
+         "perl" : 498
+      },
+      "json_de" : {
+         "perl" : 842,
+         "javascript" : 777,
+         "ruby" : 2133
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "c++" : 18,
+         "javascript" : 323,
+         "nim" : 47,
+         "nqp" : 0,
+         "perl" : 12362,
+         "ruby" : 2178,
+         "perl6" : 12756,
+         "lua" : 450
+      },
+      "fib" : {
+         "ruby" : 872,
+         "perl6" : 5166,
+         "lua" : 124,
+         "c++" : 2,
+         "c#" : 0,
+         "javascript" : 174,
+         "nqp" : 0,
+         "nim" : 16,
+         "perl" : 5125
+      },
+      "re_capture" : {
+         "lua" : 272,
+         "perl6" : 12461,
+         "perl" : 187,
+         "nqp" : 0,
+         "javascript" : 87,
+         "ruby" : 512
+      },
+      "json_se" : {
+         "perl" : 354,
+         "ruby" : 2272,
+         "javascript" : 667
+      },
+      "fib_fast" : {
+         "perl6" : 2715,
+         "javascript" : 22
+      }
+   }
+}
