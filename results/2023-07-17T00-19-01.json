@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 1975,
+         "perl" : 342,
+         "javascript" : 635
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 2164
+      },
+      "fib" : {
+         "lua" : 181,
+         "c++" : 3,
+         "nqp" : 0,
+         "ruby" : 860,
+         "perl6" : 5056,
+         "c#" : 0,
+         "javascript" : 136,
+         "perl" : 4866,
+         "nim" : 16
+      },
+      "str_join_slow" : {
+         "perl" : 1308,
+         "nim" : 370,
+         "javascript" : 151,
+         "c#" : 0,
+         "perl6" : 6488,
+         "ruby" : 12494,
+         "c++" : 59,
+         "lua" : 8017
+      },
+      "re_capture" : {
+         "perl" : 161,
+         "javascript" : 74,
+         "perl6" : 10866,
+         "ruby" : 476,
+         "nqp" : 0,
+         "lua" : 229
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "lua" : 113,
+         "c++" : 0,
+         "ruby" : 1453,
+         "c#" : 0,
+         "perl6" : 2117,
+         "perl" : 424,
+         "nim" : 50,
+         "javascript" : 59
+      },
+      "re_bool" : {
+         "perl" : 442,
+         "javascript" : 35,
+         "perl6" : 2214,
+         "ruby" : 160,
+         "nqp" : 0,
+         "lua" : 180
+      },
+      "json_de" : {
+         "javascript" : 894,
+         "ruby" : 2223,
+         "perl" : 753
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "ruby" : 49,
+         "perl" : 3,
+         "nim" : 49
+      },
+      "takeuchi" : {
+         "perl6" : 12455,
+         "c#" : 0,
+         "javascript" : 296,
+         "nim" : 46,
+         "perl" : 12035,
+         "lua" : 426,
+         "c++" : 17,
+         "nqp" : 0,
+         "ruby" : 2138
+      }
+   },
+   "version" : {
+      "nqp" : "2023.06",
+      "lua" : "2.1.0",
+      "c++" : "15.0.7",
+      "ruby" : "3.0.5p211",
+      "c#" : "7.0.107",
+      "perl6" : null,
+      "perl" : "v5.36.1",
+      "nim" : "1.6.10",
+      "javascript" : "v20.4.0"
+   }
+}
