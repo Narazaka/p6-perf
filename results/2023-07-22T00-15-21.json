@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "perl6" : 13072,
+         "c#" : 259,
+         "ruby" : 2171,
+         "nim" : 46,
+         "lua" : 408,
+         "nqp" : 18567,
+         "c++" : 17,
+         "javascript" : 295,
+         "perl" : 12271
+      },
+      "json_se" : {
+         "perl" : 343,
+         "ruby" : 1974,
+         "javascript" : 627
+      },
+      "re_bool" : {
+         "ruby" : 160,
+         "javascript" : 35,
+         "perl6" : 2613,
+         "perl" : 440,
+         "nqp" : 4656,
+         "lua" : 180
+      },
+      "str_join_slow" : {
+         "perl6" : 6903,
+         "c#" : 204,
+         "nim" : 371,
+         "ruby" : 13165,
+         "lua" : 7499,
+         "javascript" : 151,
+         "c++" : 49,
+         "perl" : 1317
+      },
+      "fib" : {
+         "lua" : 182,
+         "nqp" : 8080,
+         "perl6" : 5013,
+         "c#" : 47,
+         "ruby" : 836,
+         "nim" : 15,
+         "perl" : 4879,
+         "c++" : 2,
+         "javascript" : 137
+      },
+      "re_capture" : {
+         "lua" : 227,
+         "nqp" : 9652,
+         "perl" : 183,
+         "perl6" : 11823,
+         "javascript" : 75,
+         "ruby" : 471
+      },
+      "json_de" : {
+         "javascript" : 715,
+         "ruby" : 1926,
+         "perl" : 733
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2990
+      },
+      "str_join" : {
+         "perl6" : 2338,
+         "c#" : 179,
+         "ruby" : 1449,
+         "nim" : 50,
+         "lua" : 100,
+         "nqp" : 1024,
+         "c++" : 0,
+         "javascript" : 46,
+         "perl" : 422
+      },
+      "str_join_repeat" : {
+         "nim" : 49,
+         "ruby" : 53,
+         "perl6" : 5,
+         "perl" : 3,
+         "lua" : 1
+      }
+   },
+   "version" : {
+      "lua" : "2.1.0",
+      "nqp" : "2023.06",
+      "c#" : "7.0.109",
+      "perl6" : null,
+      "ruby" : "3.0.5p211",
+      "nim" : "1.6.10",
+      "perl" : "v5.36.1",
+      "c++" : "15.0.7",
+      "javascript" : "v20.4.0"
+   }
+}
