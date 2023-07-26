@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 2143,
+         "javascript" : 645,
+         "perl" : 365
+      },
+      "re_bool" : {
+         "nqp" : 3796,
+         "perl6" : 2999,
+         "ruby" : 160,
+         "lua" : 198,
+         "javascript" : 35,
+         "perl" : 466
+      },
+      "fib_fast" : {
+         "javascript" : 16,
+         "perl6" : 3230
+      },
+      "str_join" : {
+         "perl6" : 2310,
+         "ruby" : 1458,
+         "nqp" : 976,
+         "nim" : 50,
+         "perl" : 438,
+         "c++" : 0,
+         "lua" : 99,
+         "c#" : 234,
+         "javascript" : 48
+      },
+      "re_capture" : {
+         "javascript" : 77,
+         "lua" : 292,
+         "perl" : 161,
+         "nqp" : 9789,
+         "ruby" : 471,
+         "perl6" : 11799
+      },
+      "fib" : {
+         "perl" : 4892,
+         "c++" : 2,
+         "lua" : 164,
+         "c#" : 48,
+         "javascript" : 137,
+         "perl6" : 5730,
+         "ruby" : 862,
+         "nqp" : 8240,
+         "nim" : 16
+      },
+      "str_join_slow" : {
+         "perl6" : 6568,
+         "ruby" : 15884,
+         "nim" : 378,
+         "perl" : 1371,
+         "c++" : 49,
+         "lua" : 8190,
+         "javascript" : 162,
+         "c#" : 238
+      },
+      "json_de" : {
+         "ruby" : 2193,
+         "javascript" : 906,
+         "perl" : 838
+      },
+      "takeuchi" : {
+         "c++" : 18,
+         "perl" : 12511,
+         "javascript" : 299,
+         "c#" : 283,
+         "lua" : 441,
+         "ruby" : 2382,
+         "perl6" : 12444,
+         "nim" : 47,
+         "nqp" : 19368
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 56,
+         "perl6" : 5,
+         "ruby" : 54
+      }
+   },
+   "version" : {
+      "c++" : "15.0.7",
+      "lua" : "2.1.0",
+      "perl6" : null,
+      "nim" : "1.6.10",
+      "nqp" : "2023.06-6-g20f4acbca",
+      "perl" : "v5.36.1",
+      "c#" : "7.0.109",
+      "javascript" : "v20.4.0",
+      "ruby" : "3.0.5p211"
+   }
+}
