@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "c++" : "15.0.7",
+      "ruby" : "3.0.6p216",
+      "nim" : "1.6.10",
+      "lua" : "2.1.0",
+      "javascript" : "v20.5.0",
+      "perl" : "v5.38.0",
+      "c#" : "7.0.109",
+      "nqp" : "2023.06-6-g20f4acbca"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "perl" : 3,
+         "nim" : 49,
+         "ruby" : 47,
+         "lua" : 1
+      },
+      "fib" : {
+         "perl" : 4988,
+         "c#" : 47,
+         "nqp" : 7890,
+         "perl6" : 5105,
+         "c++" : 2,
+         "nim" : 15,
+         "ruby" : 849,
+         "javascript" : 136,
+         "lua" : 107
+      },
+      "takeuchi" : {
+         "perl" : 12107,
+         "c#" : 266,
+         "nqp" : 18382,
+         "perl6" : 12124,
+         "c++" : 17,
+         "ruby" : 2293,
+         "nim" : 46,
+         "javascript" : 295,
+         "lua" : 427
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2392
+      },
+      "str_join" : {
+         "perl" : 419,
+         "nqp" : 930,
+         "c#" : 182,
+         "c++" : 0,
+         "perl6" : 2189,
+         "javascript" : 48,
+         "lua" : 101,
+         "ruby" : 1460,
+         "nim" : 50
+      },
+      "re_bool" : {
+         "ruby" : 156,
+         "lua" : 194,
+         "nqp" : 4567,
+         "javascript" : 34,
+         "perl6" : 2452,
+         "perl" : 449
+      },
+      "json_de" : {
+         "perl" : 762,
+         "ruby" : 1898,
+         "javascript" : 723
+      },
+      "str_join_slow" : {
+         "perl" : 1341,
+         "c#" : 210,
+         "c++" : 49,
+         "perl6" : 6731,
+         "lua" : 7782,
+         "javascript" : 150,
+         "ruby" : 14878,
+         "nim" : 376
+      },
+      "json_se" : {
+         "ruby" : 1973,
+         "javascript" : 630,
+         "perl" : 355
+      },
+      "re_capture" : {
+         "ruby" : 471,
+         "lua" : 280,
+         "nqp" : 9497,
+         "javascript" : 74,
+         "perl6" : 11707,
+         "perl" : 158
+      }
+   }
+}
