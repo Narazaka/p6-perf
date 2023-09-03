@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "ruby" : 54,
+         "perl6" : 6,
+         "perl" : 3,
+         "nim" : 49,
+         "lua" : 1
+      },
+      "json_de" : {
+         "perl" : 770,
+         "javascript" : 766,
+         "ruby" : 2127
+      },
+      "str_join" : {
+         "perl" : 451,
+         "ruby" : 1751,
+         "javascript" : 47,
+         "nqp" : 0,
+         "lua" : 112,
+         "perl6" : 2282,
+         "c#" : 0,
+         "c++" : 0,
+         "nim" : 53
+      },
+      "re_bool" : {
+         "lua" : 194,
+         "nqp" : 0,
+         "ruby" : 170,
+         "javascript" : 41,
+         "perl6" : 2325,
+         "perl" : 454
+      },
+      "json_se" : {
+         "perl" : 352,
+         "javascript" : 759,
+         "ruby" : 2076
+      },
+      "takeuchi" : {
+         "javascript" : 396,
+         "ruby" : 2285,
+         "perl" : 12750,
+         "nqp" : 0,
+         "lua" : 452,
+         "c#" : 0,
+         "c++" : 17,
+         "perl6" : 13173,
+         "nim" : 47
+      },
+      "fib" : {
+         "perl" : 5115,
+         "javascript" : 140,
+         "ruby" : 940,
+         "nqp" : 0,
+         "lua" : 158,
+         "perl6" : 5151,
+         "c#" : 0,
+         "c++" : 2,
+         "nim" : 15
+      },
+      "fib_fast" : {
+         "perl6" : 2332,
+         "javascript" : 19
+      },
+      "str_join_slow" : {
+         "nim" : 404,
+         "perl6" : 8805,
+         "c#" : 0,
+         "c++" : 49,
+         "lua" : 7956,
+         "perl" : 1449,
+         "javascript" : 164,
+         "ruby" : 13819
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "lua" : 238,
+         "perl" : 167,
+         "perl6" : 11630,
+         "javascript" : 83,
+         "ruby" : 498
+      }
+   },
+   "version" : {
+      "nim" : "1.6.10",
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "c#" : "7.0.110",
+      "nqp" : "2023.08-1-g1cdfa799b",
+      "lua" : "2.1.1692616192",
+      "perl" : "v5.38.0",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v20.5.1"
+   }
+}
