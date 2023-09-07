@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "16.0.6",
+      "javascript" : "v20.6.0",
+      "nim" : "1.6.10",
+      "c#" : "7.0.110",
+      "nqp" : "2023.08-1-g1cdfa799b",
+      "perl6" : null,
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.0",
+      "lua" : "2.1.1692616192"
+   },
+   "result" : {
+      "takeuchi" : {
+         "lua" : 423,
+         "perl6" : 12297,
+         "ruby" : 2246,
+         "perl" : 12200,
+         "nqp" : 0,
+         "c++" : 18,
+         "nim" : 46,
+         "javascript" : 297,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 55,
+         "perl" : 3,
+         "perl6" : 6,
+         "nim" : 50
+      },
+      "json_de" : {
+         "ruby" : 1930,
+         "perl" : 708,
+         "javascript" : 734
+      },
+      "fib_fast" : {
+         "perl6" : 2196,
+         "javascript" : 15
+      },
+      "re_bool" : {
+         "perl6" : 2312,
+         "perl" : 492,
+         "ruby" : 156,
+         "lua" : 188,
+         "javascript" : 35,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "c++" : 49,
+         "c#" : 0,
+         "javascript" : 155,
+         "nim" : 369,
+         "ruby" : 13950,
+         "perl" : 1341,
+         "perl6" : 6912,
+         "lua" : 8146
+      },
+      "json_se" : {
+         "javascript" : 632,
+         "perl" : 334,
+         "ruby" : 1998
+      },
+      "fib" : {
+         "nqp" : 0,
+         "c#" : 0,
+         "javascript" : 137,
+         "nim" : 15,
+         "c++" : 2,
+         "lua" : 186,
+         "perl" : 4769,
+         "ruby" : 847,
+         "perl6" : 5038
+      },
+      "re_capture" : {
+         "perl6" : 11714,
+         "ruby" : 475,
+         "perl" : 158,
+         "lua" : 236,
+         "javascript" : 74,
+         "nqp" : 0
+      },
+      "str_join" : {
+         "ruby" : 1563,
+         "perl" : 419,
+         "perl6" : 2340,
+         "lua" : 100,
+         "c++" : 0,
+         "c#" : 0,
+         "nim" : 50,
+         "javascript" : 48,
+         "nqp" : 0
+      }
+   }
+}
