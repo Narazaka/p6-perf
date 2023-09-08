@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2023.08-1-g1cdfa799b",
+      "perl" : "v5.38.0",
+      "perl6" : null,
+      "c#" : "7.0.110",
+      "ruby" : "3.0.6p216",
+      "c++" : "16.0.6",
+      "javascript" : "v20.6.0",
+      "lua" : "2.1.1693350652",
+      "nim" : "1.6.10"
+   },
+   "result" : {
+      "fib" : {
+         "perl6" : 5185,
+         "c#" : 47,
+         "ruby" : 930,
+         "nqp" : 8527,
+         "perl" : 4996,
+         "javascript" : 138,
+         "lua" : 139,
+         "c++" : 3,
+         "nim" : 16
+      },
+      "json_se" : {
+         "javascript" : 648,
+         "perl" : 346,
+         "ruby" : 2147
+      },
+      "fib_fast" : {
+         "perl6" : 2597,
+         "javascript" : 15
+      },
+      "takeuchi" : {
+         "javascript" : 329,
+         "lua" : 446,
+         "c++" : 17,
+         "nim" : 47,
+         "nqp" : 18892,
+         "perl" : 12443,
+         "perl6" : 12900,
+         "c#" : 276,
+         "ruby" : 2283
+      },
+      "re_bool" : {
+         "perl6" : 2345,
+         "ruby" : 160,
+         "nqp" : 4679,
+         "lua" : 246,
+         "javascript" : 44,
+         "perl" : 433
+      },
+      "json_de" : {
+         "javascript" : 741,
+         "perl" : 714,
+         "ruby" : 2611
+      },
+      "str_join_slow" : {
+         "ruby" : 16021,
+         "c#" : 227,
+         "perl6" : 9247,
+         "perl" : 1346,
+         "nim" : 386,
+         "c++" : 53,
+         "javascript" : 157,
+         "lua" : 7969
+      },
+      "re_capture" : {
+         "perl" : 175,
+         "javascript" : 75,
+         "nqp" : 10147,
+         "lua" : 340,
+         "ruby" : 512,
+         "perl6" : 11029
+      },
+      "str_join" : {
+         "perl" : 427,
+         "nqp" : 964,
+         "ruby" : 1500,
+         "perl6" : 2495,
+         "c#" : 203,
+         "nim" : 51,
+         "lua" : 103,
+         "javascript" : 49,
+         "c++" : 0
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 62,
+         "lua" : 1,
+         "ruby" : 52,
+         "perl6" : 6
+      }
+   }
+}
