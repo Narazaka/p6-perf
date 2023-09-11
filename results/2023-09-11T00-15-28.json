@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "javascript" : 296,
+         "c#" : 265,
+         "nim" : 47,
+         "ruby" : 2203,
+         "lua" : 443,
+         "nqp" : 18439,
+         "perl6" : 12416,
+         "c++" : 18,
+         "perl" : 12408
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 50,
+         "perl" : 3,
+         "ruby" : 52
+      },
+      "fib" : {
+         "perl" : 4909,
+         "perl6" : 5086,
+         "c++" : 2,
+         "lua" : 181,
+         "nqp" : 8060,
+         "ruby" : 879,
+         "nim" : 16,
+         "c#" : 48,
+         "javascript" : 182
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl6" : 2371,
+         "perl" : 417,
+         "nqp" : 1005,
+         "lua" : 105,
+         "nim" : 50,
+         "ruby" : 1494,
+         "javascript" : 47,
+         "c#" : 207
+      },
+      "str_join_slow" : {
+         "c++" : 50,
+         "perl6" : 6888,
+         "perl" : 1361,
+         "lua" : 7744,
+         "nim" : 404,
+         "ruby" : 14618,
+         "javascript" : 169,
+         "c#" : 241
+      },
+      "json_de" : {
+         "javascript" : 773,
+         "ruby" : 1870,
+         "perl" : 708
+      },
+      "re_bool" : {
+         "perl6" : 2417,
+         "ruby" : 156,
+         "perl" : 436,
+         "lua" : 182,
+         "nqp" : 4764,
+         "javascript" : 36
+      },
+      "json_se" : {
+         "javascript" : 659,
+         "perl" : 341,
+         "ruby" : 1998
+      },
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2291
+      },
+      "re_capture" : {
+         "perl6" : 11660,
+         "ruby" : 513,
+         "perl" : 164,
+         "lua" : 232,
+         "nqp" : 9868,
+         "javascript" : 77
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "perl" : "v5.38.0",
+      "lua" : "2.1.1694285958",
+      "nqp" : "2023.08-1-g1cdfa799b",
+      "nim" : "1.6.10",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v20.6.1",
+      "c#" : "7.0.110"
+   }
+}
