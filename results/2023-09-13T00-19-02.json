@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2023.08-1-g1cdfa799b",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v20.6.1",
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "c#" : "7.0.110",
+      "perl" : "v5.38.0",
+      "lua" : "2.1.1694285958",
+      "nim" : "1.6.10"
+   },
+   "result" : {
+      "json_se" : {
+         "javascript" : 626,
+         "perl" : 334,
+         "ruby" : 1933
+      },
+      "fib" : {
+         "nim" : 15,
+         "lua" : 189,
+         "perl" : 4709,
+         "perl6" : 4971,
+         "c#" : 0,
+         "c++" : 2,
+         "javascript" : 135,
+         "ruby" : 841,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "perl" : 12011,
+         "nim" : 46,
+         "lua" : 406,
+         "ruby" : 2161,
+         "nqp" : 0,
+         "c++" : 17,
+         "perl6" : 11912,
+         "c#" : 0,
+         "javascript" : 294
+      },
+      "json_de" : {
+         "ruby" : 1840,
+         "perl" : 724,
+         "javascript" : 736
+      },
+      "re_bool" : {
+         "ruby" : 154,
+         "nqp" : 0,
+         "perl6" : 2219,
+         "javascript" : 34,
+         "perl" : 428,
+         "lua" : 181
+      },
+      "str_join_slow" : {
+         "perl6" : 8621,
+         "c++" : 48,
+         "c#" : 0,
+         "javascript" : 149,
+         "ruby" : 12490,
+         "nim" : 368,
+         "lua" : 7594,
+         "perl" : 1334
+      },
+      "fib_fast" : {
+         "perl6" : 2113,
+         "javascript" : 14
+      },
+      "str_join_repeat" : {
+         "ruby" : 49,
+         "perl" : 3,
+         "nim" : 49,
+         "lua" : 1,
+         "perl6" : 5
+      },
+      "re_capture" : {
+         "lua" : 229,
+         "perl" : 157,
+         "perl6" : 10830,
+         "javascript" : 74,
+         "ruby" : 489,
+         "nqp" : 0
+      },
+      "str_join" : {
+         "ruby" : 1440,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl6" : 2121,
+         "c++" : 0,
+         "javascript" : 46,
+         "perl" : 415,
+         "nim" : 50,
+         "lua" : 99
+      }
+   }
+}
