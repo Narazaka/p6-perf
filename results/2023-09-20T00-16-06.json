@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "javascript" : 83,
+         "nqp" : 10594,
+         "perl6" : 12429,
+         "ruby" : 616,
+         "perl" : 174,
+         "lua" : 253
+      },
+      "json_de" : {
+         "ruby" : 2538,
+         "perl" : 803,
+         "javascript" : 787
+      },
+      "fib" : {
+         "perl6" : 5137,
+         "javascript" : 153,
+         "nqp" : 8448,
+         "perl" : 5189,
+         "lua" : 244,
+         "c#" : 53,
+         "ruby" : 946,
+         "c++" : 2,
+         "nim" : 30
+      },
+      "fib_fast" : {
+         "perl6" : 2879,
+         "javascript" : 17
+      },
+      "takeuchi" : {
+         "lua" : 560,
+         "perl" : 13001,
+         "c#" : 276,
+         "ruby" : 2328,
+         "nim" : 69,
+         "c++" : 18,
+         "perl6" : 12635,
+         "nqp" : 19374,
+         "javascript" : 319
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 56,
+         "ruby" : 59
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nim" : 38,
+         "ruby" : 1731,
+         "c#" : 237,
+         "perl" : 433,
+         "lua" : 112,
+         "javascript" : 54,
+         "nqp" : 1035,
+         "perl6" : 2347
+      },
+      "str_join_slow" : {
+         "ruby" : 16097,
+         "nim" : 153,
+         "c++" : 57,
+         "lua" : 8335,
+         "perl" : 1459,
+         "c#" : 314,
+         "perl6" : 7008,
+         "javascript" : 181
+      },
+      "re_bool" : {
+         "perl6" : 2572,
+         "javascript" : 35,
+         "nqp" : 2685,
+         "perl" : 624,
+         "lua" : 202,
+         "ruby" : 167
+      },
+      "json_se" : {
+         "perl" : 347,
+         "javascript" : 695,
+         "ruby" : 2500
+      }
+   },
+   "version" : {
+      "perl" : "v5.38.0",
+      "lua" : "2.1.1694285958",
+      "c#" : "7.0.111",
+      "ruby" : "3.0.6p216",
+      "c++" : "16.0.6",
+      "nim" : "2.0.0",
+      "perl6" : null,
+      "javascript" : "v20.6.1",
+      "nqp" : "2023.08-2-g6669ea2ec"
+   }
+}
