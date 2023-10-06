@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "nim" : 62,
+         "nqp" : 18140,
+         "lua" : 402,
+         "perl6" : 12316,
+         "ruby" : 2150,
+         "perl" : 11982,
+         "javascript" : 294,
+         "c++" : 17,
+         "c#" : 258
+      },
+      "re_capture" : {
+         "ruby" : 486,
+         "nqp" : 8964,
+         "perl" : 157,
+         "javascript" : 73,
+         "lua" : 228,
+         "perl6" : 10627
+      },
+      "str_join" : {
+         "nim" : 38,
+         "nqp" : 867,
+         "lua" : 99,
+         "perl6" : 2136,
+         "ruby" : 1427,
+         "perl" : 412,
+         "javascript" : 46,
+         "c#" : 168,
+         "c++" : 0
+      },
+      "fib" : {
+         "nim" : 30,
+         "nqp" : 7879,
+         "perl6" : 4882,
+         "lua" : 196,
+         "javascript" : 135,
+         "perl" : 4682,
+         "ruby" : 842,
+         "c#" : 46,
+         "c++" : 2
+      },
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2046
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 52,
+         "perl" : 3,
+         "ruby" : 49
+      },
+      "json_de" : {
+         "ruby" : 1825,
+         "javascript" : 737,
+         "perl" : 713
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "perl" : 425,
+         "nqp" : 4354,
+         "ruby" : 154,
+         "perl6" : 2157,
+         "lua" : 182
+      },
+      "str_join_slow" : {
+         "perl6" : 8710,
+         "lua" : 7328,
+         "nim" : 138,
+         "c#" : 194,
+         "c++" : 48,
+         "perl" : 1350,
+         "javascript" : 148,
+         "ruby" : 11981
+      },
+      "json_se" : {
+         "perl" : 331,
+         "javascript" : 621,
+         "ruby" : 1939
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1694285958",
+      "perl6" : null,
+      "nqp" : "2023.09",
+      "nim" : "2.0.0",
+      "c#" : "7.0.111",
+      "c++" : "16.0.6",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v20.8.0",
+      "perl" : "v5.38.0"
+   }
+}
