@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 9918,
+         "perl" : 1343,
+         "ruby" : 12766,
+         "lua" : 7578,
+         "c#" : 0,
+         "javascript" : 151,
+         "c++" : 49,
+         "nim" : 139
+      },
+      "takeuchi" : {
+         "perl6" : 12360,
+         "perl" : 12068,
+         "ruby" : 2199,
+         "lua" : 426,
+         "c#" : 0,
+         "javascript" : 295,
+         "nim" : 62,
+         "nqp" : 0,
+         "c++" : 17
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "c++" : 0,
+         "c#" : 0,
+         "javascript" : 46,
+         "nim" : 38,
+         "perl6" : 2298,
+         "perl" : 416,
+         "ruby" : 1455,
+         "lua" : 101
+      },
+      "re_capture" : {
+         "javascript" : 75,
+         "nqp" : 0,
+         "lua" : 228,
+         "ruby" : 492,
+         "perl" : 158,
+         "perl6" : 11409
+      },
+      "fib" : {
+         "c++" : 2,
+         "nqp" : 0,
+         "ruby" : 853,
+         "lua" : 109,
+         "perl6" : 4939,
+         "perl" : 4747,
+         "javascript" : 137,
+         "nim" : 30,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "lua" : 182,
+         "ruby" : 155,
+         "perl" : 430,
+         "perl6" : 2317,
+         "javascript" : 35,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "ruby" : 1938,
+         "perl" : 333,
+         "javascript" : 623
+      },
+      "json_de" : {
+         "javascript" : 732,
+         "perl" : 714,
+         "ruby" : 1856
+      },
+      "str_join_repeat" : {
+         "nim" : 53,
+         "perl6" : 5,
+         "perl" : 3,
+         "ruby" : 51,
+         "lua" : 1
+      },
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2245
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.6p216",
+      "lua" : "2.1.1696795921",
+      "perl6" : null,
+      "perl" : "v5.38.0",
+      "javascript" : "v20.8.0",
+      "nim" : "2.0.0",
+      "c#" : "7.0.111",
+      "c++" : "16.0.6",
+      "nqp" : "2023.09"
+   }
+}
