@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "perl6" : 2214,
+         "javascript" : 35,
+         "perl" : 429,
+         "nqp" : 0,
+         "lua" : 182,
+         "ruby" : 155
+      },
+      "json_de" : {
+         "perl" : 718,
+         "ruby" : 1889,
+         "javascript" : 728
+      },
+      "str_join_slow" : {
+         "perl" : 1346,
+         "c++" : 48,
+         "perl6" : 8769,
+         "javascript" : 150,
+         "lua" : 7300,
+         "ruby" : 13117,
+         "nim" : 139,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "perl6" : 11046,
+         "javascript" : 74,
+         "ruby" : 490,
+         "nqp" : 0,
+         "perl" : 158,
+         "lua" : 229
+      },
+      "str_join" : {
+         "ruby" : 1457,
+         "nim" : 38,
+         "nqp" : 0,
+         "lua" : 100,
+         "javascript" : 46,
+         "c#" : 0,
+         "perl" : 418,
+         "perl6" : 2172,
+         "c++" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 14,
+         "perl6" : 2180
+      },
+      "fib" : {
+         "nim" : 30,
+         "ruby" : 845,
+         "nqp" : 0,
+         "lua" : 107,
+         "javascript" : 136,
+         "c#" : 0,
+         "perl" : 4760,
+         "perl6" : 5037,
+         "c++" : 2
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "perl6" : 12546,
+         "perl" : 12076,
+         "c#" : 0,
+         "javascript" : 295,
+         "lua" : 409,
+         "nqp" : 0,
+         "ruby" : 2196,
+         "nim" : 62
+      },
+      "json_se" : {
+         "javascript" : 635,
+         "ruby" : 1979,
+         "perl" : 334
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 52,
+         "nim" : 53
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "perl" : "v5.38.0",
+      "c#" : "7.0.112",
+      "nim" : "2.0.0",
+      "ruby" : "3.0.6p216",
+      "lua" : "2.1.1697887905",
+      "nqp" : "2023.10-3-gb0bbc4d57",
+      "javascript" : "v20.8.1"
+   }
+}
