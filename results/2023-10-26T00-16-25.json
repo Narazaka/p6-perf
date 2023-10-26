@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "javascript" : "v20.9.0",
+      "c#" : "7.0.113",
+      "c++" : "16.0.6",
+      "nqp" : "2023.10-3-gb0bbc4d57",
+      "lua" : "2.1.1697887905",
+      "nim" : "2.0.0",
+      "perl" : "v5.38.0",
+      "ruby" : "3.0.6p216"
+   },
+   "result" : {
+      "re_capture" : {
+         "javascript" : 75,
+         "perl6" : 14861,
+         "nqp" : 10567,
+         "ruby" : 557,
+         "lua" : 230,
+         "perl" : 210
+      },
+      "json_se" : {
+         "perl" : 416,
+         "ruby" : 2257,
+         "javascript" : 646
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 53,
+         "ruby" : 61,
+         "perl6" : 11
+      },
+      "takeuchi" : {
+         "perl" : 12765,
+         "nim" : 62,
+         "lua" : 468,
+         "ruby" : 2226,
+         "nqp" : 21792,
+         "c++" : 17,
+         "c#" : 281,
+         "javascript" : 296,
+         "perl6" : 14661
+      },
+      "str_join_slow" : {
+         "c#" : 243,
+         "perl6" : 11437,
+         "javascript" : 165,
+         "c++" : 49,
+         "ruby" : 15861,
+         "lua" : 7649,
+         "nim" : 148,
+         "perl" : 1548
+      },
+      "fib_fast" : {
+         "perl6" : 3156,
+         "javascript" : 14
+      },
+      "json_de" : {
+         "javascript" : 760,
+         "ruby" : 2069,
+         "perl" : 786
+      },
+      "str_join" : {
+         "nqp" : 1053,
+         "c++" : 0,
+         "javascript" : 48,
+         "perl6" : 3015,
+         "c#" : 223,
+         "ruby" : 1644,
+         "perl" : 424,
+         "lua" : 106,
+         "nim" : 38
+      },
+      "re_bool" : {
+         "nqp" : 5104,
+         "javascript" : 35,
+         "perl6" : 2922,
+         "ruby" : 184,
+         "perl" : 565,
+         "lua" : 182
+      },
+      "fib" : {
+         "nim" : 34,
+         "lua" : 170,
+         "perl" : 5473,
+         "ruby" : 958,
+         "javascript" : 142,
+         "perl6" : 5611,
+         "c#" : 48,
+         "nqp" : 8327,
+         "c++" : 3
+      }
+   }
+}
