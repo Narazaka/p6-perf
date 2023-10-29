@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v20.9.0",
+      "lua" : "2.1.1697887905",
+      "perl6" : null,
+      "nim" : "2.0.0",
+      "c++" : "16.0.6",
+      "c#" : "7.0.113",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.0",
+      "nqp" : "2023.10-3-gb0bbc4d57"
+   },
+   "result" : {
+      "str_join" : {
+         "javascript" : 54,
+         "lua" : 102,
+         "c++" : 0,
+         "perl6" : 2515,
+         "nim" : 39,
+         "c#" : 208,
+         "nqp" : 1156,
+         "ruby" : 1625,
+         "perl" : 458
+      },
+      "json_se" : {
+         "javascript" : 696,
+         "perl" : 357,
+         "ruby" : 2235
+      },
+      "re_capture" : {
+         "nqp" : 10624,
+         "perl" : 172,
+         "ruby" : 631,
+         "perl6" : 12000,
+         "lua" : 252,
+         "javascript" : 75
+      },
+      "fib" : {
+         "perl6" : 5516,
+         "nim" : 30,
+         "c++" : 2,
+         "c#" : 49,
+         "perl" : 5165,
+         "ruby" : 912,
+         "nqp" : 9624,
+         "javascript" : 137,
+         "lua" : 159
+      },
+      "json_de" : {
+         "ruby" : 2145,
+         "perl" : 751,
+         "javascript" : 825
+      },
+      "str_join_repeat" : {
+         "lua" : 2,
+         "ruby" : 59,
+         "perl" : 3,
+         "perl6" : 5,
+         "nim" : 63
+      },
+      "fib_fast" : {
+         "perl6" : 2741,
+         "javascript" : 15
+      },
+      "str_join_slow" : {
+         "javascript" : 177,
+         "lua" : 8515,
+         "c++" : 59,
+         "perl6" : 6970,
+         "nim" : 153,
+         "ruby" : 15676,
+         "perl" : 1575,
+         "c#" : 232
+      },
+      "takeuchi" : {
+         "lua" : 455,
+         "javascript" : 320,
+         "nqp" : 20108,
+         "ruby" : 2336,
+         "perl" : 13524,
+         "c#" : 271,
+         "c++" : 17,
+         "perl6" : 12853,
+         "nim" : 74
+      },
+      "re_bool" : {
+         "perl6" : 2588,
+         "ruby" : 176,
+         "perl" : 482,
+         "nqp" : 4012,
+         "javascript" : 35,
+         "lua" : 183
+      }
+   }
+}
