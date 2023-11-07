@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 3397,
+         "javascript" : 18
+      },
+      "str_join_slow" : {
+         "perl" : 1453,
+         "c#" : 242,
+         "c++" : 56,
+         "perl6" : 9909,
+         "javascript" : 170,
+         "ruby" : 16276,
+         "lua" : 8012,
+         "nim" : 142
+      },
+      "fib" : {
+         "lua" : 176,
+         "nim" : 36,
+         "ruby" : 992,
+         "javascript" : 155,
+         "nqp" : 8767,
+         "perl6" : 5551,
+         "c++" : 2,
+         "c#" : 47,
+         "perl" : 4769
+      },
+      "json_se" : {
+         "perl" : 331,
+         "ruby" : 2229,
+         "javascript" : 599
+      },
+      "re_capture" : {
+         "perl" : 182,
+         "perl6" : 14111,
+         "nqp" : 10749,
+         "lua" : 237,
+         "javascript" : 79,
+         "ruby" : 634
+      },
+      "takeuchi" : {
+         "perl6" : 13615,
+         "c#" : 336,
+         "c++" : 17,
+         "perl" : 13748,
+         "nim" : 69,
+         "lua" : 479,
+         "javascript" : 317,
+         "ruby" : 2215,
+         "nqp" : 21519
+      },
+      "json_de" : {
+         "perl" : 705,
+         "javascript" : 850,
+         "ruby" : 2089
+      },
+      "re_bool" : {
+         "perl6" : 3095,
+         "perl" : 431,
+         "ruby" : 159,
+         "javascript" : 35,
+         "lua" : 193,
+         "nqp" : 4038
+      },
+      "str_join" : {
+         "perl6" : 2720,
+         "perl" : 419,
+         "c++" : 0,
+         "c#" : 227,
+         "ruby" : 1829,
+         "javascript" : 54,
+         "lua" : 104,
+         "nim" : 38,
+         "nqp" : 1352
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 54,
+         "ruby" : 53,
+         "perl6" : 11
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c#" : "7.0.113",
+      "c++" : "16.0.6",
+      "perl" : "v5.38.0",
+      "nim" : "2.0.0",
+      "lua" : "2.1.1697887905",
+      "javascript" : "v21.1.0",
+      "ruby" : "3.0.6p216",
+      "nqp" : "2023.10-3-gb0bbc4d57"
+   }
+}
