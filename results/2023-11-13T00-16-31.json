@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl" : 420,
+         "nim" : 38,
+         "c++" : 0,
+         "lua" : 100,
+         "perl6" : 2494,
+         "javascript" : 48,
+         "c#" : 209,
+         "ruby" : 1568,
+         "nqp" : 947
+      },
+      "fib" : {
+         "nqp" : 7966,
+         "ruby" : 890,
+         "c++" : 2,
+         "lua" : 192,
+         "perl" : 4844,
+         "nim" : 30,
+         "c#" : 47,
+         "perl6" : 5040,
+         "javascript" : 142
+      },
+      "fib_fast" : {
+         "perl6" : 2391,
+         "javascript" : 17
+      },
+      "json_se" : {
+         "perl" : 339,
+         "ruby" : 2072,
+         "javascript" : 618
+      },
+      "json_de" : {
+         "javascript" : 794,
+         "perl" : 715,
+         "ruby" : 2033
+      },
+      "re_capture" : {
+         "lua" : 292,
+         "perl" : 158,
+         "perl6" : 12025,
+         "javascript" : 76,
+         "nqp" : 9887,
+         "ruby" : 522
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "ruby" : 54,
+         "lua" : 1,
+         "nim" : 54,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "perl6" : 2550,
+         "javascript" : 35,
+         "perl" : 431,
+         "lua" : 200,
+         "ruby" : 156,
+         "nqp" : 2720
+      },
+      "takeuchi" : {
+         "ruby" : 2168,
+         "nqp" : 18539,
+         "nim" : 81,
+         "perl" : 12274,
+         "c++" : 18,
+         "lua" : 409,
+         "javascript" : 316,
+         "perl6" : 12355,
+         "c#" : 282
+      },
+      "str_join_slow" : {
+         "ruby" : 15591,
+         "javascript" : 138,
+         "perl6" : 9251,
+         "c#" : 233,
+         "c++" : 49,
+         "lua" : 8180,
+         "nim" : 141,
+         "perl" : 1376
+      }
+   },
+   "version" : {
+      "nqp" : "2023.10-4-g548b0263b",
+      "ruby" : "3.0.6p216",
+      "perl6" : null,
+      "javascript" : "v21.1.0",
+      "c#" : "7.0.113",
+      "c++" : "16.0.6",
+      "lua" : "2.1.1699392533",
+      "nim" : "2.0.0",
+      "perl" : "v5.38.0"
+   }
+}
