@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 756,
+         "ruby" : 2055,
+         "perl" : 340
+      },
+      "str_join" : {
+         "perl6" : 2224,
+         "perl" : 431,
+         "ruby" : 1531,
+         "nqp" : 935,
+         "javascript" : 53,
+         "nim" : 44,
+         "lua" : 108,
+         "c#" : 218,
+         "c++" : 0
+      },
+      "re_bool" : {
+         "ruby" : 158,
+         "nqp" : 2733,
+         "javascript" : 35,
+         "perl" : 453,
+         "lua" : 184,
+         "perl6" : 2297
+      },
+      "str_join_repeat" : {
+         "ruby" : 51,
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 53,
+         "perl6" : 6
+      },
+      "re_capture" : {
+         "perl" : 168,
+         "lua" : 230,
+         "perl6" : 11370,
+         "ruby" : 515,
+         "javascript" : 80,
+         "nqp" : 9530
+      },
+      "fib" : {
+         "perl" : 4870,
+         "perl6" : 5084,
+         "nqp" : 8446,
+         "javascript" : 139,
+         "ruby" : 875,
+         "c#" : 47,
+         "nim" : 30,
+         "lua" : 207,
+         "c++" : 2
+      },
+      "fib_fast" : {
+         "perl6" : 2320,
+         "javascript" : 15
+      },
+      "str_join_slow" : {
+         "javascript" : 129,
+         "ruby" : 12910,
+         "perl6" : 7480,
+         "perl" : 1390,
+         "c++" : 49,
+         "c#" : 205,
+         "lua" : 8003,
+         "nim" : 146
+      },
+      "takeuchi" : {
+         "c++" : 19,
+         "c#" : 265,
+         "lua" : 446,
+         "nim" : 62,
+         "nqp" : 19812,
+         "javascript" : 306,
+         "ruby" : 2194,
+         "perl6" : 12128,
+         "perl" : 12536
+      },
+      "json_de" : {
+         "ruby" : 1967,
+         "javascript" : 803,
+         "perl" : 710
+      }
+   },
+   "version" : {
+      "javascript" : "v21.2.0",
+      "nqp" : "2023.11",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.0",
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "c#" : "7.0.113",
+      "nim" : "2.0.0",
+      "lua" : "2.1.1700008891"
+   }
+}
