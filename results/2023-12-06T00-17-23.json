@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.0",
+      "javascript" : "v21.4.0",
+      "perl6" : null,
+      "nqp" : "2023.11",
+      "lua" : "2.1.1700008891",
+      "ruby" : "3.0.6p216",
+      "c++" : "16.0.6",
+      "c#" : "8.0.100",
+      "perl" : "v5.38.1"
+   },
+   "result" : {
+      "str_join" : {
+         "ruby" : 1538,
+         "c++" : 0,
+         "c#" : 0,
+         "perl" : 447,
+         "nqp" : 1062,
+         "perl6" : 2207,
+         "javascript" : 50,
+         "nim" : 39,
+         "lua" : 103
+      },
+      "takeuchi" : {
+         "ruby" : 2351,
+         "c#" : 0,
+         "c++" : 17,
+         "perl" : 12608,
+         "javascript" : 298,
+         "perl6" : 11991,
+         "nqp" : 18690,
+         "nim" : 63,
+         "lua" : 411
+      },
+      "re_capture" : {
+         "ruby" : 498,
+         "perl" : 165,
+         "javascript" : 81,
+         "perl6" : 11641,
+         "nqp" : 10302,
+         "lua" : 229
+      },
+      "re_bool" : {
+         "perl" : 464,
+         "ruby" : 155,
+         "lua" : 183,
+         "perl6" : 2451,
+         "nqp" : 3760,
+         "javascript" : 38
+      },
+      "fib_fast" : {
+         "perl6" : 2482,
+         "javascript" : 19
+      },
+      "json_de" : {
+         "perl" : 863,
+         "ruby" : 2393,
+         "javascript" : 815
+      },
+      "json_se" : {
+         "javascript" : 601,
+         "ruby" : 2144,
+         "perl" : 350
+      },
+      "fib" : {
+         "ruby" : 860,
+         "perl" : 5080,
+         "c++" : 2,
+         "c#" : 0,
+         "nim" : 33,
+         "javascript" : 137,
+         "nqp" : 8473,
+         "perl6" : 5029,
+         "lua" : 138
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 5,
+         "ruby" : 54,
+         "nim" : 54
+      },
+      "str_join_slow" : {
+         "c++" : 50,
+         "c#" : 0,
+         "perl" : 1395,
+         "ruby" : 15865,
+         "lua" : 8060,
+         "perl6" : 12364,
+         "javascript" : 144,
+         "nim" : 140
+      }
+   }
+}
