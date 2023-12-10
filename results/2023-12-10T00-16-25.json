@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 2336,
+         "javascript" : 604,
+         "perl" : 364
+      },
+      "re_bool" : {
+         "perl6" : 2751,
+         "perl" : 454,
+         "ruby" : 192,
+         "javascript" : 35,
+         "lua" : 182,
+         "nqp" : 3780
+      },
+      "json_de" : {
+         "javascript" : 771,
+         "ruby" : 2010,
+         "perl" : 786
+      },
+      "str_join_slow" : {
+         "javascript" : 130,
+         "c#" : 0,
+         "c++" : 52,
+         "lua" : 7894,
+         "ruby" : 15831,
+         "nim" : 147,
+         "perl6" : 12833,
+         "perl" : 1425
+      },
+      "re_capture" : {
+         "perl6" : 12164,
+         "perl" : 170,
+         "ruby" : 559,
+         "javascript" : 79,
+         "nqp" : 10137,
+         "lua" : 235
+      },
+      "fib" : {
+         "ruby" : 944,
+         "lua" : 194,
+         "c++" : 2,
+         "perl" : 5260,
+         "perl6" : 5311,
+         "nim" : 43,
+         "nqp" : 8843,
+         "javascript" : 145,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "nim" : 70,
+         "perl6" : 13049,
+         "perl" : 13414,
+         "c#" : 0,
+         "javascript" : 313,
+         "nqp" : 19542,
+         "lua" : 432,
+         "c++" : 17,
+         "ruby" : 2426
+      },
+      "str_join" : {
+         "lua" : 105,
+         "c++" : 0,
+         "ruby" : 1592,
+         "nim" : 40,
+         "perl6" : 2364,
+         "perl" : 465,
+         "javascript" : 51,
+         "c#" : 0,
+         "nqp" : 952
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 53,
+         "nim" : 54,
+         "perl6" : 7,
+         "perl" : 5
+      },
+      "fib_fast" : {
+         "javascript" : 16,
+         "perl6" : 2746
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.6p216",
+      "c++" : "16.0.6",
+      "lua" : "2.1.1700008891",
+      "perl6" : null,
+      "perl" : "v5.38.1",
+      "nim" : "2.0.0",
+      "c#" : "8.0.100",
+      "javascript" : "v21.4.0",
+      "nqp" : "2023.11"
+   }
+}
