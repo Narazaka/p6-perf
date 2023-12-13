@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 2927,
+         "javascript" : 16
+      },
+      "str_join_slow" : {
+         "ruby" : 15655,
+         "c#" : 0,
+         "c++" : 51,
+         "perl6" : 10474,
+         "lua" : 7987,
+         "nim" : 144,
+         "javascript" : 144,
+         "perl" : 1340
+      },
+      "fib" : {
+         "c#" : 0,
+         "ruby" : 885,
+         "perl" : 4894,
+         "javascript" : 145,
+         "nqp" : 8208,
+         "nim" : 38,
+         "c++" : 2,
+         "perl6" : 4924,
+         "lua" : 158
+      },
+      "json_se" : {
+         "javascript" : 618,
+         "perl" : 338,
+         "ruby" : 2090
+      },
+      "re_bool" : {
+         "ruby" : 168,
+         "javascript" : 44,
+         "perl" : 431,
+         "nqp" : 2838,
+         "lua" : 204,
+         "perl6" : 2707
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl6" : 2471,
+         "lua" : 104,
+         "nim" : 42,
+         "nqp" : 1011,
+         "javascript" : 50,
+         "perl" : 434,
+         "ruby" : 1527,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 59,
+         "ruby" : 62
+      },
+      "takeuchi" : {
+         "ruby" : 2304,
+         "c#" : 0,
+         "nim" : 75,
+         "c++" : 17,
+         "perl6" : 12148,
+         "lua" : 436,
+         "nqp" : 18988,
+         "perl" : 12496,
+         "javascript" : 320
+      },
+      "json_de" : {
+         "perl" : 751,
+         "javascript" : 822,
+         "ruby" : 2242
+      },
+      "re_capture" : {
+         "lua" : 236,
+         "perl6" : 12911,
+         "javascript" : 80,
+         "perl" : 163,
+         "nqp" : 10204,
+         "ruby" : 511
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "lua" : "2.1.1702233742",
+      "nim" : "2.0.0",
+      "nqp" : "2023.11",
+      "javascript" : "v21.4.0",
+      "perl" : "v5.38.1",
+      "ruby" : "3.0.6p216",
+      "c#" : "8.0.100"
+   }
+}
