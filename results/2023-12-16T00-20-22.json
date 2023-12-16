@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 613,
+         "ruby" : 2005,
+         "perl" : 336
+      },
+      "str_join_slow" : {
+         "c++" : 49,
+         "c#" : 0,
+         "lua" : 7507,
+         "perl" : 1291,
+         "perl6" : 12038,
+         "nim" : 141,
+         "ruby" : 14567,
+         "javascript" : 127
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "nqp" : 0,
+         "lua" : 407,
+         "c#" : 0,
+         "nim" : 77,
+         "perl6" : 12385,
+         "perl" : 12613,
+         "ruby" : 2196,
+         "javascript" : 297
+      },
+      "str_join" : {
+         "lua" : 102,
+         "c#" : 0,
+         "nqp" : 0,
+         "c++" : 0,
+         "javascript" : 47,
+         "ruby" : 1499,
+         "nim" : 38,
+         "perl6" : 2266,
+         "perl" : 431
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 5,
+         "nim" : 63,
+         "lua" : 1,
+         "ruby" : 50
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2727
+      },
+      "fib" : {
+         "lua" : 108,
+         "c#" : 0,
+         "c++" : 2,
+         "nqp" : 0,
+         "ruby" : 859,
+         "javascript" : 175,
+         "perl" : 4794,
+         "perl6" : 5294,
+         "nim" : 32
+      },
+      "re_bool" : {
+         "perl" : 423,
+         "perl6" : 2484,
+         "ruby" : 156,
+         "javascript" : 35,
+         "nqp" : 0,
+         "lua" : 182
+      },
+      "json_de" : {
+         "javascript" : 762,
+         "ruby" : 1886,
+         "perl" : 717
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "lua" : 234,
+         "perl6" : 11837,
+         "perl" : 162,
+         "ruby" : 531,
+         "javascript" : 76
+      }
+   },
+   "version" : {
+      "nim" : "2.0.0",
+      "perl" : "v5.38.1",
+      "perl6" : null,
+      "ruby" : "3.0.6p216",
+      "javascript" : "v21.4.0",
+      "c++" : "16.0.6",
+      "nqp" : "2023.11",
+      "lua" : "2.1.1702233742",
+      "c#" : "8.0.100"
+   }
+}
