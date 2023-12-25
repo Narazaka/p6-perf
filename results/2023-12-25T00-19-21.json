@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "nim" : 133,
+         "c#" : 0,
+         "perl" : 1279,
+         "lua" : 7718,
+         "javascript" : 124,
+         "c++" : 49,
+         "perl6" : 13348,
+         "ruby" : 12755
+      },
+      "takeuchi" : {
+         "perl6" : 12068,
+         "c++" : 17,
+         "nqp" : 0,
+         "c#" : 0,
+         "nim" : 96,
+         "javascript" : 295,
+         "ruby" : 2164,
+         "perl" : 12206,
+         "lua" : 425
+      },
+      "fib_fast" : {
+         "perl6" : 2127,
+         "javascript" : 15
+      },
+      "str_join" : {
+         "ruby" : 1443,
+         "perl" : 428,
+         "lua" : 100,
+         "c++" : 0,
+         "perl6" : 2103,
+         "nqp" : 0,
+         "c#" : 0,
+         "nim" : 41,
+         "javascript" : 46
+      },
+      "json_se" : {
+         "ruby" : 2281,
+         "perl" : 332,
+         "javascript" : 574
+      },
+      "json_de" : {
+         "ruby" : 1654,
+         "javascript" : 701,
+         "perl" : 710
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 6,
+         "ruby" : 50
+      },
+      "re_capture" : {
+         "perl" : 162,
+         "lua" : 229,
+         "javascript" : 73,
+         "perl6" : 10654,
+         "ruby" : 514,
+         "nqp" : 0
+      },
+      "fib" : {
+         "c#" : 0,
+         "nim" : 32,
+         "javascript" : 136,
+         "c++" : 3,
+         "perl6" : 4938,
+         "nqp" : 0,
+         "perl" : 4767,
+         "lua" : 201,
+         "ruby" : 857
+      },
+      "re_bool" : {
+         "perl6" : 2268,
+         "nqp" : 0,
+         "ruby" : 170,
+         "perl" : 422,
+         "javascript" : 34,
+         "lua" : 180
+      }
+   },
+   "version" : {
+      "javascript" : "v21.4.0",
+      "c#" : "8.0.100",
+      "nim" : "2.0.2",
+      "nqp" : "2023.12",
+      "c++" : "16.0.6",
+      "perl6" : null,
+      "lua" : "2.1.1702233742",
+      "perl" : "v5.38.1",
+      "ruby" : "3.0.6p216"
+   }
+}
