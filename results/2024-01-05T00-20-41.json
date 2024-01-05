@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.2",
+      "ruby" : "3.0.6p216",
+      "c#" : "8.0.100",
+      "perl6" : null,
+      "javascript" : "v21.5.0",
+      "c++" : "16.0.6",
+      "lua" : "2.1.1702233742",
+      "nqp" : "2023.12",
+      "perl" : "v5.38.1"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 3230
+      },
+      "str_join" : {
+         "c++" : 0,
+         "lua" : 123,
+         "nim" : 41,
+         "javascript" : 52,
+         "ruby" : 1538,
+         "perl" : 457,
+         "perl6" : 2469,
+         "c#" : 0,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl6" : 2770,
+         "perl" : 472,
+         "ruby" : 166,
+         "javascript" : 39,
+         "lua" : 207
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 56,
+         "nim" : 58,
+         "perl6" : 6,
+         "perl" : 6
+      },
+      "str_join_slow" : {
+         "nim" : 142,
+         "javascript" : 169,
+         "ruby" : 15589,
+         "c++" : 53,
+         "lua" : 8494,
+         "c#" : 0,
+         "perl" : 1367,
+         "perl6" : 12951
+      },
+      "fib" : {
+         "ruby" : 900,
+         "javascript" : 153,
+         "nim" : 32,
+         "lua" : 125,
+         "c++" : 2,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl6" : 5354,
+         "perl" : 4962
+      },
+      "json_de" : {
+         "javascript" : 789,
+         "ruby" : 1829,
+         "perl" : 758
+      },
+      "takeuchi" : {
+         "nim" : 104,
+         "javascript" : 319,
+         "ruby" : 2290,
+         "c++" : 18,
+         "lua" : 487,
+         "c#" : 0,
+         "nqp" : 0,
+         "perl" : 13310,
+         "perl6" : 13161
+      },
+      "re_capture" : {
+         "javascript" : 81,
+         "ruby" : 526,
+         "lua" : 246,
+         "nqp" : 0,
+         "perl" : 168,
+         "perl6" : 12660
+      },
+      "json_se" : {
+         "ruby" : 2798,
+         "javascript" : 637,
+         "perl" : 404
+      }
+   }
+}
