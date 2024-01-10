@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 56,
+         "nim" : 51,
+         "perl6" : 9,
+         "perl" : 3
+      },
+      "fib" : {
+         "nqp" : 9399,
+         "lua" : 206,
+         "javascript" : 142,
+         "perl" : 4719,
+         "c#" : 0,
+         "c++" : 2,
+         "perl6" : 5181,
+         "nim" : 32,
+         "ruby" : 865
+      },
+      "json_se" : {
+         "ruby" : 2437,
+         "perl" : 332,
+         "javascript" : 620
+      },
+      "json_de" : {
+         "perl" : 712,
+         "javascript" : 773,
+         "ruby" : 1692
+      },
+      "fib_fast" : {
+         "perl6" : 2785,
+         "javascript" : 15
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "perl6" : 13162,
+         "nim" : 97,
+         "ruby" : 2191,
+         "javascript" : 300,
+         "perl" : 12996,
+         "c#" : 0,
+         "lua" : 445,
+         "nqp" : 19927
+      },
+      "str_join" : {
+         "nim" : 42,
+         "ruby" : 1510,
+         "c++" : 0,
+         "perl6" : 2747,
+         "perl" : 434,
+         "c#" : 0,
+         "javascript" : 49,
+         "lua" : 103,
+         "nqp" : 1099
+      },
+      "str_join_slow" : {
+         "lua" : 8191,
+         "javascript" : 142,
+         "perl" : 1318,
+         "c#" : 0,
+         "c++" : 49,
+         "perl6" : 14627,
+         "nim" : 134,
+         "ruby" : 15149
+      },
+      "re_capture" : {
+         "perl" : 164,
+         "nqp" : 10032,
+         "javascript" : 79,
+         "ruby" : 511,
+         "lua" : 241,
+         "perl6" : 12656
+      },
+      "re_bool" : {
+         "perl6" : 2678,
+         "lua" : 194,
+         "ruby" : 156,
+         "javascript" : 37,
+         "nqp" : 5094,
+         "perl" : 452
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1702233742",
+      "nqp" : "2023.12-1-ge2d9c877f",
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "ruby" : "3.0.6p216",
+      "nim" : "2.0.2",
+      "javascript" : "v21.5.0",
+      "c#" : "8.0.100",
+      "perl" : "v5.38.1"
+   }
+}
