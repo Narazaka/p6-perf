@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 722,
+         "perl" : 702,
+         "ruby" : 1688
+      },
+      "takeuchi" : {
+         "ruby" : 2222,
+         "nim" : 96,
+         "c#" : 0,
+         "perl" : 12256,
+         "nqp" : 0,
+         "lua" : 423,
+         "c++" : 17,
+         "javascript" : 304,
+         "perl6" : 12245
+      },
+      "str_join" : {
+         "perl6" : 2113,
+         "javascript" : 46,
+         "c++" : 0,
+         "c#" : 0,
+         "perl" : 429,
+         "nim" : 40,
+         "ruby" : 1465,
+         "lua" : 100,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "lua" : 7689,
+         "c#" : 0,
+         "perl" : 1284,
+         "ruby" : 13049,
+         "nim" : 134,
+         "javascript" : 126,
+         "perl6" : 12843,
+         "c++" : 49
+      },
+      "json_se" : {
+         "perl" : 333,
+         "ruby" : 2295,
+         "javascript" : 596
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2473
+      },
+      "re_capture" : {
+         "ruby" : 535,
+         "perl" : 162,
+         "lua" : 229,
+         "nqp" : 0,
+         "perl6" : 11453,
+         "javascript" : 73
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 52,
+         "nim" : 51
+      },
+      "re_bool" : {
+         "perl6" : 2269,
+         "javascript" : 35,
+         "lua" : 181,
+         "nqp" : 0,
+         "perl" : 423,
+         "ruby" : 156
+      },
+      "fib" : {
+         "c++" : 2,
+         "perl6" : 4977,
+         "javascript" : 137,
+         "lua" : 154,
+         "nqp" : 0,
+         "nim" : 32,
+         "ruby" : 920,
+         "c#" : 0,
+         "perl" : 4707
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.6p216",
+      "nim" : "2.0.2",
+      "perl" : "v5.38.1",
+      "c#" : "8.0.100",
+      "nqp" : "2023.12-5-g2cc7e329f",
+      "lua" : "2.1.1702233742",
+      "c++" : "16.0.6",
+      "javascript" : "v21.5.0",
+      "perl6" : null
+   }
+}
