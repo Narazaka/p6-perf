@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "javascript" : 35,
+         "lua" : 183,
+         "perl6" : 2401,
+         "ruby" : 156,
+         "nqp" : 4803,
+         "perl" : 466
+      },
+      "re_capture" : {
+         "ruby" : 495,
+         "perl6" : 11654,
+         "lua" : 233,
+         "javascript" : 74,
+         "nqp" : 9796,
+         "perl" : 189
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 503,
+         "nim" : 40,
+         "nqp" : 1047,
+         "javascript" : 47,
+         "lua" : 100,
+         "ruby" : 1463,
+         "perl6" : 2238,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "perl" : 1519,
+         "nim" : 135,
+         "c++" : 56,
+         "perl6" : 11884,
+         "ruby" : 13076,
+         "c#" : 0,
+         "javascript" : 127,
+         "lua" : 7753
+      },
+      "json_de" : {
+         "javascript" : 728,
+         "ruby" : 2215,
+         "perl" : 711
+      },
+      "fib_fast" : {
+         "javascript" : 15,
+         "perl6" : 2781
+      },
+      "json_se" : {
+         "javascript" : 599,
+         "ruby" : 2603,
+         "perl" : 335
+      },
+      "fib" : {
+         "nim" : 32,
+         "nqp" : 8492,
+         "perl" : 4868,
+         "c++" : 2,
+         "c#" : 0,
+         "perl6" : 5374,
+         "ruby" : 1048,
+         "javascript" : 164,
+         "lua" : 169
+      },
+      "takeuchi" : {
+         "nqp" : 18753,
+         "nim" : 108,
+         "perl" : 13212,
+         "c++" : 17,
+         "c#" : 0,
+         "perl6" : 12530,
+         "ruby" : 2181,
+         "lua" : 468,
+         "javascript" : 295
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "ruby" : 59,
+         "perl" : 3,
+         "nim" : 53,
+         "lua" : 1
+      }
+   },
+   "version" : {
+      "javascript" : "v21.5.0",
+      "lua" : "2.1.1702233742",
+      "perl6" : null,
+      "ruby" : "3.0.6p216",
+      "c#" : "8.0.100",
+      "c++" : "16.0.6",
+      "perl" : "v5.38.1",
+      "nim" : "2.0.2",
+      "nqp" : "2023.12-5-g2cc7e329f"
+   }
+}
