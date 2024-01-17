@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "perl" : 721,
+         "ruby" : 1786,
+         "javascript" : 736
+      },
+      "re_capture" : {
+         "ruby" : 517,
+         "lua" : 233,
+         "javascript" : 76,
+         "perl" : 164,
+         "nqp" : 0,
+         "perl6" : 12319
+      },
+      "fib" : {
+         "nqp" : 0,
+         "perl6" : 5340,
+         "nim" : 32,
+         "perl" : 4918,
+         "ruby" : 871,
+         "c++" : 3,
+         "lua" : 156,
+         "javascript" : 137,
+         "c#" : 0
+      },
+      "json_se" : {
+         "perl" : 333,
+         "ruby" : 2495,
+         "javascript" : 613
+      },
+      "str_join_slow" : {
+         "lua" : 8073,
+         "javascript" : 145,
+         "c++" : 56,
+         "ruby" : 15881,
+         "perl" : 1337,
+         "nim" : 133,
+         "c#" : 0,
+         "perl6" : 13806
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "perl" : 3,
+         "ruby" : 56,
+         "perl6" : 5,
+         "lua" : 1
+      },
+      "re_bool" : {
+         "perl" : 425,
+         "ruby" : 156,
+         "javascript" : 35,
+         "lua" : 181,
+         "nqp" : 0,
+         "perl6" : 2481
+      },
+      "str_join" : {
+         "nim" : 40,
+         "perl" : 431,
+         "ruby" : 1573,
+         "c++" : 0,
+         "javascript" : 57,
+         "lua" : 103,
+         "c#" : 0,
+         "perl6" : 2310,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "ruby" : 2202,
+         "c++" : 17,
+         "lua" : 427,
+         "javascript" : 297,
+         "nim" : 97,
+         "perl" : 12328,
+         "c#" : 0,
+         "perl6" : 12827,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 3098,
+         "javascript" : 15
+      }
+   },
+   "version" : {
+      "nqp" : "2023.12-5-g2cc7e329f",
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v21.6.0",
+      "lua" : "2.1.1702233742",
+      "nim" : "2.0.2",
+      "perl" : "v5.38.1",
+      "c#" : "8.0.100"
+   }
+}
