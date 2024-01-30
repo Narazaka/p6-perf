@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl" : 1357,
+         "ruby" : 17353,
+         "c++" : 49,
+         "nim" : 155,
+         "c#" : 0,
+         "javascript" : 136,
+         "lua" : 7617,
+         "perl6" : 10940
+      },
+      "str_join" : {
+         "nim" : 40,
+         "c#" : 0,
+         "c++" : 0,
+         "perl" : 432,
+         "ruby" : 1482,
+         "perl6" : 2670,
+         "lua" : 100,
+         "javascript" : 54,
+         "nqp" : 1001
+      },
+      "json_de" : {
+         "javascript" : 759,
+         "perl" : 711,
+         "ruby" : 2054
+      },
+      "takeuchi" : {
+         "nqp" : 18798,
+         "javascript" : 297,
+         "lua" : 426,
+         "perl6" : 12927,
+         "perl" : 12397,
+         "ruby" : 2214,
+         "c++" : 17,
+         "nim" : 101,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "perl6" : 2798,
+         "javascript" : 34,
+         "lua" : 182,
+         "perl" : 426,
+         "ruby" : 156,
+         "nqp" : 4767
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 2894
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 6,
+         "nim" : 51,
+         "ruby" : 71,
+         "perl" : 3
+      },
+      "json_se" : {
+         "javascript" : 589,
+         "perl" : 335,
+         "ruby" : 2521
+      },
+      "re_capture" : {
+         "perl6" : 12668,
+         "javascript" : 80,
+         "lua" : 230,
+         "perl" : 171,
+         "nqp" : 10088,
+         "ruby" : 496
+      },
+      "fib" : {
+         "perl" : 4809,
+         "ruby" : 855,
+         "c++" : 2,
+         "nim" : 32,
+         "c#" : 0,
+         "nqp" : 8089,
+         "javascript" : 137,
+         "lua" : 153,
+         "perl6" : 5131
+      }
+   },
+   "version" : {
+      "c#" : "8.0.101",
+      "nim" : "2.0.2",
+      "c++" : "16.0.6",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.1",
+      "perl6" : null,
+      "lua" : "2.1.1702233742",
+      "javascript" : "v21.6.1",
+      "nqp" : "2024.01"
+   }
+}
