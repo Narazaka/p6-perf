@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "ruby" : 1449,
+         "c++" : 0,
+         "c#" : 0,
+         "perl6" : 2108,
+         "perl" : 429,
+         "nim" : 40,
+         "lua" : 100,
+         "nqp" : 0,
+         "javascript" : 52
+      },
+      "json_de" : {
+         "ruby" : 1676,
+         "javascript" : 743,
+         "perl" : 725
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 14,
+         "ruby" : 54
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 2138
+      },
+      "takeuchi" : {
+         "ruby" : 2166,
+         "c++" : 17,
+         "perl" : 12291,
+         "perl6" : 11946,
+         "c#" : 0,
+         "lua" : 426,
+         "nim" : 96,
+         "nqp" : 0,
+         "javascript" : 294
+      },
+      "str_join_slow" : {
+         "perl6" : 11959,
+         "perl" : 1277,
+         "c#" : 0,
+         "lua" : 7523,
+         "nim" : 132,
+         "javascript" : 129,
+         "ruby" : 12653,
+         "c++" : 48
+      },
+      "re_bool" : {
+         "perl" : 421,
+         "perl6" : 2154,
+         "lua" : 180,
+         "javascript" : 35,
+         "nqp" : 0,
+         "ruby" : 155
+      },
+      "re_capture" : {
+         "lua" : 228,
+         "perl6" : 10494,
+         "perl" : 162,
+         "javascript" : 79,
+         "nqp" : 0,
+         "ruby" : 494
+      },
+      "json_se" : {
+         "javascript" : 581,
+         "ruby" : 2284,
+         "perl" : 334
+      },
+      "fib" : {
+         "ruby" : 840,
+         "c++" : 2,
+         "perl" : 4750,
+         "perl6" : 5058,
+         "c#" : 0,
+         "lua" : 208,
+         "nim" : 32,
+         "nqp" : 0,
+         "javascript" : 136
+      }
+   },
+   "version" : {
+      "nqp" : "2024.01-13-g16f5c6bc3",
+      "javascript" : "v21.6.1",
+      "c#" : "8.0.101",
+      "perl" : "v5.38.1",
+      "perl6" : null,
+      "nim" : "2.0.2",
+      "lua" : "2.1.1702233742",
+      "ruby" : "3.0.6p216",
+      "c++" : "16.0.6"
+   }
+}
