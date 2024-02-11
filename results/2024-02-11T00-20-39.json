@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.2",
+      "perl" : "v5.38.1",
+      "c#" : "8.0.101",
+      "nqp" : "2024.01-16-gad8bf79cf",
+      "c++" : "16.0.6",
+      "javascript" : "v21.6.1",
+      "ruby" : "3.0.6p216",
+      "perl6" : null,
+      "lua" : "2.1.1702233742"
+   },
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 2539,
+         "javascript" : 19
+      },
+      "fib" : {
+         "javascript" : 145,
+         "c++" : 2,
+         "nqp" : 0,
+         "c#" : 0,
+         "nim" : 40,
+         "perl" : 4997,
+         "lua" : 205,
+         "perl6" : 5704,
+         "ruby" : 852
+      },
+      "json_se" : {
+         "javascript" : 599,
+         "perl" : 341,
+         "ruby" : 2605
+      },
+      "str_join" : {
+         "lua" : 105,
+         "perl6" : 2499,
+         "ruby" : 1525,
+         "javascript" : 53,
+         "c++" : 0,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl" : 431,
+         "nim" : 49
+      },
+      "re_capture" : {
+         "ruby" : 521,
+         "perl" : 162,
+         "perl6" : 12408,
+         "lua" : 237,
+         "nqp" : 0,
+         "javascript" : 80
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nim" : 96,
+         "perl" : 12605,
+         "javascript" : 295,
+         "c++" : 17,
+         "nqp" : 0,
+         "lua" : 423,
+         "perl6" : 13401,
+         "ruby" : 2194
+      },
+      "json_de" : {
+         "perl" : 739,
+         "ruby" : 1795,
+         "javascript" : 768
+      },
+      "str_join_repeat" : {
+         "ruby" : 53,
+         "perl" : 3,
+         "nim" : 59,
+         "perl6" : 16,
+         "lua" : 1
+      },
+      "str_join_slow" : {
+         "javascript" : 135,
+         "c++" : 49,
+         "c#" : 0,
+         "nim" : 133,
+         "perl" : 1287,
+         "lua" : 8437,
+         "perl6" : 14823,
+         "ruby" : 14662
+      },
+      "re_bool" : {
+         "lua" : 262,
+         "perl6" : 2608,
+         "ruby" : 172,
+         "perl" : 429,
+         "javascript" : 35,
+         "nqp" : 0
+      }
+   }
+}
