@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "javascript" : 53,
+         "c#" : 0,
+         "nim" : 40,
+         "perl" : 427,
+         "ruby" : 1441,
+         "c++" : 0,
+         "nqp" : 0,
+         "lua" : 100,
+         "perl6" : 2153
+      },
+      "takeuchi" : {
+         "lua" : 423,
+         "c++" : 17,
+         "nqp" : 0,
+         "perl6" : 12054,
+         "c#" : 0,
+         "javascript" : 295,
+         "ruby" : 2161,
+         "nim" : 96,
+         "perl" : 12228
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "javascript" : 131,
+         "ruby" : 13627,
+         "nim" : 133,
+         "perl" : 1268,
+         "lua" : 8042,
+         "c++" : 48,
+         "perl6" : 9966
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "lua" : 230,
+         "perl6" : 10561,
+         "javascript" : 79,
+         "perl" : 162,
+         "ruby" : 494
+      },
+      "json_de" : {
+         "javascript" : 788,
+         "perl" : 705,
+         "ruby" : 1664
+      },
+      "json_se" : {
+         "ruby" : 2304,
+         "perl" : 329,
+         "javascript" : 594
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 2173
+      },
+      "fib" : {
+         "nqp" : 0,
+         "c++" : 2,
+         "lua" : 197,
+         "perl6" : 5228,
+         "javascript" : 147,
+         "c#" : 0,
+         "nim" : 32,
+         "perl" : 4770,
+         "ruby" : 840
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "perl" : 3,
+         "nim" : 51,
+         "ruby" : 52,
+         "lua" : 1
+      },
+      "re_bool" : {
+         "perl6" : 2158,
+         "lua" : 181,
+         "nqp" : 0,
+         "ruby" : 155,
+         "perl" : 418,
+         "javascript" : 35
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "nqp" : "2024.01-24-g57311710f",
+      "lua" : "2.1.1702233742",
+      "perl" : "v5.38.2",
+      "nim" : "2.0.2",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v21.6.1",
+      "c#" : "8.0.101"
+   }
+}
