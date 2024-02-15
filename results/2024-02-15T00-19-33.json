@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.0.6p216",
+      "c#" : "8.0.101",
+      "nim" : "2.0.2",
+      "javascript" : "v21.6.1",
+      "perl" : "v5.38.2",
+      "perl6" : null,
+      "lua" : "2.1.1702233742",
+      "c++" : "16.0.6",
+      "nqp" : "2024.01-24-g57311710f"
+   },
+   "result" : {
+      "str_join" : {
+         "nqp" : 0,
+         "nim" : 40,
+         "javascript" : 52,
+         "perl" : 430,
+         "perl6" : 2300,
+         "ruby" : 1457,
+         "c#" : 0,
+         "c++" : 0,
+         "lua" : 101
+      },
+      "re_capture" : {
+         "lua" : 230,
+         "javascript" : 79,
+         "perl6" : 11640,
+         "perl" : 162,
+         "ruby" : 499,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "ruby" : 156,
+         "perl6" : 2423,
+         "perl" : 422,
+         "javascript" : 35,
+         "lua" : 182,
+         "nqp" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 53,
+         "perl" : 3,
+         "perl6" : 7,
+         "nim" : 51
+      },
+      "takeuchi" : {
+         "perl" : 12342,
+         "perl6" : 12383,
+         "nim" : 96,
+         "javascript" : 295,
+         "c#" : 0,
+         "ruby" : 2201,
+         "lua" : 426,
+         "c++" : 17,
+         "nqp" : 0
+      },
+      "fib" : {
+         "c++" : 2,
+         "lua" : 192,
+         "perl" : 4725,
+         "perl6" : 5226,
+         "javascript" : 136,
+         "nim" : 32,
+         "c#" : 0,
+         "ruby" : 882,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 2313
+      },
+      "json_de" : {
+         "ruby" : 1695,
+         "javascript" : 754,
+         "perl" : 709
+      },
+      "json_se" : {
+         "ruby" : 2291,
+         "javascript" : 581,
+         "perl" : 334
+      },
+      "str_join_slow" : {
+         "c++" : 48,
+         "lua" : 7722,
+         "javascript" : 129,
+         "nim" : 132,
+         "perl" : 1285,
+         "perl6" : 10374,
+         "ruby" : 13816,
+         "c#" : 0
+      }
+   }
+}
