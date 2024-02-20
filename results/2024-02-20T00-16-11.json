@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "lua" : 230,
+         "perl6" : 12978,
+         "javascript" : 80,
+         "nqp" : 8639,
+         "ruby" : 496,
+         "perl" : 162
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "perl6" : 6,
+         "lua" : 1,
+         "ruby" : 55,
+         "perl" : 5
+      },
+      "re_bool" : {
+         "ruby" : 156,
+         "perl" : 497,
+         "perl6" : 2581,
+         "lua" : 185,
+         "nqp" : 2583,
+         "javascript" : 35
+      },
+      "fib" : {
+         "nqp" : 8141,
+         "perl6" : 5057,
+         "lua" : 180,
+         "ruby" : 848,
+         "perl" : 4792,
+         "c#" : 0,
+         "javascript" : 141,
+         "nim" : 32,
+         "c++" : 2
+      },
+      "str_join" : {
+         "nqp" : 926,
+         "perl6" : 2230,
+         "lua" : 101,
+         "javascript" : 54,
+         "nim" : 41,
+         "c++" : 0,
+         "ruby" : 1473,
+         "perl" : 437,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "perl6" : 11953,
+         "lua" : 443,
+         "nqp" : 18836,
+         "ruby" : 2171,
+         "perl" : 12492,
+         "c#" : 0,
+         "c++" : 17,
+         "javascript" : 307,
+         "nim" : 111
+      },
+      "json_de" : {
+         "javascript" : 758,
+         "perl" : 725,
+         "ruby" : 2124
+      },
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 3173
+      },
+      "json_se" : {
+         "javascript" : 590,
+         "perl" : 334,
+         "ruby" : 2335
+      },
+      "str_join_slow" : {
+         "ruby" : 15151,
+         "perl" : 1282,
+         "c#" : 0,
+         "javascript" : 152,
+         "nim" : 132,
+         "c++" : 56,
+         "perl6" : 10537,
+         "lua" : 7885
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1702233742",
+      "perl6" : null,
+      "nqp" : "2024.01-66-g0b7771911",
+      "c#" : "8.0.101",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.2",
+      "c++" : "16.0.6",
+      "nim" : "2.0.2",
+      "javascript" : "v21.6.2"
+   }
+}
