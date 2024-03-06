@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 8268,
+         "javascript" : 79,
+         "perl6" : 11007,
+         "ruby" : 499,
+         "lua" : 230,
+         "perl" : 161
+      },
+      "str_join_slow" : {
+         "perl6" : 12554,
+         "c++" : 49,
+         "ruby" : 11972,
+         "perl" : 1273,
+         "lua" : 7450,
+         "nim" : 133,
+         "c#" : 0,
+         "javascript" : 130
+      },
+      "fib" : {
+         "nim" : 32,
+         "lua" : 180,
+         "perl" : 4812,
+         "ruby" : 851,
+         "perl6" : 5012,
+         "c++" : 2,
+         "c#" : 0,
+         "javascript" : 137,
+         "nqp" : 7831
+      },
+      "str_join" : {
+         "nim" : 40,
+         "perl" : 431,
+         "lua" : 100,
+         "ruby" : 1441,
+         "perl6" : 2154,
+         "c++" : 0,
+         "c#" : 0,
+         "javascript" : 52,
+         "nqp" : 911
+      },
+      "json_de" : {
+         "ruby" : 1674,
+         "javascript" : 763,
+         "perl" : 707
+      },
+      "takeuchi" : {
+         "nqp" : 18564,
+         "c#" : 0,
+         "javascript" : 295,
+         "perl6" : 11870,
+         "c++" : 17,
+         "ruby" : 2175,
+         "nim" : 96,
+         "lua" : 426,
+         "perl" : 12288
+      },
+      "json_se" : {
+         "javascript" : 582,
+         "perl" : 332,
+         "ruby" : 2252
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 2386
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 5,
+         "ruby" : 55
+      },
+      "re_bool" : {
+         "perl" : 422,
+         "lua" : 181,
+         "ruby" : 156,
+         "perl6" : 2284,
+         "javascript" : 35,
+         "nqp" : 2596
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1702233742",
+      "perl" : "v5.38.2",
+      "nim" : "2.0.2",
+      "perl6" : null,
+      "c++" : "16.0.6",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v21.6.2",
+      "c#" : "8.0.102",
+      "nqp" : "2024.02-1-g4262be61e"
+   }
+}
