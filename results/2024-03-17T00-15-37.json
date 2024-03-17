@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "ruby" : 1821,
+         "perl" : 719,
+         "javascript" : 754
+      },
+      "re_capture" : {
+         "perl" : 172,
+         "lua" : 244,
+         "javascript" : 97,
+         "nqp" : 8175,
+         "perl6" : 11224,
+         "ruby" : 522
+      },
+      "str_join" : {
+         "lua" : 101,
+         "perl" : 474,
+         "nqp" : 890,
+         "c#" : 0,
+         "nim" : 40,
+         "javascript" : 53,
+         "c++" : 0,
+         "ruby" : 1504,
+         "perl6" : 2301
+      },
+      "re_bool" : {
+         "ruby" : 168,
+         "perl6" : 2340,
+         "perl" : 433,
+         "lua" : 190,
+         "javascript" : 39,
+         "nqp" : 2684
+      },
+      "fib" : {
+         "lua" : 113,
+         "perl" : 4765,
+         "nqp" : 7975,
+         "nim" : 32,
+         "c#" : 0,
+         "javascript" : 143,
+         "perl6" : 4870,
+         "ruby" : 1003,
+         "c++" : 2
+      },
+      "str_join_slow" : {
+         "javascript" : 146,
+         "perl6" : 10211,
+         "c++" : 49,
+         "ruby" : 14155,
+         "perl" : 1449,
+         "lua" : 8323,
+         "nim" : 172,
+         "c#" : 0
+      },
+      "json_se" : {
+         "perl" : 334,
+         "javascript" : 595,
+         "ruby" : 2437
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 52,
+         "perl6" : 5,
+         "ruby" : 53
+      },
+      "fib_fast" : {
+         "perl6" : 2258,
+         "javascript" : 18
+      },
+      "takeuchi" : {
+         "perl" : 12721,
+         "lua" : 427,
+         "nqp" : 18027,
+         "nim" : 97,
+         "c#" : 0,
+         "javascript" : 323,
+         "perl6" : 11925,
+         "ruby" : 2211,
+         "c++" : 17
+      }
+   },
+   "version" : {
+      "javascript" : "v21.7.0",
+      "perl6" : null,
+      "ruby" : "3.0.6p216",
+      "c++" : "17.0.6",
+      "lua" : "2.1.1702233742",
+      "perl" : "v5.38.2",
+      "nqp" : "2024.02-9-g7cd05bb45",
+      "nim" : "2.0.2",
+      "c#" : "8.0.103"
+   }
+}
