@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "nim" : "2.0.2",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.2",
+      "c#" : "8.0.103",
+      "lua" : "2.1.1702233742",
+      "javascript" : "v21.7.1",
+      "c++" : "17.0.6",
+      "nqp" : "2024.02-14-g97c638127"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 54,
+         "nim" : 63,
+         "perl6" : 5
+      },
+      "re_capture" : {
+         "perl" : 162,
+         "ruby" : 495,
+         "perl6" : 11680,
+         "javascript" : 81,
+         "lua" : 230,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "c++" : 49,
+         "perl6" : 10490,
+         "nim" : 139,
+         "ruby" : 15559,
+         "perl" : 1429,
+         "c#" : 0,
+         "lua" : 7953,
+         "javascript" : 137
+      },
+      "json_se" : {
+         "javascript" : 580,
+         "ruby" : 2352,
+         "perl" : 353
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 2606
+      },
+      "re_bool" : {
+         "lua" : 182,
+         "javascript" : 36,
+         "nqp" : 0,
+         "ruby" : 159,
+         "perl" : 423,
+         "perl6" : 2478
+      },
+      "takeuchi" : {
+         "c++" : 21,
+         "nqp" : 0,
+         "nim" : 124,
+         "perl6" : 12513,
+         "perl" : 12491,
+         "ruby" : 2332,
+         "c#" : 0,
+         "javascript" : 316,
+         "lua" : 426
+      },
+      "json_de" : {
+         "ruby" : 1893,
+         "perl" : 739,
+         "javascript" : 749
+      },
+      "str_join" : {
+         "perl6" : 2315,
+         "nim" : 45,
+         "ruby" : 1519,
+         "perl" : 503,
+         "c#" : 0,
+         "lua" : 103,
+         "javascript" : 54,
+         "c++" : 0,
+         "nqp" : 0
+      },
+      "fib" : {
+         "c#" : 0,
+         "javascript" : 147,
+         "lua" : 203,
+         "nim" : 32,
+         "perl6" : 4919,
+         "perl" : 4881,
+         "ruby" : 919,
+         "nqp" : 0,
+         "c++" : 3
+      }
+   }
+}
