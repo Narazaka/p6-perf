@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "nqp" : 0,
+         "perl" : 452,
+         "lua" : 180,
+         "ruby" : 166,
+         "perl6" : 2619,
+         "javascript" : 35
+      },
+      "str_join_slow" : {
+         "perl" : 1394,
+         "c++" : 49,
+         "javascript" : 130,
+         "c#" : 0,
+         "perl6" : 10332,
+         "ruby" : 14755,
+         "lua" : 7634,
+         "nim" : 133
+      },
+      "takeuchi" : {
+         "perl" : 13182,
+         "perl6" : 12634,
+         "javascript" : 295,
+         "c#" : 0,
+         "c++" : 17,
+         "nqp" : 0,
+         "nim" : 96,
+         "lua" : 426,
+         "ruby" : 2201
+      },
+      "fib" : {
+         "c++" : 2,
+         "javascript" : 137,
+         "c#" : 0,
+         "perl6" : 5123,
+         "ruby" : 975,
+         "lua" : 155,
+         "nim" : 32,
+         "nqp" : 0,
+         "perl" : 5031
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "nim" : 50,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 53
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "nim" : 41,
+         "lua" : 100,
+         "ruby" : 1582,
+         "perl6" : 2334,
+         "javascript" : 53,
+         "c#" : 0,
+         "c++" : 0,
+         "perl" : 459
+      },
+      "re_capture" : {
+         "perl6" : 12229,
+         "javascript" : 79,
+         "nqp" : 0,
+         "ruby" : 516,
+         "lua" : 229,
+         "perl" : 171
+      },
+      "json_se" : {
+         "javascript" : 580,
+         "ruby" : 2326,
+         "perl" : 355
+      },
+      "json_de" : {
+         "javascript" : 707,
+         "ruby" : 1719,
+         "perl" : 748
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 2616
+      }
+   },
+   "version" : {
+      "perl" : "v5.38.2",
+      "c#" : "8.0.103",
+      "javascript" : "v21.7.2",
+      "c++" : "17.0.6",
+      "perl6" : null,
+      "lua" : "2.1.1702233742",
+      "ruby" : "3.0.6p216",
+      "nqp" : "2024.03-38-ge90292265",
+      "nim" : "2.0.2"
+   }
+}
