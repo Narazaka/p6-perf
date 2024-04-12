@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.38.2",
+      "javascript" : "v21.7.2",
+      "ruby" : "3.0.6p216",
+      "lua" : "2.1.1702233742",
+      "c++" : "17.0.6",
+      "nqp" : "2024.03-43-gabf15c408",
+      "perl6" : null,
+      "nim" : "2.0.2",
+      "c#" : "8.0.103"
+   },
+   "result" : {
+      "json_de" : {
+         "javascript" : 779,
+         "ruby" : 1964,
+         "perl" : 706
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "perl6" : 11843,
+         "javascript" : 78,
+         "ruby" : 497,
+         "lua" : 230,
+         "perl" : 162
+      },
+      "takeuchi" : {
+         "nim" : 115,
+         "perl6" : 12588,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl" : 12834,
+         "c++" : 17,
+         "lua" : 421,
+         "ruby" : 2167,
+         "javascript" : 295
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "perl" : 3,
+         "nim" : 54,
+         "lua" : 1,
+         "ruby" : 51
+      },
+      "fib" : {
+         "c#" : 0,
+         "nqp" : 0,
+         "perl6" : 5234,
+         "nim" : 32,
+         "javascript" : 137,
+         "ruby" : 855,
+         "lua" : 172,
+         "c++" : 2,
+         "perl" : 5537
+      },
+      "str_join_slow" : {
+         "perl" : 1408,
+         "javascript" : 128,
+         "lua" : 8090,
+         "ruby" : 14443,
+         "c++" : 49,
+         "perl6" : 10776,
+         "nim" : 132,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 2716
+      },
+      "json_se" : {
+         "perl" : 338,
+         "javascript" : 581,
+         "ruby" : 2299
+      },
+      "str_join" : {
+         "perl" : 432,
+         "javascript" : 53,
+         "c++" : 0,
+         "lua" : 101,
+         "ruby" : 1463,
+         "nqp" : 0,
+         "nim" : 45,
+         "perl6" : 2228,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl6" : 2731,
+         "perl" : 424,
+         "javascript" : 35,
+         "ruby" : 156,
+         "lua" : 181
+      }
+   }
+}
