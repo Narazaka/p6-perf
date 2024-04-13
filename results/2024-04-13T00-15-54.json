@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 3103
+      },
+      "str_join_slow" : {
+         "lua" : 8315,
+         "c++" : 49,
+         "nim" : 161,
+         "javascript" : 156,
+         "perl" : 1286,
+         "perl6" : 10264,
+         "c#" : 0,
+         "ruby" : 14621
+      },
+      "re_bool" : {
+         "javascript" : 45,
+         "perl" : 425,
+         "ruby" : 156,
+         "perl6" : 2732,
+         "lua" : 210,
+         "nqp" : 2881
+      },
+      "re_capture" : {
+         "lua" : 277,
+         "nqp" : 9118,
+         "perl" : 162,
+         "perl6" : 11671,
+         "ruby" : 502,
+         "javascript" : 99
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "lua" : 435,
+         "nim" : 113,
+         "nqp" : 18047,
+         "ruby" : 2281,
+         "perl6" : 12075,
+         "c#" : 0,
+         "perl" : 12442,
+         "javascript" : 349
+      },
+      "str_join" : {
+         "nqp" : 944,
+         "nim" : 41,
+         "lua" : 118,
+         "c++" : 0,
+         "javascript" : 60,
+         "ruby" : 1459,
+         "perl6" : 2201,
+         "c#" : 0,
+         "perl" : 433
+      },
+      "json_se" : {
+         "javascript" : 665,
+         "perl" : 343,
+         "ruby" : 2322
+      },
+      "json_de" : {
+         "ruby" : 1702,
+         "perl" : 732,
+         "javascript" : 857
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 5,
+         "ruby" : 52,
+         "lua" : 1,
+         "nim" : 53
+      },
+      "fib" : {
+         "javascript" : 139,
+         "c#" : 0,
+         "perl6" : 5220,
+         "ruby" : 845,
+         "perl" : 4800,
+         "lua" : 221,
+         "c++" : 2,
+         "nqp" : 7840,
+         "nim" : 33
+      }
+   },
+   "version" : {
+      "c++" : "17.0.6",
+      "lua" : "2.1.1702233742",
+      "nim" : "2.0.2",
+      "nqp" : "2024.03-45-g391443f39",
+      "perl" : "v5.38.2",
+      "c#" : "8.0.104",
+      "perl6" : null,
+      "ruby" : "3.0.6p216",
+      "javascript" : "v21.7.2"
+   }
+}
