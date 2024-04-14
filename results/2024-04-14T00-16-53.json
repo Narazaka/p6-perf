@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 10061,
+         "perl6" : 12288,
+         "ruby" : 631,
+         "javascript" : 85,
+         "lua" : 241,
+         "perl" : 169
+      },
+      "re_bool" : {
+         "nqp" : 3307,
+         "ruby" : 168,
+         "javascript" : 42,
+         "perl6" : 2813,
+         "lua" : 191,
+         "perl" : 460
+      },
+      "json_de" : {
+         "javascript" : 779,
+         "ruby" : 1941,
+         "perl" : 869
+      },
+      "str_join_repeat" : {
+         "perl" : 5,
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 55,
+         "ruby" : 65
+      },
+      "json_se" : {
+         "perl" : 356,
+         "ruby" : 2704,
+         "javascript" : 638
+      },
+      "takeuchi" : {
+         "nqp" : 20790,
+         "ruby" : 2338,
+         "javascript" : 326,
+         "nim" : 105,
+         "c++" : 22,
+         "perl6" : 13203,
+         "lua" : 444,
+         "perl" : 13759,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "ruby" : 14942,
+         "javascript" : 134,
+         "nim" : 150,
+         "c++" : 49,
+         "perl6" : 11022,
+         "lua" : 8748,
+         "perl" : 1433,
+         "c#" : 0
+      },
+      "fib" : {
+         "perl" : 5400,
+         "c#" : 0,
+         "lua" : 210,
+         "nqp" : 8578,
+         "perl6" : 5634,
+         "nim" : 46,
+         "c++" : 2,
+         "javascript" : 143,
+         "ruby" : 1023
+      },
+      "str_join" : {
+         "lua" : 113,
+         "perl" : 478,
+         "c#" : 0,
+         "nim" : 41,
+         "c++" : 0,
+         "perl6" : 2490,
+         "ruby" : 1700,
+         "javascript" : 65,
+         "nqp" : 1117
+      },
+      "fib_fast" : {
+         "perl6" : 2827,
+         "javascript" : 20
+      }
+   },
+   "version" : {
+      "perl" : "v5.38.2",
+      "c#" : "8.0.104",
+      "lua" : "2.1.1702233742",
+      "javascript" : "v21.7.2",
+      "ruby" : "3.0.6p216",
+      "perl6" : null,
+      "nim" : "2.0.2",
+      "c++" : "17.0.6",
+      "nqp" : "2024.03-45-g391443f39"
+   }
+}
