@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "c#" : 0,
+         "ruby" : 1542,
+         "lua" : 101,
+         "nim" : 40,
+         "nqp" : 0,
+         "javascript" : 53,
+         "perl6" : 2460,
+         "c++" : 0,
+         "perl" : 463
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "ruby" : 75,
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 51
+      },
+      "re_bool" : {
+         "lua" : 183,
+         "perl" : 433,
+         "perl6" : 2617,
+         "javascript" : 35,
+         "nqp" : 0,
+         "ruby" : 159
+      },
+      "json_se" : {
+         "perl" : 335,
+         "ruby" : 2377,
+         "javascript" : 574
+      },
+      "json_de" : {
+         "perl" : 708,
+         "ruby" : 1752,
+         "javascript" : 708
+      },
+      "re_capture" : {
+         "lua" : 228,
+         "perl" : 163,
+         "perl6" : 17338,
+         "ruby" : 545,
+         "nqp" : 0,
+         "javascript" : 78
+      },
+      "str_join_slow" : {
+         "javascript" : 129,
+         "perl6" : 10453,
+         "perl" : 1328,
+         "c++" : 49,
+         "ruby" : 16820,
+         "c#" : 0,
+         "nim" : 132,
+         "lua" : 7801
+      },
+      "fib_fast" : {
+         "perl6" : 2988,
+         "javascript" : 18
+      },
+      "fib" : {
+         "perl" : 4870,
+         "c++" : 2,
+         "perl6" : 5081,
+         "nqp" : 0,
+         "javascript" : 157,
+         "lua" : 170,
+         "nim" : 32,
+         "c#" : 0,
+         "ruby" : 843
+      },
+      "takeuchi" : {
+         "javascript" : 296,
+         "nqp" : 0,
+         "perl6" : 13342,
+         "perl" : 12913,
+         "c++" : 17,
+         "c#" : 0,
+         "ruby" : 2448,
+         "lua" : 458,
+         "nim" : 97
+      }
+   },
+   "version" : {
+      "nim" : "2.0.2",
+      "lua" : "2.1.1702233742",
+      "ruby" : "3.0.6p216",
+      "c#" : "8.0.104",
+      "c++" : "17.0.6",
+      "perl" : "v5.38.2",
+      "perl6" : null,
+      "javascript" : "v21.7.2",
+      "nqp" : "2024.03-50-g1ec7ed3fd"
+   }
+}
