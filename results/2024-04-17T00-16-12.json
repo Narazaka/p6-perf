@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "lua" : 100,
+         "javascript" : 53,
+         "c++" : 0,
+         "ruby" : 1461,
+         "perl" : 439,
+         "nqp" : 920,
+         "perl6" : 2234,
+         "c#" : 0,
+         "nim" : 40
+      },
+      "re_capture" : {
+         "perl" : 163,
+         "nqp" : 8357,
+         "perl6" : 12456,
+         "javascript" : 80,
+         "lua" : 230,
+         "ruby" : 500
+      },
+      "str_join_slow" : {
+         "c++" : 54,
+         "ruby" : 15919,
+         "lua" : 7822,
+         "javascript" : 129,
+         "perl" : 1288,
+         "perl6" : 10428,
+         "c#" : 0,
+         "nim" : 134
+      },
+      "fib" : {
+         "c++" : 2,
+         "ruby" : 857,
+         "lua" : 155,
+         "javascript" : 136,
+         "perl" : 4816,
+         "nqp" : 8353,
+         "perl6" : 4970,
+         "c#" : 0,
+         "nim" : 32
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "perl6" : 12393,
+         "nqp" : 18301,
+         "perl" : 12443,
+         "nim" : 102,
+         "lua" : 424,
+         "javascript" : 295,
+         "c++" : 17,
+         "ruby" : 2240
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "perl" : 4,
+         "lua" : 1,
+         "perl6" : 5,
+         "ruby" : 55
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 2321
+      },
+      "json_se" : {
+         "ruby" : 2282,
+         "perl" : 334,
+         "javascript" : 576
+      },
+      "json_de" : {
+         "ruby" : 1704,
+         "javascript" : 751,
+         "perl" : 713
+      },
+      "re_bool" : {
+         "lua" : 180,
+         "javascript" : 35,
+         "ruby" : 156,
+         "nqp" : 2710,
+         "perl" : 428,
+         "perl6" : 2353
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.6p216",
+      "c++" : "17.0.6",
+      "javascript" : "v21.7.2",
+      "lua" : "2.1.1702233742",
+      "nim" : "2.0.2",
+      "c#" : "8.0.104",
+      "perl6" : null,
+      "perl" : "v5.38.2",
+      "nqp" : "2024.03-50-g1ec7ed3fd"
+   }
+}
