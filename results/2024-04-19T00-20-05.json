@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 57,
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 56
+      },
+      "re_bool" : {
+         "perl" : 466,
+         "perl6" : 2506,
+         "nqp" : 0,
+         "lua" : 176,
+         "javascript" : 35,
+         "ruby" : 179
+      },
+      "str_join" : {
+         "lua" : 92,
+         "nqp" : 0,
+         "perl" : 445,
+         "perl6" : 2350,
+         "nim" : 43,
+         "javascript" : 51,
+         "c++" : 0,
+         "ruby" : 1806,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 2827,
+         "javascript" : 17
+      },
+      "fib" : {
+         "nim" : 34,
+         "javascript" : 137,
+         "c++" : 2,
+         "ruby" : 908,
+         "c#" : 0,
+         "nqp" : 0,
+         "lua" : 143,
+         "perl6" : 4968,
+         "perl" : 4906
+      },
+      "re_capture" : {
+         "javascript" : 79,
+         "ruby" : 655,
+         "lua" : 224,
+         "nqp" : 0,
+         "perl" : 170,
+         "perl6" : 12318
+      },
+      "json_se" : {
+         "javascript" : 565,
+         "perl" : 350,
+         "ruby" : 2776
+      },
+      "json_de" : {
+         "perl" : 722,
+         "ruby" : 2022,
+         "javascript" : 714
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "ruby" : 15491,
+         "nim" : 141,
+         "c++" : 51,
+         "javascript" : 129,
+         "lua" : 8245,
+         "perl6" : 10466,
+         "perl" : 1304
+      },
+      "takeuchi" : {
+         "javascript" : 296,
+         "c++" : 17,
+         "nim" : 106,
+         "c#" : 0,
+         "ruby" : 2290,
+         "perl" : 12733,
+         "perl6" : 12082,
+         "nqp" : 0,
+         "lua" : 370
+      }
+   },
+   "version" : {
+      "nqp" : "2024.03-50-g1ec7ed3fd",
+      "lua" : "2.1.1710088188",
+      "perl6" : null,
+      "perl" : "v5.38.2",
+      "c#" : "8.0.104",
+      "ruby" : "3.0.6p216",
+      "nim" : "2.0.2",
+      "javascript" : "v21.7.3",
+      "c++" : "17.0.6"
+   }
+}
