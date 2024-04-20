@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 10823,
+         "c++" : 49,
+         "javascript" : 128,
+         "nim" : 133,
+         "lua" : 7605,
+         "perl" : 1281,
+         "c#" : 0,
+         "ruby" : 14800
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 55,
+         "ruby" : 53,
+         "perl6" : 7
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "ruby" : 2165,
+         "nim" : 96,
+         "javascript" : 296,
+         "nqp" : 19649,
+         "perl" : 12301,
+         "lua" : 373,
+         "c++" : 18,
+         "perl6" : 12710
+      },
+      "json_se" : {
+         "javascript" : 562,
+         "perl" : 331,
+         "ruby" : 2404
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 2640
+      },
+      "fib" : {
+         "c#" : 0,
+         "ruby" : 843,
+         "javascript" : 136,
+         "nqp" : 7872,
+         "nim" : 32,
+         "lua" : 143,
+         "perl" : 4898,
+         "perl6" : 4999,
+         "c++" : 2
+      },
+      "str_join" : {
+         "perl6" : 2392,
+         "c++" : 0,
+         "c#" : 0,
+         "ruby" : 1458,
+         "nim" : 40,
+         "javascript" : 51,
+         "nqp" : 972,
+         "perl" : 431,
+         "lua" : 92
+      },
+      "re_capture" : {
+         "ruby" : 499,
+         "perl6" : 12639,
+         "lua" : 223,
+         "perl" : 162,
+         "nqp" : 9498,
+         "javascript" : 78
+      },
+      "re_bool" : {
+         "perl" : 423,
+         "lua" : 177,
+         "nqp" : 2812,
+         "javascript" : 34,
+         "perl6" : 2558,
+         "ruby" : 156
+      },
+      "json_de" : {
+         "javascript" : 710,
+         "perl" : 714,
+         "ruby" : 1700
+      }
+   },
+   "version" : {
+      "c#" : "8.0.104",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v21.7.3",
+      "nqp" : "2024.03-50-g1ec7ed3fd",
+      "nim" : "2.0.2",
+      "lua" : "2.1.1710088188",
+      "perl" : "v5.38.2",
+      "c++" : "17.0.6",
+      "perl6" : null
+   }
+}
