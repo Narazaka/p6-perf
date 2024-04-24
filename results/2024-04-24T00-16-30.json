@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 51,
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 57,
+         "perl6" : 7
+      },
+      "str_join" : {
+         "nim" : 44,
+         "lua" : 101,
+         "ruby" : 1537,
+         "nqp" : 1213,
+         "perl" : 442,
+         "c++" : 0,
+         "javascript" : 53,
+         "c#" : 0,
+         "perl6" : 2803
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 3393
+      },
+      "takeuchi" : {
+         "perl6" : 12775,
+         "perl" : 13535,
+         "c++" : 17,
+         "c#" : 0,
+         "javascript" : 301,
+         "nqp" : 10325,
+         "ruby" : 2318,
+         "nim" : 97,
+         "lua" : 418
+      },
+      "str_join_slow" : {
+         "perl" : 1421,
+         "c++" : 49,
+         "javascript" : 132,
+         "c#" : 0,
+         "perl6" : 12164,
+         "nim" : 149,
+         "lua" : 8360,
+         "ruby" : 15910
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "lua" : 184,
+         "perl" : 501,
+         "nqp" : 4266,
+         "ruby" : 162,
+         "perl6" : 2834
+      },
+      "json_se" : {
+         "ruby" : 2542,
+         "javascript" : 603,
+         "perl" : 345
+      },
+      "fib" : {
+         "ruby" : 884,
+         "nqp" : 9192,
+         "nim" : 33,
+         "lua" : 167,
+         "perl6" : 5512,
+         "c#" : 0,
+         "javascript" : 139,
+         "perl" : 5045,
+         "c++" : 3
+      },
+      "re_capture" : {
+         "perl" : 169,
+         "javascript" : 81,
+         "lua" : 233,
+         "perl6" : 13582,
+         "ruby" : 574,
+         "nqp" : 9329
+      },
+      "json_de" : {
+         "ruby" : 1873,
+         "perl" : 781,
+         "javascript" : 757
+      }
+   },
+   "version" : {
+      "c++" : "17.0.6",
+      "perl" : "v5.38.2",
+      "javascript" : "v21.7.3",
+      "c#" : "8.0.104",
+      "perl6" : null,
+      "nim" : "2.0.2",
+      "lua" : "2.1.1713773202",
+      "ruby" : "3.0.6p216",
+      "nqp" : "2024.03-53-g84c3a9bd5"
+   }
+}
