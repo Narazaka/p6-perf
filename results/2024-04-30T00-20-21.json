@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.2",
+      "c#" : "8.0.104",
+      "lua" : "2.1.1713773202",
+      "c++" : "17.0.6",
+      "perl6" : null,
+      "nqp" : "2024.04-1-g3b9f3acd7",
+      "javascript" : "v21.7.3",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.2"
+   },
+   "result" : {
+      "re_capture" : {
+         "lua" : 238,
+         "perl" : 171,
+         "javascript" : 79,
+         "ruby" : 516,
+         "perl6" : 13890,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "ruby" : 2277,
+         "javascript" : 814,
+         "perl" : 783
+      },
+      "re_bool" : {
+         "perl" : 467,
+         "lua" : 178,
+         "nqp" : 0,
+         "perl6" : 2815,
+         "ruby" : 165,
+         "javascript" : 35
+      },
+      "json_se" : {
+         "ruby" : 2531,
+         "javascript" : 612,
+         "perl" : 374
+      },
+      "fib" : {
+         "c++" : 2,
+         "lua" : 162,
+         "c#" : 0,
+         "nim" : 32,
+         "perl" : 5029,
+         "ruby" : 896,
+         "javascript" : 150,
+         "nqp" : 0,
+         "perl6" : 5823
+      },
+      "str_join" : {
+         "c#" : 0,
+         "nim" : 41,
+         "lua" : 100,
+         "c++" : 0,
+         "perl6" : 2767,
+         "nqp" : 0,
+         "javascript" : 52,
+         "ruby" : 1729,
+         "perl" : 457
+      },
+      "str_join_slow" : {
+         "lua" : 8336,
+         "c++" : 60,
+         "nim" : 133,
+         "c#" : 0,
+         "perl" : 1455,
+         "perl6" : 11026,
+         "ruby" : 17332,
+         "javascript" : 131
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "perl6" : 5,
+         "ruby" : 59,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "perl6" : 3458,
+         "javascript" : 17
+      },
+      "takeuchi" : {
+         "c++" : 18,
+         "lua" : 386,
+         "c#" : 0,
+         "nim" : 102,
+         "perl" : 12955,
+         "javascript" : 296,
+         "ruby" : 2219,
+         "perl6" : 12747,
+         "nqp" : 0
+      }
+   }
+}
