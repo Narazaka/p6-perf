@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 2314,
+         "javascript" : 574,
+         "perl" : 338
+      },
+      "fib_fast" : {
+         "perl6" : 2168,
+         "javascript" : 18
+      },
+      "str_join" : {
+         "perl6" : 2218,
+         "c++" : 0,
+         "nqp" : 0,
+         "nim" : 40,
+         "lua" : 95,
+         "javascript" : 52,
+         "perl" : 432,
+         "c#" : 0,
+         "ruby" : 1505
+      },
+      "fib" : {
+         "perl6" : 5168,
+         "c++" : 2,
+         "nim" : 32,
+         "nqp" : 0,
+         "lua" : 142,
+         "javascript" : 137,
+         "perl" : 4705,
+         "c#" : 0,
+         "ruby" : 893
+      },
+      "str_join_slow" : {
+         "nim" : 134,
+         "perl6" : 9960,
+         "c++" : 60,
+         "ruby" : 15865,
+         "perl" : 1305,
+         "javascript" : 130,
+         "lua" : 8110,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "ruby" : 58,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 5
+      },
+      "re_capture" : {
+         "perl6" : 10445,
+         "perl" : 162,
+         "lua" : 250,
+         "javascript" : 78,
+         "nqp" : 0,
+         "ruby" : 530
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "nim" : 96,
+         "c++" : 17,
+         "perl6" : 12621,
+         "ruby" : 2210,
+         "c#" : 0,
+         "lua" : 384,
+         "javascript" : 307,
+         "perl" : 12375
+      },
+      "re_bool" : {
+         "perl6" : 2293,
+         "perl" : 429,
+         "lua" : 181,
+         "javascript" : 35,
+         "nqp" : 0,
+         "ruby" : 158
+      },
+      "json_de" : {
+         "javascript" : 723,
+         "perl" : 723,
+         "ruby" : 1792
+      }
+   },
+   "version" : {
+      "nqp" : "2024.04-4-gfe55b7bf8",
+      "nim" : "2.0.4",
+      "perl6" : null,
+      "c++" : "17.0.6",
+      "ruby" : "3.0.6p216",
+      "lua" : "2.1.1713773202",
+      "perl" : "v5.38.2",
+      "javascript" : "v21.7.3",
+      "c#" : "8.0.104"
+   }
+}
