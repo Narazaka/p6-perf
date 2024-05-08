@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.1713773202",
+      "c#" : "8.0.104",
+      "nim" : "2.0.4",
+      "ruby" : "3.0.6p216",
+      "perl6" : null,
+      "perl" : "v5.38.2",
+      "nqp" : "2024.04-4-gfe55b7bf8",
+      "c++" : "17.0.6",
+      "javascript" : "v21.7.3"
+   },
+   "result" : {
+      "json_se" : {
+         "javascript" : 604,
+         "ruby" : 2290,
+         "perl" : 337
+      },
+      "str_join" : {
+         "nim" : 40,
+         "ruby" : 1463,
+         "lua" : 95,
+         "c#" : 0,
+         "nqp" : 916,
+         "c++" : 0,
+         "javascript" : 53,
+         "perl6" : 2150,
+         "perl" : 432
+      },
+      "fib" : {
+         "ruby" : 918,
+         "nim" : 32,
+         "lua" : 161,
+         "c#" : 0,
+         "nqp" : 7870,
+         "javascript" : 137,
+         "c++" : 3,
+         "perl6" : 5045,
+         "perl" : 4890
+      },
+      "json_de" : {
+         "perl" : 769,
+         "javascript" : 733,
+         "ruby" : 1772
+      },
+      "re_bool" : {
+         "nqp" : 2727,
+         "javascript" : 38,
+         "perl6" : 2401,
+         "perl" : 426,
+         "ruby" : 158,
+         "lua" : 179
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "lua" : 367,
+         "ruby" : 2212,
+         "nim" : 96,
+         "perl" : 12574,
+         "perl6" : 12214,
+         "javascript" : 301,
+         "c++" : 17,
+         "nqp" : 18734
+      },
+      "str_join_slow" : {
+         "lua" : 8117,
+         "c#" : 0,
+         "ruby" : 14826,
+         "nim" : 132,
+         "perl6" : 9950,
+         "perl" : 1337,
+         "javascript" : 134,
+         "c++" : 63
+      },
+      "re_capture" : {
+         "ruby" : 521,
+         "lua" : 226,
+         "javascript" : 78,
+         "nqp" : 8927,
+         "perl" : 162,
+         "perl6" : 11090
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 2551
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 55,
+         "nim" : 51
+      }
+   }
+}
