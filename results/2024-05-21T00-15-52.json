@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl6" : 1957,
+         "ruby" : 1456,
+         "c#" : 0,
+         "javascript" : 61,
+         "nqp" : 990,
+         "perl" : 431,
+         "lua" : 95,
+         "c++" : 0,
+         "nim" : 41
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "lua" : 1,
+         "ruby" : 54,
+         "perl" : 3,
+         "perl6" : 5
+      },
+      "re_capture" : {
+         "lua" : 225,
+         "javascript" : 81,
+         "ruby" : 474,
+         "nqp" : 9768,
+         "perl6" : 11198,
+         "perl" : 162
+      },
+      "json_de" : {
+         "perl" : 722,
+         "ruby" : 1747,
+         "javascript" : 649
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "lua" : 180,
+         "ruby" : 155,
+         "nqp" : 2851,
+         "perl6" : 2353,
+         "perl" : 509
+      },
+      "json_se" : {
+         "javascript" : 354,
+         "ruby" : 2277,
+         "perl" : 339
+      },
+      "str_join_slow" : {
+         "nim" : 146,
+         "c++" : 60,
+         "c#" : 0,
+         "lua" : 8021,
+         "javascript" : 147,
+         "ruby" : 14887,
+         "perl" : 1313,
+         "perl6" : 9899
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 860
+      },
+      "takeuchi" : {
+         "perl6" : 12645,
+         "c#" : 0,
+         "javascript" : 295,
+         "ruby" : 2349,
+         "nqp" : 18106,
+         "perl" : 13016,
+         "lua" : 367,
+         "nim" : 83,
+         "c++" : 17
+      },
+      "fib" : {
+         "perl" : 4782,
+         "c++" : 3,
+         "nim" : 34,
+         "lua" : 165,
+         "perl6" : 4976,
+         "nqp" : 8530,
+         "ruby" : 853,
+         "javascript" : 138,
+         "c#" : 0
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1713773202",
+      "nim" : "2.0.4",
+      "c++" : "17.0.6",
+      "perl" : "v5.38.2",
+      "javascript" : "v22.2.0",
+      "c#" : "8.0.105",
+      "ruby" : "3.0.6p216",
+      "nqp" : "2024.04-10-g81eb8a848",
+      "perl6" : null
+   }
+}
