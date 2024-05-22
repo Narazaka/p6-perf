@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 353,
+         "ruby" : 2303,
+         "perl" : 335
+      },
+      "str_join_slow" : {
+         "c++" : 59,
+         "perl" : 1339,
+         "lua" : 7833,
+         "nim" : 146,
+         "ruby" : 16216,
+         "perl6" : 10205,
+         "c#" : 0,
+         "javascript" : 147
+      },
+      "fib" : {
+         "nqp" : 0,
+         "c++" : 2,
+         "perl6" : 4866,
+         "ruby" : 846,
+         "perl" : 4787,
+         "nim" : 39,
+         "lua" : 153,
+         "javascript" : 139,
+         "c#" : 0
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nqp" : 0,
+         "c#" : 0,
+         "javascript" : 61,
+         "ruby" : 1460,
+         "perl6" : 2030,
+         "perl" : 434,
+         "nim" : 41,
+         "lua" : 95
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "perl6" : 11977,
+         "ruby" : 482,
+         "lua" : 225,
+         "nqp" : 0,
+         "perl" : 162
+      },
+      "re_bool" : {
+         "ruby" : 155,
+         "perl6" : 2362,
+         "nqp" : 0,
+         "perl" : 450,
+         "lua" : 180,
+         "javascript" : 36
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "javascript" : 294,
+         "ruby" : 2222,
+         "perl6" : 12165,
+         "perl" : 12277,
+         "nim" : 83,
+         "lua" : 367,
+         "c++" : 17,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 898
+      },
+      "str_join_repeat" : {
+         "ruby" : 57,
+         "perl6" : 5,
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 51
+      },
+      "json_de" : {
+         "perl" : 720,
+         "ruby" : 1735,
+         "javascript" : 638
+      }
+   },
+   "version" : {
+      "c++" : "17.0.6",
+      "nqp" : "2024.04-10-g81eb8a848",
+      "javascript" : "v22.2.0",
+      "c#" : "8.0.105",
+      "perl6" : null,
+      "ruby" : "3.0.6p216",
+      "lua" : "2.1.1713773202",
+      "perl" : "v5.38.2",
+      "nim" : "2.0.4"
+   }
+}
