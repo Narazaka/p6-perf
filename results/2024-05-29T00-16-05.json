@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "ruby" : 474,
+         "lua" : 236,
+         "javascript" : 83,
+         "perl6" : 11908,
+         "perl" : 162,
+         "nqp" : 8962
+      },
+      "str_join_slow" : {
+         "c++" : 60,
+         "perl" : 1323,
+         "nim" : 146,
+         "perl6" : 10512,
+         "javascript" : 145,
+         "lua" : 8084,
+         "ruby" : 13385,
+         "c#" : 0
+      },
+      "json_de" : {
+         "ruby" : 1669,
+         "perl" : 722,
+         "javascript" : 636
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 976
+      },
+      "takeuchi" : {
+         "perl6" : 12287,
+         "nqp" : 18578,
+         "c++" : 17,
+         "perl" : 12235,
+         "nim" : 83,
+         "c#" : 0,
+         "ruby" : 2163,
+         "javascript" : 300,
+         "lua" : 367
+      },
+      "fib" : {
+         "nqp" : 7958,
+         "c++" : 3,
+         "perl" : 4754,
+         "nim" : 34,
+         "perl6" : 5070,
+         "javascript" : 138,
+         "lua" : 165,
+         "c#" : 0,
+         "ruby" : 861
+      },
+      "str_join_repeat" : {
+         "nim" : 51,
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 57,
+         "perl6" : 7
+      },
+      "re_bool" : {
+         "perl" : 426,
+         "nqp" : 2730,
+         "perl6" : 2278,
+         "lua" : 166,
+         "javascript" : 36,
+         "ruby" : 155
+      },
+      "str_join" : {
+         "ruby" : 1458,
+         "c#" : 0,
+         "javascript" : 60,
+         "lua" : 93,
+         "perl6" : 2039,
+         "c++" : 0,
+         "nqp" : 896,
+         "nim" : 40,
+         "perl" : 431
+      },
+      "json_se" : {
+         "ruby" : 2283,
+         "javascript" : 352,
+         "perl" : 333
+      }
+   },
+   "version" : {
+      "c#" : "8.0.105",
+      "ruby" : "3.0.6p216",
+      "lua" : "2.1.1716656478",
+      "javascript" : "v22.2.0",
+      "perl6" : null,
+      "nim" : "2.0.4",
+      "perl" : "v5.38.2",
+      "c++" : "17.0.6",
+      "nqp" : "2024.04-14-g300354170"
+   }
+}
