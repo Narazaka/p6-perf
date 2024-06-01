@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v22.2.0",
+      "c++" : "17.0.6",
+      "perl6" : null,
+      "perl" : "v5.38.2",
+      "lua" : "2.1.1716656478",
+      "c#" : "8.0.105",
+      "nim" : "2.0.4",
+      "ruby" : "3.0.6p216",
+      "nqp" : "2024.05"
+   },
+   "result" : {
+      "json_de" : {
+         "perl" : 778,
+         "ruby" : 1924,
+         "javascript" : 654
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "ruby" : 2275,
+         "nim" : 109,
+         "c#" : 0,
+         "lua" : 384,
+         "perl" : 12965,
+         "perl6" : 12770,
+         "c++" : 17,
+         "javascript" : 296
+      },
+      "re_bool" : {
+         "javascript" : 39,
+         "lua" : 167,
+         "perl6" : 2654,
+         "ruby" : 182,
+         "nqp" : 0,
+         "perl" : 434
+      },
+      "str_join" : {
+         "perl6" : 2068,
+         "perl" : 470,
+         "javascript" : 59,
+         "c++" : 0,
+         "nim" : 46,
+         "ruby" : 1678,
+         "nqp" : 0,
+         "lua" : 94,
+         "c#" : 0
+      },
+      "fib" : {
+         "nqp" : 0,
+         "ruby" : 905,
+         "nim" : 41,
+         "c#" : 0,
+         "lua" : 142,
+         "perl" : 5014,
+         "perl6" : 5231,
+         "c++" : 2,
+         "javascript" : 143
+      },
+      "re_capture" : {
+         "perl" : 175,
+         "nqp" : 0,
+         "ruby" : 491,
+         "perl6" : 11728,
+         "lua" : 238,
+         "javascript" : 82
+      },
+      "str_join_slow" : {
+         "javascript" : 145,
+         "c++" : 65,
+         "perl6" : 10000,
+         "perl" : 1424,
+         "lua" : 8261,
+         "c#" : 0,
+         "nim" : 150,
+         "ruby" : 14089
+      },
+      "fib_fast" : {
+         "perl6" : 969,
+         "javascript" : 18
+      },
+      "json_se" : {
+         "javascript" : 354,
+         "ruby" : 2564,
+         "perl" : 357
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "nim" : 63,
+         "ruby" : 60,
+         "perl" : 3,
+         "lua" : 1
+      }
+   }
+}
