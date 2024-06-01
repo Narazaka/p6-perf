@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.1716656478",
+      "javascript" : "v22.2.0",
+      "nim" : "2.0.4",
+      "c#" : "8.0.105",
+      "c++" : "17.0.6",
+      "perl6" : null,
+      "perl" : "v5.38.2",
+      "ruby" : "3.0.6p216",
+      "nqp" : "2024.05"
+   },
+   "result" : {
+      "json_se" : {
+         "perl" : 341,
+         "ruby" : 3032,
+         "javascript" : 367
+      },
+      "json_de" : {
+         "ruby" : 2173,
+         "javascript" : 748,
+         "perl" : 798
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "perl6" : 13110,
+         "perl" : 13547,
+         "ruby" : 2373,
+         "nqp" : 19864,
+         "lua" : 367,
+         "nim" : 83,
+         "javascript" : 307,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 940
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "ruby" : 58,
+         "nim" : 59,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "str_join_slow" : {
+         "perl6" : 10907,
+         "c++" : 60,
+         "ruby" : 16774,
+         "perl" : 1399,
+         "c#" : 0,
+         "nim" : 161,
+         "javascript" : 155,
+         "lua" : 8390
+      },
+      "fib" : {
+         "c++" : 2,
+         "perl6" : 5358,
+         "perl" : 5135,
+         "ruby" : 952,
+         "nqp" : 8945,
+         "lua" : 167,
+         "javascript" : 160,
+         "nim" : 40,
+         "c#" : 0
+      },
+      "str_join" : {
+         "javascript" : 61,
+         "nim" : 50,
+         "lua" : 108,
+         "c#" : 0,
+         "ruby" : 1642,
+         "perl" : 433,
+         "perl6" : 2197,
+         "c++" : 0,
+         "nqp" : 964
+      },
+      "re_bool" : {
+         "javascript" : 42,
+         "ruby" : 185,
+         "perl" : 430,
+         "lua" : 177,
+         "perl6" : 2640,
+         "nqp" : 3152
+      },
+      "re_capture" : {
+         "perl6" : 12666,
+         "perl" : 162,
+         "lua" : 272,
+         "javascript" : 87,
+         "ruby" : 498,
+         "nqp" : 10691
+      }
+   }
+}
