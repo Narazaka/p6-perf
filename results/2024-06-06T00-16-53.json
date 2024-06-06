@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "8.0.106",
+      "perl6" : null,
+      "nqp" : "2024.05-3-g7d0190332",
+      "lua" : "2.1.1716656478",
+      "nim" : "2.0.4",
+      "perl" : "v5.38.2",
+      "c++" : "17.0.6",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v22.2.0"
+   },
+   "result" : {
+      "json_de" : {
+         "perl" : 813,
+         "javascript" : 678,
+         "ruby" : 1941
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nim" : 40,
+         "perl" : 430,
+         "ruby" : 1608,
+         "javascript" : 63,
+         "perl6" : 2309,
+         "c#" : 0,
+         "lua" : 95,
+         "nqp" : 1090
+      },
+      "str_join_repeat" : {
+         "ruby" : 60,
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 51,
+         "perl" : 3
+      },
+      "json_se" : {
+         "ruby" : 2537,
+         "javascript" : 406,
+         "perl" : 352
+      },
+      "fib" : {
+         "c++" : 2,
+         "perl" : 5036,
+         "nim" : 34,
+         "javascript" : 185,
+         "ruby" : 928,
+         "perl6" : 5465,
+         "c#" : 0,
+         "nqp" : 8026,
+         "lua" : 168
+      },
+      "fib_fast" : {
+         "perl6" : 1158,
+         "javascript" : 21
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "ruby" : 163,
+         "nqp" : 2965,
+         "lua" : 167,
+         "perl6" : 2892,
+         "perl" : 451
+      },
+      "str_join_slow" : {
+         "ruby" : 17337,
+         "javascript" : 154,
+         "c++" : 59,
+         "nim" : 148,
+         "perl" : 1386,
+         "lua" : 7875,
+         "perl6" : 11054,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "perl6" : 13105,
+         "perl" : 172,
+         "ruby" : 501,
+         "javascript" : 85,
+         "lua" : 241,
+         "nqp" : 9714
+      },
+      "takeuchi" : {
+         "javascript" : 297,
+         "ruby" : 2264,
+         "c++" : 17,
+         "perl" : 12698,
+         "nim" : 88,
+         "lua" : 387,
+         "nqp" : 20753,
+         "perl6" : 12806,
+         "c#" : 0
+      }
+   }
+}
