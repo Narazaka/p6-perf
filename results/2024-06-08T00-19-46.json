@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.1716656478",
+      "c#" : "8.0.106",
+      "javascript" : "v22.2.0",
+      "nqp" : "2024.05-3-g7d0190332",
+      "perl6" : null,
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.2",
+      "nim" : "2.0.4",
+      "c++" : "17.0.6"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 5,
+         "ruby" : 54,
+         "perl" : 3,
+         "nim" : 50
+      },
+      "fib_fast" : {
+         "perl6" : 774,
+         "javascript" : 17
+      },
+      "re_bool" : {
+         "lua" : 167,
+         "javascript" : 35,
+         "nqp" : 0,
+         "ruby" : 155,
+         "perl6" : 2199,
+         "perl" : 425
+      },
+      "re_capture" : {
+         "lua" : 237,
+         "javascript" : 81,
+         "nqp" : 0,
+         "perl6" : 10442,
+         "ruby" : 471,
+         "perl" : 162
+      },
+      "str_join" : {
+         "ruby" : 1463,
+         "perl6" : 1925,
+         "nqp" : 0,
+         "c++" : 0,
+         "perl" : 430,
+         "nim" : 40,
+         "c#" : 0,
+         "lua" : 94,
+         "javascript" : 60
+      },
+      "fib" : {
+         "c++" : 2,
+         "nim" : 34,
+         "perl" : 4703,
+         "ruby" : 874,
+         "perl6" : 4910,
+         "nqp" : 0,
+         "javascript" : 138,
+         "c#" : 0,
+         "lua" : 143
+      },
+      "json_de" : {
+         "ruby" : 1731,
+         "javascript" : 641,
+         "perl" : 727
+      },
+      "json_se" : {
+         "javascript" : 352,
+         "perl" : 331,
+         "ruby" : 2332
+      },
+      "str_join_slow" : {
+         "javascript" : 144,
+         "lua" : 8012,
+         "c#" : 0,
+         "perl" : 1311,
+         "nim" : 146,
+         "c++" : 59,
+         "perl6" : 9734,
+         "ruby" : 13409
+      },
+      "takeuchi" : {
+         "javascript" : 293,
+         "c#" : 0,
+         "lua" : 368,
+         "c++" : 17,
+         "nim" : 83,
+         "perl" : 12294,
+         "ruby" : 2166,
+         "perl6" : 11824,
+         "nqp" : 0
+      }
+   }
+}
