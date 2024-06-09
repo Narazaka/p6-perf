@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 12484,
+         "nqp" : 9384,
+         "lua" : 238,
+         "javascript" : 82,
+         "perl" : 166,
+         "ruby" : 491
+      },
+      "str_join" : {
+         "perl6" : 2702,
+         "lua" : 94,
+         "nqp" : 1028,
+         "nim" : 40,
+         "ruby" : 1561,
+         "perl" : 441,
+         "javascript" : 68,
+         "c++" : 0,
+         "c#" : 0
+      },
+      "fib" : {
+         "c#" : 0,
+         "javascript" : 139,
+         "c++" : 2,
+         "ruby" : 849,
+         "nim" : 34,
+         "perl" : 5140,
+         "lua" : 167,
+         "nqp" : 8375,
+         "perl6" : 5139
+      },
+      "json_de" : {
+         "javascript" : 662,
+         "perl" : 736,
+         "ruby" : 1743
+      },
+      "json_se" : {
+         "perl" : 337,
+         "ruby" : 2300,
+         "javascript" : 359
+      },
+      "takeuchi" : {
+         "perl6" : 12613,
+         "nqp" : 19371,
+         "lua" : 364,
+         "nim" : 83,
+         "ruby" : 2288,
+         "perl" : 13357,
+         "javascript" : 297,
+         "c++" : 17,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "ruby" : 156,
+         "perl" : 431,
+         "javascript" : 36,
+         "lua" : 166,
+         "nqp" : 2909,
+         "perl6" : 2655
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "c++" : 59,
+         "javascript" : 154,
+         "perl" : 1343,
+         "nim" : 147,
+         "ruby" : 16324,
+         "perl6" : 10556,
+         "lua" : 7803
+      },
+      "fib_fast" : {
+         "perl6" : 1022,
+         "javascript" : 18
+      },
+      "str_join_repeat" : {
+         "perl6" : 10,
+         "lua" : 1,
+         "nim" : 51,
+         "ruby" : 60,
+         "perl" : 3
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "nqp" : "2024.05-3-g7d0190332",
+      "lua" : "2.1.1716656478",
+      "nim" : "2.0.4",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.2",
+      "javascript" : "v22.2.0",
+      "c++" : "17.0.6",
+      "c#" : "8.0.106"
+   }
+}
