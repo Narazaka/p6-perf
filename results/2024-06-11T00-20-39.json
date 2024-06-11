@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 360,
+         "ruby" : 2628,
+         "perl" : 340
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 56,
+         "nim" : 51,
+         "perl6" : 5,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "perl6" : 1071,
+         "javascript" : 20
+      },
+      "fib" : {
+         "javascript" : 151,
+         "perl6" : 4930,
+         "perl" : 4767,
+         "c#" : 0,
+         "nqp" : 0,
+         "nim" : 34,
+         "c++" : 2,
+         "lua" : 163,
+         "ruby" : 854
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "c#" : 0,
+         "ruby" : 2178,
+         "lua" : 392,
+         "c++" : 17,
+         "nim" : 90,
+         "javascript" : 343,
+         "perl6" : 12766,
+         "perl" : 12899
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "ruby" : 157,
+         "lua" : 167,
+         "javascript" : 35,
+         "perl" : 428,
+         "perl6" : 2615
+      },
+      "json_de" : {
+         "perl" : 731,
+         "ruby" : 1732,
+         "javascript" : 666
+      },
+      "str_join" : {
+         "perl" : 432,
+         "perl6" : 2352,
+         "javascript" : 61,
+         "nim" : 40,
+         "c++" : 0,
+         "lua" : 94,
+         "ruby" : 1477,
+         "c#" : 0,
+         "nqp" : 0
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "perl" : 162,
+         "perl6" : 12751,
+         "nqp" : 0,
+         "ruby" : 479,
+         "lua" : 248
+      },
+      "str_join_slow" : {
+         "ruby" : 15662,
+         "lua" : 7951,
+         "c++" : 60,
+         "nim" : 157,
+         "c#" : 0,
+         "perl" : 1318,
+         "perl6" : 10701,
+         "javascript" : 161
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1716656478",
+      "ruby" : "3.0.6p216",
+      "c++" : "17.0.6",
+      "nim" : "2.0.4",
+      "c#" : "8.0.106",
+      "nqp" : "2024.05-6-g4d67fa8b2",
+      "perl6" : null,
+      "perl" : "v5.38.2",
+      "javascript" : "v22.2.0"
+   }
+}
