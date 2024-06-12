@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 11361,
+         "lua" : 240,
+         "perl" : 168,
+         "nqp" : 9984,
+         "javascript" : 85,
+         "ruby" : 500
+      },
+      "fib_fast" : {
+         "javascript" : 17,
+         "perl6" : 865
+      },
+      "re_bool" : {
+         "ruby" : 163,
+         "nqp" : 2834,
+         "javascript" : 36,
+         "perl" : 503,
+         "lua" : 170,
+         "perl6" : 2439
+      },
+      "fib" : {
+         "perl" : 4905,
+         "nim" : 39,
+         "lua" : 173,
+         "c++" : 2,
+         "perl6" : 4982,
+         "c#" : 0,
+         "javascript" : 145,
+         "nqp" : 8088,
+         "ruby" : 945
+      },
+      "takeuchi" : {
+         "lua" : 369,
+         "c++" : 26,
+         "perl6" : 11764,
+         "perl" : 12664,
+         "nim" : 89,
+         "nqp" : 18647,
+         "javascript" : 303,
+         "ruby" : 2405,
+         "c#" : 0
+      },
+      "str_join" : {
+         "c#" : 0,
+         "javascript" : 61,
+         "nqp" : 980,
+         "ruby" : 1832,
+         "perl" : 445,
+         "nim" : 41,
+         "lua" : 97,
+         "perl6" : 2133,
+         "c++" : 0
+      },
+      "json_se" : {
+         "ruby" : 2413,
+         "javascript" : 363,
+         "perl" : 345
+      },
+      "json_de" : {
+         "ruby" : 1817,
+         "javascript" : 679,
+         "perl" : 771
+      },
+      "str_join_repeat" : {
+         "ruby" : 58,
+         "lua" : 1,
+         "perl6" : 5,
+         "nim" : 66,
+         "perl" : 3
+      },
+      "str_join_slow" : {
+         "ruby" : 14366,
+         "javascript" : 153,
+         "c#" : 0,
+         "perl6" : 10203,
+         "c++" : 62,
+         "lua" : 8002,
+         "nim" : 152,
+         "perl" : 1345
+      }
+   },
+   "version" : {
+      "nim" : "2.0.4",
+      "perl" : "v5.38.2",
+      "lua" : "2.1.1716656478",
+      "c++" : "17.0.6",
+      "perl6" : null,
+      "c#" : "8.0.106",
+      "ruby" : "3.0.6p216",
+      "javascript" : "v22.2.0",
+      "nqp" : "2024.05-6-g4d67fa8b2"
+   }
+}
