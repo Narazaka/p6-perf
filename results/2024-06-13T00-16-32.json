@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 999,
+         "javascript" : 18
+      },
+      "str_join_slow" : {
+         "lua" : 8271,
+         "perl6" : 11820,
+         "ruby" : 17184,
+         "nim" : 148,
+         "c++" : 73,
+         "c#" : 0,
+         "javascript" : 150,
+         "perl" : 1347
+      },
+      "json_de" : {
+         "perl" : 808,
+         "javascript" : 648,
+         "ruby" : 1840
+      },
+      "takeuchi" : {
+         "c++" : 20,
+         "ruby" : 2229,
+         "nim" : 85,
+         "nqp" : 19472,
+         "perl" : 12924,
+         "c#" : 0,
+         "javascript" : 295,
+         "lua" : 399,
+         "perl6" : 12051
+      },
+      "re_bool" : {
+         "perl6" : 2513,
+         "ruby" : 158,
+         "lua" : 167,
+         "javascript" : 36,
+         "perl" : 427,
+         "nqp" : 4440
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "ruby" : 58,
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 52
+      },
+      "fib" : {
+         "c++" : 2,
+         "ruby" : 899,
+         "nim" : 34,
+         "perl" : 4920,
+         "nqp" : 8177,
+         "javascript" : 139,
+         "c#" : 0,
+         "lua" : 165,
+         "perl6" : 5012
+      },
+      "str_join" : {
+         "ruby" : 1468,
+         "c++" : 0,
+         "lua" : 93,
+         "perl6" : 2125,
+         "nim" : 40,
+         "c#" : 0,
+         "javascript" : 61,
+         "perl" : 437,
+         "nqp" : 997
+      },
+      "json_se" : {
+         "ruby" : 2357,
+         "javascript" : 356,
+         "perl" : 352
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "perl" : 162,
+         "nqp" : 9577,
+         "lua" : 238,
+         "perl6" : 12035,
+         "ruby" : 476
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1716656478",
+      "perl6" : null,
+      "nim" : "2.0.4",
+      "nqp" : "2024.05-6-g4d67fa8b2",
+      "perl" : "v5.38.2",
+      "c#" : "8.0.106",
+      "javascript" : "v22.3.0",
+      "ruby" : "3.0.6p216",
+      "c++" : "17.0.6"
+   }
+}
