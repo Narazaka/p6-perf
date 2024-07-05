@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.4",
+      "nqp" : "2024.06",
+      "perl" : "v5.38.2",
+      "ruby" : "3.0.6p216",
+      "c++" : "17.0.6",
+      "lua" : "2.1.1720049189",
+      "javascript" : "v22.4.0",
+      "c#" : "8.0.106",
+      "perl6" : null
+   },
+   "result" : {
+      "str_join" : {
+         "nim" : 40,
+         "nqp" : 0,
+         "c++" : 0,
+         "ruby" : 1459,
+         "perl" : 430,
+         "lua" : 96,
+         "c#" : 0,
+         "perl6" : 1934,
+         "javascript" : 61
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 57,
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 50
+      },
+      "fib" : {
+         "lua" : 131,
+         "c#" : 0,
+         "perl6" : 4962,
+         "javascript" : 138,
+         "nim" : 34,
+         "nqp" : 0,
+         "c++" : 2,
+         "perl" : 4744,
+         "ruby" : 863
+      },
+      "takeuchi" : {
+         "javascript" : 297,
+         "c#" : 0,
+         "perl6" : 12336,
+         "lua" : 367,
+         "perl" : 12344,
+         "ruby" : 2165,
+         "c++" : 17,
+         "nim" : 83,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "lua" : 165,
+         "perl6" : 2323,
+         "perl" : 425,
+         "ruby" : 155,
+         "javascript" : 37
+      },
+      "json_se" : {
+         "perl" : 335,
+         "ruby" : 2297,
+         "javascript" : 356
+      },
+      "str_join_slow" : {
+         "lua" : 8097,
+         "javascript" : 145,
+         "c#" : 0,
+         "perl6" : 9828,
+         "nim" : 146,
+         "perl" : 1322,
+         "ruby" : 14182,
+         "c++" : 59
+      },
+      "re_capture" : {
+         "ruby" : 475,
+         "perl" : 165,
+         "javascript" : 82,
+         "perl6" : 11213,
+         "nqp" : 0,
+         "lua" : 230
+      },
+      "fib_fast" : {
+         "perl6" : 888,
+         "javascript" : 19
+      },
+      "json_de" : {
+         "ruby" : 1729,
+         "perl" : 740,
+         "javascript" : 645
+      }
+   }
+}
