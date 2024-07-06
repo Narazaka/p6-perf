@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl" : 166,
+         "ruby" : 483,
+         "nqp" : 9499,
+         "javascript" : 86,
+         "perl6" : 11755,
+         "lua" : 255
+      },
+      "str_join_slow" : {
+         "javascript" : 165,
+         "lua" : 8721,
+         "perl6" : 10023,
+         "c#" : 0,
+         "perl" : 1342,
+         "c++" : 61,
+         "ruby" : 15662,
+         "nim" : 149
+      },
+      "json_de" : {
+         "perl" : 724,
+         "javascript" : 690,
+         "ruby" : 1736
+      },
+      "takeuchi" : {
+         "javascript" : 325,
+         "perl6" : 12023,
+         "lua" : 387,
+         "c++" : 22,
+         "perl" : 13441,
+         "c#" : 0,
+         "nim" : 83,
+         "ruby" : 2189,
+         "nqp" : 20006
+      },
+      "re_bool" : {
+         "ruby" : 157,
+         "nqp" : 3009,
+         "perl" : 443,
+         "perl6" : 2591,
+         "lua" : 197,
+         "javascript" : 38
+      },
+      "str_join" : {
+         "lua" : 103,
+         "perl6" : 2170,
+         "javascript" : 62,
+         "nqp" : 1063,
+         "nim" : 41,
+         "ruby" : 1474,
+         "perl" : 470,
+         "c#" : 0,
+         "c++" : 0
+      },
+      "json_se" : {
+         "perl" : 335,
+         "javascript" : 378,
+         "ruby" : 2365
+      },
+      "fib" : {
+         "nqp" : 8563,
+         "nim" : 35,
+         "ruby" : 844,
+         "c#" : 0,
+         "perl" : 4765,
+         "c++" : 3,
+         "lua" : 181,
+         "perl6" : 5310,
+         "javascript" : 153
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 58,
+         "perl6" : 5,
+         "nim" : 51,
+         "lua" : 1
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 1137
+      }
+   },
+   "version" : {
+      "nqp" : "2024.06",
+      "nim" : "2.0.4",
+      "ruby" : "3.0.6p216",
+      "perl" : "v5.38.2",
+      "c#" : "8.0.106",
+      "c++" : "18.1.8",
+      "lua" : "2.1.1720049189",
+      "perl6" : null,
+      "javascript" : "v22.4.0"
+   }
+}
