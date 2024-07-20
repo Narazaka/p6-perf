@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 10630,
+         "lua" : 231,
+         "nqp" : 7779,
+         "perl" : 166,
+         "javascript" : 82,
+         "ruby" : 479
+      },
+      "re_bool" : {
+         "perl6" : 2161,
+         "lua" : 167,
+         "nqp" : 2568,
+         "ruby" : 156,
+         "perl" : 437,
+         "javascript" : 37
+      },
+      "json_de" : {
+         "ruby" : 1794,
+         "perl" : 734,
+         "javascript" : 697
+      },
+      "fib" : {
+         "nim" : 34,
+         "perl6" : 4602,
+         "nqp" : 7677,
+         "c#" : 0,
+         "c++" : 3,
+         "perl" : 4913,
+         "lua" : 143,
+         "javascript" : 156,
+         "ruby" : 849
+      },
+      "str_join" : {
+         "ruby" : 1467,
+         "javascript" : 62,
+         "lua" : 97,
+         "c++" : 0,
+         "perl" : 424,
+         "perl6" : 1859,
+         "nim" : 41,
+         "nqp" : 867,
+         "c#" : 0
+      },
+      "json_se" : {
+         "perl" : 334,
+         "ruby" : 2286,
+         "javascript" : 361
+      },
+      "str_join_slow" : {
+         "lua" : 8311,
+         "ruby" : 14023,
+         "javascript" : 150,
+         "perl6" : 9419,
+         "nim" : 146,
+         "c#" : 0,
+         "c++" : 60,
+         "perl" : 1374
+      },
+      "fib_fast" : {
+         "perl6" : 813,
+         "javascript" : 18
+      },
+      "takeuchi" : {
+         "nqp" : 17811,
+         "c#" : 0,
+         "perl6" : 12117,
+         "nim" : 83,
+         "perl" : 12374,
+         "c++" : 17,
+         "lua" : 368,
+         "ruby" : 2168,
+         "javascript" : 310
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 51,
+         "ruby" : 53,
+         "perl" : 3
+      }
+   },
+   "version" : {
+      "ruby" : "3.0.6p216",
+      "javascript" : "v22.5.1",
+      "lua" : "2.1.1720049189",
+      "c++" : "18.1.8",
+      "perl" : "v5.38.2",
+      "nim" : "2.0.4",
+      "perl6" : null,
+      "c#" : "8.0.106",
+      "nqp" : "2024.06-4-ga79798778"
+   }
+}
