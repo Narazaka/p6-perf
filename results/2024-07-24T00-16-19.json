@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "perl" : 4934,
+         "perl6" : 4661,
+         "javascript" : 138,
+         "nqp" : 7690,
+         "c++" : 2,
+         "lua" : 162,
+         "ruby" : 924,
+         "c#" : 0,
+         "nim" : 34
+      },
+      "json_se" : {
+         "ruby" : 2391,
+         "javascript" : 373,
+         "perl" : 349
+      },
+      "takeuchi" : {
+         "perl" : 12571,
+         "javascript" : 297,
+         "perl6" : 11510,
+         "c#" : 0,
+         "nim" : 83,
+         "nqp" : 17779,
+         "c++" : 17,
+         "lua" : 371,
+         "ruby" : 2260
+      },
+      "json_de" : {
+         "javascript" : 654,
+         "ruby" : 1756,
+         "perl" : 750
+      },
+      "str_join_slow" : {
+         "perl" : 1361,
+         "javascript" : 147,
+         "perl6" : 9530,
+         "c#" : 0,
+         "nim" : 150,
+         "c++" : 61,
+         "ruby" : 15067,
+         "lua" : 8434
+      },
+      "str_join" : {
+         "javascript" : 62,
+         "perl6" : 1732,
+         "perl" : 426,
+         "ruby" : 1502,
+         "lua" : 97,
+         "nqp" : 856,
+         "c++" : 0,
+         "nim" : 41,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "perl6" : 2173,
+         "javascript" : 37,
+         "ruby" : 186,
+         "lua" : 166,
+         "perl" : 436,
+         "nqp" : 2490
+      },
+      "re_capture" : {
+         "perl" : 167,
+         "nqp" : 7704,
+         "perl6" : 10078,
+         "ruby" : 526,
+         "javascript" : 83,
+         "lua" : 230
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 58,
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 53
+      },
+      "fib_fast" : {
+         "perl6" : 813,
+         "javascript" : 18
+      }
+   },
+   "version" : {
+      "perl" : "v5.38.2",
+      "perl6" : null,
+      "javascript" : "v22.5.1",
+      "c#" : "8.0.106",
+      "nim" : "2.0.4",
+      "c++" : "18.1.8",
+      "nqp" : "2024.06-4-ga79798778",
+      "ruby" : "3.0.6p216",
+      "lua" : "2.1.1720049189"
+   }
+}
