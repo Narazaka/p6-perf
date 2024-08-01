@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "lua" : 357,
+         "javascript" : 309,
+         "nim" : 89,
+         "ruby" : 2657,
+         "c++" : 17,
+         "perl6" : 12152,
+         "perl" : 16125,
+         "c#" : 0,
+         "nqp" : 19721
+      },
+      "re_capture" : {
+         "nqp" : 10824,
+         "perl6" : 13896,
+         "perl" : 246,
+         "ruby" : 506,
+         "lua" : 233,
+         "javascript" : 111
+      },
+      "str_join" : {
+         "perl" : 543,
+         "c#" : 0,
+         "perl6" : 3008,
+         "nqp" : 1243,
+         "javascript" : 91,
+         "lua" : 119,
+         "nim" : 41,
+         "c++" : 0,
+         "ruby" : 1680
+      },
+      "json_se" : {
+         "ruby" : 3052,
+         "javascript" : 451,
+         "perl" : 382
+      },
+      "fib_fast" : {
+         "perl6" : 1014,
+         "javascript" : 20
+      },
+      "json_de" : {
+         "ruby" : 2049,
+         "javascript" : 705,
+         "perl" : 934
+      },
+      "str_join_slow" : {
+         "perl6" : 10936,
+         "perl" : 1521,
+         "c#" : 0,
+         "lua" : 9531,
+         "javascript" : 172,
+         "nim" : 156,
+         "c++" : 85,
+         "ruby" : 18655
+      },
+      "fib" : {
+         "nqp" : 9476,
+         "perl" : 5932,
+         "c#" : 0,
+         "perl6" : 5516,
+         "nim" : 34,
+         "ruby" : 913,
+         "c++" : 2,
+         "javascript" : 148,
+         "lua" : 143
+      },
+      "str_join_repeat" : {
+         "perl" : 11,
+         "lua" : 1,
+         "perl6" : 5,
+         "ruby" : 60,
+         "nim" : 59
+      },
+      "re_bool" : {
+         "perl6" : 2776,
+         "perl" : 616,
+         "nqp" : 3423,
+         "lua" : 186,
+         "javascript" : 42,
+         "ruby" : 227
+      }
+   },
+   "version" : {
+      "nqp" : "2024.07-1-gdb266cfe6",
+      "perl6" : null,
+      "c#" : "8.0.107",
+      "perl" : "v5.38.2",
+      "ruby" : "3.0.6p216",
+      "c++" : "18.1.8",
+      "nim" : "2.0.4",
+      "lua" : "2.1.1720049189",
+      "javascript" : "v22.5.1"
+   }
+}
