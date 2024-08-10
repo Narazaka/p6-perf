@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "8.0.107",
+      "nqp" : "2024.07-6-g70db49669",
+      "lua" : "2.1.1720049189",
+      "perl6" : null,
+      "javascript" : "v22.6.0",
+      "nim" : "2.0.4",
+      "ruby" : "3.2.4",
+      "perl" : "v5.38.2",
+      "c++" : "18.1.8"
+   },
+   "result" : {
+      "re_capture" : {
+         "nqp" : 8614,
+         "ruby" : 490,
+         "perl" : 166,
+         "lua" : 232,
+         "perl6" : 11231,
+         "javascript" : 83
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 1045
+      },
+      "takeuchi" : {
+         "perl" : 12650,
+         "ruby" : 2155,
+         "c++" : 17,
+         "c#" : 0,
+         "lua" : 367,
+         "nqp" : 18236,
+         "javascript" : 298,
+         "nim" : 85,
+         "perl6" : 11681
+      },
+      "str_join_slow" : {
+         "c++" : 60,
+         "ruby" : 18779,
+         "perl" : 1428,
+         "perl6" : 10184,
+         "javascript" : 161,
+         "nim" : 158,
+         "c#" : 0,
+         "lua" : 8111
+      },
+      "re_bool" : {
+         "perl" : 452,
+         "lua" : 167,
+         "nqp" : 3172,
+         "ruby" : 165,
+         "javascript" : 36,
+         "perl6" : 2558
+      },
+      "json_se" : {
+         "ruby" : 2230,
+         "perl" : 355,
+         "javascript" : 359
+      },
+      "fib" : {
+         "perl6" : 4743,
+         "javascript" : 139,
+         "nim" : 34,
+         "c#" : 0,
+         "nqp" : 8198,
+         "lua" : 164,
+         "c++" : 3,
+         "ruby" : 848,
+         "perl" : 5135
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "nim" : 54,
+         "ruby" : 68,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "json_de" : {
+         "ruby" : 2283,
+         "perl" : 836,
+         "javascript" : 721
+      },
+      "str_join" : {
+         "ruby" : 1013,
+         "perl" : 431,
+         "c++" : 0,
+         "c#" : 0,
+         "nqp" : 1161,
+         "lua" : 97,
+         "perl6" : 2514,
+         "javascript" : 61,
+         "nim" : 40
+      }
+   }
+}
