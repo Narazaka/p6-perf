@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "nim" : 169,
+         "c#" : 0,
+         "c++" : 59,
+         "perl6" : 9627,
+         "perl" : 1408,
+         "javascript" : 147,
+         "ruby" : 16597,
+         "lua" : 8333
+      },
+      "json_de" : {
+         "perl" : 722,
+         "javascript" : 694,
+         "ruby" : 2519
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 894
+      },
+      "json_se" : {
+         "perl" : 332,
+         "javascript" : 354,
+         "ruby" : 2336
+      },
+      "takeuchi" : {
+         "javascript" : 295,
+         "lua" : 367,
+         "ruby" : 2131,
+         "perl6" : 11400,
+         "perl" : 12746,
+         "c++" : 17,
+         "c#" : 0,
+         "nqp" : 18892,
+         "nim" : 94
+      },
+      "re_bool" : {
+         "nqp" : 2719,
+         "javascript" : 36,
+         "ruby" : 182,
+         "lua" : 186,
+         "perl6" : 2329,
+         "perl" : 437
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "lua" : 232,
+         "ruby" : 492,
+         "perl6" : 10613,
+         "perl" : 166,
+         "nqp" : 8532
+      },
+      "str_join_repeat" : {
+         "nim" : 55,
+         "perl" : 3,
+         "perl6" : 4,
+         "ruby" : 60,
+         "lua" : 1
+      },
+      "str_join" : {
+         "c#" : 0,
+         "c++" : 0,
+         "perl6" : 2278,
+         "perl" : 446,
+         "javascript" : 60,
+         "ruby" : 989,
+         "lua" : 97,
+         "nqp" : 1017,
+         "nim" : 43
+      },
+      "fib" : {
+         "javascript" : 139,
+         "ruby" : 972,
+         "lua" : 174,
+         "perl6" : 5217,
+         "perl" : 4948,
+         "c++" : 2,
+         "c#" : 0,
+         "nqp" : 8499,
+         "nim" : 39
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "perl" : "v5.38.2",
+      "javascript" : "v22.6.0",
+      "ruby" : "3.2.4",
+      "lua" : "2.1.1720049189",
+      "c#" : "8.0.107",
+      "c++" : "18.1.8",
+      "nqp" : "2024.07-6-g70db49669",
+      "nim" : "2.0.4"
+   }
+}
