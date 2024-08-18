@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 9709,
+         "nqp" : 0,
+         "perl" : 181,
+         "javascript" : 82,
+         "ruby" : 469,
+         "lua" : 230
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "javascript" : 60,
+         "c++" : 0,
+         "perl6" : 2123,
+         "ruby" : 970,
+         "c#" : 0,
+         "lua" : 96,
+         "nim" : 40,
+         "perl" : 462
+      },
+      "json_se" : {
+         "perl" : 345,
+         "javascript" : 355,
+         "ruby" : 1933
+      },
+      "fib" : {
+         "nim" : 34,
+         "c#" : 0,
+         "ruby" : 948,
+         "lua" : 166,
+         "perl" : 5067,
+         "c++" : 2,
+         "perl6" : 4671,
+         "nqp" : 0,
+         "javascript" : 139
+      },
+      "str_join_slow" : {
+         "ruby" : 16421,
+         "lua" : 7664,
+         "c#" : 0,
+         "nim" : 160,
+         "perl" : 1409,
+         "javascript" : 146,
+         "c++" : 59,
+         "perl6" : 9258
+      },
+      "takeuchi" : {
+         "ruby" : 2111,
+         "lua" : 367,
+         "c#" : 0,
+         "nim" : 89,
+         "perl" : 12973,
+         "nqp" : 0,
+         "javascript" : 295,
+         "c++" : 17,
+         "perl6" : 11160
+      },
+      "re_bool" : {
+         "perl6" : 2010,
+         "javascript" : 36,
+         "nqp" : 0,
+         "perl" : 467,
+         "lua" : 167,
+         "ruby" : 164
+      },
+      "fib_fast" : {
+         "perl6" : 787,
+         "javascript" : 18
+      },
+      "str_join_repeat" : {
+         "ruby" : 57,
+         "lua" : 1,
+         "nim" : 63,
+         "perl" : 3,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "javascript" : 636,
+         "perl" : 781,
+         "ruby" : 2152
+      }
+   },
+   "version" : {
+      "nim" : "2.0.4",
+      "ruby" : "3.2.4",
+      "lua" : "2.1.1720049189",
+      "c#" : "8.0.107",
+      "perl" : "v5.38.2",
+      "c++" : "18.1.8",
+      "perl6" : null,
+      "nqp" : "2024.07-6-g70db49669",
+      "javascript" : "v22.6.0"
+   }
+}
