@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 56,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 4,
+         "ruby" : 57
+      },
+      "re_capture" : {
+         "perl6" : 12178,
+         "perl" : 167,
+         "nqp" : 8478,
+         "ruby" : 476,
+         "lua" : 282,
+         "javascript" : 83
+      },
+      "json_de" : {
+         "ruby" : 2241,
+         "perl" : 729,
+         "javascript" : 659
+      },
+      "takeuchi" : {
+         "javascript" : 323,
+         "nqp" : 19342,
+         "perl" : 12433,
+         "perl6" : 12076,
+         "c#" : 0,
+         "ruby" : 2197,
+         "lua" : 367,
+         "nim" : 84,
+         "c++" : 19
+      },
+      "fib" : {
+         "nim" : 34,
+         "lua" : 150,
+         "c++" : 2,
+         "perl" : 4909,
+         "perl6" : 4816,
+         "nqp" : 7876,
+         "ruby" : 890,
+         "c#" : 0,
+         "javascript" : 147
+      },
+      "json_se" : {
+         "perl" : 332,
+         "javascript" : 361,
+         "ruby" : 2133
+      },
+      "str_join_slow" : {
+         "c++" : 59,
+         "nim" : 151,
+         "lua" : 7986,
+         "ruby" : 16995,
+         "c#" : 0,
+         "perl" : 1371,
+         "perl6" : 10755,
+         "javascript" : 158
+      },
+      "str_join" : {
+         "javascript" : 62,
+         "c++" : 0,
+         "lua" : 98,
+         "nim" : 41,
+         "c#" : 0,
+         "ruby" : 978,
+         "nqp" : 1070,
+         "perl" : 430,
+         "perl6" : 2593
+      },
+      "re_bool" : {
+         "lua" : 173,
+         "nqp" : 2776,
+         "perl6" : 2624,
+         "perl" : 439,
+         "ruby" : 160,
+         "javascript" : 37
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 1054
+      }
+   },
+   "version" : {
+      "c++" : "18.1.8",
+      "nim" : "2.0.4",
+      "lua" : "2.1.1723675123",
+      "ruby" : "3.2.4",
+      "c#" : "8.0.107",
+      "javascript" : "v22.6.0",
+      "perl" : "v5.38.2",
+      "perl6" : null,
+      "nqp" : "2024.07-6-g70db49669"
+   }
+}
