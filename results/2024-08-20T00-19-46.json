@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "perl" : 818,
+         "ruby" : 2135,
+         "javascript" : 655
+      },
+      "re_bool" : {
+         "perl" : 466,
+         "perl6" : 2404,
+         "ruby" : 158,
+         "javascript" : 36,
+         "nqp" : 0,
+         "lua" : 171
+      },
+      "str_join" : {
+         "nim" : 40,
+         "nqp" : 0,
+         "c++" : 0,
+         "perl" : 429,
+         "lua" : 95,
+         "ruby" : 947,
+         "javascript" : 60,
+         "c#" : 0,
+         "perl6" : 2378
+      },
+      "json_se" : {
+         "perl" : 356,
+         "ruby" : 2003,
+         "javascript" : 352
+      },
+      "re_capture" : {
+         "lua" : 256,
+         "perl" : 166,
+         "perl6" : 11448,
+         "ruby" : 481,
+         "javascript" : 82,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "nim" : 83,
+         "nqp" : 0,
+         "c++" : 17,
+         "perl" : 12769,
+         "ruby" : 2178,
+         "javascript" : 322,
+         "c#" : 0,
+         "perl6" : 11465,
+         "lua" : 367
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 860
+      },
+      "fib" : {
+         "nim" : 34,
+         "nqp" : 0,
+         "c++" : 2,
+         "perl" : 5348,
+         "ruby" : 834,
+         "javascript" : 139,
+         "c#" : 0,
+         "perl6" : 4566,
+         "lua" : 141
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 54,
+         "ruby" : 55,
+         "lua" : 1
+      },
+      "str_join_slow" : {
+         "perl" : 1387,
+         "c++" : 59,
+         "nim" : 149,
+         "perl6" : 9919,
+         "ruby" : 16890,
+         "javascript" : 146,
+         "c#" : 0,
+         "lua" : 8198
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1723675123",
+      "c#" : "8.0.107",
+      "ruby" : "3.2.4",
+      "javascript" : "v22.6.0",
+      "perl6" : null,
+      "nqp" : "2024.07-6-g70db49669",
+      "nim" : "2.0.4",
+      "perl" : "v5.38.2",
+      "c++" : "18.1.8"
+   }
+}
