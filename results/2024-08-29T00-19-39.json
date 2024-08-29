@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 347,
+         "perl" : 329,
+         "ruby" : 1831
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "ruby" : 920,
+         "perl" : 423,
+         "lua" : 94,
+         "javascript" : 60,
+         "c++" : 0,
+         "perl6" : 2099,
+         "nim" : 41,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "ruby" : 55,
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 52,
+         "perl6" : 4
+      },
+      "str_join_slow" : {
+         "perl" : 1341,
+         "ruby" : 15123,
+         "nim" : 147,
+         "c#" : 0,
+         "perl6" : 8985,
+         "c++" : 59,
+         "javascript" : 145,
+         "lua" : 7538
+      },
+      "json_de" : {
+         "javascript" : 649,
+         "ruby" : 2094,
+         "perl" : 731
+      },
+      "re_bool" : {
+         "perl6" : 2041,
+         "javascript" : 35,
+         "lua" : 169,
+         "perl" : 435,
+         "nqp" : 0,
+         "ruby" : 157
+      },
+      "fib_fast" : {
+         "perl6" : 754,
+         "javascript" : 20
+      },
+      "fib" : {
+         "ruby" : 863,
+         "nqp" : 0,
+         "perl" : 4904,
+         "c++" : 2,
+         "javascript" : 137,
+         "lua" : 167,
+         "nim" : 34,
+         "c#" : 0,
+         "perl6" : 4616
+      },
+      "takeuchi" : {
+         "javascript" : 294,
+         "lua" : 364,
+         "c++" : 17,
+         "perl6" : 11140,
+         "nim" : 83,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 2099,
+         "perl" : 12281
+      },
+      "re_capture" : {
+         "perl6" : 9857,
+         "javascript" : 82,
+         "lua" : 246,
+         "perl" : 164,
+         "ruby" : 450,
+         "nqp" : 0
+      }
+   },
+   "version" : {
+      "c++" : "18.1.8",
+      "nim" : "2.0.4",
+      "ruby" : "3.2.4",
+      "nqp" : "2024.07-7-g82425cb36",
+      "perl" : "v5.38.2",
+      "lua" : "2.1.1723675123",
+      "javascript" : "v22.7.0",
+      "c#" : "8.0.107",
+      "perl6" : null
+   }
+}
