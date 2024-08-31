@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "perl6" : 2494,
+         "nqp" : 2902,
+         "ruby" : 156,
+         "perl" : 472,
+         "javascript" : 36,
+         "lua" : 173
+      },
+      "json_se" : {
+         "perl" : 338,
+         "ruby" : 2017,
+         "javascript" : 364
+      },
+      "json_de" : {
+         "javascript" : 703,
+         "perl" : 733,
+         "ruby" : 2292
+      },
+      "takeuchi" : {
+         "perl6" : 11910,
+         "lua" : 367,
+         "c++" : 17,
+         "nqp" : 18455,
+         "nim" : 84,
+         "javascript" : 322,
+         "perl" : 13136,
+         "ruby" : 2200,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 18,
+         "perl6" : 957
+      },
+      "str_join_slow" : {
+         "perl6" : 9453,
+         "lua" : 7904,
+         "c++" : 60,
+         "nim" : 149,
+         "javascript" : 158,
+         "c#" : 0,
+         "perl" : 1388,
+         "ruby" : 16773
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "nim" : 53,
+         "lua" : 1,
+         "ruby" : 58,
+         "perl" : 4
+      },
+      "fib" : {
+         "lua" : 156,
+         "c++" : 2,
+         "nqp" : 8748,
+         "perl6" : 4631,
+         "javascript" : 140,
+         "c#" : 0,
+         "perl" : 4936,
+         "ruby" : 835,
+         "nim" : 34
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nqp" : 991,
+         "lua" : 95,
+         "perl6" : 2350,
+         "c#" : 0,
+         "ruby" : 973,
+         "perl" : 466,
+         "javascript" : 68,
+         "nim" : 41
+      },
+      "re_capture" : {
+         "perl6" : 11153,
+         "nqp" : 9026,
+         "perl" : 172,
+         "ruby" : 459,
+         "lua" : 257,
+         "javascript" : 92
+      }
+   },
+   "version" : {
+      "nim" : "2.0.4",
+      "javascript" : "v22.7.0",
+      "c#" : "8.0.107",
+      "ruby" : "3.2.5",
+      "perl" : "v5.38.2",
+      "perl6" : null,
+      "lua" : "2.1.1723675123",
+      "c++" : "18.1.8",
+      "nqp" : "2024.08-2-gc450b5b96"
+   }
+}
