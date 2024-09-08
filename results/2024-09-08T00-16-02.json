@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "nim" : 83,
+         "javascript" : 295,
+         "perl" : 12670,
+         "ruby" : 2201,
+         "lua" : 368,
+         "c#" : 0,
+         "nqp" : 18445,
+         "c++" : 17,
+         "perl6" : 11272
+      },
+      "str_join" : {
+         "javascript" : 61,
+         "nim" : 40,
+         "perl" : 444,
+         "ruby" : 972,
+         "lua" : 96,
+         "perl6" : 2176,
+         "c++" : 0,
+         "nqp" : 864,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "ruby" : 156,
+         "javascript" : 36,
+         "lua" : 170,
+         "nqp" : 2545,
+         "perl" : 454,
+         "perl6" : 2201
+      },
+      "re_capture" : {
+         "ruby" : 456,
+         "javascript" : 83,
+         "lua" : 255,
+         "perl6" : 10307,
+         "perl" : 187,
+         "nqp" : 7624
+      },
+      "fib_fast" : {
+         "perl6" : 803,
+         "javascript" : 18
+      },
+      "fib" : {
+         "javascript" : 140,
+         "nim" : 35,
+         "perl" : 5000,
+         "lua" : 142,
+         "ruby" : 838,
+         "perl6" : 4634,
+         "c++" : 3,
+         "nqp" : 7965,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "ruby" : 18249,
+         "lua" : 7765,
+         "c++" : 59,
+         "c#" : 0,
+         "perl6" : 9145,
+         "javascript" : 146,
+         "nim" : 149,
+         "perl" : 1493
+      },
+      "json_de" : {
+         "perl" : 804,
+         "javascript" : 690,
+         "ruby" : 2208
+      },
+      "json_se" : {
+         "perl" : 338,
+         "ruby" : 1872,
+         "javascript" : 351
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 5,
+         "nim" : 60,
+         "lua" : 1,
+         "ruby" : 61
+      }
+   },
+   "version" : {
+      "perl" : "v5.40.0",
+      "javascript" : "v22.8.0",
+      "nim" : "2.0.4",
+      "c++" : "18.1.8",
+      "c#" : "8.0.107",
+      "nqp" : "2024.08-2-gc450b5b96",
+      "perl6" : null,
+      "ruby" : "3.2.5",
+      "lua" : "2.1.1723675123"
+   }
+}
