@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "8.0.108",
+      "javascript" : "v22.8.0",
+      "perl" : "v5.40.0",
+      "nim" : "2.0.8",
+      "c++" : "18.1.8",
+      "nqp" : "2024.08-2-gc450b5b96",
+      "ruby" : "3.2.5",
+      "lua" : "2.1.1723675123",
+      "perl6" : null
+   },
+   "result" : {
+      "re_bool" : {
+         "nqp" : 2676,
+         "ruby" : 158,
+         "lua" : 174,
+         "javascript" : 35,
+         "perl6" : 2174,
+         "perl" : 458
+      },
+      "re_capture" : {
+         "nqp" : 7910,
+         "ruby" : 463,
+         "lua" : 256,
+         "perl6" : 10120,
+         "javascript" : 82,
+         "perl" : 188
+      },
+      "json_de" : {
+         "ruby" : 2256,
+         "perl" : 771,
+         "javascript" : 669
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 67,
+         "perl6" : 4,
+         "ruby" : 60,
+         "lua" : 1
+      },
+      "json_se" : {
+         "perl" : 351,
+         "javascript" : 356,
+         "ruby" : 1990
+      },
+      "fib" : {
+         "nqp" : 7955,
+         "lua" : 132,
+         "ruby" : 865,
+         "perl6" : 4604,
+         "c#" : 0,
+         "javascript" : 138,
+         "perl" : 5016,
+         "nim" : 36,
+         "c++" : 2
+      },
+      "str_join" : {
+         "nqp" : 882,
+         "ruby" : 956,
+         "lua" : 95,
+         "perl6" : 2144,
+         "c#" : 0,
+         "javascript" : 61,
+         "perl" : 463,
+         "nim" : 45,
+         "c++" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 812,
+         "javascript" : 19
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "javascript" : 148,
+         "nim" : 160,
+         "c++" : 59,
+         "perl" : 1382,
+         "lua" : 7740,
+         "ruby" : 16008,
+         "perl6" : 9349
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "javascript" : 295,
+         "perl" : 12716,
+         "nim" : 97,
+         "c++" : 17,
+         "nqp" : 18127,
+         "lua" : 367,
+         "ruby" : 2181,
+         "perl6" : 11529
+      }
+   }
+}
