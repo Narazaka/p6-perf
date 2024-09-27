@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 2436,
+         "javascript" : 385,
+         "perl" : 342
+      },
+      "takeuchi" : {
+         "javascript" : 299,
+         "nim" : 104,
+         "perl6" : 12144,
+         "nqp" : 0,
+         "perl" : 13847,
+         "c++" : 20,
+         "ruby" : 2314,
+         "lua" : 387,
+         "c#" : 0
+      },
+      "fib" : {
+         "lua" : 149,
+         "ruby" : 951,
+         "perl" : 5238,
+         "c++" : 3,
+         "c#" : 0,
+         "nim" : 36,
+         "javascript" : 149,
+         "nqp" : 0,
+         "perl6" : 5006
+      },
+      "str_join" : {
+         "perl6" : 3010,
+         "nqp" : 0,
+         "nim" : 57,
+         "javascript" : 65,
+         "c#" : 0,
+         "ruby" : 1063,
+         "lua" : 97,
+         "c++" : 0,
+         "perl" : 450
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "lua" : 7842,
+         "ruby" : 19527,
+         "perl" : 1570,
+         "c++" : 65,
+         "perl6" : 10822,
+         "nim" : 166,
+         "javascript" : 147
+      },
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 1097
+      },
+      "re_bool" : {
+         "javascript" : 38,
+         "perl" : 456,
+         "ruby" : 204,
+         "lua" : 178,
+         "perl6" : 3179,
+         "nqp" : 0
+      },
+      "re_capture" : {
+         "perl" : 187,
+         "javascript" : 86,
+         "lua" : 266,
+         "ruby" : 587,
+         "nqp" : 0,
+         "perl6" : 13805
+      },
+      "json_de" : {
+         "javascript" : 702,
+         "perl" : 806,
+         "ruby" : 2862
+      },
+      "str_join_repeat" : {
+         "perl6" : 9,
+         "nim" : 73,
+         "ruby" : 65,
+         "lua" : 1,
+         "perl" : 3
+      }
+   },
+   "version" : {
+      "javascript" : "v22.9.0",
+      "nim" : "2.0.8",
+      "nqp" : "2024.09",
+      "perl6" : null,
+      "c++" : "18.1.8",
+      "perl" : "v5.40.0",
+      "lua" : "2.1.1725453128",
+      "ruby" : "3.2.5",
+      "c#" : "8.0.108"
+   }
+}
