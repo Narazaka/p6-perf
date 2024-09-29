@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "ruby" : 2020,
+         "perl" : 365,
+         "javascript" : 393
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "perl" : 231,
+         "ruby" : 481,
+         "lua" : 256,
+         "perl6" : 11463,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "perl" : 495,
+         "ruby" : 169,
+         "lua" : 172,
+         "perl6" : 2344,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "perl" : 861,
+         "javascript" : 739,
+         "ruby" : 2309
+      },
+      "fib" : {
+         "nqp" : 0,
+         "perl6" : 4785,
+         "nim" : 43,
+         "lua" : 143,
+         "c++" : 3,
+         "c#" : 0,
+         "perl" : 5491,
+         "javascript" : 158,
+         "ruby" : 967
+      },
+      "str_join_slow" : {
+         "ruby" : 17823,
+         "perl" : 1516,
+         "javascript" : 145,
+         "perl6" : 9804,
+         "nim" : 179,
+         "lua" : 7860,
+         "c++" : 62,
+         "c#" : 0
+      },
+      "str_join" : {
+         "c++" : 0,
+         "lua" : 95,
+         "c#" : 0,
+         "nqp" : 0,
+         "nim" : 46,
+         "perl6" : 1933,
+         "perl" : 469,
+         "javascript" : 54,
+         "ruby" : 1036
+      },
+      "str_join_repeat" : {
+         "ruby" : 62,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 95
+      },
+      "takeuchi" : {
+         "ruby" : 2304,
+         "javascript" : 296,
+         "perl" : 13366,
+         "c#" : 0,
+         "lua" : 386,
+         "c++" : 17,
+         "perl6" : 12063,
+         "nim" : 106,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 906,
+         "javascript" : 18
+      }
+   },
+   "version" : {
+      "ruby" : "3.2.5",
+      "javascript" : "v22.9.0",
+      "perl" : "v5.40.0",
+      "c#" : "8.0.108",
+      "c++" : "18.1.8",
+      "lua" : "2.1.1725453128",
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "nqp" : "2024.09-1-g5bf8ae18e"
+   }
+}
