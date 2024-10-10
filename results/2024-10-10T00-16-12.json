@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "nqp" : 2545,
+         "perl6" : 2233,
+         "ruby" : 156,
+         "lua" : 172,
+         "perl" : 454,
+         "javascript" : 37
+      },
+      "fib_fast" : {
+         "perl6" : 760,
+         "javascript" : 20
+      },
+      "str_join_repeat" : {
+         "ruby" : 58,
+         "perl" : 3,
+         "perl6" : 4,
+         "lua" : 1,
+         "nim" : 67
+      },
+      "fib" : {
+         "ruby" : 840,
+         "lua" : 159,
+         "perl" : 4985,
+         "javascript" : 138,
+         "nim" : 36,
+         "c++" : 2,
+         "c#" : 0,
+         "nqp" : 8221,
+         "perl6" : 4605
+      },
+      "json_se" : {
+         "perl" : 354,
+         "javascript" : 354,
+         "ruby" : 2010
+      },
+      "re_capture" : {
+         "perl6" : 9937,
+         "nqp" : 7592,
+         "ruby" : 455,
+         "javascript" : 82,
+         "perl" : 196,
+         "lua" : 253
+      },
+      "str_join_slow" : {
+         "perl6" : 9119,
+         "c#" : 0,
+         "c++" : 71,
+         "perl" : 1394,
+         "lua" : 7607,
+         "nim" : 160,
+         "javascript" : 140,
+         "ruby" : 16060
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nqp" : 849,
+         "c#" : 0,
+         "perl6" : 1801,
+         "ruby" : 930,
+         "nim" : 46,
+         "javascript" : 54,
+         "lua" : 96,
+         "perl" : 443
+      },
+      "json_de" : {
+         "ruby" : 2225,
+         "javascript" : 662,
+         "perl" : 783
+      },
+      "takeuchi" : {
+         "ruby" : 2190,
+         "javascript" : 297,
+         "nim" : 97,
+         "perl" : 12705,
+         "lua" : 367,
+         "c++" : 17,
+         "perl6" : 11123,
+         "c#" : 0,
+         "nqp" : 17729
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c#" : "8.0.108",
+      "nqp" : "2024.09-6-gd280677bd",
+      "c++" : "18.1.8",
+      "nim" : "2.0.8",
+      "javascript" : "v22.9.0",
+      "perl" : "v5.40.0",
+      "lua" : "2.1.1725453128",
+      "ruby" : "3.2.5"
+   }
+}
