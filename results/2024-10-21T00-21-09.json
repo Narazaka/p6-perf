@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v22.10.0",
+      "nqp" : "2024.09-10-gbeab4ca6f",
+      "c#" : "8.0.108",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.0",
+      "ruby" : "3.3.5",
+      "perl6" : null,
+      "c++" : "18.1.8",
+      "lua" : "2.1.1727870382"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 10735,
+         "lua" : 9092,
+         "c++" : 73,
+         "javascript" : 157,
+         "nim" : 213,
+         "c#" : 0,
+         "perl" : 1867,
+         "ruby" : 15249
+      },
+      "json_de" : {
+         "javascript" : 709,
+         "ruby" : 2201,
+         "perl" : 857
+      },
+      "re_bool" : {
+         "perl6" : 2794,
+         "nqp" : 0,
+         "javascript" : 37,
+         "perl" : 502,
+         "ruby" : 170,
+         "lua" : 187
+      },
+      "re_capture" : {
+         "perl6" : 13225,
+         "javascript" : 88,
+         "nqp" : 0,
+         "lua" : 265,
+         "perl" : 213,
+         "ruby" : 491
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 1000
+      },
+      "str_join" : {
+         "perl6" : 2353,
+         "c++" : 0,
+         "lua" : 185,
+         "javascript" : 62,
+         "nqp" : 0,
+         "c#" : 0,
+         "nim" : 50,
+         "perl" : 625,
+         "ruby" : 1131
+      },
+      "takeuchi" : {
+         "lua" : 395,
+         "c++" : 22,
+         "perl6" : 12542,
+         "perl" : 16408,
+         "ruby" : 2709,
+         "javascript" : 313,
+         "c#" : 0,
+         "nqp" : 0,
+         "nim" : 101
+      },
+      "fib" : {
+         "c++" : 2,
+         "lua" : 169,
+         "perl6" : 5168,
+         "perl" : 5954,
+         "ruby" : 1066,
+         "javascript" : 141,
+         "nqp" : 0,
+         "nim" : 36,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 67,
+         "perl6" : 6,
+         "perl" : 3,
+         "ruby" : 51,
+         "lua" : 1
+      },
+      "json_se" : {
+         "javascript" : 371,
+         "ruby" : 2658,
+         "perl" : 412
+      }
+   }
+}
