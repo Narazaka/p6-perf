@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 1155
+      },
+      "re_bool" : {
+         "perl" : 815,
+         "nqp" : 0,
+         "ruby" : 255,
+         "javascript" : 42,
+         "perl6" : 3617,
+         "lua" : 174
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "nqp" : 0,
+         "javascript" : 337,
+         "perl6" : 16397,
+         "lua" : 382,
+         "nim" : 98,
+         "perl" : 25416,
+         "ruby" : 5639,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "lua" : 8866,
+         "perl6" : 13836,
+         "c#" : 0,
+         "ruby" : 15544,
+         "perl" : 2766,
+         "nim" : 261,
+         "c++" : 153,
+         "javascript" : 151
+      },
+      "re_capture" : {
+         "lua" : 260,
+         "perl6" : 15593,
+         "javascript" : 96,
+         "perl" : 349,
+         "ruby" : 550,
+         "nqp" : 0
+      },
+      "fib" : {
+         "c++" : 2,
+         "javascript" : 124,
+         "nqp" : 0,
+         "lua" : 165,
+         "perl6" : 6442,
+         "c#" : 0,
+         "nim" : 36,
+         "perl" : 11500,
+         "ruby" : 1693
+      },
+      "str_join" : {
+         "c++" : 0,
+         "javascript" : 69,
+         "nqp" : 0,
+         "lua" : 178,
+         "perl6" : 2477,
+         "c#" : 0,
+         "ruby" : 1157,
+         "perl" : 1280,
+         "nim" : 51
+      },
+      "json_se" : {
+         "javascript" : 399,
+         "ruby" : 3316,
+         "perl" : 546
+      },
+      "str_join_repeat" : {
+         "perl" : 4,
+         "nim" : 162,
+         "ruby" : 49,
+         "perl6" : 6,
+         "lua" : 1
+      },
+      "json_de" : {
+         "perl" : 1074,
+         "ruby" : 2548,
+         "javascript" : 781
+      }
+   },
+   "version" : {
+      "c#" : "8.0.110",
+      "perl" : "v5.40.0",
+      "nim" : "2.0.8",
+      "ruby" : "3.3.5",
+      "lua" : "2.1.1727870382",
+      "perl6" : null,
+      "javascript" : "v23.1.0",
+      "nqp" : "2024.10-2-g726adeb32",
+      "c++" : "18.1.8"
+   }
+}
