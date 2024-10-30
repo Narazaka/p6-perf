@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 14717,
+         "ruby" : 538,
+         "lua" : 261,
+         "nqp" : 11281,
+         "perl" : 364,
+         "javascript" : 85
+      },
+      "json_se" : {
+         "perl" : 537,
+         "ruby" : 3236,
+         "javascript" : 396
+      },
+      "str_join_slow" : {
+         "c++" : 152,
+         "perl" : 2825,
+         "javascript" : 159,
+         "c#" : 0,
+         "nim" : 258,
+         "perl6" : 13124,
+         "ruby" : 16079,
+         "lua" : 8462
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "ruby" : 60,
+         "lua" : 1,
+         "perl" : 4,
+         "nim" : 158
+      },
+      "fib" : {
+         "perl6" : 6256,
+         "lua" : 154,
+         "ruby" : 1710,
+         "nim" : 37,
+         "c#" : 0,
+         "javascript" : 129,
+         "nqp" : 13776,
+         "c++" : 3,
+         "perl" : 11433
+      },
+      "takeuchi" : {
+         "ruby" : 5657,
+         "lua" : 379,
+         "perl6" : 15799,
+         "nim" : 97,
+         "c#" : 0,
+         "javascript" : 316,
+         "perl" : 25654,
+         "nqp" : 33829,
+         "c++" : 17
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "perl" : 803,
+         "nqp" : 3364,
+         "lua" : 175,
+         "ruby" : 258,
+         "perl6" : 3410
+      },
+      "fib_fast" : {
+         "perl6" : 1054,
+         "javascript" : 20
+      },
+      "str_join" : {
+         "c#" : 0,
+         "javascript" : 67,
+         "perl6" : 2353,
+         "lua" : 183,
+         "ruby" : 1141,
+         "nim" : 56,
+         "c++" : 0,
+         "nqp" : 1070,
+         "perl" : 1338
+      },
+      "json_de" : {
+         "javascript" : 740,
+         "perl" : 975,
+         "ruby" : 2425
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "ruby" : "3.3.5",
+      "lua" : "2.1.1727870382",
+      "nim" : "2.0.8",
+      "c#" : "8.0.110",
+      "javascript" : "v23.1.0",
+      "c++" : "18.1.8",
+      "nqp" : "2024.10-2-g726adeb32",
+      "perl" : "v5.40.0"
+   }
+}
