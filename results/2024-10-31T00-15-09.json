@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.3.5",
+      "c#" : "8.0.110",
+      "nqp" : "2024.10-2-g726adeb32",
+      "c++" : "18.1.8",
+      "javascript" : "v23.1.0",
+      "perl6" : null,
+      "perl" : "v5.40.0",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1727870382"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "ruby" : 13264,
+         "c++" : 59,
+         "c#" : 0,
+         "perl6" : 9128,
+         "javascript" : 145,
+         "lua" : 7976,
+         "perl" : 1380,
+         "nim" : 160
+      },
+      "str_join_repeat" : {
+         "nim" : 67,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 44,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "perl" : 803,
+         "ruby" : 1895,
+         "javascript" : 563
+      },
+      "json_se" : {
+         "perl" : 351,
+         "ruby" : 2295,
+         "javascript" : 364
+      },
+      "takeuchi" : {
+         "javascript" : 309,
+         "perl6" : 11356,
+         "perl" : 12687,
+         "nim" : 97,
+         "lua" : 356,
+         "ruby" : 2071,
+         "c#" : 0,
+         "c++" : 17,
+         "nqp" : 17825
+      },
+      "fib_fast" : {
+         "perl6" : 762,
+         "javascript" : 18
+      },
+      "fib" : {
+         "c++" : 2,
+         "nqp" : 7957,
+         "c#" : 0,
+         "ruby" : 843,
+         "lua" : 161,
+         "perl" : 4955,
+         "nim" : 36,
+         "perl6" : 4571,
+         "javascript" : 122
+      },
+      "re_capture" : {
+         "javascript" : 82,
+         "ruby" : 419,
+         "perl6" : 9905,
+         "perl" : 184,
+         "nqp" : 7478,
+         "lua" : 255
+      },
+      "re_bool" : {
+         "lua" : 172,
+         "nqp" : 2546,
+         "perl" : 451,
+         "perl6" : 2116,
+         "ruby" : 167,
+         "javascript" : 36
+      },
+      "str_join" : {
+         "lua" : 95,
+         "nim" : 46,
+         "perl" : 440,
+         "perl6" : 1753,
+         "javascript" : 57,
+         "c++" : 0,
+         "nqp" : 825,
+         "c#" : 0,
+         "ruby" : 1039
+      }
+   }
+}
