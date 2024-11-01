@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "lua" : 171,
+         "perl6" : 2323,
+         "ruby" : 167,
+         "nqp" : 0,
+         "perl" : 452,
+         "javascript" : 37
+      },
+      "json_se" : {
+         "perl" : 350,
+         "javascript" : 345,
+         "ruby" : 2264
+      },
+      "str_join_slow" : {
+         "ruby" : 14286,
+         "perl" : 1378,
+         "javascript" : 143,
+         "c++" : 59,
+         "perl6" : 9231,
+         "lua" : 7556,
+         "nim" : 160,
+         "c#" : 0
+      },
+      "str_join" : {
+         "nim" : 46,
+         "c#" : 0,
+         "perl6" : 1808,
+         "lua" : 96,
+         "c++" : 0,
+         "nqp" : 0,
+         "ruby" : 1035,
+         "javascript" : 57,
+         "perl" : 440
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 815
+      },
+      "str_join_repeat" : {
+         "ruby" : 45,
+         "perl6" : 4,
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 67
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nim" : 97,
+         "perl6" : 11333,
+         "lua" : 367,
+         "c++" : 18,
+         "perl" : 13263,
+         "javascript" : 310,
+         "nqp" : 0,
+         "ruby" : 2220
+      },
+      "json_de" : {
+         "ruby" : 1925,
+         "perl" : 776,
+         "javascript" : 586
+      },
+      "fib" : {
+         "perl6" : 4539,
+         "lua" : 161,
+         "nim" : 36,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 845,
+         "perl" : 5036,
+         "javascript" : 124,
+         "c++" : 2
+      },
+      "re_capture" : {
+         "ruby" : 419,
+         "nqp" : 0,
+         "javascript" : 83,
+         "perl" : 216,
+         "perl6" : 10123,
+         "lua" : 254
+      }
+   },
+   "version" : {
+      "perl" : "v5.40.0",
+      "javascript" : "v23.1.0",
+      "nqp" : "2024.10-2-g726adeb32",
+      "ruby" : "3.3.5",
+      "c++" : "18.1.8",
+      "perl6" : null,
+      "lua" : "2.1.1727870382",
+      "c#" : "8.0.110",
+      "nim" : "2.0.8"
+   }
+}
