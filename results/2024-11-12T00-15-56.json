@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "lua" : "2.1.1727870382",
+      "nim" : "2.0.8",
+      "ruby" : "3.3.5",
+      "nqp" : "2024.10-4-g2dd22e96a",
+      "perl" : "v5.40.0",
+      "c++" : "18.1.8",
+      "javascript" : "v23.1.0",
+      "c#" : "8.0.110"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "perl" : 1380,
+         "c++" : 58,
+         "c#" : 0,
+         "javascript" : 144,
+         "lua" : 7865,
+         "nim" : 160,
+         "perl6" : 9417,
+         "ruby" : 14414
+      },
+      "json_se" : {
+         "perl" : 338,
+         "javascript" : 362,
+         "ruby" : 2250
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "javascript" : 311,
+         "c++" : 17,
+         "nqp" : 18353,
+         "perl" : 12947,
+         "ruby" : 2097,
+         "perl6" : 11097,
+         "nim" : 97,
+         "lua" : 366
+      },
+      "str_join" : {
+         "nqp" : 952,
+         "perl" : 442,
+         "c#" : 0,
+         "javascript" : 57,
+         "c++" : 0,
+         "perl6" : 1832,
+         "nim" : 46,
+         "lua" : 94,
+         "ruby" : 1044
+      },
+      "str_join_repeat" : {
+         "ruby" : 50,
+         "perl6" : 4,
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 67
+      },
+      "re_capture" : {
+         "javascript" : 83,
+         "perl" : 185,
+         "nqp" : 8243,
+         "ruby" : 418,
+         "lua" : 254,
+         "perl6" : 10404
+      },
+      "fib_fast" : {
+         "perl6" : 774,
+         "javascript" : 21
+      },
+      "fib" : {
+         "c++" : 2,
+         "javascript" : 121,
+         "c#" : 0,
+         "perl" : 4937,
+         "nqp" : 8001,
+         "ruby" : 842,
+         "lua" : 164,
+         "nim" : 36,
+         "perl6" : 4557
+      },
+      "json_de" : {
+         "ruby" : 2008,
+         "javascript" : 565,
+         "perl" : 817
+      },
+      "re_bool" : {
+         "lua" : 170,
+         "perl6" : 2320,
+         "ruby" : 167,
+         "perl" : 452,
+         "nqp" : 2610,
+         "javascript" : 36
+      }
+   }
+}
