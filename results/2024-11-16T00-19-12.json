@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.8",
+      "c#" : "8.0.110",
+      "perl" : "v5.40.0",
+      "perl6" : null,
+      "nqp" : "2024.10-4-g2dd22e96a",
+      "c++" : "18.1.8",
+      "lua" : "2.1.1727870382",
+      "ruby" : "3.3.5",
+      "javascript" : "v23.1.0"
+   },
+   "result" : {
+      "json_de" : {
+         "perl" : 775,
+         "javascript" : 561,
+         "ruby" : 1924
+      },
+      "json_se" : {
+         "perl" : 353,
+         "ruby" : 2280,
+         "javascript" : 342
+      },
+      "re_capture" : {
+         "ruby" : 419,
+         "lua" : 251,
+         "javascript" : 82,
+         "perl6" : 9485,
+         "nqp" : 0,
+         "perl" : 184
+      },
+      "str_join" : {
+         "javascript" : 56,
+         "lua" : 94,
+         "c++" : 0,
+         "ruby" : 1032,
+         "perl" : 446,
+         "c#" : 0,
+         "nim" : 46,
+         "nqp" : 0,
+         "perl6" : 1760
+      },
+      "fib" : {
+         "nim" : 36,
+         "perl" : 4960,
+         "c#" : 0,
+         "perl6" : 4452,
+         "nqp" : 0,
+         "ruby" : 846,
+         "c++" : 2,
+         "lua" : 165,
+         "javascript" : 121
+      },
+      "str_join_slow" : {
+         "ruby" : 12178,
+         "lua" : 7541,
+         "c++" : 59,
+         "javascript" : 142,
+         "perl6" : 8715,
+         "nim" : 159,
+         "perl" : 1386,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 68,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 4,
+         "ruby" : 52
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl6" : 2195,
+         "perl" : 451,
+         "javascript" : 36,
+         "lua" : 170,
+         "ruby" : 166
+      },
+      "takeuchi" : {
+         "javascript" : 307,
+         "c++" : 17,
+         "lua" : 364,
+         "ruby" : 2068,
+         "perl" : 12577,
+         "c#" : 0,
+         "nim" : 97,
+         "nqp" : 0,
+         "perl6" : 11293
+      },
+      "fib_fast" : {
+         "perl6" : 741,
+         "javascript" : 18
+      }
+   }
+}
