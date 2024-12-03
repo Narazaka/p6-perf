@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "nim" : 161,
+         "perl6" : 9268,
+         "perl" : 1399,
+         "javascript" : 144,
+         "c++" : 60,
+         "ruby" : 12940,
+         "lua" : 8445,
+         "c#" : 0
+      },
+      "fib" : {
+         "nqp" : 7950,
+         "javascript" : 122,
+         "perl" : 5015,
+         "perl6" : 4967,
+         "nim" : 36,
+         "c#" : 0,
+         "lua" : 167,
+         "ruby" : 856,
+         "c++" : 2
+      },
+      "json_de" : {
+         "perl" : 781,
+         "javascript" : 573,
+         "ruby" : 2022
+      },
+      "takeuchi" : {
+         "lua" : 370,
+         "c#" : 0,
+         "ruby" : 2093,
+         "c++" : 18,
+         "nqp" : 20619,
+         "javascript" : 311,
+         "perl" : 12850,
+         "nim" : 98,
+         "perl6" : 11266
+      },
+      "str_join" : {
+         "nqp" : 910,
+         "javascript" : 57,
+         "perl" : 445,
+         "nim" : 46,
+         "perl6" : 1887,
+         "lua" : 96,
+         "c#" : 0,
+         "ruby" : 1082,
+         "c++" : 0
+      },
+      "re_capture" : {
+         "perl6" : 12405,
+         "nqp" : 8185,
+         "javascript" : 83,
+         "perl" : 187,
+         "ruby" : 468,
+         "lua" : 257
+      },
+      "str_join_repeat" : {
+         "nim" : 68,
+         "perl6" : 5,
+         "ruby" : 55,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "fib_fast" : {
+         "perl6" : 992,
+         "javascript" : 18
+      },
+      "re_bool" : {
+         "lua" : 177,
+         "ruby" : 169,
+         "perl" : 460,
+         "javascript" : 37,
+         "nqp" : 2755,
+         "perl6" : 2640
+      },
+      "json_se" : {
+         "ruby" : 2276,
+         "perl" : 339,
+         "javascript" : 346
+      }
+   },
+   "version" : {
+      "ruby" : "3.3.5",
+      "c++" : "18.1.8",
+      "lua" : "2.1.1731601260",
+      "c#" : "8.0.110",
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "nqp" : "2024.10-16-g649a0f378",
+      "javascript" : "v23.1.0",
+      "perl" : "v5.40.0"
+   }
+}
