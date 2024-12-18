@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "javascript" : 147,
+         "ruby" : 14409,
+         "perl" : 1409,
+         "c++" : 59,
+         "lua" : 7778,
+         "perl6" : 9286,
+         "c#" : 0,
+         "nim" : 161
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "lua" : 259,
+         "javascript" : 84,
+         "perl6" : 10473,
+         "perl" : 187,
+         "ruby" : 425
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "nqp" : 0,
+         "lua" : 174,
+         "ruby" : 169,
+         "perl" : 459,
+         "perl6" : 2245
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 68,
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 48
+      },
+      "str_join" : {
+         "c++" : 0,
+         "ruby" : 1044,
+         "perl" : 447,
+         "nqp" : 0,
+         "javascript" : 58,
+         "perl6" : 1943,
+         "c#" : 0,
+         "nim" : 46,
+         "lua" : 97
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 894
+      },
+      "json_se" : {
+         "ruby" : 2318,
+         "perl" : 338,
+         "javascript" : 348
+      },
+      "json_de" : {
+         "javascript" : 577,
+         "ruby" : 2093,
+         "perl" : 848
+      },
+      "fib" : {
+         "lua" : 162,
+         "perl6" : 4707,
+         "c#" : 0,
+         "nim" : 36,
+         "nqp" : 0,
+         "javascript" : 122,
+         "c++" : 2,
+         "perl" : 5126,
+         "ruby" : 895
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "javascript" : 312,
+         "c++" : 18,
+         "perl" : 12946,
+         "ruby" : 2154,
+         "lua" : 370,
+         "perl6" : 11451,
+         "c#" : 0,
+         "nim" : 98
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c#" : "8.0.110",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1731601260",
+      "c++" : "18.1.8",
+      "ruby" : "3.3.5",
+      "perl" : "v5.40.0",
+      "nqp" : "2024.12",
+      "javascript" : "v23.4.0"
+   }
+}
