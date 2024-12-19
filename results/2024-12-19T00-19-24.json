@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v23.4.0",
+      "c#" : "8.0.110",
+      "perl" : "v5.40.0",
+      "c++" : "18.1.8",
+      "nqp" : "2024.12-1-gfda688110",
+      "perl6" : null,
+      "lua" : "2.1.1731601260",
+      "nim" : "2.0.8",
+      "ruby" : "3.3.5"
+   },
+   "result" : {
+      "re_capture" : {
+         "lua" : 259,
+         "ruby" : 424,
+         "perl6" : 10513,
+         "nqp" : 0,
+         "javascript" : 84,
+         "perl" : 187
+      },
+      "fib" : {
+         "perl6" : 4793,
+         "lua" : 160,
+         "nim" : 36,
+         "ruby" : 854,
+         "perl" : 5043,
+         "c++" : 2,
+         "nqp" : 0,
+         "javascript" : 122,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 68,
+         "ruby" : 48,
+         "lua" : 1,
+         "perl6" : 4
+      },
+      "str_join" : {
+         "ruby" : 1045,
+         "nim" : 46,
+         "lua" : 97,
+         "perl6" : 1896,
+         "nqp" : 0,
+         "perl" : 448,
+         "c++" : 0,
+         "javascript" : 57,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "javascript" : 312,
+         "c++" : 17,
+         "perl" : 12744,
+         "nqp" : 0,
+         "perl6" : 11516,
+         "nim" : 98,
+         "lua" : 359,
+         "ruby" : 2090
+      },
+      "json_se" : {
+         "ruby" : 2277,
+         "perl" : 345,
+         "javascript" : 347
+      },
+      "fib_fast" : {
+         "perl6" : 848,
+         "javascript" : 18
+      },
+      "re_bool" : {
+         "perl" : 480,
+         "javascript" : 36,
+         "nqp" : 0,
+         "perl6" : 2281,
+         "ruby" : 168,
+         "lua" : 172
+      },
+      "str_join_slow" : {
+         "perl6" : 9664,
+         "lua" : 7769,
+         "ruby" : 13279,
+         "nim" : 161,
+         "perl" : 1419,
+         "c++" : 59,
+         "javascript" : 146,
+         "c#" : 0
+      },
+      "json_de" : {
+         "perl" : 796,
+         "javascript" : 571,
+         "ruby" : 1971
+      }
+   }
+}
