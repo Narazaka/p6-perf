@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 937,
+         "javascript" : 19
+      },
+      "json_se" : {
+         "javascript" : 366,
+         "ruby" : 2701,
+         "perl" : 380
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "perl6" : 9851,
+         "javascript" : 157,
+         "lua" : 8481,
+         "c++" : 60,
+         "nim" : 182,
+         "ruby" : 15407,
+         "perl" : 1495
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 74,
+         "ruby" : 70,
+         "perl" : 3
+      },
+      "re_capture" : {
+         "nqp" : 9380,
+         "javascript" : 85,
+         "perl6" : 11908,
+         "perl" : 197,
+         "ruby" : 456,
+         "lua" : 263
+      },
+      "str_join" : {
+         "perl" : 472,
+         "ruby" : 1116,
+         "nim" : 58,
+         "lua" : 97,
+         "c++" : 0,
+         "c#" : 0,
+         "nqp" : 1142,
+         "javascript" : 58,
+         "perl6" : 2410
+      },
+      "re_bool" : {
+         "lua" : 191,
+         "perl" : 494,
+         "ruby" : 191,
+         "perl6" : 2706,
+         "nqp" : 3267,
+         "javascript" : 36
+      },
+      "json_de" : {
+         "ruby" : 2331,
+         "javascript" : 589,
+         "perl" : 827
+      },
+      "takeuchi" : {
+         "ruby" : 2134,
+         "perl" : 13976,
+         "lua" : 375,
+         "c++" : 18,
+         "nim" : 132,
+         "c#" : 0,
+         "javascript" : 345,
+         "nqp" : 21149,
+         "perl6" : 12040
+      },
+      "fib" : {
+         "c#" : 0,
+         "javascript" : 124,
+         "nqp" : 8863,
+         "perl6" : 5324,
+         "ruby" : 926,
+         "perl" : 5153,
+         "lua" : 142,
+         "c++" : 2,
+         "nim" : 42
+      }
+   },
+   "version" : {
+      "ruby" : "3.3.5",
+      "perl" : "v5.40.0",
+      "lua" : "2.1.1731601260",
+      "nim" : "2.0.8",
+      "c++" : "18.1.8",
+      "c#" : "8.0.111",
+      "javascript" : "v23.4.0",
+      "nqp" : "2024.12-2-g09644702f",
+      "perl6" : null
+   }
+}
