@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl" : 446,
+         "lua" : 96,
+         "c++" : 0,
+         "nqp" : 876,
+         "nim" : 46,
+         "c#" : 0,
+         "perl6" : 1856,
+         "javascript" : 58,
+         "ruby" : 1040
+      },
+      "str_join_slow" : {
+         "perl6" : 8988,
+         "javascript" : 152,
+         "ruby" : 13649,
+         "perl" : 1385,
+         "lua" : 7662,
+         "c++" : 60,
+         "nim" : 161,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 806
+      },
+      "re_bool" : {
+         "perl6" : 2213,
+         "javascript" : 37,
+         "ruby" : 168,
+         "lua" : 173,
+         "perl" : 489,
+         "nqp" : 2561
+      },
+      "json_se" : {
+         "ruby" : 2299,
+         "javascript" : 347,
+         "perl" : 351
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 68,
+         "perl6" : 4,
+         "ruby" : 49
+      },
+      "re_capture" : {
+         "perl" : 186,
+         "lua" : 259,
+         "nqp" : 7719,
+         "javascript" : 84,
+         "ruby" : 425,
+         "perl6" : 9885
+      },
+      "fib" : {
+         "perl6" : 4727,
+         "javascript" : 123,
+         "ruby" : 901,
+         "perl" : 5012,
+         "lua" : 135,
+         "nim" : 36,
+         "nqp" : 8174,
+         "c++" : 3,
+         "c#" : 0
+      },
+      "json_de" : {
+         "perl" : 812,
+         "javascript" : 581,
+         "ruby" : 2007
+      },
+      "takeuchi" : {
+         "nqp" : 18592,
+         "nim" : 98,
+         "c++" : 17,
+         "c#" : 0,
+         "perl" : 13611,
+         "lua" : 370,
+         "perl6" : 11213,
+         "ruby" : 2103,
+         "javascript" : 312
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1731601260",
+      "perl" : "v5.40.0",
+      "c#" : "8.0.111",
+      "c++" : "18.1.8",
+      "nim" : "2.0.8",
+      "nqp" : "2024.12-2-g09644702f",
+      "perl6" : null,
+      "javascript" : "v23.4.0",
+      "ruby" : "3.3.5"
+   }
+}
