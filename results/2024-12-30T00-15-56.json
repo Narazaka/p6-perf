@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "ruby" : 427,
+         "perl6" : 9701,
+         "lua" : 256,
+         "javascript" : 85,
+         "perl" : 202,
+         "nqp" : 8292
+      },
+      "takeuchi" : {
+         "perl6" : 10927,
+         "ruby" : 2304,
+         "c#" : 0,
+         "nim" : 98,
+         "lua" : 370,
+         "javascript" : 313,
+         "perl" : 12778,
+         "c++" : 18,
+         "nqp" : 17890
+      },
+      "fib_fast" : {
+         "perl6" : 763,
+         "javascript" : 21
+      },
+      "re_bool" : {
+         "nqp" : 2497,
+         "ruby" : 168,
+         "perl6" : 2138,
+         "lua" : 171,
+         "javascript" : 37,
+         "perl" : 462
+      },
+      "str_join" : {
+         "javascript" : 58,
+         "lua" : 97,
+         "perl" : 442,
+         "c#" : 0,
+         "perl6" : 1814,
+         "ruby" : 1064,
+         "nim" : 46,
+         "nqp" : 859,
+         "c++" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 68,
+         "ruby" : 49,
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "json_de" : {
+         "ruby" : 2062,
+         "perl" : 779,
+         "javascript" : 578
+      },
+      "fib" : {
+         "c++" : 3,
+         "nqp" : 7812,
+         "ruby" : 876,
+         "perl6" : 4529,
+         "c#" : 0,
+         "nim" : 36,
+         "lua" : 161,
+         "javascript" : 122,
+         "perl" : 5068
+      },
+      "json_se" : {
+         "javascript" : 351,
+         "perl" : 405,
+         "ruby" : 2386
+      },
+      "str_join_slow" : {
+         "c++" : 59,
+         "nim" : 161,
+         "perl6" : 8896,
+         "ruby" : 13540,
+         "c#" : 0,
+         "perl" : 1383,
+         "lua" : 7968,
+         "javascript" : 149
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "ruby" : "3.3.5",
+      "perl6" : null,
+      "c++" : "18.1.8",
+      "c#" : "8.0.111",
+      "nqp" : "2024.12-5-g9a843dc6e",
+      "perl" : "v5.40.0",
+      "lua" : "2.1.1731601260",
+      "javascript" : "v23.4.0"
+   }
+}
