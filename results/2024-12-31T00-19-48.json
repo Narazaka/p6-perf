@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v23.4.0",
+      "c++" : "18.1.8",
+      "ruby" : "3.3.5",
+      "c#" : "8.0.111",
+      "lua" : "2.1.1731601260",
+      "nim" : "2.0.8",
+      "nqp" : "2024.12-5-g9a843dc6e",
+      "perl" : "v5.40.0",
+      "perl6" : null
+   },
+   "result" : {
+      "str_join_slow" : {
+         "javascript" : 146,
+         "c++" : 59,
+         "c#" : 0,
+         "lua" : 7685,
+         "ruby" : 12402,
+         "nim" : 161,
+         "perl" : 1402,
+         "perl6" : 9112
+      },
+      "re_capture" : {
+         "perl6" : 9662,
+         "perl" : 188,
+         "nqp" : 0,
+         "javascript" : 85,
+         "lua" : 259,
+         "ruby" : 424
+      },
+      "fib_fast" : {
+         "perl6" : 771,
+         "javascript" : 19
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "perl6" : 1803,
+         "perl" : 443,
+         "nim" : 46,
+         "ruby" : 1040,
+         "lua" : 97,
+         "c#" : 0,
+         "c++" : 0,
+         "javascript" : 58
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl" : 456,
+         "perl6" : 2142,
+         "javascript" : 36,
+         "ruby" : 168,
+         "lua" : 171
+      },
+      "json_se" : {
+         "javascript" : 347,
+         "ruby" : 2354,
+         "perl" : 341
+      },
+      "takeuchi" : {
+         "perl6" : 10928,
+         "perl" : 12770,
+         "nqp" : 0,
+         "nim" : 98,
+         "lua" : 370,
+         "c#" : 0,
+         "ruby" : 2082,
+         "c++" : 17,
+         "javascript" : 311
+      },
+      "fib" : {
+         "javascript" : 122,
+         "c++" : 2,
+         "c#" : 0,
+         "lua" : 167,
+         "ruby" : 876,
+         "nim" : 36,
+         "perl" : 5002,
+         "perl6" : 4524,
+         "nqp" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 68,
+         "lua" : 1,
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 47
+      },
+      "json_de" : {
+         "javascript" : 569,
+         "perl" : 819,
+         "ruby" : 1982
+      }
+   }
+}
