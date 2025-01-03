@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nqp" : 8489,
+         "perl" : 5385,
+         "nim" : 36,
+         "c++" : 2,
+         "c#" : 0,
+         "lua" : 158,
+         "ruby" : 859,
+         "perl6" : 4851,
+         "javascript" : 123
+      },
+      "re_capture" : {
+         "ruby" : 426,
+         "lua" : 262,
+         "perl" : 198,
+         "nqp" : 8492,
+         "javascript" : 85,
+         "perl6" : 11168
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "perl6" : 2323,
+         "perl" : 482,
+         "ruby" : 169,
+         "lua" : 172,
+         "nqp" : 2601
+      },
+      "str_join" : {
+         "c++" : 0,
+         "c#" : 0,
+         "nqp" : 884,
+         "nim" : 46,
+         "perl" : 470,
+         "perl6" : 1983,
+         "javascript" : 59,
+         "ruby" : 1034,
+         "lua" : 96
+      },
+      "takeuchi" : {
+         "nqp" : 18722,
+         "perl" : 13617,
+         "nim" : 97,
+         "c#" : 0,
+         "c++" : 17,
+         "ruby" : 2184,
+         "lua" : 370,
+         "perl6" : 10874,
+         "javascript" : 312
+      },
+      "str_join_slow" : {
+         "lua" : 8306,
+         "ruby" : 12910,
+         "javascript" : 150,
+         "perl6" : 9345,
+         "perl" : 1473,
+         "nim" : 161,
+         "c#" : 0,
+         "c++" : 59
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 854
+      },
+      "json_se" : {
+         "perl" : 359,
+         "ruby" : 2345,
+         "javascript" : 351
+      },
+      "json_de" : {
+         "perl" : 823,
+         "ruby" : 2000,
+         "javascript" : 577
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 47,
+         "nim" : 68,
+         "lua" : 1
+      }
+   },
+   "version" : {
+      "javascript" : "v23.4.0",
+      "perl6" : null,
+      "lua" : "2.1.1731601260",
+      "ruby" : "3.3.5",
+      "c++" : "18.1.8",
+      "c#" : "8.0.111",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.0",
+      "nqp" : "2024.12-5-g9a843dc6e"
+   }
+}
