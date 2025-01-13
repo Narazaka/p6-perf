@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl" : 440,
+         "nqp" : 975,
+         "ruby" : 1021,
+         "javascript" : 58,
+         "c++" : 0,
+         "lua" : 95,
+         "perl6" : 1852,
+         "nim" : 46,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 758
+      },
+      "json_se" : {
+         "ruby" : 2252,
+         "javascript" : 344,
+         "perl" : 398
+      },
+      "fib" : {
+         "nqp" : 7850,
+         "perl" : 5041,
+         "perl6" : 4653,
+         "nim" : 36,
+         "c#" : 0,
+         "ruby" : 849,
+         "javascript" : 121,
+         "c++" : 2,
+         "lua" : 165
+      },
+      "re_bool" : {
+         "ruby" : 167,
+         "lua" : 171,
+         "javascript" : 37,
+         "perl" : 454,
+         "perl6" : 2153,
+         "nqp" : 2455
+      },
+      "re_capture" : {
+         "ruby" : 421,
+         "lua" : 256,
+         "perl" : 185,
+         "javascript" : 83,
+         "perl6" : 9465,
+         "nqp" : 7347
+      },
+      "takeuchi" : {
+         "perl" : 12674,
+         "nqp" : 17733,
+         "javascript" : 312,
+         "lua" : 367,
+         "c++" : 17,
+         "ruby" : 2069,
+         "c#" : 0,
+         "perl6" : 10832,
+         "nim" : 98
+      },
+      "json_de" : {
+         "ruby" : 1947,
+         "perl" : 807,
+         "javascript" : 560
+      },
+      "str_join_repeat" : {
+         "ruby" : 45,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 67
+      },
+      "str_join_slow" : {
+         "perl" : 1376,
+         "nim" : 160,
+         "perl6" : 9126,
+         "c#" : 0,
+         "ruby" : 11880,
+         "c++" : 59,
+         "lua" : 7518,
+         "javascript" : 146
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "c#" : "8.0.111",
+      "ruby" : "3.3.5",
+      "c++" : "19.1.6",
+      "lua" : "2.1.1731601260",
+      "javascript" : "v23.4.0",
+      "nqp" : "2024.12-9-g45cff7ed4",
+      "perl" : "v5.40.0"
+   }
+}
