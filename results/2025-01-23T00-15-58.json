@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "nim" : 98,
+         "ruby" : 2219,
+         "nqp" : 18313,
+         "c++" : 17,
+         "lua" : 369,
+         "perl" : 13152,
+         "perl6" : 11128,
+         "javascript" : 369,
+         "c#" : 0
+      },
+      "fib" : {
+         "ruby" : 856,
+         "nim" : 37,
+         "nqp" : 8394,
+         "lua" : 155,
+         "c++" : 2,
+         "perl6" : 4788,
+         "perl" : 5360,
+         "javascript" : 123,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "ruby" : 49,
+         "perl6" : 4,
+         "perl" : 3,
+         "nim" : 69,
+         "lua" : 1
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "lua" : 186,
+         "perl6" : 2382,
+         "perl" : 605,
+         "nqp" : 2680,
+         "ruby" : 172
+      },
+      "str_join" : {
+         "nqp" : 920,
+         "ruby" : 1124,
+         "nim" : 46,
+         "c#" : 0,
+         "javascript" : 57,
+         "perl6" : 1875,
+         "perl" : 448,
+         "lua" : 97,
+         "c++" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 901,
+         "javascript" : 22
+      },
+      "str_join_slow" : {
+         "ruby" : 14567,
+         "nim" : 161,
+         "javascript" : 152,
+         "c#" : 0,
+         "lua" : 7607,
+         "c++" : 59,
+         "perl6" : 9484,
+         "perl" : 1566
+      },
+      "re_capture" : {
+         "nqp" : 8451,
+         "ruby" : 481,
+         "javascript" : 84,
+         "perl6" : 10823,
+         "perl" : 258,
+         "lua" : 257
+      },
+      "json_se" : {
+         "perl" : 403,
+         "ruby" : 2320,
+         "javascript" : 354
+      },
+      "json_de" : {
+         "javascript" : 572,
+         "ruby" : 2085,
+         "perl" : 791
+      }
+   },
+   "version" : {
+      "perl" : "v5.40.1",
+      "perl6" : null,
+      "c++" : "19.1.7",
+      "lua" : "2.1.1731601260",
+      "c#" : "8.0.111",
+      "javascript" : "v23.4.0",
+      "nim" : "2.0.8",
+      "ruby" : "3.3.5",
+      "nqp" : "2024.12-10-g9f2db047e"
+   }
+}
