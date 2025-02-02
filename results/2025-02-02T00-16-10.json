@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "ruby" : 168,
+         "perl" : 525,
+         "nqp" : 2785,
+         "perl6" : 2487,
+         "lua" : 172,
+         "javascript" : 36
+      },
+      "fib" : {
+         "nqp" : 8074,
+         "lua" : 143,
+         "javascript" : 123,
+         "perl6" : 4655,
+         "c#" : 0,
+         "perl" : 4981,
+         "c++" : 2,
+         "nim" : 36,
+         "ruby" : 951
+      },
+      "json_de" : {
+         "ruby" : 2242,
+         "perl" : 752,
+         "javascript" : 586
+      },
+      "fib_fast" : {
+         "javascript" : 22,
+         "perl6" : 931
+      },
+      "str_join_slow" : {
+         "ruby" : 14710,
+         "nim" : 161,
+         "perl" : 1426,
+         "c#" : 0,
+         "c++" : 59,
+         "perl6" : 12202,
+         "lua" : 8034,
+         "javascript" : 153
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "c#" : 0,
+         "perl" : 12736,
+         "perl6" : 11624,
+         "lua" : 369,
+         "javascript" : 313,
+         "nqp" : 18641,
+         "ruby" : 2098,
+         "nim" : 98
+      },
+      "re_capture" : {
+         "ruby" : 426,
+         "perl" : 247,
+         "nqp" : 8539,
+         "perl6" : 11497,
+         "javascript" : 84,
+         "lua" : 256
+      },
+      "json_se" : {
+         "perl" : 334,
+         "ruby" : 2312,
+         "javascript" : 350
+      },
+      "str_join" : {
+         "nqp" : 1120,
+         "perl6" : 2113,
+         "javascript" : 58,
+         "lua" : 97,
+         "perl" : 444,
+         "c#" : 0,
+         "c++" : 0,
+         "nim" : 46,
+         "ruby" : 1046
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 59,
+         "perl" : 3,
+         "ruby" : 50
+      }
+   },
+   "version" : {
+      "ruby" : "3.3.5",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.1",
+      "c++" : "19.1.7",
+      "c#" : "9.0.102",
+      "perl6" : null,
+      "javascript" : "v23.7.0",
+      "lua" : "2.1.1731601260",
+      "nqp" : "2025.01-7-gcfe3119a0"
+   }
+}
