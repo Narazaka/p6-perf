@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 8344,
+         "lua" : 259,
+         "perl" : 205,
+         "javascript" : 83,
+         "ruby" : 427,
+         "perl6" : 10388
+      },
+      "str_join" : {
+         "perl6" : 1824,
+         "nqp" : 1106,
+         "perl" : 453,
+         "c#" : 0,
+         "nim" : 50,
+         "javascript" : 57,
+         "c++" : 0,
+         "ruby" : 1061,
+         "lua" : 96
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "perl6" : 2273,
+         "ruby" : 179,
+         "nqp" : 2669,
+         "lua" : 174,
+         "perl" : 474
+      },
+      "json_de" : {
+         "javascript" : 574,
+         "ruby" : 2002,
+         "perl" : 722
+      },
+      "takeuchi" : {
+         "nqp" : 18576,
+         "nim" : 103,
+         "c#" : 0,
+         "perl" : 13126,
+         "perl6" : 11781,
+         "lua" : 387,
+         "javascript" : 312,
+         "ruby" : 2094,
+         "c++" : 17
+      },
+      "fib" : {
+         "lua" : 161,
+         "c++" : 2,
+         "ruby" : 968,
+         "javascript" : 122,
+         "perl" : 4976,
+         "c#" : 0,
+         "nim" : 34,
+         "nqp" : 7932,
+         "perl6" : 4581
+      },
+      "json_se" : {
+         "javascript" : 344,
+         "ruby" : 2329,
+         "perl" : 332
+      },
+      "fib_fast" : {
+         "perl6" : 927,
+         "javascript" : 19
+      },
+      "str_join_slow" : {
+         "perl6" : 9513,
+         "perl" : 1408,
+         "c#" : 0,
+         "nim" : 161,
+         "javascript" : 146,
+         "c++" : 65,
+         "ruby" : 13381,
+         "lua" : 8141
+      },
+      "str_join_repeat" : {
+         "ruby" : 50,
+         "perl6" : 4,
+         "nim" : 68,
+         "perl" : 3,
+         "lua" : 1
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "c#" : "9.0.102",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.1",
+      "nqp" : "2025.01-9-gf3d487d3e",
+      "ruby" : "3.3.5",
+      "c++" : "19.1.7",
+      "javascript" : "v23.7.0",
+      "lua" : "2.1.1736781742"
+   }
+}
