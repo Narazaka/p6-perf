@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 825,
+         "javascript" : 19
+      },
+      "json_se" : {
+         "javascript" : 342,
+         "ruby" : 2305,
+         "perl" : 336
+      },
+      "str_join_slow" : {
+         "perl" : 1408,
+         "ruby" : 14153,
+         "nim" : 161,
+         "javascript" : 146,
+         "c#" : 0,
+         "lua" : 7548,
+         "perl6" : 9407,
+         "c++" : 60
+      },
+      "takeuchi" : {
+         "nim" : 102,
+         "ruby" : 2316,
+         "perl" : 14054,
+         "javascript" : 311,
+         "nqp" : 18069,
+         "c#" : 0,
+         "perl6" : 10933,
+         "lua" : 369,
+         "c++" : 17
+      },
+      "re_bool" : {
+         "lua" : 173,
+         "perl6" : 2249,
+         "javascript" : 36,
+         "nqp" : 2727,
+         "perl" : 475,
+         "ruby" : 190
+      },
+      "str_join_repeat" : {
+         "ruby" : 48,
+         "perl" : 3,
+         "nim" : 68,
+         "lua" : 1,
+         "perl6" : 4
+      },
+      "fib" : {
+         "c#" : 0,
+         "lua" : 133,
+         "perl6" : 4621,
+         "perl" : 5025,
+         "ruby" : 874,
+         "nim" : 33,
+         "javascript" : 122,
+         "nqp" : 8012,
+         "c++" : 2
+      },
+      "str_join" : {
+         "c++" : 0,
+         "ruby" : 1047,
+         "perl" : 469,
+         "nim" : 46,
+         "javascript" : 57,
+         "nqp" : 886,
+         "c#" : 0,
+         "lua" : 95,
+         "perl6" : 1843
+      },
+      "json_de" : {
+         "javascript" : 572,
+         "perl" : 763,
+         "ruby" : 2011
+      },
+      "re_capture" : {
+         "lua" : 258,
+         "perl6" : 10334,
+         "nqp" : 7855,
+         "javascript" : 84,
+         "perl" : 205,
+         "ruby" : 432
+      }
+   },
+   "version" : {
+      "c++" : "19.1.7",
+      "c#" : "9.0.102",
+      "perl6" : null,
+      "lua" : "2.1.1736781742",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.1",
+      "ruby" : "3.3.5",
+      "nqp" : "2025.01-9-gf3d487d3e",
+      "javascript" : "v23.7.0"
+   }
+}
