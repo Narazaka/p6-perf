@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2025.02-5-ga33afe556",
+      "perl6" : null,
+      "c#" : "9.0.103",
+      "lua" : "2.1.1736781742",
+      "c++" : "19.1.7",
+      "javascript" : "v23.8.0",
+      "nim" : "2.0.8",
+      "ruby" : "3.3.7",
+      "perl" : "v5.40.1"
+   },
+   "result" : {
+      "json_se" : {
+         "perl" : 336,
+         "ruby" : 2317,
+         "javascript" : 356
+      },
+      "str_join" : {
+         "perl" : 442,
+         "javascript" : 58,
+         "ruby" : 1024,
+         "nim" : 45,
+         "c++" : 0,
+         "perl6" : 2035,
+         "nqp" : 0,
+         "lua" : 96,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "lua" : 256,
+         "nqp" : 0,
+         "perl6" : 10687,
+         "perl" : 206,
+         "ruby" : 458,
+         "javascript" : 84
+      },
+      "takeuchi" : {
+         "ruby" : 2144,
+         "nim" : 102,
+         "javascript" : 311,
+         "perl" : 12995,
+         "c#" : 0,
+         "lua" : 376,
+         "nqp" : 0,
+         "perl6" : 11863,
+         "c++" : 17
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 68,
+         "ruby" : 58,
+         "lua" : 1,
+         "perl6" : 4
+      },
+      "str_join_slow" : {
+         "javascript" : 147,
+         "nim" : 161,
+         "ruby" : 13219,
+         "perl" : 1393,
+         "perl6" : 10866,
+         "lua" : 8237,
+         "c#" : 0,
+         "c++" : 65
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 786
+      },
+      "json_de" : {
+         "ruby" : 1964,
+         "javascript" : 581,
+         "perl" : 733
+      },
+      "re_bool" : {
+         "lua" : 178,
+         "perl6" : 2136,
+         "nqp" : 0,
+         "ruby" : 180,
+         "javascript" : 36,
+         "perl" : 484
+      },
+      "fib" : {
+         "perl" : 4987,
+         "javascript" : 124,
+         "ruby" : 859,
+         "nim" : 34,
+         "c++" : 3,
+         "perl6" : 4765,
+         "nqp" : 0,
+         "lua" : 155,
+         "c#" : 0
+      }
+   }
+}
