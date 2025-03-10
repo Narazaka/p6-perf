@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "perl6" : 4987,
+         "nqp" : 0,
+         "perl" : 5102,
+         "ruby" : 855,
+         "lua" : 163,
+         "c#" : 0,
+         "c++" : 2,
+         "nim" : 33,
+         "javascript" : 122
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 68,
+         "ruby" : 57,
+         "perl" : 3,
+         "perl6" : 5
+      },
+      "takeuchi" : {
+         "lua" : 369,
+         "nqp" : 0,
+         "perl" : 13180,
+         "ruby" : 2091,
+         "perl6" : 11787,
+         "javascript" : 312,
+         "nim" : 102,
+         "c++" : 17,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "lua" : 7629,
+         "perl6" : 11991,
+         "ruby" : 12550,
+         "perl" : 1415,
+         "javascript" : 146,
+         "nim" : 161,
+         "c#" : 0,
+         "c++" : 60
+      },
+      "re_capture" : {
+         "perl" : 206,
+         "ruby" : 428,
+         "nqp" : 0,
+         "perl6" : 11087,
+         "lua" : 260,
+         "javascript" : 84
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "lua" : 172,
+         "perl6" : 2274,
+         "nqp" : 0,
+         "perl" : 474,
+         "ruby" : 166
+      },
+      "json_se" : {
+         "perl" : 334,
+         "ruby" : 2292,
+         "javascript" : 351
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 882
+      },
+      "json_de" : {
+         "javascript" : 580,
+         "ruby" : 1983,
+         "perl" : 797
+      },
+      "str_join" : {
+         "javascript" : 57,
+         "nim" : 46,
+         "c#" : 0,
+         "c++" : 0,
+         "lua" : 96,
+         "perl6" : 2008,
+         "perl" : 447,
+         "ruby" : 1038,
+         "nqp" : 0
+      }
+   },
+   "version" : {
+      "c++" : "19.1.7",
+      "c#" : "9.0.103",
+      "javascript" : "v23.9.0",
+      "nim" : "2.0.8",
+      "nqp" : "2025.02-10-g990e179bd",
+      "ruby" : "3.3.7",
+      "perl" : "v5.40.1",
+      "perl6" : null,
+      "lua" : "2.1.1736781742"
+   }
+}
