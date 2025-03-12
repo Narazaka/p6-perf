@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl" : 1542,
+         "nim" : 161,
+         "c#" : 0,
+         "ruby" : 14570,
+         "lua" : 8283,
+         "perl6" : 10929,
+         "c++" : 60,
+         "javascript" : 172
+      },
+      "takeuchi" : {
+         "perl6" : 11083,
+         "lua" : 372,
+         "javascript" : 316,
+         "c++" : 18,
+         "nqp" : 8695,
+         "nim" : 102,
+         "perl" : 12938,
+         "ruby" : 2153,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 841
+      },
+      "re_bool" : {
+         "ruby" : 171,
+         "perl" : 498,
+         "nqp" : 2595,
+         "javascript" : 36,
+         "lua" : 175,
+         "perl6" : 2112
+      },
+      "json_se" : {
+         "perl" : 357,
+         "ruby" : 2606,
+         "javascript" : 361
+      },
+      "re_capture" : {
+         "ruby" : 506,
+         "perl" : 219,
+         "nqp" : 7724,
+         "javascript" : 84,
+         "perl6" : 13250,
+         "lua" : 263
+      },
+      "json_de" : {
+         "ruby" : 2043,
+         "javascript" : 586,
+         "perl" : 762
+      },
+      "str_join" : {
+         "c#" : 0,
+         "ruby" : 1113,
+         "nim" : 46,
+         "perl" : 451,
+         "c++" : 0,
+         "javascript" : 58,
+         "nqp" : 907,
+         "lua" : 96,
+         "perl6" : 1826
+      },
+      "str_join_repeat" : {
+         "ruby" : 60,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 68
+      },
+      "fib" : {
+         "perl6" : 4749,
+         "lua" : 145,
+         "c++" : 2,
+         "javascript" : 130,
+         "nqp" : 7996,
+         "nim" : 54,
+         "perl" : 9579,
+         "c#" : 0,
+         "ruby" : 909
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "perl" : "v5.40.1",
+      "c#" : "9.0.103",
+      "ruby" : "3.3.7",
+      "lua" : "2.1.1736781742",
+      "perl6" : null,
+      "c++" : "19.1.7",
+      "javascript" : "v23.9.0",
+      "nqp" : "2025.02-10-g990e179bd"
+   }
+}
