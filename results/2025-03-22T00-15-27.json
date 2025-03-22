@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "javascript" : 121,
+         "nim" : 34,
+         "c++" : 2,
+         "lua" : 163,
+         "perl" : 4984,
+         "perl6" : 4484,
+         "ruby" : 858,
+         "nqp" : 8077,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "c++" : 60,
+         "javascript" : 147,
+         "nim" : 161,
+         "c#" : 0,
+         "ruby" : 12718,
+         "perl6" : 11104,
+         "lua" : 8113,
+         "perl" : 1383
+      },
+      "re_bool" : {
+         "perl6" : 2044,
+         "javascript" : 36,
+         "perl" : 473,
+         "lua" : 174,
+         "nqp" : 2555,
+         "ruby" : 223
+      },
+      "takeuchi" : {
+         "javascript" : 313,
+         "nim" : 102,
+         "c++" : 17,
+         "lua" : 370,
+         "perl" : 13093,
+         "perl6" : 11207,
+         "ruby" : 2098,
+         "nqp" : 17650,
+         "c#" : 0
+      },
+      "str_join" : {
+         "lua" : 96,
+         "perl" : 439,
+         "perl6" : 1795,
+         "ruby" : 1030,
+         "nqp" : 861,
+         "c#" : 0,
+         "javascript" : 58,
+         "nim" : 46,
+         "c++" : 0
+      },
+      "json_de" : {
+         "perl" : 733,
+         "javascript" : 613,
+         "ruby" : 2019
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "nim" : 68,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 57
+      },
+      "json_se" : {
+         "ruby" : 2439,
+         "perl" : 330,
+         "javascript" : 351
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 801
+      },
+      "re_capture" : {
+         "javascript" : 84,
+         "perl6" : 9856,
+         "lua" : 258,
+         "perl" : 207,
+         "ruby" : 442,
+         "nqp" : 7827
+      }
+   },
+   "version" : {
+      "javascript" : "v23.9.0",
+      "nim" : "2.0.8",
+      "c++" : "19.1.7",
+      "perl6" : null,
+      "lua" : "2.1.1736781742",
+      "perl" : "v5.40.1",
+      "c#" : "9.0.104",
+      "ruby" : "3.3.7",
+      "nqp" : "2025.02-12-gdb1c963b2"
+   }
+}
