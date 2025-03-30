@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v23.9.0",
+      "c++" : "19.1.7",
+      "perl" : "v5.40.1",
+      "lua" : "2.1.1741730670",
+      "nim" : "2.0.8",
+      "c#" : "9.0.104",
+      "perl6" : null,
+      "ruby" : "3.3.7",
+      "nqp" : "2025.03-1-g06c8273f5"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "ruby" : 56,
+         "perl6" : 4,
+         "nim" : 68,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "perl6" : 2196,
+         "nqp" : 0,
+         "ruby" : 167,
+         "javascript" : 35,
+         "perl" : 472,
+         "lua" : 172
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "ruby" : 424,
+         "perl6" : 10183,
+         "javascript" : 83,
+         "lua" : 254,
+         "perl" : 205
+      },
+      "takeuchi" : {
+         "perl" : 12992,
+         "lua" : 370,
+         "c++" : 17,
+         "javascript" : 313,
+         "c#" : 0,
+         "perl6" : 11003,
+         "nqp" : 0,
+         "ruby" : 2098,
+         "nim" : 102
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 801
+      },
+      "json_de" : {
+         "perl" : 729,
+         "ruby" : 1928,
+         "javascript" : 572
+      },
+      "fib" : {
+         "perl6" : 4709,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 891,
+         "nim" : 34,
+         "c++" : 2,
+         "javascript" : 122,
+         "lua" : 165,
+         "perl" : 4977
+      },
+      "str_join" : {
+         "ruby" : 1012,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl6" : 1854,
+         "nim" : 46,
+         "lua" : 96,
+         "perl" : 462,
+         "c++" : 0,
+         "javascript" : 57
+      },
+      "json_se" : {
+         "ruby" : 2272,
+         "javascript" : 349,
+         "perl" : 431
+      },
+      "str_join_slow" : {
+         "nim" : 161,
+         "c#" : 0,
+         "perl6" : 10989,
+         "ruby" : 12401,
+         "lua" : 7699,
+         "perl" : 1394,
+         "javascript" : 145,
+         "c++" : 60
+      }
+   }
+}
