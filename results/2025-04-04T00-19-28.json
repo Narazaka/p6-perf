@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "perl" : 473,
+         "lua" : 171,
+         "perl6" : 1935,
+         "nqp" : 0,
+         "javascript" : 37,
+         "ruby" : 166
+      },
+      "re_capture" : {
+         "lua" : 246,
+         "perl" : 205,
+         "perl6" : 9401,
+         "ruby" : 425,
+         "javascript" : 85,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "perl" : 752,
+         "ruby" : 2355,
+         "javascript" : 570
+      },
+      "str_join" : {
+         "javascript" : 59,
+         "lua" : 96,
+         "perl" : 442,
+         "nim" : 46,
+         "nqp" : 0,
+         "c++" : 0,
+         "ruby" : 1041,
+         "perl6" : 1839,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 68,
+         "ruby" : 53,
+         "perl6" : 4
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 689
+      },
+      "fib" : {
+         "c#" : 0,
+         "perl6" : 4459,
+         "c++" : 2,
+         "ruby" : 924,
+         "nqp" : 0,
+         "javascript" : 122,
+         "nim" : 33,
+         "perl" : 4972,
+         "lua" : 170
+      },
+      "takeuchi" : {
+         "javascript" : 313,
+         "lua" : 369,
+         "perl" : 12773,
+         "nim" : 103,
+         "c++" : 17,
+         "ruby" : 2166,
+         "nqp" : 0,
+         "perl6" : 10905,
+         "c#" : 0
+      },
+      "json_se" : {
+         "javascript" : 355,
+         "ruby" : 2318,
+         "perl" : 334
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "perl6" : 9590,
+         "ruby" : 12441,
+         "c++" : 60,
+         "nim" : 161,
+         "perl" : 1407,
+         "lua" : 8037,
+         "javascript" : 146
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "lua" : "2.1.1741730670",
+      "perl" : "v5.40.1",
+      "javascript" : "v23.9.0",
+      "perl6" : null,
+      "c#" : "9.0.104",
+      "nqp" : "2025.03-3-gb51dfc569",
+      "c++" : "19.1.7",
+      "ruby" : "3.3.7"
+   }
+}
