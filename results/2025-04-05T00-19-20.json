@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "perl" : 331,
+         "javascript" : 348,
+         "ruby" : 2436
+      },
+      "fib" : {
+         "javascript" : 121,
+         "c++" : 2,
+         "nim" : 33,
+         "nqp" : 0,
+         "perl6" : 4523,
+         "ruby" : 858,
+         "perl" : 4928,
+         "c#" : 0,
+         "lua" : 134
+      },
+      "str_join_slow" : {
+         "perl" : 1384,
+         "ruby" : 13290,
+         "c#" : 0,
+         "lua" : 7940,
+         "nim" : 161,
+         "c++" : 60,
+         "javascript" : 146,
+         "perl6" : 10576
+      },
+      "str_join" : {
+         "perl" : 442,
+         "ruby" : 1019,
+         "c#" : 0,
+         "lua" : 96,
+         "nqp" : 0,
+         "javascript" : 58,
+         "c++" : 0,
+         "nim" : 46,
+         "perl6" : 1755
+      },
+      "re_capture" : {
+         "javascript" : 83,
+         "ruby" : 425,
+         "nqp" : 0,
+         "perl" : 204,
+         "lua" : 246,
+         "perl6" : 9656
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "nim" : 102,
+         "c++" : 17,
+         "javascript" : 311,
+         "perl6" : 12042,
+         "perl" : 12930,
+         "ruby" : 2077,
+         "lua" : 369,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 68,
+         "ruby" : 58,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "perl" : 472,
+         "ruby" : 167,
+         "javascript" : 36,
+         "lua" : 170,
+         "perl6" : 2013
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 762
+      },
+      "json_de" : {
+         "javascript" : 570,
+         "ruby" : 1963,
+         "perl" : 725
+      }
+   },
+   "version" : {
+      "ruby" : "3.3.7",
+      "perl" : "v5.40.1",
+      "c#" : "9.0.104",
+      "lua" : "2.1.1741730670",
+      "nim" : "2.0.8",
+      "javascript" : "v23.9.0",
+      "c++" : "19.1.7",
+      "nqp" : "2025.03-3-gb51dfc569",
+      "perl6" : null
+   }
+}
