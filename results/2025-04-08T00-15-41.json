@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.1741730670",
+      "c#" : "9.0.104",
+      "javascript" : "v23.9.0",
+      "perl" : "v5.40.1",
+      "perl6" : null,
+      "nqp" : "2025.03-5-g703149cbb",
+      "nim" : "2.0.8",
+      "c++" : "19.1.7",
+      "ruby" : "3.3.7"
+   },
+   "result" : {
+      "re_capture" : {
+         "ruby" : 426,
+         "nqp" : 7342,
+         "perl6" : 10154,
+         "perl" : 209,
+         "lua" : 248,
+         "javascript" : 89
+      },
+      "str_join_repeat" : {
+         "ruby" : 60,
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 68
+      },
+      "str_join" : {
+         "nim" : 46,
+         "ruby" : 1029,
+         "c++" : 0,
+         "c#" : 0,
+         "javascript" : 59,
+         "lua" : 96,
+         "perl6" : 1938,
+         "nqp" : 1036,
+         "perl" : 484
+      },
+      "json_de" : {
+         "javascript" : 584,
+         "perl" : 797,
+         "ruby" : 1969
+      },
+      "re_bool" : {
+         "ruby" : 167,
+         "lua" : 176,
+         "javascript" : 36,
+         "perl" : 474,
+         "perl6" : 2078,
+         "nqp" : 2449
+      },
+      "fib_fast" : {
+         "perl6" : 774,
+         "javascript" : 19
+      },
+      "takeuchi" : {
+         "nim" : 102,
+         "c++" : 18,
+         "ruby" : 2111,
+         "lua" : 423,
+         "javascript" : 323,
+         "c#" : 0,
+         "perl" : 13279,
+         "perl6" : 10990,
+         "nqp" : 18072
+      },
+      "json_se" : {
+         "javascript" : 356,
+         "ruby" : 2306,
+         "perl" : 399
+      },
+      "fib" : {
+         "perl6" : 4600,
+         "nqp" : 7972,
+         "perl" : 5320,
+         "lua" : 147,
+         "javascript" : 123,
+         "c#" : 0,
+         "c++" : 2,
+         "ruby" : 929,
+         "nim" : 34
+      },
+      "str_join_slow" : {
+         "perl6" : 10237,
+         "perl" : 1466,
+         "c#" : 0,
+         "javascript" : 152,
+         "lua" : 8812,
+         "ruby" : 13564,
+         "c++" : 60,
+         "nim" : 162
+      }
+   }
+}
