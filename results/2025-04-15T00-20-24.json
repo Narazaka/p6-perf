@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 360,
+         "perl" : 335,
+         "ruby" : 2478
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "lua" : 372,
+         "nim" : 103,
+         "perl6" : 11054,
+         "perl" : 13040,
+         "c++" : 18,
+         "c#" : 0,
+         "ruby" : 2325,
+         "javascript" : 318
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 4,
+         "ruby" : 62,
+         "lua" : 1,
+         "nim" : 68
+      },
+      "fib_fast" : {
+         "perl6" : 796,
+         "javascript" : 19
+      },
+      "json_de" : {
+         "ruby" : 2184,
+         "perl" : 740,
+         "javascript" : 578
+      },
+      "re_capture" : {
+         "perl" : 207,
+         "javascript" : 84,
+         "perl6" : 10468,
+         "nqp" : 0,
+         "ruby" : 459,
+         "lua" : 247
+      },
+      "fib" : {
+         "ruby" : 863,
+         "javascript" : 123,
+         "nqp" : 0,
+         "lua" : 144,
+         "nim" : 34,
+         "perl6" : 4639,
+         "perl" : 5139,
+         "c++" : 2,
+         "c#" : 0
+      },
+      "str_join" : {
+         "nim" : 46,
+         "lua" : 104,
+         "nqp" : 0,
+         "perl6" : 2002,
+         "perl" : 455,
+         "c++" : 0,
+         "c#" : 0,
+         "ruby" : 1058,
+         "javascript" : 62
+      },
+      "str_join_slow" : {
+         "perl" : 1490,
+         "c#" : 0,
+         "c++" : 60,
+         "nim" : 164,
+         "lua" : 7536,
+         "perl6" : 10176,
+         "javascript" : 151,
+         "ruby" : 16052
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "perl" : 499,
+         "perl6" : 2216,
+         "lua" : 171,
+         "nqp" : 0,
+         "ruby" : 186
+      }
+   },
+   "version" : {
+      "ruby" : "3.3.7",
+      "javascript" : "v23.9.0",
+      "perl6" : null,
+      "nqp" : "2025.03-6-ga890b03cf",
+      "lua" : "2.1.1741730670",
+      "nim" : "2.0.8",
+      "c++" : "19.1.7",
+      "perl" : "v5.40.1",
+      "c#" : "9.0.104"
+   }
+}
