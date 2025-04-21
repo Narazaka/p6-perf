@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 10028,
+         "nim" : 173,
+         "javascript" : 177,
+         "c#" : 0,
+         "perl" : 1548,
+         "c++" : 61,
+         "ruby" : 13855,
+         "lua" : 7999
+      },
+      "re_bool" : {
+         "lua" : 183,
+         "nqp" : 0,
+         "perl" : 476,
+         "javascript" : 38,
+         "perl6" : 2030,
+         "ruby" : 167
+      },
+      "json_se" : {
+         "ruby" : 2413,
+         "javascript" : 372,
+         "perl" : 347
+      },
+      "str_join_repeat" : {
+         "ruby" : 56,
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 72,
+         "lua" : 1
+      },
+      "re_capture" : {
+         "javascript" : 89,
+         "perl6" : 10680,
+         "perl" : 207,
+         "ruby" : 431,
+         "nqp" : 0,
+         "lua" : 288
+      },
+      "fib_fast" : {
+         "perl6" : 788,
+         "javascript" : 20
+      },
+      "fib" : {
+         "ruby" : 885,
+         "perl6" : 4609,
+         "c#" : 0,
+         "nim" : 36,
+         "javascript" : 124,
+         "perl" : 5143,
+         "c++" : 2,
+         "nqp" : 0,
+         "lua" : 161
+      },
+      "str_join" : {
+         "lua" : 102,
+         "nqp" : 0,
+         "ruby" : 1026,
+         "c++" : 0,
+         "perl" : 449,
+         "nim" : 47,
+         "perl6" : 2016,
+         "javascript" : 58,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "ruby" : 2189,
+         "perl" : 13449,
+         "perl6" : 10740,
+         "javascript" : 331,
+         "nim" : 112,
+         "c#" : 0,
+         "c++" : 18,
+         "nqp" : 0,
+         "lua" : 394
+      },
+      "json_de" : {
+         "perl" : 812,
+         "javascript" : 602,
+         "ruby" : 2200
+      }
+   },
+   "version" : {
+      "c++" : "19.1.7",
+      "javascript" : "v23.9.0",
+      "perl6" : null,
+      "nim" : "2.0.8",
+      "c#" : "9.0.104",
+      "perl" : "v5.40.2",
+      "ruby" : "3.3.7",
+      "lua" : "2.1.1741730670",
+      "nqp" : "2025.04"
+   }
+}
