@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "ruby" : 167,
+         "lua" : 170,
+         "javascript" : 35,
+         "perl6" : 2112,
+         "nqp" : 2362,
+         "perl" : 471
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 67,
+         "ruby" : 59,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "perl" : 716,
+         "javascript" : 566,
+         "ruby" : 1933
+      },
+      "re_capture" : {
+         "perl" : 209,
+         "perl6" : 9923,
+         "nqp" : 7267,
+         "javascript" : 83,
+         "lua" : 246,
+         "ruby" : 423
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 751
+      },
+      "str_join_slow" : {
+         "perl6" : 9466,
+         "nim" : 161,
+         "c++" : 60,
+         "perl" : 1400,
+         "c#" : 0,
+         "ruby" : 14013,
+         "lua" : 7977,
+         "javascript" : 146
+      },
+      "takeuchi" : {
+         "nqp" : 8899,
+         "perl6" : 10740,
+         "nim" : 101,
+         "c++" : 17,
+         "perl" : 12751,
+         "c#" : 0,
+         "ruby" : 2206,
+         "lua" : 369,
+         "javascript" : 314
+      },
+      "str_join" : {
+         "ruby" : 1021,
+         "lua" : 96,
+         "javascript" : 57,
+         "c#" : 0,
+         "nim" : 46,
+         "c++" : 0,
+         "perl" : 443,
+         "perl6" : 1787,
+         "nqp" : 861
+      },
+      "json_se" : {
+         "javascript" : 351,
+         "perl" : 337,
+         "ruby" : 2298
+      },
+      "fib" : {
+         "nqp" : 7606,
+         "perl6" : 4477,
+         "nim" : 33,
+         "c++" : 2,
+         "perl" : 4922,
+         "c#" : 0,
+         "ruby" : 892,
+         "lua" : 165,
+         "javascript" : 122
+      }
+   },
+   "version" : {
+      "c++" : "19.1.7",
+      "perl" : "v5.40.2",
+      "nim" : "2.0.8",
+      "nqp" : "2025.04",
+      "perl6" : null,
+      "javascript" : "v23.9.0",
+      "ruby" : "3.3.7",
+      "lua" : "2.1.1741730670",
+      "c#" : "9.0.104"
+   }
+}
