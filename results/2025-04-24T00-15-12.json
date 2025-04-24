@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 7403,
+         "perl" : 203,
+         "perl6" : 9879,
+         "ruby" : 420,
+         "javascript" : 82,
+         "lua" : 244
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 732
+      },
+      "json_de" : {
+         "javascript" : 559,
+         "ruby" : 2019,
+         "perl" : 709
+      },
+      "json_se" : {
+         "perl" : 335,
+         "javascript" : 346,
+         "ruby" : 2320
+      },
+      "str_join_slow" : {
+         "nim" : 159,
+         "javascript" : 144,
+         "perl" : 1375,
+         "perl6" : 10372,
+         "c#" : 0,
+         "c++" : 59,
+         "lua" : 7659,
+         "ruby" : 11835
+      },
+      "fib" : {
+         "javascript" : 120,
+         "perl" : 4881,
+         "perl6" : 4507,
+         "nim" : 33,
+         "ruby" : 843,
+         "nqp" : 7604,
+         "c++" : 2,
+         "c#" : 0,
+         "lua" : 151
+      },
+      "re_bool" : {
+         "lua" : 169,
+         "perl6" : 2054,
+         "nqp" : 2410,
+         "perl" : 465,
+         "javascript" : 36,
+         "ruby" : 165
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "c++" : 17,
+         "lua" : 354,
+         "ruby" : 2055,
+         "nqp" : 17481,
+         "nim" : 101,
+         "javascript" : 310,
+         "perl" : 12655,
+         "perl6" : 10875
+      },
+      "str_join_repeat" : {
+         "nim" : 67,
+         "lua" : 1,
+         "ruby" : 53,
+         "perl" : 3,
+         "perl6" : 4
+      },
+      "str_join" : {
+         "ruby" : 989,
+         "nqp" : 851,
+         "c++" : 0,
+         "c#" : 0,
+         "lua" : 94,
+         "javascript" : 56,
+         "perl" : 453,
+         "perl6" : 1754,
+         "nim" : 45
+      }
+   },
+   "version" : {
+      "javascript" : "v23.9.0",
+      "perl" : "v5.40.2",
+      "perl6" : null,
+      "nim" : "2.0.8",
+      "ruby" : "3.3.7",
+      "nqp" : "2025.04-1-g68eb3a190",
+      "c++" : "19.1.7",
+      "c#" : "9.0.105",
+      "lua" : "2.1.1741730670"
+   }
+}
