@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "19.1.7",
+      "perl" : "v5.40.2",
+      "c#" : "9.0.105",
+      "javascript" : "v23.9.0",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1741730670",
+      "ruby" : "3.3.7",
+      "perl6" : null,
+      "nqp" : "2025.04-1-g68eb3a190"
+   },
+   "result" : {
+      "fib" : {
+         "perl" : 4930,
+         "c++" : 2,
+         "c#" : 0,
+         "ruby" : 853,
+         "nim" : 34,
+         "lua" : 146,
+         "javascript" : 122,
+         "perl6" : 4745,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "c++" : 60,
+         "perl" : 1385,
+         "javascript" : 146,
+         "nim" : 160,
+         "ruby" : 12456,
+         "lua" : 7600,
+         "c#" : 0,
+         "perl6" : 10639
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "perl6" : 11368,
+         "javascript" : 315,
+         "lua" : 368,
+         "ruby" : 2161,
+         "nim" : 101,
+         "c#" : 0,
+         "c++" : 17,
+         "perl" : 12687
+      },
+      "json_se" : {
+         "perl" : 337,
+         "javascript" : 396,
+         "ruby" : 2291
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 4,
+         "ruby" : 55,
+         "lua" : 1,
+         "nim" : 67
+      },
+      "re_bool" : {
+         "perl" : 488,
+         "perl6" : 2104,
+         "ruby" : 165,
+         "lua" : 171,
+         "javascript" : 36,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "ruby" : 1964,
+         "javascript" : 565,
+         "perl" : 779
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 842
+      },
+      "re_capture" : {
+         "perl6" : 9987,
+         "perl" : 206,
+         "javascript" : 84,
+         "nqp" : 0,
+         "ruby" : 427,
+         "lua" : 246
+      },
+      "str_join" : {
+         "perl" : 443,
+         "c++" : 0,
+         "nim" : 46,
+         "ruby" : 1020,
+         "lua" : 95,
+         "javascript" : 58,
+         "c#" : 0,
+         "perl6" : 1813,
+         "nqp" : 0
+      }
+   }
+}
