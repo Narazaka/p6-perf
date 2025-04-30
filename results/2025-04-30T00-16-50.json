@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "perl" : "v5.40.2",
+      "c#" : "9.0.105",
+      "nqp" : "2025.04-1-g68eb3a190",
+      "javascript" : "v23.9.0",
+      "lua" : "2.1.1741730670",
+      "c++" : "19.1.7",
+      "nim" : "2.0.8",
+      "ruby" : "3.4.3"
+   },
+   "result" : {
+      "json_se" : {
+         "perl" : 359,
+         "javascript" : 356,
+         "ruby" : 697
+      },
+      "fib_fast" : {
+         "perl6" : 908,
+         "javascript" : 19
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 69,
+         "nim" : 69
+      },
+      "re_capture" : {
+         "perl6" : 11873,
+         "perl" : 211,
+         "ruby" : 490,
+         "javascript" : 84,
+         "nqp" : 8644,
+         "lua" : 251
+      },
+      "str_join" : {
+         "perl" : 457,
+         "perl6" : 2014,
+         "c#" : 0,
+         "c++" : 0,
+         "ruby" : 1057,
+         "nim" : 50,
+         "nqp" : 930,
+         "javascript" : 57,
+         "lua" : 99
+      },
+      "str_join_slow" : {
+         "javascript" : 148,
+         "lua" : 7760,
+         "c++" : 61,
+         "nim" : 164,
+         "ruby" : 15084,
+         "perl" : 1444,
+         "perl6" : 14332,
+         "c#" : 0
+      },
+      "fib" : {
+         "perl" : 5136,
+         "perl6" : 4876,
+         "c#" : 0,
+         "c++" : 2,
+         "nim" : 36,
+         "ruby" : 894,
+         "javascript" : 124,
+         "nqp" : 7900,
+         "lua" : 134
+      },
+      "json_de" : {
+         "ruby" : 1035,
+         "perl" : 749,
+         "javascript" : 580
+      },
+      "re_bool" : {
+         "nqp" : 2682,
+         "javascript" : 36,
+         "lua" : 176,
+         "ruby" : 172,
+         "perl6" : 2693,
+         "perl" : 635
+      },
+      "takeuchi" : {
+         "perl6" : 11177,
+         "perl" : 13116,
+         "c#" : 0,
+         "c++" : 17,
+         "ruby" : 2185,
+         "nim" : 103,
+         "nqp" : 18469,
+         "javascript" : 316,
+         "lua" : 377
+      }
+   }
+}
