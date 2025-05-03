@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "nqp" : 0,
+         "lua" : 171,
+         "javascript" : 36,
+         "ruby" : 174,
+         "perl6" : 2186,
+         "perl" : 471
+      },
+      "fib" : {
+         "nim" : 37,
+         "ruby" : 871,
+         "perl6" : 4523,
+         "perl" : 4954,
+         "javascript" : 122,
+         "nqp" : 0,
+         "lua" : 161,
+         "c++" : 3,
+         "c#" : 0
+      },
+      "json_de" : {
+         "javascript" : 585,
+         "perl" : 734,
+         "ruby" : 1005
+      },
+      "json_se" : {
+         "perl" : 338,
+         "ruby" : 675,
+         "javascript" : 388
+      },
+      "re_capture" : {
+         "perl" : 208,
+         "perl6" : 9788,
+         "ruby" : 476,
+         "javascript" : 83,
+         "lua" : 251,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "c#" : 0,
+         "nqp" : 0,
+         "lua" : 370,
+         "javascript" : 313,
+         "nim" : 97,
+         "ruby" : 2166,
+         "perl" : 12786,
+         "perl6" : 11654
+      },
+      "str_join" : {
+         "ruby" : 1015,
+         "nim" : 45,
+         "perl" : 446,
+         "perl6" : 1966,
+         "javascript" : 58,
+         "nqp" : 0,
+         "lua" : 96,
+         "c#" : 0,
+         "c++" : 0
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 60,
+         "ruby" : 71
+      },
+      "str_join_slow" : {
+         "lua" : 8079,
+         "c++" : 57,
+         "c#" : 0,
+         "perl" : 1387,
+         "perl6" : 10177,
+         "nim" : 161,
+         "ruby" : 14992,
+         "javascript" : 145
+      },
+      "fib_fast" : {
+         "perl6" : 788,
+         "javascript" : 19
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "perl" : "v5.40.2",
+      "ruby" : "3.4.3",
+      "nim" : "2.0.8",
+      "javascript" : "v23.9.0",
+      "lua" : "2.1.1741730670",
+      "nqp" : "2025.04-1-g68eb3a190",
+      "c#" : "9.0.105",
+      "c++" : "19.1.7"
+   }
+}
