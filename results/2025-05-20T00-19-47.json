@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c#" : "9.0.105",
+      "nqp" : "2025.05",
+      "perl" : "v5.40.2",
+      "javascript" : "v23.11.1",
+      "lua" : "2.1.1741730670",
+      "c++" : "19.1.7",
+      "nim" : "2.0.8",
+      "ruby" : "3.4.3",
+      "perl6" : null
+   },
+   "result" : {
+      "json_se" : {
+         "perl" : 339,
+         "javascript" : 327,
+         "ruby" : 682
+      },
+      "re_bool" : {
+         "perl" : 471,
+         "javascript" : 36,
+         "nqp" : 0,
+         "perl6" : 2027,
+         "ruby" : 170,
+         "lua" : 174
+      },
+      "re_capture" : {
+         "ruby" : 475,
+         "lua" : 249,
+         "perl6" : 9704,
+         "nqp" : 0,
+         "javascript" : 84,
+         "perl" : 204
+      },
+      "json_de" : {
+         "perl" : 755,
+         "javascript" : 558,
+         "ruby" : 1006
+      },
+      "takeuchi" : {
+         "perl" : 12844,
+         "javascript" : 316,
+         "nqp" : 0,
+         "c++" : 18,
+         "lua" : 369,
+         "c#" : 0,
+         "nim" : 96,
+         "perl6" : 11361,
+         "ruby" : 2224
+      },
+      "fib_fast" : {
+         "perl6" : 781,
+         "javascript" : 21
+      },
+      "fib" : {
+         "nim" : 37,
+         "ruby" : 870,
+         "perl6" : 4485,
+         "nqp" : 0,
+         "perl" : 5071,
+         "javascript" : 122,
+         "lua" : 167,
+         "c++" : 2,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 71,
+         "perl6" : 4
+      },
+      "str_join_slow" : {
+         "nim" : 160,
+         "ruby" : 14270,
+         "perl6" : 10324,
+         "javascript" : 150,
+         "perl" : 1378,
+         "lua" : 8339,
+         "c++" : 57,
+         "c#" : 0
+      },
+      "str_join" : {
+         "javascript" : 58,
+         "perl" : 452,
+         "nqp" : 0,
+         "c++" : 0,
+         "lua" : 99,
+         "c#" : 0,
+         "nim" : 45,
+         "perl6" : 1901,
+         "ruby" : 1039
+      }
+   }
+}
