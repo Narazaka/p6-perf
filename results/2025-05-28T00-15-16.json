@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "c#" : 0,
+         "javascript" : 309,
+         "nim" : 96,
+         "nqp" : 8621,
+         "perl6" : 13348,
+         "lua" : 366,
+         "ruby" : 2139,
+         "c++" : 17,
+         "perl" : 12818
+      },
+      "json_de" : {
+         "perl" : 813,
+         "javascript" : 542,
+         "ruby" : 941
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 4,
+         "ruby" : 71,
+         "nim" : 59,
+         "perl" : 3
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "nim" : 159,
+         "javascript" : 145,
+         "perl" : 2836,
+         "c++" : 57,
+         "ruby" : 15028,
+         "lua" : 8131,
+         "perl6" : 10502
+      },
+      "fib" : {
+         "javascript" : 121,
+         "nim" : 37,
+         "nqp" : 7580,
+         "c#" : 0,
+         "lua" : 162,
+         "perl6" : 4855,
+         "ruby" : 853,
+         "c++" : 2,
+         "perl" : 5173
+      },
+      "re_bool" : {
+         "perl" : 472,
+         "lua" : 171,
+         "perl6" : 2334,
+         "ruby" : 165,
+         "nqp" : 2224,
+         "javascript" : 35
+      },
+      "re_capture" : {
+         "javascript" : 86,
+         "nqp" : 7664,
+         "ruby" : 471,
+         "perl6" : 10720,
+         "lua" : 245,
+         "perl" : 204
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 471,
+         "lua" : 96,
+         "perl6" : 2209,
+         "ruby" : 983,
+         "nqp" : 987,
+         "javascript" : 58,
+         "nim" : 45,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 837
+      },
+      "json_se" : {
+         "ruby" : 659,
+         "javascript" : 323,
+         "perl" : 338
+      }
+   },
+   "version" : {
+      "perl" : "v5.40.2",
+      "c++" : "19.1.7",
+      "ruby" : "3.4.4",
+      "perl6" : null,
+      "lua" : "2.1.1741730670",
+      "nqp" : "2025.05-2-g0f57c258f",
+      "nim" : "2.0.8",
+      "javascript" : "v23.11.1",
+      "c#" : "9.0.105"
+   }
+}
