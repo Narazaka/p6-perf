@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.8",
+      "perl" : "v5.40.2",
+      "c++" : "19.1.7",
+      "lua" : "2.1.1741730670",
+      "c#" : "9.0.105",
+      "javascript" : "v23.11.1",
+      "perl6" : null,
+      "nqp" : "2025.05-2-g0f57c258f",
+      "ruby" : "3.4.4"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "ruby" : 78,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 6,
+         "nim" : 66
+      },
+      "str_join_slow" : {
+         "perl6" : 9987,
+         "javascript" : 147,
+         "ruby" : 16430,
+         "nim" : 174,
+         "c#" : 0,
+         "lua" : 7800,
+         "perl" : 1387,
+         "c++" : 62
+      },
+      "str_join" : {
+         "perl6" : 2123,
+         "javascript" : 58,
+         "ruby" : 1015,
+         "nqp" : 901,
+         "nim" : 46,
+         "c#" : 0,
+         "lua" : 98,
+         "perl" : 475,
+         "c++" : 0
+      },
+      "takeuchi" : {
+         "perl6" : 10991,
+         "javascript" : 338,
+         "nqp" : 8762,
+         "ruby" : 2197,
+         "nim" : 97,
+         "lua" : 360,
+         "perl" : 12938,
+         "c++" : 17,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 827
+      },
+      "json_de" : {
+         "javascript" : 556,
+         "ruby" : 942,
+         "perl" : 794
+      },
+      "json_se" : {
+         "perl" : 342,
+         "ruby" : 754,
+         "javascript" : 329
+      },
+      "re_capture" : {
+         "ruby" : 478,
+         "perl" : 211,
+         "nqp" : 7754,
+         "lua" : 247,
+         "javascript" : 85,
+         "perl6" : 10651
+      },
+      "fib" : {
+         "nim" : 37,
+         "perl" : 5045,
+         "c++" : 2,
+         "lua" : 165,
+         "c#" : 0,
+         "javascript" : 123,
+         "perl6" : 4566,
+         "nqp" : 7524,
+         "ruby" : 858
+      },
+      "re_bool" : {
+         "perl6" : 2204,
+         "javascript" : 37,
+         "lua" : 175,
+         "perl" : 542,
+         "nqp" : 2389,
+         "ruby" : 182
+      }
+   }
+}
