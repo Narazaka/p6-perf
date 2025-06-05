@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.40.2",
+      "perl6" : null,
+      "c++" : "19.1.7",
+      "javascript" : "v24.1.0",
+      "lua" : "2.1.1748459687",
+      "ruby" : "3.4.4",
+      "nim" : "2.0.8",
+      "nqp" : "2025.05-2-g0f57c258f",
+      "c#" : "9.0.105"
+   },
+   "result" : {
+      "re_bool" : {
+         "nqp" : 2219,
+         "lua" : 185,
+         "javascript" : 35,
+         "ruby" : 166,
+         "perl6" : 1899,
+         "perl" : 478
+      },
+      "takeuchi" : {
+         "lua" : 369,
+         "perl" : 12750,
+         "perl6" : 10672,
+         "c++" : 17,
+         "javascript" : 278,
+         "nim" : 96,
+         "nqp" : 16971,
+         "c#" : 0,
+         "ruby" : 2163
+      },
+      "fib_fast" : {
+         "perl6" : 726,
+         "javascript" : 21
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "lua" : 1,
+         "ruby" : 68,
+         "perl6" : 4,
+         "perl" : 3
+      },
+      "str_join" : {
+         "lua" : 95,
+         "perl6" : 1868,
+         "perl" : 454,
+         "javascript" : 54,
+         "c++" : 0,
+         "nim" : 45,
+         "nqp" : 857,
+         "c#" : 0,
+         "ruby" : 993
+      },
+      "re_capture" : {
+         "lua" : 255,
+         "nqp" : 7052,
+         "perl6" : 9226,
+         "perl" : 204,
+         "javascript" : 83,
+         "ruby" : 463
+      },
+      "json_se" : {
+         "ruby" : 684,
+         "javascript" : 342,
+         "perl" : 336
+      },
+      "fib" : {
+         "javascript" : 114,
+         "c++" : 2,
+         "perl6" : 5061,
+         "perl" : 5001,
+         "lua" : 161,
+         "ruby" : 871,
+         "nqp" : 7371,
+         "c#" : 0,
+         "nim" : 37
+      },
+      "json_de" : {
+         "perl" : 729,
+         "javascript" : 545,
+         "ruby" : 956
+      },
+      "str_join_slow" : {
+         "ruby" : 14626,
+         "nim" : 160,
+         "c#" : 0,
+         "perl" : 1436,
+         "perl6" : 9472,
+         "c++" : 58,
+         "javascript" : 141,
+         "lua" : 7684
+      }
+   }
+}
