@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "c#" : 0,
+         "nim" : 159,
+         "c++" : 57,
+         "perl" : 1368,
+         "lua" : 7674,
+         "ruby" : 15277,
+         "javascript" : 140,
+         "perl6" : 8915
+      },
+      "str_join" : {
+         "perl6" : 1849,
+         "javascript" : 52,
+         "nqp" : 857,
+         "lua" : 95,
+         "ruby" : 977,
+         "perl" : 451,
+         "c++" : 0,
+         "nim" : 44,
+         "c#" : 0
+      },
+      "fib" : {
+         "javascript" : 113,
+         "perl6" : 4398,
+         "nqp" : 7975,
+         "ruby" : 853,
+         "lua" : 164,
+         "c++" : 2,
+         "perl" : 4898,
+         "c#" : 0,
+         "nim" : 37
+      },
+      "fib_fast" : {
+         "javascript" : 22,
+         "perl6" : 684
+      },
+      "takeuchi" : {
+         "nim" : 96,
+         "c#" : 0,
+         "nqp" : 16968,
+         "perl6" : 10801,
+         "javascript" : 275,
+         "perl" : 12582,
+         "c++" : 17,
+         "ruby" : 2132,
+         "lua" : 369
+      },
+      "re_capture" : {
+         "perl" : 203,
+         "lua" : 259,
+         "ruby" : 460,
+         "nqp" : 7123,
+         "perl6" : 9369,
+         "javascript" : 82
+      },
+      "str_join_repeat" : {
+         "perl6" : 3,
+         "nim" : 59,
+         "ruby" : 68,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "perl6" : 1909,
+         "javascript" : 36,
+         "nqp" : 2193,
+         "lua" : 184,
+         "ruby" : 165,
+         "perl" : 468
+      },
+      "json_se" : {
+         "perl" : 336,
+         "ruby" : 659,
+         "javascript" : 340
+      },
+      "json_de" : {
+         "javascript" : 537,
+         "perl" : 757,
+         "ruby" : 937
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "c#" : "9.0.105",
+      "c++" : "19.1.7",
+      "perl" : "v5.40.2",
+      "lua" : "2.1.1748459687",
+      "ruby" : "3.4.4",
+      "nqp" : "2025.05-4-g608dafb83",
+      "javascript" : "v24.1.0",
+      "perl6" : null
+   }
+}
