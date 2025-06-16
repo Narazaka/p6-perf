@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "20.1.6",
+      "ruby" : "3.4.4",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.2",
+      "nqp" : "2025.05-4-g608dafb83",
+      "lua" : "2.1.1748459687",
+      "javascript" : "v24.2.0",
+      "perl6" : null,
+      "c#" : "9.0.105"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 758
+      },
+      "json_de" : {
+         "perl" : 749,
+         "ruby" : 938,
+         "javascript" : 549
+      },
+      "re_bool" : {
+         "nqp" : 2470,
+         "perl" : 473,
+         "ruby" : 167,
+         "lua" : 187,
+         "javascript" : 36,
+         "perl6" : 2058
+      },
+      "takeuchi" : {
+         "perl6" : 10768,
+         "javascript" : 277,
+         "lua" : 358,
+         "c#" : 0,
+         "ruby" : 2174,
+         "c++" : 17,
+         "nim" : 97,
+         "perl" : 12786,
+         "nqp" : 17135
+      },
+      "str_join" : {
+         "c++" : 0,
+         "ruby" : 1010,
+         "nim" : 45,
+         "perl" : 444,
+         "nqp" : 881,
+         "lua" : 97,
+         "perl6" : 1882,
+         "javascript" : 53,
+         "c#" : 0
+      },
+      "json_se" : {
+         "javascript" : 349,
+         "ruby" : 686,
+         "perl" : 343
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 73,
+         "lua" : 1,
+         "perl6" : 3,
+         "nim" : 60
+      },
+      "fib" : {
+         "perl6" : 4472,
+         "javascript" : 116,
+         "lua" : 146,
+         "c#" : 0,
+         "ruby" : 896,
+         "c++" : 2,
+         "nim" : 37,
+         "perl" : 4973,
+         "nqp" : 7552
+      },
+      "re_capture" : {
+         "ruby" : 471,
+         "nqp" : 7328,
+         "perl" : 205,
+         "lua" : 261,
+         "javascript" : 85,
+         "perl6" : 9751
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "lua" : 7981,
+         "perl6" : 9260,
+         "javascript" : 146,
+         "perl" : 1384,
+         "c++" : 57,
+         "ruby" : 15737,
+         "nim" : 160
+      }
+   }
+}
