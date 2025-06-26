@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "perl6" : 786,
+         "javascript" : 19
+      },
+      "takeuchi" : {
+         "perl6" : 10882,
+         "perl" : 12932,
+         "c#" : 0,
+         "lua" : 360,
+         "nim" : 102,
+         "javascript" : 278,
+         "c++" : 17,
+         "nqp" : 17432,
+         "ruby" : 5647
+      },
+      "str_join_slow" : {
+         "perl6" : 9810,
+         "perl" : 1387,
+         "c#" : 0,
+         "lua" : 7755,
+         "nim" : 162,
+         "javascript" : 144,
+         "c++" : 57,
+         "ruby" : 16213
+      },
+      "json_de" : {
+         "ruby" : 955,
+         "perl" : 757,
+         "javascript" : 546
+      },
+      "re_bool" : {
+         "lua" : 188,
+         "perl" : 895,
+         "perl6" : 2073,
+         "ruby" : 168,
+         "nqp" : 2494,
+         "javascript" : 36
+      },
+      "re_capture" : {
+         "lua" : 260,
+         "perl6" : 11404,
+         "perl" : 233,
+         "ruby" : 485,
+         "nqp" : 7876,
+         "javascript" : 86
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 60,
+         "ruby" : 73,
+         "lua" : 1
+      },
+      "fib" : {
+         "ruby" : 894,
+         "javascript" : 114,
+         "nqp" : 7588,
+         "c++" : 2,
+         "lua" : 167,
+         "nim" : 37,
+         "perl6" : 4465,
+         "c#" : 0,
+         "perl" : 5208
+      },
+      "str_join" : {
+         "nqp" : 901,
+         "c++" : 0,
+         "javascript" : 53,
+         "ruby" : 1022,
+         "perl6" : 2192,
+         "perl" : 487,
+         "c#" : 0,
+         "nim" : 47,
+         "lua" : 97
+      },
+      "json_se" : {
+         "javascript" : 344,
+         "perl" : 344,
+         "ruby" : 758
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1748459687",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.2",
+      "c#" : "9.0.105",
+      "perl6" : null,
+      "ruby" : "3.4.4",
+      "javascript" : "v24.2.0",
+      "nqp" : "2025.05-6-ge4cc3c69e",
+      "c++" : "20.1.6"
+   }
+}
