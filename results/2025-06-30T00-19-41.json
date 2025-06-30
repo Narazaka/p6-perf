@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.8",
+      "lua" : "2.1.1748459687",
+      "nqp" : "2025.06",
+      "c++" : "20.1.6",
+      "perl" : "v5.40.2",
+      "javascript" : "v24.3.0",
+      "c#" : "9.0.106",
+      "perl6" : null,
+      "ruby" : "3.4.4"
+   },
+   "result" : {
+      "str_join" : {
+         "nqp" : 0,
+         "nim" : 44,
+         "lua" : 95,
+         "perl6" : 1860,
+         "ruby" : 1009,
+         "javascript" : 51,
+         "perl" : 439,
+         "c#" : 0,
+         "c++" : 0
+      },
+      "re_capture" : {
+         "perl" : 203,
+         "javascript" : 84,
+         "perl6" : 9563,
+         "ruby" : 461,
+         "lua" : 254,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "perl" : 1373,
+         "javascript" : 141,
+         "c++" : 57,
+         "ruby" : 15541,
+         "perl6" : 9187,
+         "nim" : 159,
+         "lua" : 7582
+      },
+      "json_se" : {
+         "ruby" : 666,
+         "perl" : 337,
+         "javascript" : 341
+      },
+      "fib_fast" : {
+         "perl6" : 699,
+         "javascript" : 22
+      },
+      "json_de" : {
+         "perl" : 738,
+         "javascript" : 534,
+         "ruby" : 935
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "lua" : 183,
+         "ruby" : 165,
+         "perl6" : 1850,
+         "javascript" : 36,
+         "perl" : 469
+      },
+      "fib" : {
+         "lua" : 162,
+         "nim" : 37,
+         "nqp" : 0,
+         "c++" : 2,
+         "c#" : 0,
+         "perl" : 4967,
+         "javascript" : 114,
+         "ruby" : 852,
+         "perl6" : 4402
+      },
+      "takeuchi" : {
+         "ruby" : 2147,
+         "perl6" : 10630,
+         "c#" : 0,
+         "perl" : 12645,
+         "javascript" : 274,
+         "c++" : 17,
+         "nqp" : 0,
+         "nim" : 96,
+         "lua" : 355
+      },
+      "str_join_repeat" : {
+         "ruby" : 72,
+         "perl6" : 4,
+         "lua" : 1,
+         "nim" : 60,
+         "perl" : 3
+      }
+   }
+}
