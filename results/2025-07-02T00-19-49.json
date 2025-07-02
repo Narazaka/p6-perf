@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 374,
+         "perl" : 339,
+         "ruby" : 671
+      },
+      "str_join_slow" : {
+         "nim" : 160,
+         "javascript" : 144,
+         "perl6" : 10004,
+         "ruby" : 15574,
+         "lua" : 8283,
+         "c++" : 57,
+         "perl" : 1391,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "perl" : 210,
+         "nqp" : 0,
+         "lua" : 264,
+         "javascript" : 84,
+         "perl6" : 10652,
+         "ruby" : 469
+      },
+      "takeuchi" : {
+         "ruby" : 2161,
+         "perl6" : 10970,
+         "javascript" : 276,
+         "nim" : 100,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl" : 13134,
+         "c++" : 17,
+         "lua" : 370
+      },
+      "json_de" : {
+         "ruby" : 950,
+         "javascript" : 547,
+         "perl" : 768
+      },
+      "re_bool" : {
+         "ruby" : 167,
+         "perl6" : 2139,
+         "javascript" : 37,
+         "nqp" : 0,
+         "perl" : 473,
+         "lua" : 199
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 4,
+         "ruby" : 74,
+         "nim" : 60,
+         "lua" : 1
+      },
+      "fib" : {
+         "nim" : 37,
+         "perl6" : 4724,
+         "javascript" : 116,
+         "ruby" : 865,
+         "c++" : 2,
+         "lua" : 164,
+         "perl" : 4984,
+         "nqp" : 0,
+         "c#" : 0
+      },
+      "str_join" : {
+         "nim" : 45,
+         "perl6" : 2184,
+         "javascript" : 53,
+         "ruby" : 1005,
+         "c++" : 0,
+         "lua" : 95,
+         "perl" : 470,
+         "nqp" : 0,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 824
+      }
+   },
+   "version" : {
+      "javascript" : "v24.3.0",
+      "perl6" : null,
+      "ruby" : "3.4.4",
+      "nim" : "2.0.8",
+      "perl" : "v5.40.2",
+      "nqp" : "2025.06.1-1-g4604c6664",
+      "c#" : "9.0.106",
+      "lua" : "2.1.1748459687",
+      "c++" : "20.1.7"
+   }
+}
