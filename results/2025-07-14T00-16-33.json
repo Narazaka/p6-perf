@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "c#" : 0,
+         "perl" : 443,
+         "ruby" : 1008,
+         "javascript" : 54,
+         "perl6" : 1963,
+         "lua" : 96,
+         "nqp" : 885,
+         "c++" : 0,
+         "nim" : 45
+      },
+      "re_capture" : {
+         "perl6" : 10152,
+         "nqp" : 7527,
+         "lua" : 259,
+         "ruby" : 471,
+         "javascript" : 84,
+         "perl" : 206
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 74,
+         "nim" : 60,
+         "perl6" : 4,
+         "lua" : 1
+      },
+      "fib" : {
+         "c#" : 0,
+         "perl" : 4929,
+         "javascript" : 119,
+         "ruby" : 863,
+         "nqp" : 7574,
+         "lua" : 154,
+         "perl6" : 4460,
+         "c++" : 2,
+         "nim" : 37
+      },
+      "takeuchi" : {
+         "lua" : 370,
+         "nqp" : 17793,
+         "perl6" : 10967,
+         "c++" : 17,
+         "nim" : 97,
+         "c#" : 0,
+         "perl" : 12696,
+         "javascript" : 290,
+         "ruby" : 2186
+      },
+      "json_se" : {
+         "javascript" : 342,
+         "ruby" : 678,
+         "perl" : 337
+      },
+      "re_bool" : {
+         "ruby" : 167,
+         "javascript" : 36,
+         "perl" : 469,
+         "perl6" : 1964,
+         "lua" : 199,
+         "nqp" : 2290
+      },
+      "str_join_slow" : {
+         "perl" : 1377,
+         "javascript" : 143,
+         "ruby" : 16156,
+         "c#" : 0,
+         "c++" : 57,
+         "nim" : 160,
+         "lua" : 7694,
+         "perl6" : 9211
+      },
+      "json_de" : {
+         "javascript" : 551,
+         "ruby" : 963,
+         "perl" : 739
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 800
+      }
+   },
+   "version" : {
+      "perl" : "v5.40.2",
+      "javascript" : "v24.4.0",
+      "ruby" : "3.4.4",
+      "c#" : "9.0.106",
+      "c++" : "20.1.7",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1748459687",
+      "nqp" : "2025.06.1-1-g4604c6664",
+      "perl6" : null
+   }
+}
