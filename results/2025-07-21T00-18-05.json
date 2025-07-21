@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "ruby" : 1060,
+         "perl" : 769,
+         "javascript" : 596
+      },
+      "fib" : {
+         "perl6" : 4668,
+         "javascript" : 161,
+         "perl" : 6045,
+         "nqp" : 8452,
+         "c++" : 2,
+         "nim" : 39,
+         "c#" : 0,
+         "ruby" : 912,
+         "lua" : 178
+      },
+      "str_join" : {
+         "perl" : 418,
+         "nqp" : 1124,
+         "perl6" : 2738,
+         "javascript" : 90,
+         "lua" : 130,
+         "nim" : 46,
+         "c++" : 0,
+         "c#" : 0,
+         "ruby" : 1156
+      },
+      "re_bool" : {
+         "lua" : 237,
+         "ruby" : 184,
+         "nqp" : 2689,
+         "perl" : 557,
+         "javascript" : 36,
+         "perl6" : 2309
+      },
+      "json_se" : {
+         "ruby" : 692,
+         "javascript" : 432,
+         "perl" : 341
+      },
+      "str_join_slow" : {
+         "javascript" : 177,
+         "perl6" : 11593,
+         "perl" : 1503,
+         "ruby" : 17363,
+         "c++" : 61,
+         "nim" : 171,
+         "c#" : 0,
+         "lua" : 9937
+      },
+      "re_capture" : {
+         "lua" : 302,
+         "ruby" : 681,
+         "nqp" : 9918,
+         "perl" : 207,
+         "javascript" : 116,
+         "perl6" : 12037
+      },
+      "str_join_repeat" : {
+         "nim" : 80,
+         "ruby" : 80,
+         "lua" : 1,
+         "perl6" : 6,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "perl6" : 1102,
+         "javascript" : 24
+      },
+      "takeuchi" : {
+         "perl6" : 11538,
+         "javascript" : 285,
+         "perl" : 14353,
+         "nqp" : 18872,
+         "c#" : 0,
+         "nim" : 108,
+         "c++" : 28,
+         "ruby" : 2563,
+         "lua" : 472
+      }
+   },
+   "version" : {
+      "c++" : "20.1.8",
+      "ruby" : "3.4.4",
+      "perl" : "v5.42.0",
+      "perl6" : null,
+      "javascript" : "v24.4.1",
+      "lua" : "2.1.1748459687",
+      "nim" : "2.0.8",
+      "c#" : "9.0.106",
+      "nqp" : "2025.06.1-1-g4604c6664"
+   }
+}
