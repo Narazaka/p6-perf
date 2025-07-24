@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "nim" : 162,
+         "lua" : 7638,
+         "ruby" : 14942,
+         "c#" : 0,
+         "javascript" : 142,
+         "perl" : 1429,
+         "c++" : 57,
+         "perl6" : 9370
+      },
+      "json_de" : {
+         "perl" : 714,
+         "javascript" : 539,
+         "ruby" : 955
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "perl" : 3,
+         "ruby" : 70,
+         "lua" : 1,
+         "perl6" : 4
+      },
+      "re_capture" : {
+         "perl6" : 9484,
+         "lua" : 255,
+         "ruby" : 485,
+         "perl" : 197,
+         "nqp" : 7190,
+         "javascript" : 84
+      },
+      "json_se" : {
+         "ruby" : 694,
+         "perl" : 331,
+         "javascript" : 347
+      },
+      "str_join" : {
+         "nim" : 45,
+         "nqp" : 863,
+         "lua" : 95,
+         "ruby" : 1068,
+         "c#" : 0,
+         "javascript" : 52,
+         "perl" : 400,
+         "c++" : 0,
+         "perl6" : 1906
+      },
+      "fib" : {
+         "c#" : 0,
+         "lua" : 155,
+         "ruby" : 871,
+         "nqp" : 7678,
+         "nim" : 37,
+         "perl6" : 4486,
+         "javascript" : 114,
+         "perl" : 4766,
+         "c++" : 2
+      },
+      "re_bool" : {
+         "lua" : 186,
+         "ruby" : 169,
+         "perl6" : 1985,
+         "nqp" : 2280,
+         "javascript" : 36,
+         "perl" : 487
+      },
+      "takeuchi" : {
+         "lua" : 358,
+         "ruby" : 2151,
+         "nim" : 105,
+         "nqp" : 18165,
+         "c#" : 0,
+         "perl6" : 10919,
+         "javascript" : 278,
+         "c++" : 18,
+         "perl" : 12375
+      },
+      "fib_fast" : {
+         "perl6" : 781,
+         "javascript" : 19
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "javascript" : "v24.4.1",
+      "perl" : "v5.42.0",
+      "c++" : "20.1.8",
+      "lua" : "2.1.1748459687",
+      "ruby" : "3.4.4",
+      "nim" : "2.0.8",
+      "nqp" : "2025.06.1-2-g1385f08cf",
+      "c#" : "9.0.106"
+   }
+}
