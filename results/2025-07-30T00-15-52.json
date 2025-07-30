@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "javascript" : 114,
+         "c++" : 2,
+         "ruby" : 873,
+         "perl6" : 4555,
+         "c#" : 0,
+         "lua" : 142,
+         "perl" : 5053,
+         "nqp" : 7762,
+         "nim" : 37
+      },
+      "takeuchi" : {
+         "nqp" : 17844,
+         "nim" : 97,
+         "perl" : 12707,
+         "lua" : 390,
+         "c#" : 0,
+         "perl6" : 11037,
+         "ruby" : 2215,
+         "c++" : 17,
+         "javascript" : 277
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 748
+      },
+      "re_bool" : {
+         "nqp" : 2285,
+         "javascript" : 36,
+         "lua" : 191,
+         "perl" : 518,
+         "ruby" : 167,
+         "perl6" : 1998
+      },
+      "json_de" : {
+         "javascript" : 542,
+         "ruby" : 970,
+         "perl" : 712
+      },
+      "json_se" : {
+         "perl" : 351,
+         "ruby" : 688,
+         "javascript" : 346
+      },
+      "str_join" : {
+         "nim" : 45,
+         "nqp" : 905,
+         "c++" : 0,
+         "javascript" : 59,
+         "perl" : 419,
+         "lua" : 99,
+         "perl6" : 1932,
+         "c#" : 0,
+         "ruby" : 1001
+      },
+      "str_join_repeat" : {
+         "nim" : 62,
+         "ruby" : 69,
+         "perl6" : 4,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "re_capture" : {
+         "ruby" : 483,
+         "perl6" : 9832,
+         "lua" : 256,
+         "perl" : 203,
+         "nqp" : 7268,
+         "javascript" : 84
+      },
+      "str_join_slow" : {
+         "c++" : 60,
+         "javascript" : 145,
+         "c#" : 0,
+         "perl6" : 9481,
+         "ruby" : 15567,
+         "perl" : 1462,
+         "lua" : 8412,
+         "nim" : 171
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1753364724",
+      "c#" : "9.0.108",
+      "perl6" : null,
+      "ruby" : "3.4.4",
+      "c++" : "20.1.8",
+      "javascript" : "v24.4.1",
+      "nqp" : "2025.06.1-2-g1385f08cf",
+      "nim" : "2.0.8"
+   }
+}
