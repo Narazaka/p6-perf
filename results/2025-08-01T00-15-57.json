@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2025.06.1-2-g1385f08cf",
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1753364724",
+      "c++" : "20.1.8",
+      "perl6" : null,
+      "ruby" : "3.4.4",
+      "c#" : "9.0.108",
+      "javascript" : "v24.5.0",
+      "nim" : "2.0.8"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "lua" : 8317,
+         "perl" : 1447,
+         "c++" : 56,
+         "perl6" : 10302,
+         "c#" : 0,
+         "javascript" : 208,
+         "nim" : 169,
+         "ruby" : 16097
+      },
+      "takeuchi" : {
+         "lua" : 372,
+         "nqp" : 18275,
+         "perl" : 12537,
+         "c++" : 20,
+         "perl6" : 10981,
+         "c#" : 0,
+         "nim" : 114,
+         "javascript" : 280,
+         "ruby" : 2251
+      },
+      "json_de" : {
+         "javascript" : 575,
+         "ruby" : 1005,
+         "perl" : 717
+      },
+      "re_capture" : {
+         "lua" : 328,
+         "nqp" : 8224,
+         "perl" : 209,
+         "perl6" : 10279,
+         "javascript" : 86,
+         "ruby" : 516
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 4,
+         "ruby" : 74,
+         "nim" : 63
+      },
+      "fib_fast" : {
+         "perl6" : 1072,
+         "javascript" : 23
+      },
+      "str_join" : {
+         "lua" : 96,
+         "perl" : 408,
+         "nqp" : 973,
+         "c++" : 0,
+         "perl6" : 1821,
+         "nim" : 47,
+         "javascript" : 53,
+         "c#" : 0,
+         "ruby" : 1060
+      },
+      "json_se" : {
+         "perl" : 335,
+         "javascript" : 363,
+         "ruby" : 834
+      },
+      "fib" : {
+         "javascript" : 116,
+         "nim" : 37,
+         "c#" : 0,
+         "ruby" : 906,
+         "perl6" : 4518,
+         "c++" : 2,
+         "lua" : 154,
+         "perl" : 5230,
+         "nqp" : 8122
+      },
+      "re_bool" : {
+         "perl" : 474,
+         "nqp" : 2562,
+         "lua" : 188,
+         "ruby" : 196,
+         "javascript" : 36,
+         "perl6" : 2251
+      }
+   }
+}
