@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "perl" : 9352,
+         "perl6" : 4457,
+         "ruby" : 954,
+         "c#" : 0,
+         "javascript" : 125,
+         "c++" : 2,
+         "lua" : 163,
+         "nim" : 37,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "perl" : 12811,
+         "perl6" : 11211,
+         "ruby" : 2224,
+         "c#" : 0,
+         "javascript" : 278,
+         "c++" : 17,
+         "nim" : 101,
+         "lua" : 381,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "ruby" : 688,
+         "javascript" : 357,
+         "perl" : 327
+      },
+      "str_join_slow" : {
+         "perl" : 1404,
+         "perl6" : 10209,
+         "ruby" : 16764,
+         "c#" : 0,
+         "javascript" : 172,
+         "c++" : 56,
+         "lua" : 7889,
+         "nim" : 178
+      },
+      "re_capture" : {
+         "perl" : 206,
+         "perl6" : 11161,
+         "ruby" : 488,
+         "javascript" : 84,
+         "lua" : 267,
+         "nqp" : 0
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "nim" : 45,
+         "lua" : 95,
+         "c++" : 0,
+         "javascript" : 56,
+         "c#" : 0,
+         "ruby" : 1021,
+         "perl" : 404,
+         "perl6" : 2118
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 72,
+         "nim" : 60,
+         "perl" : 3,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "ruby" : 945,
+         "perl" : 672,
+         "javascript" : 572
+      },
+      "re_bool" : {
+         "ruby" : 167,
+         "perl6" : 2257,
+         "perl" : 471,
+         "lua" : 209,
+         "nqp" : 0,
+         "javascript" : 36
+      },
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 887
+      }
+   },
+   "version" : {
+      "c#" : "9.0.108",
+      "javascript" : "v24.5.0",
+      "c++" : "20.1.8",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1753364724",
+      "nqp" : "2025.06.1-2-g1385f08cf",
+      "perl" : "v5.42.0",
+      "perl6" : null,
+      "ruby" : "3.4.4"
+   }
+}
