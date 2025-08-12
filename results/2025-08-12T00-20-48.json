@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1753364724",
+      "c++" : "20.1.8",
+      "perl6" : null,
+      "javascript" : "v24.5.0",
+      "c#" : "9.0.108",
+      "nqp" : "2025.06.1-2-g1385f08cf",
+      "ruby" : "3.4.5",
+      "nim" : "2.0.8"
+   },
+   "result" : {
+      "json_se" : {
+         "ruby" : 1187,
+         "perl" : 332,
+         "javascript" : 412
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 83,
+         "nim" : 63
+      },
+      "takeuchi" : {
+         "nim" : 106,
+         "ruby" : 2531,
+         "nqp" : 0,
+         "c#" : 0,
+         "perl6" : 12006,
+         "javascript" : 298,
+         "lua" : 391,
+         "perl" : 13290,
+         "c++" : 18
+      },
+      "re_bool" : {
+         "ruby" : 189,
+         "nqp" : 0,
+         "perl" : 519,
+         "lua" : 203,
+         "perl6" : 2398,
+         "javascript" : 41
+      },
+      "str_join" : {
+         "c#" : 0,
+         "lua" : 100,
+         "perl" : 453,
+         "c++" : 0,
+         "perl6" : 2047,
+         "javascript" : 64,
+         "ruby" : 1112,
+         "nim" : 46,
+         "nqp" : 0
+      },
+      "re_capture" : {
+         "perl6" : 11035,
+         "javascript" : 94,
+         "lua" : 271,
+         "perl" : 219,
+         "ruby" : 523,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "ruby" : 1103,
+         "javascript" : 634,
+         "perl" : 721
+      },
+      "fib_fast" : {
+         "perl6" : 959,
+         "javascript" : 22
+      },
+      "fib" : {
+         "nim" : 45,
+         "ruby" : 962,
+         "nqp" : 0,
+         "c#" : 0,
+         "javascript" : 127,
+         "perl6" : 4688,
+         "c++" : 2,
+         "lua" : 169,
+         "perl" : 5479
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "javascript" : 158,
+         "perl6" : 10909,
+         "lua" : 8348,
+         "perl" : 1534,
+         "c++" : 59,
+         "ruby" : 16985,
+         "nim" : 168
+      }
+   }
+}
