@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.4.5",
+      "c#" : "9.0.109",
+      "perl6" : null,
+      "c++" : "20.1.8",
+      "nim" : "2.0.8",
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1753364724",
+      "javascript" : "v24.6.0",
+      "nqp" : "2025.06.1-2-g1385f08cf"
+   },
+   "result" : {
+      "str_join" : {
+         "javascript" : 50,
+         "lua" : 95,
+         "nqp" : 844,
+         "nim" : 45,
+         "c++" : 0,
+         "perl6" : 1820,
+         "c#" : 0,
+         "ruby" : 1001,
+         "perl" : 403
+      },
+      "re_bool" : {
+         "perl" : 468,
+         "nqp" : 2236,
+         "javascript" : 36,
+         "ruby" : 187,
+         "lua" : 186,
+         "perl6" : 2053
+      },
+      "json_se" : {
+         "javascript" : 344,
+         "ruby" : 669,
+         "perl" : 326
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "lua" : 1,
+         "ruby" : 71,
+         "perl6" : 3,
+         "perl" : 3
+      },
+      "re_capture" : {
+         "perl6" : 10021,
+         "ruby" : 461,
+         "lua" : 259,
+         "javascript" : 83,
+         "nqp" : 7115,
+         "perl" : 205
+      },
+      "json_de" : {
+         "javascript" : 545,
+         "ruby" : 967,
+         "perl" : 680
+      },
+      "fib_fast" : {
+         "perl6" : 754,
+         "javascript" : 21
+      },
+      "takeuchi" : {
+         "javascript" : 279,
+         "lua" : 373,
+         "nqp" : 18157,
+         "nim" : 97,
+         "c++" : 17,
+         "perl6" : 11280,
+         "ruby" : 2253,
+         "c#" : 0,
+         "perl" : 12375
+      },
+      "fib" : {
+         "ruby" : 873,
+         "c#" : 0,
+         "perl6" : 4588,
+         "c++" : 2,
+         "nim" : 37,
+         "perl" : 4799,
+         "lua" : 165,
+         "javascript" : 114,
+         "nqp" : 7646
+      },
+      "str_join_slow" : {
+         "nim" : 160,
+         "c++" : 54,
+         "perl6" : 9603,
+         "ruby" : 14575,
+         "c#" : 0,
+         "perl" : 1406,
+         "javascript" : 140,
+         "lua" : 7939
+      }
+   }
+}
