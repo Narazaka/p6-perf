@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v24.6.0",
+      "ruby" : "3.4.5",
+      "lua" : "2.1.1753364724",
+      "c#" : "9.0.109",
+      "c++" : "20.1.8",
+      "nim" : "2.0.8",
+      "nqp" : "2025.06.1-2-g1385f08cf",
+      "perl6" : null,
+      "perl" : "v5.42.0"
+   },
+   "result" : {
+      "re_bool" : {
+         "nqp" : 2223,
+         "perl" : 467,
+         "perl6" : 1973,
+         "javascript" : 36,
+         "ruby" : 167,
+         "lua" : 183
+      },
+      "json_de" : {
+         "javascript" : 562,
+         "ruby" : 968,
+         "perl" : 673
+      },
+      "str_join_repeat" : {
+         "ruby" : 72,
+         "lua" : 1,
+         "nim" : 60,
+         "perl6" : 4,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 719
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "lua" : 370,
+         "ruby" : 2142,
+         "javascript" : 276,
+         "perl6" : 10915,
+         "perl" : 12330,
+         "nim" : 97,
+         "nqp" : 17771,
+         "c++" : 18
+      },
+      "fib" : {
+         "c++" : 3,
+         "perl" : 4772,
+         "perl6" : 4381,
+         "nim" : 38,
+         "nqp" : 7670,
+         "ruby" : 922,
+         "javascript" : 114,
+         "c#" : 0,
+         "lua" : 164
+      },
+      "re_capture" : {
+         "perl" : 208,
+         "perl6" : 9456,
+         "nqp" : 7061,
+         "lua" : 264,
+         "ruby" : 472,
+         "javascript" : 85
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "lua" : 8172,
+         "ruby" : 16326,
+         "javascript" : 145,
+         "perl6" : 9111,
+         "perl" : 1418,
+         "nim" : 160,
+         "c++" : 55
+      },
+      "json_se" : {
+         "perl" : 323,
+         "javascript" : 343,
+         "ruby" : 667
+      },
+      "str_join" : {
+         "ruby" : 997,
+         "javascript" : 51,
+         "c#" : 0,
+         "lua" : 94,
+         "c++" : 0,
+         "perl" : 403,
+         "perl6" : 1780,
+         "nim" : 45,
+         "nqp" : 852
+      }
+   }
+}
