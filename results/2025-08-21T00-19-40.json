@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "perl" : 762,
+         "ruby" : 1046,
+         "javascript" : 554
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "c#" : 0,
+         "lua" : 372,
+         "javascript" : 278,
+         "c++" : 18,
+         "perl6" : 11434,
+         "nim" : 103,
+         "perl" : 12629,
+         "ruby" : 2205
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "nim" : 60,
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 71
+      },
+      "fib" : {
+         "perl" : 4894,
+         "ruby" : 916,
+         "perl6" : 4483,
+         "nim" : 38,
+         "c++" : 2,
+         "lua" : 134,
+         "c#" : 0,
+         "javascript" : 115,
+         "nqp" : 0
+      },
+      "re_capture" : {
+         "lua" : 263,
+         "javascript" : 84,
+         "perl6" : 10419,
+         "nqp" : 0,
+         "perl" : 207,
+         "ruby" : 489
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 782
+      },
+      "str_join_slow" : {
+         "c++" : 55,
+         "lua" : 8049,
+         "c#" : 0,
+         "javascript" : 143,
+         "perl" : 1417,
+         "ruby" : 15541,
+         "nim" : 161,
+         "perl6" : 9775
+      },
+      "str_join" : {
+         "perl" : 410,
+         "ruby" : 1023,
+         "perl6" : 1881,
+         "nim" : 45,
+         "c++" : 0,
+         "c#" : 0,
+         "lua" : 95,
+         "javascript" : 52,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "perl" : 325,
+         "ruby" : 718,
+         "javascript" : 344
+      },
+      "re_bool" : {
+         "ruby" : 171,
+         "perl" : 526,
+         "perl6" : 1998,
+         "nqp" : 0,
+         "lua" : 185,
+         "javascript" : 36
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "ruby" : "3.4.5",
+      "perl" : "v5.42.0",
+      "nqp" : "2025.06.1-2-g1385f08cf",
+      "c#" : "9.0.109",
+      "lua" : "2.1.1753364724",
+      "javascript" : "v24.6.0",
+      "c++" : "20.1.8"
+   }
+}
