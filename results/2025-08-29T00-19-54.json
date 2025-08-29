@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "c#" : 0,
+         "javascript" : 278,
+         "perl6" : 11167,
+         "ruby" : 2241,
+         "perl" : 12424,
+         "nim" : 99,
+         "c++" : 18,
+         "lua" : 373,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "lua" : 7929,
+         "perl" : 1412,
+         "ruby" : 16663,
+         "nim" : 162,
+         "c++" : 56,
+         "perl6" : 9683,
+         "c#" : 0,
+         "javascript" : 144
+      },
+      "json_de" : {
+         "ruby" : 968,
+         "perl" : 681,
+         "javascript" : 546
+      },
+      "fib" : {
+         "javascript" : 116,
+         "c#" : 0,
+         "perl6" : 4509,
+         "nim" : 39,
+         "c++" : 2,
+         "ruby" : 882,
+         "perl" : 4852,
+         "lua" : 163,
+         "nqp" : 0
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "lua" : 1,
+         "nim" : 63,
+         "perl" : 3,
+         "ruby" : 75
+      },
+      "re_bool" : {
+         "javascript" : 36,
+         "ruby" : 170,
+         "perl" : 471,
+         "lua" : 185,
+         "nqp" : 0,
+         "perl6" : 2114
+      },
+      "re_capture" : {
+         "ruby" : 473,
+         "perl" : 209,
+         "javascript" : 85,
+         "lua" : 260,
+         "perl6" : 9604,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "javascript" : 349,
+         "perl" : 322,
+         "ruby" : 676
+      },
+      "str_join" : {
+         "perl6" : 1824,
+         "c#" : 0,
+         "javascript" : 52,
+         "nqp" : 0,
+         "ruby" : 1018,
+         "perl" : 406,
+         "nim" : 48,
+         "c++" : 0,
+         "lua" : 95
+      },
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 748
+      }
+   },
+   "version" : {
+      "nqp" : "2025.08",
+      "lua" : "2.1.1753364724",
+      "ruby" : "3.4.5",
+      "perl" : "v5.42.0",
+      "c++" : "20.1.8",
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "c#" : "9.0.109",
+      "javascript" : "v24.7.0"
+   }
+}
