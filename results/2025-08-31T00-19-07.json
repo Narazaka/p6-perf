@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.8",
+      "perl" : "v5.42.0",
+      "c++" : "20.1.8",
+      "c#" : "9.0.109",
+      "lua" : "2.1.1753364724",
+      "nqp" : "2025.08",
+      "ruby" : "3.4.5",
+      "javascript" : "v24.7.0",
+      "perl6" : null
+   },
+   "result" : {
+      "re_bool" : {
+         "nqp" : 0,
+         "perl" : 462,
+         "ruby" : 166,
+         "javascript" : 35,
+         "lua" : 183,
+         "perl6" : 1956
+      },
+      "json_de" : {
+         "javascript" : 547,
+         "perl" : 673,
+         "ruby" : 943
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 3,
+         "perl" : 3,
+         "nim" : 59,
+         "ruby" : 70
+      },
+      "str_join" : {
+         "javascript" : 50,
+         "ruby" : 983,
+         "nqp" : 0,
+         "perl6" : 1743,
+         "c#" : 0,
+         "c++" : 0,
+         "perl" : 403,
+         "nim" : 44,
+         "lua" : 94
+      },
+      "takeuchi" : {
+         "javascript" : 275,
+         "nqp" : 0,
+         "ruby" : 2167,
+         "perl6" : 10884,
+         "c++" : 17,
+         "c#" : 0,
+         "perl" : 12205,
+         "nim" : 96,
+         "lua" : 366
+      },
+      "str_join_slow" : {
+         "c++" : 54,
+         "c#" : 0,
+         "nim" : 158,
+         "perl" : 1394,
+         "lua" : 7538,
+         "javascript" : 140,
+         "ruby" : 14127,
+         "perl6" : 8986
+      },
+      "json_se" : {
+         "ruby" : 677,
+         "perl" : 319,
+         "javascript" : 341
+      },
+      "fib" : {
+         "perl6" : 4762,
+         "javascript" : 113,
+         "ruby" : 903,
+         "nqp" : 0,
+         "lua" : 142,
+         "c#" : 0,
+         "c++" : 2,
+         "nim" : 37,
+         "perl" : 4763
+      },
+      "fib_fast" : {
+         "perl6" : 731,
+         "javascript" : 24
+      },
+      "re_capture" : {
+         "javascript" : 83,
+         "ruby" : 458,
+         "nqp" : 0,
+         "perl" : 204,
+         "perl6" : 9536,
+         "lua" : 262
+      }
+   }
+}
