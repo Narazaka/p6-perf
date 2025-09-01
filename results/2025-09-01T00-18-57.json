@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.8",
+      "c#" : "9.0.109",
+      "c++" : "20.1.8",
+      "lua" : "2.1.1753364724",
+      "perl" : "v5.42.0",
+      "perl6" : null,
+      "nqp" : "2025.08",
+      "javascript" : "v24.7.0",
+      "ruby" : "3.4.5"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "javascript" : 140,
+         "ruby" : 14411,
+         "c++" : 54,
+         "c#" : 0,
+         "nim" : 159,
+         "perl6" : 9083,
+         "lua" : 7655,
+         "perl" : 1383
+      },
+      "re_capture" : {
+         "ruby" : 456,
+         "lua" : 260,
+         "perl" : 203,
+         "perl6" : 9498,
+         "javascript" : 83,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 694
+      },
+      "fib" : {
+         "ruby" : 865,
+         "nqp" : 0,
+         "javascript" : 114,
+         "perl6" : 4352,
+         "lua" : 142,
+         "perl" : 4822,
+         "c++" : 2,
+         "c#" : 0,
+         "nim" : 37
+      },
+      "str_join_repeat" : {
+         "perl6" : 3,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 69,
+         "nim" : 59
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nim" : 44,
+         "c#" : 0,
+         "perl6" : 1748,
+         "lua" : 94,
+         "perl" : 410,
+         "javascript" : 51,
+         "nqp" : 0,
+         "ruby" : 976
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "javascript" : 35,
+         "perl6" : 2059,
+         "lua" : 182,
+         "perl" : 463,
+         "ruby" : 166
+      },
+      "takeuchi" : {
+         "perl6" : 10932,
+         "lua" : 365,
+         "perl" : 12191,
+         "c++" : 17,
+         "c#" : 0,
+         "nim" : 96,
+         "ruby" : 2124,
+         "nqp" : 0,
+         "javascript" : 275
+      },
+      "json_se" : {
+         "javascript" : 344,
+         "ruby" : 664,
+         "perl" : 317
+      },
+      "json_de" : {
+         "perl" : 674,
+         "ruby" : 939,
+         "javascript" : 535
+      }
+   }
+}
