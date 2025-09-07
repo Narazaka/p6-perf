@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "perl" : 667,
+         "ruby" : 990,
+         "javascript" : 550
+      },
+      "str_join" : {
+         "javascript" : 54,
+         "perl" : 420,
+         "ruby" : 1084,
+         "c#" : 0,
+         "nim" : 45,
+         "c++" : 0,
+         "nqp" : 0,
+         "perl6" : 2109,
+         "lua" : 95
+      },
+      "re_bool" : {
+         "ruby" : 171,
+         "lua" : 185,
+         "perl" : 467,
+         "perl6" : 2416,
+         "nqp" : 0,
+         "javascript" : 36
+      },
+      "json_se" : {
+         "ruby" : 699,
+         "perl" : 320,
+         "javascript" : 353
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "ruby" : 73,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 4
+      },
+      "fib" : {
+         "ruby" : 879,
+         "perl" : 4820,
+         "javascript" : 115,
+         "lua" : 144,
+         "perl6" : 4420,
+         "nqp" : 0,
+         "c++" : 2,
+         "nim" : 37,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "perl6" : 11003,
+         "lua" : 371,
+         "nim" : 97,
+         "c#" : 0,
+         "c++" : 18,
+         "nqp" : 0,
+         "perl" : 12414,
+         "ruby" : 2174,
+         "javascript" : 279
+      },
+      "fib_fast" : {
+         "perl6" : 892,
+         "javascript" : 21
+      },
+      "re_capture" : {
+         "lua" : 265,
+         "ruby" : 506,
+         "perl" : 205,
+         "perl6" : 11061,
+         "javascript" : 84,
+         "nqp" : 0
+      },
+      "str_join_slow" : {
+         "perl" : 1401,
+         "ruby" : 15825,
+         "javascript" : 156,
+         "perl6" : 9796,
+         "lua" : 7891,
+         "c#" : 0,
+         "nim" : 163,
+         "c++" : 55
+      }
+   },
+   "version" : {
+      "ruby" : "3.4.5",
+      "perl" : "v5.42.0",
+      "javascript" : "v24.7.0",
+      "lua" : "2.1.1753364724",
+      "perl6" : null,
+      "nqp" : "2025.08",
+      "c++" : "20.1.8",
+      "nim" : "2.0.8",
+      "c#" : "9.0.109"
+   }
+}
