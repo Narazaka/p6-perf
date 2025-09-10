@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.0.8",
+      "lua" : "2.1.1753364724",
+      "ruby" : "3.4.5",
+      "perl6" : null,
+      "perl" : "v5.42.0",
+      "c#" : "9.0.109",
+      "nqp" : "2025.08",
+      "c++" : "20.1.8",
+      "javascript" : "v24.7.0"
+   },
+   "result" : {
+      "json_de" : {
+         "javascript" : 539,
+         "perl" : 667,
+         "ruby" : 949
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "javascript" : 35,
+         "ruby" : 166,
+         "lua" : 184,
+         "perl" : 462,
+         "perl6" : 1924
+      },
+      "str_join_slow" : {
+         "c++" : 54,
+         "javascript" : 138,
+         "c#" : 0,
+         "perl6" : 8873,
+         "perl" : 1383,
+         "nim" : 159,
+         "ruby" : 14287,
+         "lua" : 7765
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nqp" : 0,
+         "c++" : 17,
+         "javascript" : 276,
+         "nim" : 96,
+         "lua" : 365,
+         "ruby" : 2126,
+         "perl" : 12212,
+         "perl6" : 10918
+      },
+      "json_se" : {
+         "ruby" : 663,
+         "perl" : 317,
+         "javascript" : 343
+      },
+      "re_capture" : {
+         "ruby" : 457,
+         "lua" : 259,
+         "perl" : 205,
+         "perl6" : 9618,
+         "nqp" : 0,
+         "javascript" : 83
+      },
+      "str_join" : {
+         "perl6" : 1743,
+         "perl" : 399,
+         "ruby" : 977,
+         "lua" : 94,
+         "nim" : 44,
+         "javascript" : 51,
+         "c++" : 0,
+         "nqp" : 0,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "nim" : 59,
+         "lua" : 1,
+         "ruby" : 66,
+         "perl" : 3,
+         "perl6" : 3
+      },
+      "fib_fast" : {
+         "perl6" : 728,
+         "javascript" : 21
+      },
+      "fib" : {
+         "c#" : 0,
+         "nqp" : 0,
+         "c++" : 2,
+         "javascript" : 113,
+         "nim" : 37,
+         "lua" : 141,
+         "ruby" : 873,
+         "perl6" : 4388,
+         "perl" : 4726
+      }
+   }
+}
