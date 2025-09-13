@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v24.7.0",
+      "c#" : "9.0.109",
+      "nqp" : "2025.08",
+      "ruby" : "3.4.5",
+      "perl" : "v5.42.0",
+      "perl6" : null,
+      "c++" : "20.1.8",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1753364724"
+   },
+   "result" : {
+      "fib" : {
+         "c#" : 0,
+         "javascript" : 113,
+         "ruby" : 863,
+         "nqp" : 0,
+         "perl6" : 4367,
+         "perl" : 4803,
+         "c++" : 2,
+         "nim" : 37,
+         "lua" : 161
+      },
+      "re_bool" : {
+         "perl6" : 2044,
+         "perl" : 461,
+         "lua" : 185,
+         "javascript" : 36,
+         "ruby" : 166,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "perl" : 316,
+         "javascript" : 342,
+         "ruby" : 664
+      },
+      "str_join_repeat" : {
+         "ruby" : 69,
+         "nim" : 60,
+         "lua" : 1,
+         "perl6" : 4,
+         "perl" : 3
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "perl" : 12261,
+         "perl6" : 11279,
+         "lua" : 365,
+         "nim" : 96,
+         "c#" : 0,
+         "javascript" : 275,
+         "ruby" : 2126,
+         "nqp" : 0
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 398,
+         "perl6" : 1752,
+         "lua" : 94,
+         "nim" : 45,
+         "c#" : 0,
+         "javascript" : 51,
+         "ruby" : 974,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 798
+      },
+      "re_capture" : {
+         "perl" : 204,
+         "perl6" : 9485,
+         "lua" : 259,
+         "javascript" : 87,
+         "ruby" : 457,
+         "nqp" : 0
+      },
+      "json_de" : {
+         "ruby" : 945,
+         "perl" : 670,
+         "javascript" : 543
+      },
+      "str_join_slow" : {
+         "javascript" : 140,
+         "c#" : 0,
+         "ruby" : 14112,
+         "perl" : 1389,
+         "perl6" : 9457,
+         "c++" : 54,
+         "nim" : 160,
+         "lua" : 7794
+      }
+   }
+}
