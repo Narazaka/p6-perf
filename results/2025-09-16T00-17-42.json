@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "ruby" : 1061,
+         "c++" : 0,
+         "nqp" : 906,
+         "nim" : 47,
+         "javascript" : 55,
+         "perl" : 445,
+         "perl6" : 1865,
+         "c#" : 0,
+         "lua" : 99
+      },
+      "re_capture" : {
+         "ruby" : 485,
+         "javascript" : 88,
+         "nqp" : 7797,
+         "perl" : 224,
+         "perl6" : 10958,
+         "lua" : 272
+      },
+      "fib" : {
+         "javascript" : 119,
+         "perl" : 5079,
+         "perl6" : 4575,
+         "c#" : 0,
+         "lua" : 163,
+         "nim" : 40,
+         "nqp" : 8122,
+         "ruby" : 896,
+         "c++" : 2
+      },
+      "json_se" : {
+         "perl" : 341,
+         "javascript" : 367,
+         "ruby" : 715
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 830
+      },
+      "takeuchi" : {
+         "nqp" : 18976,
+         "c++" : 18,
+         "ruby" : 2270,
+         "perl" : 13646,
+         "javascript" : 288,
+         "lua" : 389,
+         "c#" : 0,
+         "perl6" : 11572,
+         "nim" : 121
+      },
+      "re_bool" : {
+         "perl6" : 2211,
+         "lua" : 191,
+         "nqp" : 2494,
+         "javascript" : 35,
+         "perl" : 498,
+         "ruby" : 175
+      },
+      "str_join_slow" : {
+         "javascript" : 150,
+         "perl" : 1495,
+         "perl6" : 10854,
+         "c#" : 0,
+         "lua" : 8380,
+         "nim" : 168,
+         "ruby" : 16833,
+         "c++" : 59
+      },
+      "str_join_repeat" : {
+         "ruby" : 73,
+         "nim" : 65,
+         "perl6" : 4,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "json_de" : {
+         "perl" : 712,
+         "javascript" : 580,
+         "ruby" : 986
+      }
+   },
+   "version" : {
+      "nqp" : "2025.08",
+      "c++" : "20.1.8",
+      "ruby" : "3.4.5",
+      "perl" : "v5.42.0",
+      "javascript" : "v24.8.0",
+      "c#" : "9.0.109",
+      "lua" : "2.1.1753364724",
+      "perl6" : null,
+      "nim" : "2.0.8"
+   }
+}
