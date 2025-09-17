@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.4.5",
+      "perl6" : null,
+      "c++" : "20.1.8",
+      "lua" : "2.1.1753364724",
+      "javascript" : "v24.8.0",
+      "nim" : "2.0.8",
+      "perl" : "v5.42.0",
+      "nqp" : "2025.08",
+      "c#" : "9.0.109"
+   },
+   "result" : {
+      "str_join" : {
+         "c++" : 0,
+         "lua" : 99,
+         "perl6" : 1794,
+         "ruby" : 1004,
+         "c#" : 0,
+         "perl" : 401,
+         "nqp" : 0,
+         "nim" : 45,
+         "javascript" : 52
+      },
+      "fib" : {
+         "c#" : 0,
+         "perl" : 4775,
+         "nqp" : 0,
+         "javascript" : 121,
+         "nim" : 37,
+         "lua" : 167,
+         "c++" : 2,
+         "ruby" : 926,
+         "perl6" : 4413
+      },
+      "str_join_repeat" : {
+         "ruby" : 71,
+         "nim" : 60,
+         "perl6" : 4,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "takeuchi" : {
+         "nim" : 97,
+         "javascript" : 282,
+         "nqp" : 0,
+         "perl" : 12580,
+         "c#" : 0,
+         "perl6" : 10984,
+         "ruby" : 2222,
+         "c++" : 17,
+         "lua" : 368
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 757
+      },
+      "str_join_slow" : {
+         "javascript" : 142,
+         "nim" : 160,
+         "c#" : 0,
+         "perl" : 1401,
+         "ruby" : 15094,
+         "perl6" : 9518,
+         "lua" : 7467,
+         "c++" : 55
+      },
+      "json_se" : {
+         "javascript" : 346,
+         "ruby" : 668,
+         "perl" : 324
+      },
+      "re_capture" : {
+         "perl" : 205,
+         "nqp" : 0,
+         "lua" : 266,
+         "perl6" : 9775,
+         "ruby" : 465,
+         "javascript" : 83
+      },
+      "json_de" : {
+         "perl" : 666,
+         "javascript" : 546,
+         "ruby" : 953
+      },
+      "re_bool" : {
+         "perl6" : 2057,
+         "javascript" : 37,
+         "ruby" : 167,
+         "nqp" : 0,
+         "perl" : 470,
+         "lua" : 208
+      }
+   }
+}
