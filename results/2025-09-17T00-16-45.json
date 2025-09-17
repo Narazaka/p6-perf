@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "perl" : 510,
+         "lua" : 190,
+         "nqp" : 2555,
+         "javascript" : 47,
+         "ruby" : 169,
+         "perl6" : 2450
+      },
+      "re_capture" : {
+         "nqp" : 7651,
+         "javascript" : 84,
+         "ruby" : 466,
+         "perl6" : 10201,
+         "perl" : 237,
+         "lua" : 263
+      },
+      "str_join" : {
+         "c++" : 0,
+         "c#" : 0,
+         "nim" : 53,
+         "ruby" : 1028,
+         "javascript" : 50,
+         "lua" : 95,
+         "perl" : 469,
+         "nqp" : 1090,
+         "perl6" : 1908
+      },
+      "json_de" : {
+         "perl" : 708,
+         "javascript" : 547,
+         "ruby" : 964
+      },
+      "takeuchi" : {
+         "javascript" : 278,
+         "ruby" : 2164,
+         "c#" : 0,
+         "nim" : 97,
+         "c++" : 20,
+         "perl6" : 11163,
+         "nqp" : 18317,
+         "lua" : 370,
+         "perl" : 12760
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 810
+      },
+      "fib" : {
+         "perl6" : 4439,
+         "nqp" : 7920,
+         "perl" : 5036,
+         "lua" : 166,
+         "ruby" : 876,
+         "javascript" : 114,
+         "nim" : 37,
+         "c#" : 0,
+         "c++" : 2
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "ruby" : 73,
+         "nim" : 60,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "str_join_slow" : {
+         "perl6" : 10001,
+         "lua" : 8140,
+         "perl" : 1444,
+         "ruby" : 15494,
+         "javascript" : 143,
+         "c#" : 0,
+         "nim" : 160,
+         "c++" : 59
+      },
+      "json_se" : {
+         "perl" : 321,
+         "ruby" : 682,
+         "javascript" : 372
+      }
+   },
+   "version" : {
+      "c++" : "20.1.8",
+      "javascript" : "v24.8.0",
+      "ruby" : "3.4.5",
+      "nim" : "2.0.8",
+      "c#" : "9.0.109",
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1753364724",
+      "perl6" : null,
+      "nqp" : "2025.08"
+   }
+}
