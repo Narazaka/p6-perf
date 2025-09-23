@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.4.5",
+      "lua" : "2.1.1753364724",
+      "nim" : "2.0.8",
+      "javascript" : "v24.8.0",
+      "perl6" : null,
+      "c#" : "9.0.110",
+      "c++" : "20.1.8",
+      "perl" : "v5.42.0",
+      "nqp" : "2025.08"
+   },
+   "result" : {
+      "json_se" : {
+         "javascript" : 366,
+         "perl" : 361,
+         "ruby" : 687
+      },
+      "re_bool" : {
+         "perl6" : 2346,
+         "perl" : 472,
+         "nqp" : 0,
+         "lua" : 184,
+         "javascript" : 36,
+         "ruby" : 169
+      },
+      "takeuchi" : {
+         "perl" : 12464,
+         "nqp" : 0,
+         "c++" : 18,
+         "c#" : 0,
+         "perl6" : 11463,
+         "lua" : 373,
+         "nim" : 98,
+         "javascript" : 282,
+         "ruby" : 2190
+      },
+      "re_capture" : {
+         "lua" : 265,
+         "javascript" : 84,
+         "perl6" : 11354,
+         "perl" : 205,
+         "nqp" : 0,
+         "ruby" : 492
+      },
+      "str_join_repeat" : {
+         "ruby" : 73,
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 2,
+         "nim" : 63
+      },
+      "str_join_slow" : {
+         "ruby" : 16025,
+         "nim" : 169,
+         "lua" : 8249,
+         "javascript" : 146,
+         "perl" : 1418,
+         "c++" : 56,
+         "perl6" : 9899,
+         "c#" : 0
+      },
+      "fib" : {
+         "ruby" : 900,
+         "perl" : 4837,
+         "nqp" : 0,
+         "c++" : 2,
+         "perl6" : 4431,
+         "c#" : 0,
+         "lua" : 144,
+         "nim" : 38,
+         "javascript" : 116
+      },
+      "json_de" : {
+         "javascript" : 562,
+         "ruby" : 972,
+         "perl" : 665
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 849
+      },
+      "str_join" : {
+         "c#" : 0,
+         "perl6" : 1904,
+         "c++" : 0,
+         "nqp" : 0,
+         "perl" : 410,
+         "javascript" : 52,
+         "nim" : 46,
+         "lua" : 97,
+         "ruby" : 1013
+      }
+   }
+}
