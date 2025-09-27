@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "lua" : 186,
+         "perl6" : 2199,
+         "perl" : 471,
+         "javascript" : 35,
+         "nqp" : 2374,
+         "ruby" : 169
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 826
+      },
+      "fib" : {
+         "lua" : 167,
+         "perl6" : 4524,
+         "perl" : 4875,
+         "nim" : 38,
+         "ruby" : 901,
+         "c++" : 2,
+         "javascript" : 141,
+         "nqp" : 8098,
+         "c#" : 0
+      },
+      "str_join" : {
+         "perl6" : 1945,
+         "perl" : 406,
+         "lua" : 96,
+         "javascript" : 50,
+         "c++" : 0,
+         "nqp" : 958,
+         "ruby" : 1029,
+         "c#" : 0,
+         "nim" : 45
+      },
+      "str_join_slow" : {
+         "ruby" : 15676,
+         "c++" : 55,
+         "javascript" : 145,
+         "c#" : 0,
+         "nim" : 162,
+         "perl6" : 9959,
+         "perl" : 1416,
+         "lua" : 8143
+      },
+      "re_capture" : {
+         "ruby" : 478,
+         "nqp" : 8218,
+         "javascript" : 84,
+         "lua" : 273,
+         "perl6" : 11219,
+         "perl" : 208
+      },
+      "json_se" : {
+         "perl" : 327,
+         "javascript" : 361,
+         "ruby" : 686
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 71,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "perl" : 673,
+         "ruby" : 982,
+         "javascript" : 569
+      },
+      "takeuchi" : {
+         "nim" : 98,
+         "c#" : 0,
+         "ruby" : 2162,
+         "nqp" : 18411,
+         "javascript" : 278,
+         "c++" : 18,
+         "lua" : 373,
+         "perl" : 12498,
+         "perl6" : 12457
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1753364724",
+      "perl6" : null,
+      "perl" : "v5.42.0",
+      "nim" : "2.0.8",
+      "ruby" : "3.4.5",
+      "nqp" : "2025.08-1-g71757cefa",
+      "c++" : "20.1.8",
+      "javascript" : "v24.8.0",
+      "c#" : "9.0.110"
+   }
+}
