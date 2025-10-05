@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2025.08-1-g71757cefa",
+      "nim" : "2.0.8",
+      "ruby" : "3.4.5",
+      "c++" : "20.1.8",
+      "c#" : "9.0.110",
+      "javascript" : "v24.9.0",
+      "lua" : "2.1.1753364724",
+      "perl" : "v5.42.0",
+      "perl6" : null
+   },
+   "result" : {
+      "str_join_slow" : {
+         "javascript" : 158,
+         "perl6" : 9433,
+         "perl" : 1420,
+         "lua" : 7755,
+         "nim" : 161,
+         "c++" : 58,
+         "c#" : 0,
+         "ruby" : 15819
+      },
+      "str_join" : {
+         "ruby" : 1013,
+         "c#" : 0,
+         "c++" : 0,
+         "nim" : 45,
+         "nqp" : 863,
+         "perl" : 422,
+         "perl6" : 1805,
+         "lua" : 99,
+         "javascript" : 60
+      },
+      "fib" : {
+         "lua" : 152,
+         "perl" : 4917,
+         "perl6" : 4408,
+         "javascript" : 120,
+         "c#" : 0,
+         "c++" : 2,
+         "ruby" : 890,
+         "nqp" : 7725,
+         "nim" : 38
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 772
+      },
+      "str_join_repeat" : {
+         "nim" : 61,
+         "perl" : 3,
+         "perl6" : 4,
+         "lua" : 1,
+         "ruby" : 73
+      },
+      "json_se" : {
+         "perl" : 322,
+         "ruby" : 694,
+         "javascript" : 376
+      },
+      "json_de" : {
+         "javascript" : 580,
+         "perl" : 669,
+         "ruby" : 987
+      },
+      "re_capture" : {
+         "javascript" : 91,
+         "lua" : 297,
+         "perl" : 211,
+         "perl6" : 9673,
+         "nqp" : 7262,
+         "ruby" : 476
+      },
+      "re_bool" : {
+         "lua" : 196,
+         "perl" : 495,
+         "perl6" : 2007,
+         "javascript" : 38,
+         "ruby" : 174,
+         "nqp" : 2314
+      },
+      "takeuchi" : {
+         "javascript" : 291,
+         "perl" : 12410,
+         "perl6" : 11046,
+         "lua" : 390,
+         "nim" : 98,
+         "nqp" : 17721,
+         "ruby" : 2183,
+         "c#" : 0,
+         "c++" : 18
+      }
+   }
+}
