@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 60,
+         "lua" : 1,
+         "ruby" : 68
+      },
+      "fib" : {
+         "lua" : 163,
+         "nqp" : 7725,
+         "c#" : 0,
+         "ruby" : 888,
+         "javascript" : 114,
+         "c++" : 3,
+         "perl" : 4772,
+         "perl6" : 4414,
+         "nim" : 37
+      },
+      "str_join" : {
+         "ruby" : 1054,
+         "c++" : 0,
+         "javascript" : 52,
+         "perl" : 404,
+         "nim" : 44,
+         "perl6" : 1760,
+         "lua" : 96,
+         "nqp" : 851,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 713
+      },
+      "str_join_slow" : {
+         "lua" : 8706,
+         "c#" : 0,
+         "c++" : 54,
+         "javascript" : 142,
+         "ruby" : 14882,
+         "nim" : 212,
+         "perl6" : 10696,
+         "perl" : 1414
+      },
+      "json_se" : {
+         "perl" : 322,
+         "ruby" : 675,
+         "javascript" : 398
+      },
+      "re_bool" : {
+         "javascript" : 41,
+         "lua" : 183,
+         "ruby" : 186,
+         "perl6" : 2019,
+         "nqp" : 2251,
+         "perl" : 476
+      },
+      "json_de" : {
+         "ruby" : 975,
+         "javascript" : 541,
+         "perl" : 677
+      },
+      "takeuchi" : {
+         "nqp" : 17654,
+         "c#" : 0,
+         "lua" : 369,
+         "perl" : 12410,
+         "nim" : 98,
+         "perl6" : 11008,
+         "ruby" : 2150,
+         "c++" : 17,
+         "javascript" : 276
+      },
+      "re_capture" : {
+         "nqp" : 7084,
+         "perl" : 209,
+         "perl6" : 9597,
+         "ruby" : 468,
+         "lua" : 257,
+         "javascript" : 96
+      }
+   },
+   "version" : {
+      "javascript" : "v24.9.0",
+      "c++" : "20.1.8",
+      "ruby" : "3.4.5",
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1753364724",
+      "c#" : "9.0.110",
+      "nqp" : "2025.08-1-g71757cefa"
+   }
+}
