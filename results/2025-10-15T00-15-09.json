@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2025.08-1-g71757cefa",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1753364724",
+      "ruby" : "3.4.7",
+      "javascript" : "v24.9.0",
+      "c#" : "9.0.110",
+      "perl6" : null,
+      "c++" : "20.1.8",
+      "perl" : "v5.42.0"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 748
+      },
+      "re_bool" : {
+         "lua" : 185,
+         "perl6" : 1915,
+         "perl" : 464,
+         "ruby" : 163,
+         "javascript" : 34,
+         "nqp" : 2188
+      },
+      "re_capture" : {
+         "perl6" : 9883,
+         "lua" : 259,
+         "ruby" : 471,
+         "perl" : 203,
+         "nqp" : 7234,
+         "javascript" : 82
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "javascript" : 139,
+         "perl" : 1399,
+         "c++" : 54,
+         "perl6" : 8984,
+         "ruby" : 14363,
+         "lua" : 7776,
+         "nim" : 159
+      },
+      "str_join" : {
+         "nqp" : 835,
+         "ruby" : 989,
+         "nim" : 45,
+         "lua" : 93,
+         "c#" : 0,
+         "javascript" : 55,
+         "c++" : 0,
+         "perl" : 398,
+         "perl6" : 1742
+      },
+      "json_de" : {
+         "ruby" : 932,
+         "perl" : 666,
+         "javascript" : 541
+      },
+      "json_se" : {
+         "javascript" : 339,
+         "perl" : 316,
+         "ruby" : 663
+      },
+      "str_join_repeat" : {
+         "ruby" : 69,
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 60,
+         "lua" : 1
+      },
+      "fib" : {
+         "perl6" : 4520,
+         "c++" : 2,
+         "perl" : 4777,
+         "javascript" : 113,
+         "c#" : 0,
+         "nim" : 37,
+         "lua" : 165,
+         "ruby" : 905,
+         "nqp" : 7658
+      },
+      "takeuchi" : {
+         "perl6" : 10835,
+         "c++" : 17,
+         "perl" : 12225,
+         "javascript" : 277,
+         "c#" : 0,
+         "nim" : 96,
+         "lua" : 365,
+         "ruby" : 2158,
+         "nqp" : 17534
+      }
+   }
+}
