@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl" : 223,
+         "javascript" : 135,
+         "perl6" : 10896,
+         "lua" : 314,
+         "nqp" : 0,
+         "ruby" : 501
+      },
+      "fib" : {
+         "perl" : 4867,
+         "javascript" : 129,
+         "c#" : 0,
+         "perl6" : 4550,
+         "lua" : 146,
+         "ruby" : 1050,
+         "nim" : 41,
+         "nqp" : 0,
+         "c++" : 4
+      },
+      "re_bool" : {
+         "perl" : 471,
+         "perl6" : 2268,
+         "javascript" : 35,
+         "ruby" : 195,
+         "lua" : 233,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "nim" : 97,
+         "nqp" : 0,
+         "c++" : 18,
+         "javascript" : 280,
+         "c#" : 0,
+         "perl6" : 12400,
+         "perl" : 14760,
+         "lua" : 479,
+         "ruby" : 2320
+      },
+      "str_join" : {
+         "nim" : 45,
+         "nqp" : 0,
+         "c++" : 0,
+         "perl" : 406,
+         "javascript" : 75,
+         "c#" : 0,
+         "perl6" : 2416,
+         "lua" : 114,
+         "ruby" : 1071
+      },
+      "json_se" : {
+         "ruby" : 685,
+         "perl" : 377,
+         "javascript" : 366
+      },
+      "json_de" : {
+         "ruby" : 966,
+         "javascript" : 609,
+         "perl" : 723
+      },
+      "str_join_slow" : {
+         "c++" : 57,
+         "nim" : 163,
+         "ruby" : 17925,
+         "lua" : 8806,
+         "perl6" : 9771,
+         "c#" : 0,
+         "javascript" : 152,
+         "perl" : 2080
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 85,
+         "perl" : 3,
+         "nim" : 61,
+         "perl6" : 4
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 878
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1753364724",
+      "ruby" : "3.4.7",
+      "perl" : "v5.42.0",
+      "javascript" : "v24.9.0",
+      "perl6" : null,
+      "c#" : "9.0.110",
+      "c++" : "20.1.8",
+      "nqp" : "2025.08-1-g71757cefa",
+      "nim" : "2.0.8"
+   }
+}
