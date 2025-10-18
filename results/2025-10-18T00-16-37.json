@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 345,
+         "ruby" : 668,
+         "perl" : 322
+      },
+      "json_de" : {
+         "javascript" : 546,
+         "ruby" : 955,
+         "perl" : 676
+      },
+      "str_join" : {
+         "lua" : 94,
+         "nqp" : 896,
+         "c++" : 0,
+         "ruby" : 1014,
+         "c#" : 0,
+         "nim" : 45,
+         "javascript" : 51,
+         "perl" : 402,
+         "perl6" : 2159
+      },
+      "fib_fast" : {
+         "perl6" : 969,
+         "javascript" : 21
+      },
+      "re_capture" : {
+         "perl" : 205,
+         "perl6" : 11273,
+         "javascript" : 82,
+         "ruby" : 485,
+         "nqp" : 8364,
+         "lua" : 260
+      },
+      "fib" : {
+         "ruby" : 892,
+         "c++" : 2,
+         "nqp" : 7841,
+         "lua" : 170,
+         "perl6" : 4571,
+         "perl" : 4824,
+         "javascript" : 114,
+         "nim" : 37,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "lua" : 369,
+         "c++" : 17,
+         "nqp" : 17809,
+         "ruby" : 2198,
+         "nim" : 96,
+         "c#" : 0,
+         "javascript" : 278,
+         "perl" : 12321,
+         "perl6" : 11775
+      },
+      "re_bool" : {
+         "nqp" : 2670,
+         "lua" : 186,
+         "perl6" : 2320,
+         "perl" : 466,
+         "ruby" : 165,
+         "javascript" : 35
+      },
+      "str_join_slow" : {
+         "perl6" : 11027,
+         "perl" : 1402,
+         "javascript" : 142,
+         "nim" : 160,
+         "c#" : 0,
+         "ruby" : 15552,
+         "c++" : 55,
+         "lua" : 8103
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 76,
+         "nim" : 60,
+         "lua" : 1
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "c#" : "9.0.110",
+      "javascript" : "v24.9.0",
+      "perl6" : null,
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1753364724",
+      "c++" : "20.1.8",
+      "nqp" : "2025.08-1-g71757cefa",
+      "ruby" : "3.4.7"
+   }
+}
