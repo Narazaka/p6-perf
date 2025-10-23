@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 927
+      },
+      "re_bool" : {
+         "lua" : 196,
+         "javascript" : 38,
+         "perl" : 504,
+         "nqp" : 2773,
+         "perl6" : 2453,
+         "ruby" : 183
+      },
+      "fib" : {
+         "perl6" : 4747,
+         "c++" : 2,
+         "nqp" : 8292,
+         "ruby" : 883,
+         "nim" : 38,
+         "c#" : 0,
+         "javascript" : 115,
+         "lua" : 151,
+         "perl" : 5122
+      },
+      "str_join_slow" : {
+         "lua" : 8405,
+         "javascript" : 153,
+         "perl" : 1441,
+         "perl6" : 11209,
+         "c++" : 59,
+         "c#" : 0,
+         "nim" : 163,
+         "ruby" : 16439
+      },
+      "json_se" : {
+         "javascript" : 367,
+         "ruby" : 687,
+         "perl" : 348
+      },
+      "takeuchi" : {
+         "javascript" : 297,
+         "lua" : 481,
+         "perl" : 13087,
+         "c++" : 18,
+         "perl6" : 11746,
+         "nqp" : 18360,
+         "ruby" : 2369,
+         "nim" : 97,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "lua" : 1,
+         "ruby" : 75,
+         "perl" : 3,
+         "nim" : 61
+      },
+      "json_de" : {
+         "javascript" : 580,
+         "perl" : 718,
+         "ruby" : 948
+      },
+      "str_join" : {
+         "ruby" : 1024,
+         "c#" : 0,
+         "nim" : 45,
+         "c++" : 0,
+         "perl6" : 2130,
+         "nqp" : 1063,
+         "perl" : 408,
+         "javascript" : 54,
+         "lua" : 98
+      },
+      "re_capture" : {
+         "nqp" : 8839,
+         "perl6" : 12219,
+         "ruby" : 552,
+         "lua" : 265,
+         "javascript" : 84,
+         "perl" : 217
+      }
+   },
+   "version" : {
+      "javascript" : "v24.9.0",
+      "lua" : "2.1.1753364724",
+      "perl" : "v5.42.0",
+      "c++" : "21.1.4",
+      "perl6" : null,
+      "nqp" : "2025.10-1-gea336280d",
+      "ruby" : "3.4.7",
+      "nim" : "2.0.8",
+      "c#" : "9.0.110"
+   }
+}
