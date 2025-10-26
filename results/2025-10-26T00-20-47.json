@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "lua" : 208,
+         "perl" : 524,
+         "nqp" : 0,
+         "perl6" : 2270,
+         "javascript" : 39,
+         "ruby" : 184
+      },
+      "fib" : {
+         "lua" : 184,
+         "perl" : 5411,
+         "nqp" : 0,
+         "perl6" : 4990,
+         "c#" : 0,
+         "c++" : 3,
+         "javascript" : 127,
+         "nim" : 42,
+         "ruby" : 980
+      },
+      "str_join_slow" : {
+         "lua" : 8802,
+         "perl" : 1576,
+         "perl6" : 11687,
+         "c#" : 0,
+         "c++" : 61,
+         "javascript" : 170,
+         "nim" : 179,
+         "ruby" : 15745
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 5,
+         "perl" : 3,
+         "ruby" : 79,
+         "nim" : 67
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 833
+      },
+      "re_capture" : {
+         "perl" : 230,
+         "nqp" : 0,
+         "lua" : 285,
+         "javascript" : 94,
+         "ruby" : 532,
+         "perl6" : 10888
+      },
+      "json_de" : {
+         "ruby" : 1044,
+         "javascript" : 637,
+         "perl" : 763
+      },
+      "json_se" : {
+         "javascript" : 221,
+         "perl" : 359,
+         "ruby" : 743
+      },
+      "takeuchi" : {
+         "perl6" : 12335,
+         "c#" : 0,
+         "ruby" : 2421,
+         "nim" : 108,
+         "javascript" : 285,
+         "c++" : 20,
+         "lua" : 414,
+         "nqp" : 0,
+         "perl" : 13799
+      },
+      "str_join" : {
+         "lua" : 105,
+         "nqp" : 0,
+         "perl" : 451,
+         "c#" : 0,
+         "perl6" : 2021,
+         "nim" : 50,
+         "ruby" : 1134,
+         "c++" : 0,
+         "javascript" : 61
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.0",
+      "nqp" : "2025.10-1-gea336280d",
+      "lua" : "2.1.1760617492",
+      "javascript" : "v25.0.0",
+      "c++" : "21.1.4",
+      "nim" : "2.0.8",
+      "ruby" : "3.4.7",
+      "perl6" : null,
+      "c#" : "9.0.110"
+   }
+}
