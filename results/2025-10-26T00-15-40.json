@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl6" : 1894,
+         "javascript" : 54,
+         "lua" : 95,
+         "c#" : 0,
+         "c++" : 0,
+         "ruby" : 1098,
+         "nqp" : 1004,
+         "nim" : 45,
+         "perl" : 421
+      },
+      "re_bool" : {
+         "nqp" : 2657,
+         "ruby" : 172,
+         "perl" : 482,
+         "perl6" : 2204,
+         "lua" : 201,
+         "javascript" : 35
+      },
+      "re_capture" : {
+         "nqp" : 8259,
+         "ruby" : 486,
+         "perl" : 205,
+         "perl6" : 10500,
+         "lua" : 273,
+         "javascript" : 83
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "ruby" : 76,
+         "nim" : 61,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "fib" : {
+         "perl" : 4899,
+         "nim" : 37,
+         "c++" : 2,
+         "ruby" : 875,
+         "nqp" : 7799,
+         "lua" : 143,
+         "c#" : 0,
+         "javascript" : 114,
+         "perl6" : 4678
+      },
+      "str_join_slow" : {
+         "nim" : 163,
+         "perl" : 1428,
+         "ruby" : 15807,
+         "c++" : 84,
+         "javascript" : 162,
+         "c#" : 0,
+         "lua" : 7799,
+         "perl6" : 10951
+      },
+      "json_se" : {
+         "javascript" : 195,
+         "perl" : 335,
+         "ruby" : 694
+      },
+      "takeuchi" : {
+         "perl6" : 11812,
+         "javascript" : 254,
+         "c#" : 0,
+         "lua" : 358,
+         "ruby" : 2185,
+         "nqp" : 18438,
+         "c++" : 18,
+         "nim" : 97,
+         "perl" : 12512
+      },
+      "fib_fast" : {
+         "javascript" : 22,
+         "perl6" : 850
+      },
+      "json_de" : {
+         "javascript" : 582,
+         "perl" : 675,
+         "ruby" : 949
+      }
+   },
+   "version" : {
+      "javascript" : "v25.0.0",
+      "lua" : "2.1.1760617492",
+      "c#" : "9.0.110",
+      "perl6" : null,
+      "nim" : "2.0.8",
+      "perl" : "v5.42.0",
+      "c++" : "21.1.4",
+      "nqp" : "2025.10-1-gea336280d",
+      "ruby" : "3.4.7"
+   }
+}
