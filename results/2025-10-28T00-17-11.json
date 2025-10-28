@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "lua" : 98,
+         "c++" : 0,
+         "nim" : 51,
+         "perl" : 410,
+         "nqp" : 1168,
+         "perl6" : 2223,
+         "javascript" : 64,
+         "c#" : 0,
+         "ruby" : 1078
+      },
+      "takeuchi" : {
+         "ruby" : 2306,
+         "javascript" : 258,
+         "c#" : 0,
+         "perl6" : 12434,
+         "perl" : 12681,
+         "nim" : 98,
+         "c++" : 18,
+         "lua" : 374,
+         "nqp" : 21004
+      },
+      "re_bool" : {
+         "ruby" : 178,
+         "javascript" : 36,
+         "perl6" : 2774,
+         "nqp" : 2707,
+         "perl" : 487,
+         "lua" : 189
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 1030
+      },
+      "re_capture" : {
+         "ruby" : 532,
+         "javascript" : 115,
+         "perl6" : 12341,
+         "perl" : 215,
+         "lua" : 263,
+         "nqp" : 8718
+      },
+      "str_join_repeat" : {
+         "nim" : 65,
+         "lua" : 1,
+         "perl6" : 5,
+         "perl" : 3,
+         "ruby" : 76
+      },
+      "json_de" : {
+         "perl" : 678,
+         "ruby" : 1022,
+         "javascript" : 605
+      },
+      "str_join_slow" : {
+         "ruby" : 16320,
+         "javascript" : 173,
+         "c#" : 0,
+         "perl6" : 11461,
+         "perl" : 1544,
+         "nim" : 164,
+         "c++" : 56,
+         "lua" : 8362
+      },
+      "fib" : {
+         "nqp" : 8250,
+         "c++" : 2,
+         "lua" : 150,
+         "nim" : 38,
+         "perl" : 4952,
+         "perl6" : 5076,
+         "javascript" : 117,
+         "c#" : 0,
+         "ruby" : 929
+      },
+      "json_se" : {
+         "javascript" : 206,
+         "perl" : 327,
+         "ruby" : 706
+      }
+   },
+   "version" : {
+      "ruby" : "3.4.7",
+      "c#" : "9.0.110",
+      "javascript" : "v25.0.0",
+      "perl6" : null,
+      "nqp" : "2025.10-1-gea336280d",
+      "perl" : "v5.42.0",
+      "nim" : "2.0.8",
+      "lua" : "2.1.1760617492",
+      "c++" : "21.1.4"
+   }
+}
