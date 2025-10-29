@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.1761623958",
+      "nim" : "2.0.8",
+      "nqp" : "2025.10-1-gea336280d",
+      "perl" : "v5.42.0",
+      "c#" : "9.0.110",
+      "javascript" : "v25.1.0",
+      "perl6" : null,
+      "c++" : "21.1.4",
+      "ruby" : "3.4.7"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 11197,
+         "javascript" : 156,
+         "c++" : 56,
+         "ruby" : 15948,
+         "c#" : 0,
+         "perl" : 1491,
+         "nim" : 188,
+         "lua" : 8876
+      },
+      "takeuchi" : {
+         "nqp" : 19089,
+         "c#" : 0,
+         "perl" : 12865,
+         "c++" : 19,
+         "ruby" : 2214,
+         "javascript" : 269,
+         "perl6" : 11109,
+         "lua" : 446,
+         "nim" : 103
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 74,
+         "nim" : 61,
+         "perl6" : 5
+      },
+      "fib_fast" : {
+         "javascript" : 34,
+         "perl6" : 933
+      },
+      "re_bool" : {
+         "lua" : 193,
+         "nqp" : 2704,
+         "perl" : 494,
+         "ruby" : 205,
+         "perl6" : 2384,
+         "javascript" : 36
+      },
+      "json_se" : {
+         "javascript" : 225,
+         "ruby" : 789,
+         "perl" : 329
+      },
+      "re_capture" : {
+         "javascript" : 88,
+         "perl6" : 11045,
+         "ruby" : 610,
+         "nqp" : 8859,
+         "perl" : 209,
+         "lua" : 274
+      },
+      "fib" : {
+         "nim" : 42,
+         "lua" : 193,
+         "perl" : 4873,
+         "c#" : 0,
+         "nqp" : 8336,
+         "javascript" : 204,
+         "perl6" : 5284,
+         "c++" : 2,
+         "ruby" : 949
+      },
+      "json_de" : {
+         "javascript" : 728,
+         "ruby" : 986,
+         "perl" : 767
+      },
+      "str_join" : {
+         "perl" : 416,
+         "c#" : 0,
+         "nqp" : 998,
+         "javascript" : 56,
+         "perl6" : 1987,
+         "ruby" : 1098,
+         "c++" : 0,
+         "nim" : 48,
+         "lua" : 117
+      }
+   }
+}
