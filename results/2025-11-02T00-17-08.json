@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.42.0",
+      "perl6" : null,
+      "c#" : "9.0.110",
+      "ruby" : "3.4.7",
+      "c++" : "21.1.4",
+      "lua" : "2.1.1761727121",
+      "nim" : "2.0.8",
+      "nqp" : "2025.10-1-gea336280d",
+      "javascript" : "v25.1.0"
+   },
+   "result" : {
+      "json_se" : {
+         "perl" : 324,
+         "javascript" : 209,
+         "ruby" : 680
+      },
+      "str_join" : {
+         "ruby" : 1028,
+         "perl6" : 1900,
+         "c#" : 0,
+         "perl" : 1307,
+         "javascript" : 56,
+         "nim" : 45,
+         "nqp" : 1138,
+         "c++" : 0,
+         "lua" : 95
+      },
+      "takeuchi" : {
+         "ruby" : 2186,
+         "perl6" : 11353,
+         "c#" : 0,
+         "perl" : 12494,
+         "javascript" : 254,
+         "nim" : 99,
+         "nqp" : 18403,
+         "c++" : 18,
+         "lua" : 372
+      },
+      "json_de" : {
+         "perl" : 662,
+         "javascript" : 586,
+         "ruby" : 950
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "perl6" : 4,
+         "ruby" : 73,
+         "lua" : 1,
+         "perl" : 4
+      },
+      "fib" : {
+         "perl" : 4815,
+         "perl6" : 4540,
+         "c#" : 0,
+         "ruby" : 887,
+         "lua" : 166,
+         "c++" : 2,
+         "nim" : 38,
+         "nqp" : 8042,
+         "javascript" : 114
+      },
+      "re_bool" : {
+         "ruby" : 167,
+         "javascript" : 35,
+         "nqp" : 2666,
+         "perl6" : 2193,
+         "lua" : 187,
+         "perl" : 474
+      },
+      "re_capture" : {
+         "perl" : 398,
+         "lua" : 259,
+         "javascript" : 85,
+         "ruby" : 488,
+         "perl6" : 11079,
+         "nqp" : 8153
+      },
+      "str_join_slow" : {
+         "nim" : 162,
+         "javascript" : 158,
+         "lua" : 7691,
+         "c++" : 55,
+         "c#" : 0,
+         "perl6" : 11011,
+         "ruby" : 16767,
+         "perl" : 1413
+      },
+      "fib_fast" : {
+         "perl6" : 901,
+         "javascript" : 21
+      }
+   }
+}
