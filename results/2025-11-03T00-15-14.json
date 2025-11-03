@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "ruby" : 168,
+         "lua" : 188,
+         "perl6" : 2164,
+         "javascript" : 35,
+         "perl" : 481,
+         "nqp" : 2509
+      },
+      "re_capture" : {
+         "perl6" : 10363,
+         "ruby" : 491,
+         "lua" : 272,
+         "nqp" : 8026,
+         "perl" : 208,
+         "javascript" : 84
+      },
+      "takeuchi" : {
+         "javascript" : 253,
+         "nim" : 97,
+         "c#" : 0,
+         "perl" : 12530,
+         "ruby" : 2542,
+         "lua" : 373,
+         "perl6" : 11155,
+         "nqp" : 18247,
+         "c++" : 18
+      },
+      "str_join_repeat" : {
+         "nim" : 61,
+         "perl" : 3,
+         "ruby" : 70,
+         "lua" : 1,
+         "perl6" : 4
+      },
+      "fib_fast" : {
+         "perl6" : 814,
+         "javascript" : 19
+      },
+      "json_de" : {
+         "ruby" : 979,
+         "perl" : 681,
+         "javascript" : 608
+      },
+      "str_join" : {
+         "nqp" : 1003,
+         "c++" : 0,
+         "c#" : 0,
+         "perl" : 418,
+         "nim" : 46,
+         "javascript" : 56,
+         "perl6" : 1880,
+         "ruby" : 1041,
+         "lua" : 103
+      },
+      "str_join_slow" : {
+         "c++" : 57,
+         "perl6" : 10845,
+         "ruby" : 15335,
+         "lua" : 7773,
+         "c#" : 0,
+         "perl" : 1439,
+         "nim" : 162,
+         "javascript" : 154
+      },
+      "json_se" : {
+         "ruby" : 686,
+         "perl" : 332,
+         "javascript" : 205
+      },
+      "fib" : {
+         "perl6" : 4661,
+         "lua" : 164,
+         "ruby" : 897,
+         "perl" : 4854,
+         "c#" : 0,
+         "nim" : 38,
+         "javascript" : 116,
+         "c++" : 3,
+         "nqp" : 8122
+      }
+   },
+   "version" : {
+      "javascript" : "v25.1.0",
+      "nim" : "2.0.8",
+      "c#" : "9.0.110",
+      "perl" : "v5.42.0",
+      "ruby" : "3.4.7",
+      "lua" : "2.1.1761727121",
+      "perl6" : null,
+      "nqp" : "2025.10-1-gea336280d",
+      "c++" : "21.1.4"
+   }
+}
