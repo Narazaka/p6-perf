@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "javascript" : 35,
+         "perl6" : 2422,
+         "perl" : 488,
+         "ruby" : 167,
+         "lua" : 191,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "perl" : 322,
+         "javascript" : 199,
+         "ruby" : 680
+      },
+      "str_join_slow" : {
+         "lua" : 8100,
+         "c#" : 0,
+         "ruby" : 16765,
+         "perl" : 1444,
+         "perl6" : 11301,
+         "javascript" : 156,
+         "c++" : 60,
+         "nim" : 161
+      },
+      "re_capture" : {
+         "perl6" : 15695,
+         "javascript" : 84,
+         "perl" : 206,
+         "ruby" : 510,
+         "lua" : 271,
+         "nqp" : 0
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nim" : 45,
+         "ruby" : 1076,
+         "perl" : 414,
+         "javascript" : 68,
+         "perl6" : 2073,
+         "c#" : 0,
+         "lua" : 94,
+         "nqp" : 0
+      },
+      "fib" : {
+         "ruby" : 878,
+         "perl6" : 4639,
+         "javascript" : 114,
+         "perl" : 5074,
+         "nim" : 37,
+         "c++" : 2,
+         "nqp" : 0,
+         "lua" : 148,
+         "c#" : 0
+      },
+      "takeuchi" : {
+         "lua" : 386,
+         "nqp" : 0,
+         "c#" : 0,
+         "javascript" : 253,
+         "perl6" : 11623,
+         "perl" : 12514,
+         "ruby" : 2246,
+         "c++" : 17,
+         "nim" : 98
+      },
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 907
+      },
+      "str_join_repeat" : {
+         "nim" : 60,
+         "ruby" : 76,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "ruby" : 981,
+         "perl" : 677,
+         "javascript" : 582
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1761727121",
+      "nqp" : "2025.10-1-gea336280d",
+      "c#" : "9.0.110",
+      "ruby" : "3.4.7",
+      "perl" : "v5.42.0",
+      "perl6" : null,
+      "javascript" : "v25.1.0",
+      "nim" : "2.0.8",
+      "c++" : "21.1.4"
+   }
+}
