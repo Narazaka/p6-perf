@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "c++" : 0,
+         "ruby" : 14747,
+         "perl" : 1462,
+         "nim" : 162,
+         "c#" : 0,
+         "lua" : 7901,
+         "javascript" : 163,
+         "perl6" : 10489
+      },
+      "json_de" : {
+         "javascript" : 627,
+         "ruby" : 961,
+         "perl" : 725
+      },
+      "re_bool" : {
+         "ruby" : 165,
+         "perl" : 483,
+         "perl6" : 2160,
+         "javascript" : 35,
+         "nqp" : 0,
+         "lua" : 192
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 842
+      },
+      "json_se" : {
+         "ruby" : 671,
+         "javascript" : 210,
+         "perl" : 332
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nim" : 45,
+         "ruby" : 1031,
+         "perl" : 423,
+         "c#" : 0,
+         "lua" : 98,
+         "nqp" : 0,
+         "javascript" : 63,
+         "perl6" : 1933
+      },
+      "re_capture" : {
+         "perl" : 213,
+         "ruby" : 486,
+         "javascript" : 86,
+         "perl6" : 10475,
+         "nqp" : 0,
+         "lua" : 261
+      },
+      "fib" : {
+         "perl" : 4796,
+         "ruby" : 879,
+         "nim" : 37,
+         "c++" : 0,
+         "perl6" : 4578,
+         "javascript" : 113,
+         "nqp" : 0,
+         "c#" : 0,
+         "lua" : 168
+      },
+      "takeuchi" : {
+         "javascript" : 266,
+         "perl6" : 11462,
+         "nqp" : 0,
+         "lua" : 367,
+         "c#" : 0,
+         "perl" : 12756,
+         "ruby" : 2220,
+         "nim" : 97,
+         "c++" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 60,
+         "perl" : 3,
+         "ruby" : 70,
+         "perl6" : 4
+      }
+   },
+   "version" : {
+      "c++" : null,
+      "ruby" : "3.4.7",
+      "perl" : "v5.42.0",
+      "nim" : "2.0.8",
+      "c#" : "9.0.110",
+      "lua" : "2.1.1762795099",
+      "perl6" : null,
+      "javascript" : "v25.2.0",
+      "nqp" : "2025.11"
+   }
+}
