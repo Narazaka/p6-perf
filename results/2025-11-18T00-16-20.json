@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "nim" : 107,
+         "c++" : 0,
+         "perl" : 12572,
+         "perl6" : 11377,
+         "lua" : 372,
+         "c#" : 0,
+         "ruby" : 2206,
+         "javascript" : 261,
+         "nqp" : 18754
+      },
+      "json_se" : {
+         "ruby" : 707,
+         "javascript" : 204,
+         "perl" : 328
+      },
+      "re_bool" : {
+         "perl6" : 2433,
+         "perl" : 476,
+         "nqp" : 2707,
+         "lua" : 187,
+         "javascript" : 37,
+         "ruby" : 172
+      },
+      "json_de" : {
+         "ruby" : 977,
+         "javascript" : 595,
+         "perl" : 701
+      },
+      "str_join_slow" : {
+         "lua" : 8154,
+         "c#" : 0,
+         "ruby" : 15815,
+         "javascript" : 158,
+         "c++" : 0,
+         "nim" : 169,
+         "perl" : 1435,
+         "perl6" : 11608
+      },
+      "str_join" : {
+         "c#" : 0,
+         "lua" : 98,
+         "javascript" : 55,
+         "ruby" : 1057,
+         "nqp" : 1006,
+         "nim" : 46,
+         "c++" : 0,
+         "perl6" : 2249,
+         "perl" : 411
+      },
+      "fib_fast" : {
+         "perl6" : 935,
+         "javascript" : 22
+      },
+      "fib" : {
+         "perl6" : 4698,
+         "perl" : 5122,
+         "nim" : 38,
+         "c++" : 0,
+         "nqp" : 8109,
+         "ruby" : 901,
+         "javascript" : 116,
+         "c#" : 0,
+         "lua" : 146
+      },
+      "re_capture" : {
+         "lua" : 270,
+         "javascript" : 98,
+         "ruby" : 502,
+         "nqp" : 8727,
+         "perl" : 213,
+         "perl6" : 11111
+      },
+      "str_join_repeat" : {
+         "ruby" : 71,
+         "lua" : 1,
+         "nim" : 61,
+         "perl6" : 4,
+         "perl" : 3
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.0",
+      "perl6" : null,
+      "c++" : null,
+      "nim" : "2.0.8",
+      "nqp" : "2025.11-1-gf876d6f47",
+      "lua" : "2.1.1763148144",
+      "c#" : "9.0.110",
+      "javascript" : "v25.2.0",
+      "ruby" : "3.4.7"
+   }
+}
