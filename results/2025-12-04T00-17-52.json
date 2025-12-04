@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "nim" : 98,
+         "ruby" : 2159,
+         "c++" : 0,
+         "javascript" : 253,
+         "perl" : 12389,
+         "lua" : 372,
+         "nqp" : 17755,
+         "perl6" : 11313,
+         "c#" : 0
+      },
+      "fib" : {
+         "ruby" : 1028,
+         "nim" : 38,
+         "c++" : 0,
+         "lua" : 145,
+         "javascript" : 136,
+         "perl" : 4895,
+         "nqp" : 7908,
+         "c#" : 0,
+         "perl6" : 4569
+      },
+      "re_bool" : {
+         "nqp" : 2486,
+         "ruby" : 166,
+         "perl" : 469,
+         "javascript" : 35,
+         "lua" : 187,
+         "perl6" : 2128
+      },
+      "str_join" : {
+         "nqp" : 897,
+         "c#" : 0,
+         "perl6" : 1874,
+         "c++" : 0,
+         "ruby" : 1037,
+         "nim" : 46,
+         "javascript" : 55,
+         "perl" : 406,
+         "lua" : 96
+      },
+      "re_capture" : {
+         "perl6" : 10840,
+         "javascript" : 84,
+         "perl" : 208,
+         "lua" : 272,
+         "ruby" : 483,
+         "nqp" : 7630
+      },
+      "str_join_slow" : {
+         "perl6" : 10647,
+         "c#" : 0,
+         "lua" : 8229,
+         "perl" : 1438,
+         "javascript" : 152,
+         "nim" : 162,
+         "ruby" : 15449,
+         "c++" : 0
+      },
+      "str_join_repeat" : {
+         "ruby" : 70,
+         "nim" : 60,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "javascript" : 577,
+         "perl" : 681,
+         "ruby" : 962
+      },
+      "json_se" : {
+         "ruby" : 677,
+         "perl" : 326,
+         "javascript" : 198
+      },
+      "fib_fast" : {
+         "perl6" : 781,
+         "javascript" : 20
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "ruby" : "3.4.7",
+      "c++" : null,
+      "perl" : "v5.42.0",
+      "javascript" : "v25.2.1",
+      "lua" : "2.1.1764270282",
+      "nqp" : "2025.11-1-gf876d6f47",
+      "c#" : "9.0.110",
+      "perl6" : null
+   }
+}
