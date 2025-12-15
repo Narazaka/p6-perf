@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 68,
+         "lua" : 1,
+         "nim" : 60
+      },
+      "fib_fast" : {
+         "perl6" : 744,
+         "javascript" : 19
+      },
+      "json_de" : {
+         "javascript" : 568,
+         "ruby" : 940,
+         "perl" : 663
+      },
+      "str_join" : {
+         "lua" : 97,
+         "javascript" : 54,
+         "c++" : 0,
+         "nqp" : 0,
+         "c#" : 0,
+         "nim" : 45,
+         "perl" : 401,
+         "ruby" : 992,
+         "perl6" : 1798
+      },
+      "str_join_slow" : {
+         "lua" : 7830,
+         "c++" : 55,
+         "javascript" : 150,
+         "perl6" : 10461,
+         "perl" : 1399,
+         "ruby" : 14183,
+         "nim" : 160,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "perl" : 463,
+         "ruby" : 164,
+         "lua" : 185,
+         "perl6" : 2030,
+         "javascript" : 35,
+         "nqp" : 0
+      },
+      "json_se" : {
+         "ruby" : 664,
+         "perl" : 319,
+         "javascript" : 191
+      },
+      "takeuchi" : {
+         "lua" : 367,
+         "javascript" : 249,
+         "c++" : 17,
+         "nqp" : 0,
+         "perl" : 12241,
+         "ruby" : 2122,
+         "nim" : 96,
+         "c#" : 0,
+         "perl6" : 11311
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "javascript" : 83,
+         "perl6" : 9692,
+         "perl" : 211,
+         "lua" : 255,
+         "ruby" : 479
+      },
+      "fib" : {
+         "lua" : 161,
+         "javascript" : 113,
+         "c++" : 2,
+         "nqp" : 0,
+         "ruby" : 1014,
+         "perl" : 4786,
+         "nim" : 37,
+         "c#" : 0,
+         "perl6" : 4593
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1765228720",
+      "perl" : "v5.42.0",
+      "nim" : "2.0.8",
+      "ruby" : "3.4.7",
+      "c#" : "10.0.100",
+      "perl6" : null,
+      "javascript" : "v25.2.1",
+      "nqp" : "2025.11-4-g57217cbd7",
+      "c++" : "21.1.6"
+   }
+}
