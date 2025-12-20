@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.4.7",
+      "c++" : "21.1.6",
+      "perl6" : null,
+      "lua" : "2.1.1765228720",
+      "nqp" : "2025.11-6-g4c2a291f6",
+      "javascript" : "v25.2.1",
+      "perl" : "v5.42.0",
+      "nim" : "2.0.8",
+      "c#" : "10.0.100"
+   },
+   "result" : {
+      "json_de" : {
+         "ruby" : 967,
+         "perl" : 674,
+         "javascript" : 577
+      },
+      "fib" : {
+         "perl" : 4865,
+         "nim" : 37,
+         "javascript" : 113,
+         "c#" : 0,
+         "perl6" : 4974,
+         "nqp" : 0,
+         "lua" : 164,
+         "c++" : 2,
+         "ruby" : 875
+      },
+      "fib_fast" : {
+         "perl6" : 826,
+         "javascript" : 20
+      },
+      "re_capture" : {
+         "perl6" : 10499,
+         "lua" : 256,
+         "nqp" : 0,
+         "javascript" : 83,
+         "perl" : 207,
+         "ruby" : 495
+      },
+      "str_join" : {
+         "c#" : 0,
+         "perl" : 402,
+         "nim" : 45,
+         "javascript" : 55,
+         "nqp" : 0,
+         "lua" : 97,
+         "perl6" : 1938,
+         "c++" : 0,
+         "ruby" : 1032
+      },
+      "json_se" : {
+         "ruby" : 693,
+         "javascript" : 191,
+         "perl" : 319
+      },
+      "re_bool" : {
+         "ruby" : 165,
+         "perl" : 465,
+         "javascript" : 35,
+         "nqp" : 0,
+         "lua" : 186,
+         "perl6" : 2271
+      },
+      "str_join_slow" : {
+         "c++" : 55,
+         "ruby" : 15504,
+         "c#" : 0,
+         "perl" : 1430,
+         "nim" : 160,
+         "javascript" : 150,
+         "lua" : 7983,
+         "perl6" : 10922
+      },
+      "takeuchi" : {
+         "nim" : 97,
+         "perl" : 12570,
+         "javascript" : 252,
+         "c#" : 0,
+         "perl6" : 11476,
+         "nqp" : 0,
+         "lua" : 370,
+         "c++" : 17,
+         "ruby" : 2372
+      },
+      "str_join_repeat" : {
+         "ruby" : 73,
+         "nim" : 60,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 6
+      }
+   }
+}
