@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v25.2.1",
+      "perl6" : null,
+      "nim" : "2.0.8",
+      "nqp" : "2025.12",
+      "perl" : "v5.42.0",
+      "c#" : "10.0.100",
+      "lua" : "2.1.1765228720",
+      "ruby" : "3.4.7",
+      "c++" : "21.1.6"
+   },
+   "result" : {
+      "str_join_slow" : {
+         "perl6" : 9887,
+         "nim" : 158,
+         "javascript" : 149,
+         "c#" : 0,
+         "perl" : 1389,
+         "c++" : 56,
+         "ruby" : 14840,
+         "lua" : 7995
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "ruby" : 2121,
+         "lua" : 365,
+         "c#" : 0,
+         "perl" : 12129,
+         "nqp" : 0,
+         "nim" : 95,
+         "perl6" : 11606,
+         "javascript" : 249
+      },
+      "fib" : {
+         "perl6" : 4691,
+         "nim" : 37,
+         "javascript" : 113,
+         "c#" : 0,
+         "nqp" : 0,
+         "perl" : 4719,
+         "c++" : 2,
+         "ruby" : 871,
+         "lua" : 162
+      },
+      "json_de" : {
+         "javascript" : 577,
+         "ruby" : 949,
+         "perl" : 664
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 68,
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 59
+      },
+      "str_join" : {
+         "javascript" : 54,
+         "nim" : 44,
+         "perl6" : 1747,
+         "ruby" : 993,
+         "lua" : 95,
+         "c++" : 0,
+         "perl" : 399,
+         "nqp" : 0,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 727,
+         "javascript" : 20
+      },
+      "re_capture" : {
+         "ruby" : 475,
+         "javascript" : 83,
+         "lua" : 253,
+         "perl6" : 9821,
+         "perl" : 205,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "perl6" : 2025,
+         "ruby" : 163,
+         "javascript" : 34,
+         "lua" : 183,
+         "nqp" : 0,
+         "perl" : 460
+      },
+      "json_se" : {
+         "perl" : 312,
+         "ruby" : 659,
+         "javascript" : 189
+      }
+   }
+}
