@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 8123,
+         "ruby" : 507,
+         "javascript" : 90,
+         "lua" : 258,
+         "perl" : 207,
+         "perl6" : 10613
+      },
+      "str_join" : {
+         "nqp" : 916,
+         "nim" : 45,
+         "ruby" : 1059,
+         "javascript" : 56,
+         "c#" : 0,
+         "perl" : 402,
+         "c++" : 0,
+         "perl6" : 1844,
+         "lua" : 105
+      },
+      "json_se" : {
+         "javascript" : 203,
+         "ruby" : 670,
+         "perl" : 322
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "nqp" : 2543,
+         "ruby" : 170,
+         "lua" : 184,
+         "perl" : 482,
+         "perl6" : 2207
+      },
+      "fib_fast" : {
+         "perl6" : 858,
+         "javascript" : 20
+      },
+      "takeuchi" : {
+         "lua" : 397,
+         "perl6" : 12024,
+         "perl" : 12419,
+         "c#" : 0,
+         "c++" : 18,
+         "ruby" : 2184,
+         "nqp" : 18087,
+         "nim" : 100,
+         "javascript" : 256
+      },
+      "fib" : {
+         "perl" : 4769,
+         "c#" : 0,
+         "c++" : 2,
+         "nqp" : 7748,
+         "ruby" : 903,
+         "nim" : 38,
+         "javascript" : 114,
+         "lua" : 148,
+         "perl6" : 4591
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 1,
+         "nim" : 60,
+         "ruby" : 72
+      },
+      "str_join_slow" : {
+         "lua" : 8129,
+         "perl6" : 10710,
+         "c++" : 67,
+         "perl" : 1405,
+         "c#" : 0,
+         "ruby" : 16568,
+         "nim" : 201,
+         "javascript" : 154
+      },
+      "json_de" : {
+         "ruby" : 952,
+         "javascript" : 632,
+         "perl" : 697
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1765228720",
+      "perl6" : null,
+      "nqp" : "2025.12",
+      "nim" : "2.0.8",
+      "javascript" : "v25.2.1",
+      "ruby" : "3.4.7",
+      "perl" : "v5.42.0",
+      "c#" : "10.0.100",
+      "c++" : "21.1.6"
+   }
+}
