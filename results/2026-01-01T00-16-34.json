@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nim" : 39,
+         "ruby" : 877,
+         "lua" : 144,
+         "perl6" : 4654,
+         "javascript" : 116,
+         "c++" : 2,
+         "perl" : 4859,
+         "nqp" : 7698,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "perl6" : 10461,
+         "lua" : 7918,
+         "ruby" : 15526,
+         "nim" : 161,
+         "c++" : 56,
+         "perl" : 1434,
+         "javascript" : 161,
+         "c#" : 0
+      },
+      "json_de" : {
+         "ruby" : 969,
+         "javascript" : 631,
+         "perl" : 683
+      },
+      "fib_fast" : {
+         "perl6" : 842,
+         "javascript" : 22
+      },
+      "takeuchi" : {
+         "nim" : 97,
+         "ruby" : 2171,
+         "perl6" : 11124,
+         "lua" : 383,
+         "javascript" : 253,
+         "c++" : 18,
+         "perl" : 12411,
+         "nqp" : 18001,
+         "c#" : 0
+      },
+      "str_join" : {
+         "c#" : 0,
+         "nqp" : 960,
+         "c++" : 0,
+         "perl" : 407,
+         "javascript" : 56,
+         "ruby" : 1051,
+         "nim" : 45,
+         "lua" : 98,
+         "perl6" : 1848
+      },
+      "json_se" : {
+         "javascript" : 225,
+         "perl" : 321,
+         "ruby" : 686
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 63,
+         "ruby" : 73,
+         "perl" : 3
+      },
+      "re_bool" : {
+         "ruby" : 166,
+         "lua" : 185,
+         "perl6" : 2266,
+         "perl" : 468,
+         "javascript" : 40,
+         "nqp" : 2683
+      },
+      "re_capture" : {
+         "ruby" : 494,
+         "perl6" : 10669,
+         "lua" : 256,
+         "javascript" : 88,
+         "perl" : 205,
+         "nqp" : 8064
+      }
+   },
+   "version" : {
+      "javascript" : "v25.2.1",
+      "perl" : "v5.42.0",
+      "c++" : "21.1.6",
+      "lua" : "2.1.1765228720",
+      "perl6" : null,
+      "nim" : "2.0.8",
+      "ruby" : "3.4.7",
+      "c#" : "10.0.100",
+      "nqp" : "2025.12"
+   }
+}
