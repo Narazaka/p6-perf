@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.1765228720",
+      "nqp" : "2025.12",
+      "ruby" : "3.4.7",
+      "nim" : "2.0.8",
+      "javascript" : "v25.2.1",
+      "perl" : "v5.42.0",
+      "c++" : "21.1.6",
+      "c#" : "10.0.100",
+      "perl6" : null
+   },
+   "result" : {
+      "json_se" : {
+         "ruby" : 902,
+         "perl" : 352,
+         "javascript" : 202
+      },
+      "json_de" : {
+         "javascript" : 592,
+         "perl" : 716,
+         "ruby" : 1353
+      },
+      "fib" : {
+         "c++" : 3,
+         "c#" : 0,
+         "javascript" : 113,
+         "nim" : 37,
+         "perl6" : 6810,
+         "lua" : 170,
+         "ruby" : 885,
+         "nqp" : 10444,
+         "perl" : 4980
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 75,
+         "perl" : 3,
+         "nim" : 60,
+         "perl6" : 6
+      },
+      "re_capture" : {
+         "perl" : 301,
+         "javascript" : 83,
+         "perl6" : 12215,
+         "lua" : 256,
+         "ruby" : 644,
+         "nqp" : 9421
+      },
+      "str_join" : {
+         "perl" : 420,
+         "javascript" : 57,
+         "nim" : 45,
+         "c++" : 0,
+         "c#" : 0,
+         "perl6" : 2175,
+         "lua" : 97,
+         "nqp" : 1118,
+         "ruby" : 1328
+      },
+      "re_bool" : {
+         "lua" : 187,
+         "nqp" : 3048,
+         "ruby" : 166,
+         "javascript" : 35,
+         "perl" : 571,
+         "perl6" : 3350
+      },
+      "takeuchi" : {
+         "perl6" : 11960,
+         "c++" : 17,
+         "c#" : 0,
+         "nim" : 97,
+         "javascript" : 254,
+         "ruby" : 2267,
+         "nqp" : 22277,
+         "lua" : 369,
+         "perl" : 13747
+      },
+      "fib_fast" : {
+         "perl6" : 960,
+         "javascript" : 20
+      },
+      "str_join_slow" : {
+         "perl" : 1492,
+         "perl6" : 11336,
+         "javascript" : 159,
+         "nim" : 161,
+         "c++" : 56,
+         "c#" : 0,
+         "ruby" : 18028,
+         "lua" : 8533
+      }
+   }
+}
