@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 661,
+         "perl" : 686,
+         "ruby" : 1036
+      },
+      "str_join_slow" : {
+         "javascript" : 214,
+         "c#" : 0,
+         "perl6" : 10111,
+         "nim" : 228,
+         "ruby" : 15453,
+         "c++" : 62,
+         "lua" : 8870,
+         "perl" : 1400
+      },
+      "takeuchi" : {
+         "perl" : 12328,
+         "lua" : 387,
+         "nqp" : 17617,
+         "c++" : 24,
+         "ruby" : 2146,
+         "nim" : 101,
+         "perl6" : 11121,
+         "c#" : 0,
+         "javascript" : 278
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 4,
+         "ruby" : 74,
+         "nim" : 63
+      },
+      "json_se" : {
+         "javascript" : 235,
+         "ruby" : 706,
+         "perl" : 323
+      },
+      "str_join" : {
+         "c++" : 0,
+         "nqp" : 902,
+         "perl" : 420,
+         "lua" : 110,
+         "c#" : 0,
+         "javascript" : 62,
+         "nim" : 48,
+         "ruby" : 1053,
+         "perl6" : 1769
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 759
+      },
+      "re_capture" : {
+         "javascript" : 98,
+         "perl6" : 9977,
+         "ruby" : 494,
+         "nqp" : 7762,
+         "lua" : 293,
+         "perl" : 207
+      },
+      "fib" : {
+         "c++" : 2,
+         "nqp" : 7715,
+         "perl" : 4761,
+         "lua" : 170,
+         "c#" : 0,
+         "javascript" : 128,
+         "nim" : 38,
+         "ruby" : 905,
+         "perl6" : 4531
+      },
+      "re_bool" : {
+         "javascript" : 37,
+         "ruby" : 203,
+         "perl6" : 2026,
+         "nqp" : 2511,
+         "lua" : 232,
+         "perl" : 465
+      }
+   },
+   "version" : {
+      "c#" : "10.0.100",
+      "javascript" : "v25.3.0",
+      "perl6" : null,
+      "ruby" : "3.4.7",
+      "nim" : "2.0.8",
+      "c++" : "21.1.6",
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1767980792",
+      "nqp" : "2025.12-3-gb2769659d"
+   }
+}
