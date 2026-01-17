@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "perl" : 317,
+         "ruby" : 655,
+         "javascript" : 190
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "perl" : 1383,
+         "lua" : 7742,
+         "nim" : 159,
+         "c++" : 56,
+         "perl6" : 10278,
+         "ruby" : 13959,
+         "javascript" : 149
+      },
+      "json_de" : {
+         "perl" : 670,
+         "javascript" : 582,
+         "ruby" : 946
+      },
+      "str_join" : {
+         "lua" : 95,
+         "perl" : 398,
+         "c#" : 0,
+         "javascript" : 54,
+         "ruby" : 988,
+         "nqp" : 0,
+         "perl6" : 1762,
+         "nim" : 44,
+         "c++" : 0
+      },
+      "re_bool" : {
+         "perl6" : 2054,
+         "javascript" : 35,
+         "ruby" : 163,
+         "lua" : 184,
+         "perl" : 460,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "perl6" : 11134,
+         "nim" : 96,
+         "c++" : 17,
+         "ruby" : 2135,
+         "javascript" : 249,
+         "nqp" : 0,
+         "c#" : 0,
+         "lua" : 355,
+         "perl" : 12235
+      },
+      "str_join_repeat" : {
+         "nim" : 59,
+         "perl6" : 4,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 67
+      },
+      "fib" : {
+         "c++" : 2,
+         "nim" : 37,
+         "perl6" : 4458,
+         "nqp" : 0,
+         "ruby" : 868,
+         "javascript" : 112,
+         "c#" : 0,
+         "perl" : 4728,
+         "lua" : 153
+      },
+      "re_capture" : {
+         "perl" : 202,
+         "nqp" : 0,
+         "javascript" : 82,
+         "ruby" : 480,
+         "lua" : 253,
+         "perl6" : 9592
+      },
+      "fib_fast" : {
+         "perl6" : 739,
+         "javascript" : 21
+      }
+   },
+   "version" : {
+      "nqp" : "2025.12-3-gb2769659d",
+      "ruby" : "3.4.7",
+      "javascript" : "v25.3.0",
+      "c++" : "21.1.6",
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1767980792",
+      "c#" : "10.0.100"
+   }
+}
