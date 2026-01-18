@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "perl" : 322,
+         "javascript" : 198,
+         "ruby" : 675
+      },
+      "str_join_repeat" : {
+         "ruby" : 71,
+         "perl6" : 4,
+         "nim" : 60,
+         "perl" : 3,
+         "lua" : 1
+      },
+      "str_join" : {
+         "lua" : 96,
+         "perl" : 412,
+         "javascript" : 56,
+         "c#" : 0,
+         "ruby" : 1039,
+         "c++" : 0,
+         "nqp" : 930,
+         "nim" : 45,
+         "perl6" : 1915
+      },
+      "re_capture" : {
+         "javascript" : 84,
+         "perl" : 205,
+         "lua" : 256,
+         "ruby" : 531,
+         "perl6" : 11171,
+         "nqp" : 7991
+      },
+      "str_join_slow" : {
+         "javascript" : 152,
+         "perl" : 1419,
+         "lua" : 7912,
+         "c#" : 0,
+         "ruby" : 14914,
+         "c++" : 56,
+         "perl6" : 10789,
+         "nim" : 160
+      },
+      "re_bool" : {
+         "nqp" : 2560,
+         "perl6" : 2653,
+         "lua" : 186,
+         "javascript" : 35,
+         "perl" : 470,
+         "ruby" : 165
+      },
+      "fib_fast" : {
+         "perl6" : 891,
+         "javascript" : 23
+      },
+      "json_de" : {
+         "javascript" : 597,
+         "perl" : 685,
+         "ruby" : 941
+      },
+      "takeuchi" : {
+         "nqp" : 18907,
+         "nim" : 97,
+         "perl6" : 11252,
+         "lua" : 369,
+         "javascript" : 254,
+         "perl" : 12461,
+         "c++" : 17,
+         "ruby" : 2156,
+         "c#" : 0
+      },
+      "fib" : {
+         "nqp" : 7901,
+         "perl6" : 4713,
+         "nim" : 37,
+         "lua" : 150,
+         "javascript" : 122,
+         "perl" : 4828,
+         "c#" : 0,
+         "ruby" : 885,
+         "c++" : 2
+      }
+   },
+   "version" : {
+      "nqp" : "2025.12-3-gb2769659d",
+      "perl6" : null,
+      "nim" : "2.0.8",
+      "lua" : "2.1.1767980792",
+      "javascript" : "v25.3.0",
+      "perl" : "v5.42.0",
+      "ruby" : "3.4.7",
+      "c#" : "10.0.100",
+      "c++" : "21.1.6"
+   }
+}
