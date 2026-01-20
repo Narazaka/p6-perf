@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "takeuchi" : {
+         "perl" : 13507,
+         "c++" : 17,
+         "javascript" : 254,
+         "lua" : 381,
+         "perl6" : 11433,
+         "ruby" : 2221,
+         "c#" : 0,
+         "nim" : 102,
+         "nqp" : 20125
+      },
+      "re_capture" : {
+         "perl6" : 11712,
+         "perl" : 312,
+         "ruby" : 502,
+         "nqp" : 9229,
+         "lua" : 257,
+         "javascript" : 87
+      },
+      "re_bool" : {
+         "perl" : 488,
+         "perl6" : 2683,
+         "javascript" : 35,
+         "lua" : 185,
+         "nqp" : 2712,
+         "ruby" : 175
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 64,
+         "ruby" : 75,
+         "perl6" : 6,
+         "perl" : 4
+      },
+      "fib" : {
+         "perl" : 5004,
+         "javascript" : 114,
+         "lua" : 145,
+         "c++" : 2,
+         "perl6" : 5220,
+         "nqp" : 8312,
+         "ruby" : 929,
+         "c#" : 0,
+         "nim" : 37
+      },
+      "str_join_slow" : {
+         "javascript" : 153,
+         "lua" : 8028,
+         "c++" : 61,
+         "perl" : 1690,
+         "ruby" : 15928,
+         "nim" : 170,
+         "c#" : 0,
+         "perl6" : 11120
+      },
+      "fib_fast" : {
+         "javascript" : 19,
+         "perl6" : 960
+      },
+      "json_de" : {
+         "ruby" : 994,
+         "javascript" : 599,
+         "perl" : 731
+      },
+      "str_join" : {
+         "perl" : 620,
+         "lua" : 98,
+         "javascript" : 55,
+         "c++" : 0,
+         "perl6" : 2086,
+         "nqp" : 1126,
+         "c#" : 0,
+         "nim" : 45,
+         "ruby" : 1063
+      },
+      "json_se" : {
+         "ruby" : 693,
+         "javascript" : 207,
+         "perl" : 341
+      }
+   },
+   "version" : {
+      "ruby" : "3.4.7",
+      "c#" : "10.0.100",
+      "nim" : "2.0.8",
+      "nqp" : "2025.12-3-gb2769659d",
+      "perl6" : null,
+      "c++" : "21.1.6",
+      "javascript" : "v25.3.0",
+      "lua" : "2.1.1767980792",
+      "perl" : "v5.42.0"
+   }
+}
