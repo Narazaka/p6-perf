@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "nim" : 61,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 72
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 895
+      },
+      "re_capture" : {
+         "lua" : 256,
+         "ruby" : 483,
+         "perl6" : 12220,
+         "javascript" : 84,
+         "nqp" : 8651,
+         "perl" : 228
+      },
+      "str_join" : {
+         "perl" : 448,
+         "nim" : 45,
+         "ruby" : 1057,
+         "javascript" : 55,
+         "perl6" : 2173,
+         "nqp" : 1090,
+         "c++" : 0,
+         "c#" : 0,
+         "lua" : 96
+      },
+      "takeuchi" : {
+         "nqp" : 19335,
+         "c++" : 17,
+         "javascript" : 254,
+         "perl6" : 11712,
+         "lua" : 370,
+         "c#" : 0,
+         "perl" : 13272,
+         "nim" : 97,
+         "ruby" : 2160
+      },
+      "re_bool" : {
+         "lua" : 185,
+         "ruby" : 165,
+         "javascript" : 35,
+         "perl6" : 2616,
+         "perl" : 527,
+         "nqp" : 2734
+      },
+      "fib" : {
+         "perl6" : 4754,
+         "javascript" : 113,
+         "nqp" : 8223,
+         "c++" : 2,
+         "lua" : 145,
+         "c#" : 0,
+         "perl" : 5481,
+         "nim" : 37,
+         "ruby" : 930
+      },
+      "json_de" : {
+         "perl" : 812,
+         "javascript" : 577,
+         "ruby" : 947
+      },
+      "json_se" : {
+         "javascript" : 193,
+         "perl" : 374,
+         "ruby" : 690
+      },
+      "str_join_slow" : {
+         "ruby" : 15491,
+         "nim" : 160,
+         "perl" : 1600,
+         "lua" : 7892,
+         "c#" : 0,
+         "c++" : 78,
+         "perl6" : 10556,
+         "javascript" : 155
+      }
+   },
+   "version" : {
+      "nim" : "2.0.8",
+      "perl" : "v5.42.0",
+      "ruby" : "3.4.7",
+      "c++" : "21.1.6",
+      "nqp" : "2025.12-3-gb2769659d",
+      "perl6" : null,
+      "javascript" : "v25.3.0",
+      "lua" : "2.1.1767980792",
+      "c#" : "10.0.100"
+   }
+}
