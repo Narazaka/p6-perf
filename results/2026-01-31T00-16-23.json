@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "javascript" : 586,
+         "perl" : 671,
+         "ruby" : 929
+      },
+      "json_se" : {
+         "ruby" : 650,
+         "perl" : 318,
+         "javascript" : 206
+      },
+      "re_bool" : {
+         "perl6" : 2059,
+         "nqp" : 2357,
+         "ruby" : 166,
+         "lua" : 185,
+         "perl" : 464,
+         "javascript" : 34
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 68,
+         "perl6" : 4,
+         "perl" : 3,
+         "nim" : 60
+      },
+      "re_capture" : {
+         "javascript" : 83,
+         "ruby" : 455,
+         "nqp" : 7467,
+         "lua" : 256,
+         "perl6" : 9443,
+         "perl" : 203
+      },
+      "str_join" : {
+         "c#" : 0,
+         "c++" : 0,
+         "javascript" : 54,
+         "nim" : 44,
+         "perl6" : 1773,
+         "nqp" : 880,
+         "lua" : 96,
+         "ruby" : 979,
+         "perl" : 401
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "nim" : 272,
+         "javascript" : 165,
+         "c++" : 57,
+         "perl" : 1384,
+         "lua" : 8272,
+         "ruby" : 14222,
+         "perl6" : 10117
+      },
+      "fib" : {
+         "c#" : 0,
+         "perl6" : 4517,
+         "nqp" : 7619,
+         "lua" : 170,
+         "ruby" : 847,
+         "perl" : 4861,
+         "javascript" : 114,
+         "c++" : 2,
+         "nim" : 37
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nim" : 96,
+         "javascript" : 251,
+         "c++" : 17,
+         "nqp" : 17695,
+         "ruby" : 2231,
+         "lua" : 369,
+         "perl6" : 10877,
+         "perl" : 12203
+      },
+      "fib_fast" : {
+         "perl6" : 781,
+         "javascript" : 22
+      }
+   },
+   "version" : {
+      "c#" : "10.0.100",
+      "nqp" : "2026.01-1-g74e0cc2f3",
+      "ruby" : "3.4.8",
+      "lua" : "2.1.1767980792",
+      "perl6" : null,
+      "perl" : "v5.42.0",
+      "nim" : "2.0.8",
+      "javascript" : "v25.4.0",
+      "c++" : "21.1.6"
+   }
+}
