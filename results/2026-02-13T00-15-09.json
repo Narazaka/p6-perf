@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 786
+      },
+      "str_join_slow" : {
+         "perl" : 1561,
+         "c#" : 0,
+         "lua" : 8130,
+         "javascript" : 150,
+         "nim" : 160,
+         "perl6" : 10127,
+         "c++" : 55,
+         "ruby" : 14575
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 70,
+         "perl6" : 4,
+         "nim" : 59,
+         "lua" : 1
+      },
+      "re_capture" : {
+         "perl" : 205,
+         "lua" : 255,
+         "javascript" : 84,
+         "perl6" : 9907,
+         "nqp" : 7377,
+         "ruby" : 495
+      },
+      "json_se" : {
+         "ruby" : 659,
+         "javascript" : 199,
+         "perl" : 318
+      },
+      "json_de" : {
+         "javascript" : 583,
+         "perl" : 670,
+         "ruby" : 976
+      },
+      "re_bool" : {
+         "lua" : 186,
+         "perl" : 466,
+         "nqp" : 2414,
+         "ruby" : 166,
+         "perl6" : 2094,
+         "javascript" : 33
+      },
+      "fib" : {
+         "perl" : 4763,
+         "c#" : 0,
+         "lua" : 162,
+         "javascript" : 113,
+         "ruby" : 943,
+         "nqp" : 7902,
+         "c++" : 2,
+         "perl6" : 4559,
+         "nim" : 37
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "lua" : 356,
+         "perl" : 12290,
+         "nim" : 96,
+         "perl6" : 11337,
+         "ruby" : 2144,
+         "nqp" : 18500,
+         "c++" : 17,
+         "javascript" : 251
+      },
+      "str_join" : {
+         "c#" : 0,
+         "lua" : 95,
+         "perl" : 414,
+         "nqp" : 882,
+         "c++" : 0,
+         "ruby" : 1031,
+         "nim" : 44,
+         "perl6" : 1762,
+         "javascript" : 54
+      }
+   },
+   "version" : {
+      "c#" : "10.0.103",
+      "lua" : "2.1.1767980792",
+      "perl" : "v5.42.0",
+      "nim" : "2.0.8",
+      "perl6" : null,
+      "c++" : "21.1.6",
+      "nqp" : "2026.01-2-g1bfa1c00e",
+      "ruby" : "3.4.8",
+      "javascript" : "v25.6.0"
+   }
+}
