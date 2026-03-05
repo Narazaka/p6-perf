@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join" : {
+         "perl" : 397,
+         "c#" : 0,
+         "ruby" : 984,
+         "lua" : 95,
+         "javascript" : 54,
+         "nqp" : 885,
+         "nim" : 45,
+         "c++" : 0,
+         "perl6" : 1751
+      },
+      "re_bool" : {
+         "perl" : 461,
+         "ruby" : 166,
+         "lua" : 183,
+         "perl6" : 2083,
+         "javascript" : 33,
+         "nqp" : 2371
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 59,
+         "ruby" : 68,
+         "lua" : 1,
+         "perl6" : 4
+      },
+      "fib_fast" : {
+         "perl6" : 788,
+         "javascript" : 24
+      },
+      "takeuchi" : {
+         "perl" : 12228,
+         "c#" : 0,
+         "ruby" : 2155,
+         "lua" : 366,
+         "javascript" : 249,
+         "nqp" : 17566,
+         "nim" : 96,
+         "c++" : 17,
+         "perl6" : 11448
+      },
+      "json_se" : {
+         "perl" : 316,
+         "javascript" : 194,
+         "ruby" : 657
+      },
+      "json_de" : {
+         "ruby" : 921,
+         "javascript" : 569,
+         "perl" : 658
+      },
+      "str_join_slow" : {
+         "c++" : 55,
+         "perl6" : 9832,
+         "nim" : 159,
+         "ruby" : 14102,
+         "lua" : 7997,
+         "javascript" : 149,
+         "perl" : 1556,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "perl" : 203,
+         "ruby" : 492,
+         "lua" : 253,
+         "perl6" : 9660,
+         "javascript" : 83,
+         "nqp" : 7351
+      },
+      "fib" : {
+         "perl" : 4747,
+         "c#" : 0,
+         "javascript" : 113,
+         "nqp" : 7612,
+         "lua" : 164,
+         "ruby" : 847,
+         "nim" : 37,
+         "c++" : 2,
+         "perl6" : 4408
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1767980792",
+      "ruby" : "3.4.8",
+      "c++" : "21.1.8",
+      "perl6" : null,
+      "javascript" : "v25.7.0",
+      "nqp" : "2026.02",
+      "nim" : "2.0.8",
+      "perl" : "v5.42.0",
+      "c#" : "10.0.103"
+   }
+}
