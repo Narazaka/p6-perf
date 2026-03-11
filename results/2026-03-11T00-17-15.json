@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "lua" : 188,
+         "nqp" : 2770,
+         "ruby" : 167,
+         "perl6" : 2459,
+         "javascript" : 34,
+         "perl" : 507
+      },
+      "json_de" : {
+         "ruby" : 945,
+         "javascript" : 582,
+         "perl" : 733
+      },
+      "re_capture" : {
+         "ruby" : 506,
+         "nqp" : 8730,
+         "lua" : 256,
+         "perl6" : 11339,
+         "javascript" : 85,
+         "perl" : 264
+      },
+      "takeuchi" : {
+         "perl" : 13173,
+         "lua" : 370,
+         "nqp" : 19338,
+         "c++" : 17,
+         "nim" : 58,
+         "javascript" : 257,
+         "c#" : 0,
+         "ruby" : 2179,
+         "perl6" : 10906
+      },
+      "str_join" : {
+         "javascript" : 56,
+         "nim" : 48,
+         "c#" : 0,
+         "ruby" : 1031,
+         "perl6" : 2030,
+         "perl" : 402,
+         "nqp" : 1067,
+         "lua" : 95,
+         "c++" : 0
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "ruby" : 73,
+         "perl" : 3,
+         "nim" : 64
+      },
+      "fib_fast" : {
+         "perl6" : 910,
+         "javascript" : 22
+      },
+      "str_join_slow" : {
+         "c++" : 56,
+         "lua" : 8135,
+         "perl" : 2007,
+         "perl6" : 10915,
+         "ruby" : 15734,
+         "c#" : 0,
+         "javascript" : 156,
+         "nim" : 148
+      },
+      "json_se" : {
+         "ruby" : 666,
+         "perl" : 325,
+         "javascript" : 208
+      },
+      "fib" : {
+         "c++" : 2,
+         "lua" : 145,
+         "nqp" : 7862,
+         "perl" : 5656,
+         "ruby" : 857,
+         "perl6" : 4554,
+         "javascript" : 114,
+         "nim" : 30,
+         "c#" : 0
+      }
+   },
+   "version" : {
+      "perl6" : null,
+      "ruby" : "3.4.8",
+      "c#" : "10.0.103",
+      "javascript" : "v25.7.0",
+      "nim" : "2.0.10",
+      "c++" : "21.1.8",
+      "lua" : "2.1.1767980792",
+      "nqp" : "2026.02-1-g8c6213d17",
+      "perl" : "v5.42.0"
+   }
+}
