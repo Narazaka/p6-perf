@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "c#" : 0,
+         "nim" : 148,
+         "lua" : 8143,
+         "c++" : 55,
+         "perl" : 1976,
+         "ruby" : 18287,
+         "perl6" : 11997,
+         "javascript" : 178
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "ruby" : 708,
+         "perl6" : 13281,
+         "javascript" : 89,
+         "perl" : 231,
+         "lua" : 258
+      },
+      "json_se" : {
+         "perl" : 343,
+         "javascript" : 205,
+         "ruby" : 686
+      },
+      "fib" : {
+         "javascript" : 114,
+         "ruby" : 982,
+         "perl6" : 4861,
+         "nqp" : 0,
+         "lua" : 171,
+         "c++" : 2,
+         "perl" : 5267,
+         "nim" : 23,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 1460,
+         "javascript" : 23
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 77,
+         "perl6" : 6,
+         "nim" : 42
+      },
+      "str_join" : {
+         "nim" : 35,
+         "c#" : 0,
+         "perl6" : 2216,
+         "ruby" : 1197,
+         "javascript" : 63,
+         "nqp" : 0,
+         "lua" : 97,
+         "c++" : 0,
+         "perl" : 405
+      },
+      "json_de" : {
+         "ruby" : 1145,
+         "javascript" : 619,
+         "perl" : 925
+      },
+      "re_bool" : {
+         "lua" : 187,
+         "perl" : 484,
+         "javascript" : 35,
+         "perl6" : 2865,
+         "ruby" : 168,
+         "nqp" : 0
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nim" : 63,
+         "lua" : 376,
+         "perl" : 13095,
+         "c++" : 18,
+         "javascript" : 254,
+         "perl6" : 12396,
+         "ruby" : 2437,
+         "nqp" : 0
+      }
+   },
+   "version" : {
+      "nim" : "2.2.8",
+      "c#" : "10.0.104",
+      "nqp" : "2026.02-2-gb57fc88bb",
+      "javascript" : "v25.8.1",
+      "perl6" : null,
+      "ruby" : "3.4.8",
+      "c++" : "22.1.1",
+      "perl" : "v5.42.0",
+      "lua" : "2.1.1772619647"
+   }
+}
