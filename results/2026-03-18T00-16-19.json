@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nqp" : "2026.02-2-gb57fc88bb",
+      "lua" : "2.1.1772619647",
+      "perl6" : null,
+      "ruby" : "3.4.8",
+      "nim" : "2.2.8",
+      "javascript" : "v25.8.1",
+      "perl" : "v5.42.0",
+      "c++" : "22.1.1",
+      "c#" : "10.0.104"
+   },
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 42,
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 3,
+         "ruby" : 67
+      },
+      "json_de" : {
+         "javascript" : 575,
+         "perl" : 677,
+         "ruby" : 950
+      },
+      "takeuchi" : {
+         "perl" : 12372,
+         "nim" : 62,
+         "javascript" : 250,
+         "c++" : 17,
+         "c#" : 0,
+         "perl6" : 10684,
+         "lua" : 369,
+         "nqp" : 17894,
+         "ruby" : 2328
+      },
+      "str_join" : {
+         "perl6" : 1754,
+         "lua" : 95,
+         "nqp" : 879,
+         "ruby" : 1013,
+         "perl" : 1288,
+         "nim" : 34,
+         "javascript" : 53,
+         "c++" : 0,
+         "c#" : 0
+      },
+      "fib_fast" : {
+         "perl6" : 690,
+         "javascript" : 20
+      },
+      "fib" : {
+         "perl6" : 4453,
+         "lua" : 142,
+         "nqp" : 7639,
+         "ruby" : 870,
+         "perl" : 4771,
+         "javascript" : 115,
+         "nim" : 22,
+         "c++" : 2,
+         "c#" : 0
+      },
+      "json_se" : {
+         "ruby" : 660,
+         "javascript" : 194,
+         "perl" : 320
+      },
+      "re_bool" : {
+         "perl" : 814,
+         "javascript" : 35,
+         "perl6" : 1998,
+         "nqp" : 2228,
+         "lua" : 184,
+         "ruby" : 167
+      },
+      "str_join_slow" : {
+         "lua" : 7769,
+         "perl6" : 9085,
+         "ruby" : 14835,
+         "javascript" : 153,
+         "nim" : 133,
+         "perl" : 3047,
+         "c#" : 0,
+         "c++" : 56
+      },
+      "re_capture" : {
+         "perl" : 206,
+         "javascript" : 84,
+         "ruby" : 499,
+         "perl6" : 9505,
+         "nqp" : 6931,
+         "lua" : 255
+      }
+   }
+}
