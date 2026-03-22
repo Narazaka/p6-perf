@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "lua" : "2.1.1772619647",
+      "nim" : "2.2.8",
+      "nqp" : "2026.02-2-gb57fc88bb",
+      "c#" : "10.0.104",
+      "perl6" : null,
+      "perl" : "v5.42.1",
+      "c++" : "22.1.1",
+      "javascript" : "v25.8.1",
+      "ruby" : "3.4.8"
+   },
+   "result" : {
+      "re_capture" : {
+         "nqp" : 7832,
+         "lua" : 256,
+         "perl6" : 12505,
+         "perl" : 206,
+         "ruby" : 516,
+         "javascript" : 84
+      },
+      "fib" : {
+         "perl" : 4721,
+         "c++" : 2,
+         "javascript" : 114,
+         "ruby" : 872,
+         "lua" : 167,
+         "nim" : 22,
+         "nqp" : 7663,
+         "c#" : 0,
+         "perl6" : 4470
+      },
+      "str_join_repeat" : {
+         "ruby" : 70,
+         "perl6" : 4,
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 42
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 435,
+         "ruby" : 1004,
+         "javascript" : 55,
+         "nqp" : 1084,
+         "nim" : 35,
+         "lua" : 96,
+         "perl6" : 2019,
+         "c#" : 0
+      },
+      "str_join_slow" : {
+         "ruby" : 15781,
+         "javascript" : 158,
+         "c++" : 55,
+         "perl" : 1581,
+         "perl6" : 9944,
+         "c#" : 0,
+         "nim" : 134,
+         "lua" : 8072
+      },
+      "json_se" : {
+         "javascript" : 200,
+         "ruby" : 666,
+         "perl" : 323
+      },
+      "re_bool" : {
+         "nqp" : 2453,
+         "lua" : 199,
+         "perl6" : 2822,
+         "perl" : 468,
+         "ruby" : 175,
+         "javascript" : 35
+      },
+      "takeuchi" : {
+         "ruby" : 2304,
+         "javascript" : 253,
+         "c++" : 18,
+         "perl" : 12263,
+         "perl6" : 11125,
+         "c#" : 0,
+         "nim" : 63,
+         "nqp" : 18174,
+         "lua" : 370
+      },
+      "fib_fast" : {
+         "javascript" : 20,
+         "perl6" : 1062
+      },
+      "json_de" : {
+         "perl" : 661,
+         "ruby" : 960,
+         "javascript" : 590
+      }
+   }
+}
