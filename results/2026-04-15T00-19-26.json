@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "javascript" : "v25.9.0",
+      "nqp" : "2026.03",
+      "perl" : "v5.42.2",
+      "nim" : "2.2.8",
+      "perl6" : null,
+      "ruby" : "3.4.8",
+      "lua" : "2.1.1774896198",
+      "c#" : "10.0.104",
+      "c++" : "22.1.3"
+   },
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 22,
+         "perl6" : 746
+      },
+      "json_se" : {
+         "ruby" : 659,
+         "perl" : 317,
+         "javascript" : 192
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 65,
+         "lua" : 1,
+         "nim" : 42
+      },
+      "re_bool" : {
+         "nqp" : 0,
+         "javascript" : 33,
+         "perl6" : 1885,
+         "perl" : 464,
+         "ruby" : 167,
+         "lua" : 183
+      },
+      "json_de" : {
+         "javascript" : 571,
+         "ruby" : 931,
+         "perl" : 657
+      },
+      "str_join" : {
+         "perl" : 414,
+         "nim" : 34,
+         "nqp" : 0,
+         "javascript" : 54,
+         "ruby" : 998,
+         "lua" : 94,
+         "c#" : 0,
+         "c++" : 0,
+         "perl6" : 1730
+      },
+      "re_capture" : {
+         "perl" : 206,
+         "lua" : 254,
+         "ruby" : 496,
+         "nqp" : 0,
+         "javascript" : 84,
+         "perl6" : 9537
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "lua" : 368,
+         "ruby" : 2152,
+         "c#" : 0,
+         "perl6" : 10877,
+         "nim" : 61,
+         "perl" : 12144,
+         "javascript" : 249,
+         "nqp" : 0
+      },
+      "fib" : {
+         "nim" : 22,
+         "perl" : 4682,
+         "nqp" : 0,
+         "javascript" : 113,
+         "c++" : 2,
+         "c#" : 0,
+         "ruby" : 847,
+         "lua" : 142,
+         "perl6" : 4464
+      },
+      "str_join_slow" : {
+         "javascript" : 151,
+         "nim" : 131,
+         "perl" : 1576,
+         "perl6" : 8777,
+         "c++" : 56,
+         "c#" : 0,
+         "ruby" : 14881,
+         "lua" : 7831
+      }
+   }
+}
