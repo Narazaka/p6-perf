@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl6" : null,
+      "lua" : "2.1.1774896198",
+      "perl" : "v5.42.2",
+      "nqp" : "2026.03",
+      "javascript" : "v25.9.0",
+      "nim" : "2.2.8",
+      "c#" : "10.0.104",
+      "ruby" : "3.4.8",
+      "c++" : "22.1.3"
+   },
+   "result" : {
+      "re_capture" : {
+         "nqp" : 0,
+         "perl" : 204,
+         "lua" : 253,
+         "perl6" : 10232,
+         "ruby" : 492,
+         "javascript" : 82
+      },
+      "str_join_repeat" : {
+         "nim" : 42,
+         "ruby" : 65,
+         "perl6" : 4,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "javascript" : 21,
+         "perl6" : 689
+      },
+      "fib" : {
+         "perl6" : 4392,
+         "nqp" : 0,
+         "lua" : 160,
+         "perl" : 4669,
+         "nim" : 22,
+         "javascript" : 113,
+         "ruby" : 870,
+         "c#" : 0,
+         "c++" : 2
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 410,
+         "lua" : 94,
+         "nqp" : 0,
+         "perl6" : 1710,
+         "c#" : 0,
+         "ruby" : 978,
+         "javascript" : 54,
+         "nim" : 34
+      },
+      "takeuchi" : {
+         "nqp" : 0,
+         "lua" : 354,
+         "perl" : 12076,
+         "perl6" : 10570,
+         "ruby" : 2168,
+         "c#" : 0,
+         "nim" : 63,
+         "javascript" : 251,
+         "c++" : 17
+      },
+      "json_se" : {
+         "perl" : 316,
+         "ruby" : 651,
+         "javascript" : 191
+      },
+      "re_bool" : {
+         "perl6" : 2049,
+         "lua" : 182,
+         "perl" : 460,
+         "nqp" : 0,
+         "javascript" : 34,
+         "ruby" : 165
+      },
+      "str_join_slow" : {
+         "c++" : 54,
+         "perl6" : 8766,
+         "lua" : 7729,
+         "perl" : 1569,
+         "javascript" : 147,
+         "nim" : 131,
+         "c#" : 0,
+         "ruby" : 14367
+      },
+      "json_de" : {
+         "perl" : 651,
+         "javascript" : 564,
+         "ruby" : 909
+      }
+   }
+}
