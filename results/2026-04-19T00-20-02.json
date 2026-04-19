@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "lua" : 1,
+         "nim" : 48,
+         "perl6" : 5,
+         "perl" : 3,
+         "ruby" : 70
+      },
+      "fib" : {
+         "ruby" : 873,
+         "javascript" : 119,
+         "perl" : 4846,
+         "c#" : 0,
+         "lua" : 149,
+         "nqp" : 0,
+         "c++" : 2,
+         "perl6" : 4860,
+         "nim" : 22
+      },
+      "json_de" : {
+         "perl" : 682,
+         "ruby" : 1020,
+         "javascript" : 685
+      },
+      "re_capture" : {
+         "perl6" : 10877,
+         "lua" : 265,
+         "nqp" : 0,
+         "javascript" : 92,
+         "ruby" : 509,
+         "perl" : 238
+      },
+      "fib_fast" : {
+         "javascript" : 31,
+         "perl6" : 852
+      },
+      "takeuchi" : {
+         "c++" : 24,
+         "nqp" : 0,
+         "perl6" : 14550,
+         "nim" : 62,
+         "perl" : 12789,
+         "ruby" : 2175,
+         "javascript" : 268,
+         "c#" : 0,
+         "lua" : 371
+      },
+      "re_bool" : {
+         "javascript" : 33,
+         "ruby" : 171,
+         "nqp" : 0,
+         "perl" : 480,
+         "perl6" : 2291,
+         "lua" : 192
+      },
+      "json_se" : {
+         "javascript" : 386,
+         "ruby" : 668,
+         "perl" : 332
+      },
+      "str_join" : {
+         "perl6" : 1803,
+         "nim" : 34,
+         "c++" : 0,
+         "nqp" : 0,
+         "lua" : 98,
+         "c#" : 0,
+         "perl" : 442,
+         "javascript" : 62,
+         "ruby" : 1012
+      },
+      "str_join_slow" : {
+         "perl6" : 10668,
+         "nim" : 133,
+         "c++" : 56,
+         "lua" : 8706,
+         "c#" : 0,
+         "perl" : 1658,
+         "javascript" : 170,
+         "ruby" : 16864
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.2",
+      "javascript" : "v25.9.0",
+      "ruby" : "3.4.8",
+      "c#" : "10.0.104",
+      "lua" : "2.1.1774896198",
+      "c++" : "22.1.3",
+      "nqp" : "2026.03-2-g4c4cc4e2e",
+      "perl6" : null,
+      "nim" : "2.2.8"
+   }
+}
