@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "perl" : "v5.42.2",
+      "nim" : "2.2.10",
+      "lua" : "2.1.1774896198",
+      "c++" : "22.1.3",
+      "javascript" : "v25.9.0",
+      "c#" : "10.0.104",
+      "nqp" : "2026.04",
+      "ruby" : "3.4.8",
+      "perl6" : null
+   },
+   "result" : {
+      "takeuchi" : {
+         "nim" : 124,
+         "perl" : 12283,
+         "lua" : 370,
+         "c++" : 18,
+         "javascript" : 253,
+         "c#" : 0,
+         "nqp" : 0,
+         "ruby" : 2155,
+         "perl6" : 10980
+      },
+      "json_de" : {
+         "perl" : 660,
+         "javascript" : 590,
+         "ruby" : 975
+      },
+      "str_join" : {
+         "nqp" : 0,
+         "ruby" : 1005,
+         "perl6" : 1732,
+         "javascript" : 60,
+         "c#" : 0,
+         "lua" : 181,
+         "c++" : 0,
+         "perl" : 416,
+         "nim" : 35
+      },
+      "json_se" : {
+         "ruby" : 655,
+         "javascript" : 196,
+         "perl" : 320
+      },
+      "fib" : {
+         "c++" : 2,
+         "lua" : 145,
+         "nim" : 24,
+         "perl" : 4740,
+         "perl6" : 4519,
+         "ruby" : 894,
+         "nqp" : 0,
+         "c#" : 0,
+         "javascript" : 114
+      },
+      "re_bool" : {
+         "javascript" : 33,
+         "perl" : 465,
+         "perl6" : 2246,
+         "ruby" : 170,
+         "nqp" : 0,
+         "lua" : 215
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "javascript" : 154,
+         "perl6" : 9317,
+         "ruby" : 14835,
+         "perl" : 1593,
+         "nim" : 121,
+         "c++" : 70,
+         "lua" : 7986
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 65,
+         "perl6" : 4,
+         "nim" : 45,
+         "perl" : 3
+      },
+      "re_capture" : {
+         "perl6" : 10009,
+         "ruby" : 498,
+         "nqp" : 0,
+         "lua" : 265,
+         "javascript" : 84,
+         "perl" : 206
+      },
+      "fib_fast" : {
+         "perl6" : 789,
+         "javascript" : 22
+      }
+   }
+}
