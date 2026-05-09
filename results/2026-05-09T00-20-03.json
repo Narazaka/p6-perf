@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "22.1.5",
+      "nim" : "2.2.10",
+      "perl6" : null,
+      "ruby" : "3.4.8",
+      "perl" : "v5.42.2",
+      "lua" : "2.1.1774896198",
+      "nqp" : "2026.04-3-gfadfa22de",
+      "javascript" : "v26.1.0",
+      "c#" : "10.0.104"
+   },
+   "result" : {
+      "takeuchi" : {
+         "c++" : 17,
+         "perl" : 12779,
+         "nim" : 114,
+         "perl6" : 10892,
+         "ruby" : 2194,
+         "nqp" : 0,
+         "lua" : 370,
+         "javascript" : 239,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 141,
+         "ruby" : 66
+      },
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 1154
+      },
+      "json_de" : {
+         "ruby" : 954,
+         "perl" : 700,
+         "javascript" : 605
+      },
+      "fib" : {
+         "c++" : 2,
+         "perl6" : 4464,
+         "nim" : 24,
+         "ruby" : 857,
+         "perl" : 4726,
+         "lua" : 143,
+         "nqp" : 0,
+         "javascript" : 119,
+         "c#" : 0
+      },
+      "json_se" : {
+         "javascript" : 194,
+         "perl" : 347,
+         "ruby" : 667
+      },
+      "re_capture" : {
+         "nqp" : 0,
+         "lua" : 264,
+         "perl" : 191,
+         "javascript" : 117,
+         "ruby" : 494,
+         "perl6" : 10162
+      },
+      "str_join_slow" : {
+         "javascript" : 145,
+         "c#" : 0,
+         "lua" : 7805,
+         "nim" : 121,
+         "perl6" : 9887,
+         "ruby" : 14999,
+         "perl" : 1601,
+         "c++" : 54
+      },
+      "str_join" : {
+         "lua" : 183,
+         "nqp" : 0,
+         "javascript" : 60,
+         "c#" : 0,
+         "c++" : 0,
+         "nim" : 58,
+         "perl6" : 1883,
+         "ruby" : 1032,
+         "perl" : 422
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "perl" : 805,
+         "perl6" : 1949,
+         "ruby" : 167,
+         "nqp" : 0,
+         "lua" : 185
+      }
+   }
+}
