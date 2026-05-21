@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 198,
+         "perl" : 322,
+         "ruby" : 668
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "perl6" : 4,
+         "nim" : 45,
+         "lua" : 1,
+         "ruby" : 72
+      },
+      "re_capture" : {
+         "perl" : 191,
+         "perl6" : 9619,
+         "nqp" : 7307,
+         "javascript" : 118,
+         "ruby" : 511,
+         "lua" : 256
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 706
+      },
+      "str_join" : {
+         "perl6" : 1842,
+         "perl" : 414,
+         "lua" : 96,
+         "ruby" : 1068,
+         "javascript" : 60,
+         "c#" : 0,
+         "nqp" : 892,
+         "c++" : 0,
+         "nim" : 34
+      },
+      "takeuchi" : {
+         "javascript" : 241,
+         "nqp" : 17365,
+         "c#" : 0,
+         "c++" : 17,
+         "nim" : 114,
+         "perl6" : 10975,
+         "perl" : 12263,
+         "ruby" : 2218,
+         "lua" : 371
+      },
+      "str_join_slow" : {
+         "javascript" : 141,
+         "c#" : 0,
+         "nim" : 120,
+         "c++" : 54,
+         "perl6" : 9002,
+         "perl" : 1587,
+         "lua" : 8256,
+         "ruby" : 16189
+      },
+      "fib" : {
+         "perl6" : 4649,
+         "perl" : 4856,
+         "lua" : 164,
+         "ruby" : 888,
+         "javascript" : 110,
+         "nqp" : 7605,
+         "c#" : 0,
+         "c++" : 2,
+         "nim" : 24
+      },
+      "re_bool" : {
+         "lua" : 184,
+         "ruby" : 170,
+         "perl" : 477,
+         "perl6" : 1925,
+         "nqp" : 2291,
+         "javascript" : 35
+      },
+      "json_de" : {
+         "javascript" : 594,
+         "perl" : 696,
+         "ruby" : 942
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1774896198",
+      "ruby" : "3.4.8",
+      "perl6" : null,
+      "perl" : "v5.42.2",
+      "c++" : "22.1.5",
+      "nim" : "2.2.10",
+      "javascript" : "v26.1.0",
+      "c#" : "10.0.104",
+      "nqp" : "2026.04-7-gf85683c67"
+   }
+}
