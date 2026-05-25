@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "nqp" : 7330,
+         "perl" : 192,
+         "javascript" : 115,
+         "lua" : 255,
+         "perl6" : 10126,
+         "ruby" : 496
+      },
+      "str_join" : {
+         "lua" : 95,
+         "c++" : 0,
+         "nqp" : 889,
+         "nim" : 35,
+         "perl6" : 1874,
+         "c#" : 0,
+         "ruby" : 1008,
+         "perl" : 414,
+         "javascript" : 59
+      },
+      "str_join_repeat" : {
+         "ruby" : 64,
+         "perl6" : 4,
+         "nim" : 45,
+         "lua" : 1,
+         "perl" : 3
+      },
+      "json_de" : {
+         "javascript" : 580,
+         "perl" : 694,
+         "ruby" : 929
+      },
+      "json_se" : {
+         "ruby" : 662,
+         "javascript" : 215,
+         "perl" : 323
+      },
+      "str_join_slow" : {
+         "lua" : 7797,
+         "c++" : 54,
+         "perl" : 1568,
+         "javascript" : 141,
+         "perl6" : 9567,
+         "nim" : 124,
+         "c#" : 0,
+         "ruby" : 14496
+      },
+      "fib_fast" : {
+         "perl6" : 727,
+         "javascript" : 22
+      },
+      "takeuchi" : {
+         "lua" : 369,
+         "c++" : 17,
+         "nqp" : 17434,
+         "perl6" : 10851,
+         "nim" : 114,
+         "ruby" : 2164,
+         "c#" : 0,
+         "perl" : 12249,
+         "javascript" : 239
+      },
+      "fib" : {
+         "c++" : 2,
+         "lua" : 165,
+         "nqp" : 7738,
+         "ruby" : 861,
+         "c#" : 0,
+         "nim" : 24,
+         "perl6" : 4415,
+         "javascript" : 109,
+         "perl" : 4765
+      },
+      "re_bool" : {
+         "nqp" : 2290,
+         "perl" : 454,
+         "javascript" : 36,
+         "lua" : 185,
+         "perl6" : 1869,
+         "ruby" : 167
+      }
+   },
+   "version" : {
+      "c#" : "10.0.108",
+      "ruby" : "3.4.8",
+      "perl6" : null,
+      "nim" : "2.2.10",
+      "javascript" : "v26.2.0",
+      "perl" : "v5.42.2",
+      "c++" : "22.1.5",
+      "lua" : "2.1.1774896198",
+      "nqp" : "2026.05"
+   }
+}
