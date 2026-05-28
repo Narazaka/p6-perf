@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.4.8",
+      "c#" : "10.0.108",
+      "nim" : "2.2.10",
+      "javascript" : "v26.2.0",
+      "lua" : "2.1.1774896198",
+      "nqp" : "2026.05",
+      "perl6" : null,
+      "perl" : "v5.42.2",
+      "c++" : "22.1.5"
+   },
+   "result" : {
+      "takeuchi" : {
+         "c#" : 0,
+         "ruby" : 2136,
+         "lua" : 366,
+         "c++" : 17,
+         "perl" : 12022,
+         "perl6" : 10892,
+         "nqp" : 0,
+         "javascript" : 239,
+         "nim" : 113
+      },
+      "str_join_slow" : {
+         "ruby" : 14087,
+         "c#" : 0,
+         "nim" : 119,
+         "javascript" : 144,
+         "lua" : 7717,
+         "perl6" : 9092,
+         "perl" : 1547,
+         "c++" : 54
+      },
+      "re_bool" : {
+         "perl6" : 1876,
+         "perl" : 447,
+         "nqp" : 0,
+         "lua" : 181,
+         "javascript" : 35,
+         "ruby" : 165
+      },
+      "fib" : {
+         "c++" : 2,
+         "nqp" : 0,
+         "perl6" : 4402,
+         "perl" : 4689,
+         "lua" : 143,
+         "nim" : 24,
+         "javascript" : 108,
+         "c#" : 0,
+         "ruby" : 845
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 4,
+         "perl" : 3,
+         "nim" : 45,
+         "ruby" : 66
+      },
+      "str_join" : {
+         "perl6" : 1813,
+         "perl" : 410,
+         "nqp" : 0,
+         "c++" : 0,
+         "lua" : 94,
+         "javascript" : 60,
+         "nim" : 34,
+         "c#" : 0,
+         "ruby" : 986
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 682
+      },
+      "re_capture" : {
+         "lua" : 254,
+         "nqp" : 0,
+         "perl6" : 9257,
+         "perl" : 189,
+         "javascript" : 87,
+         "ruby" : 488
+      },
+      "json_se" : {
+         "perl" : 318,
+         "ruby" : 657,
+         "javascript" : 223
+      },
+      "json_de" : {
+         "javascript" : 578,
+         "ruby" : 912,
+         "perl" : 676
+      }
+   }
+}
