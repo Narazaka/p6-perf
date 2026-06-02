@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_slow" : {
+         "perl" : 1592,
+         "javascript" : 184,
+         "c#" : 0,
+         "perl6" : 9990,
+         "c++" : 56,
+         "ruby" : 17024,
+         "nim" : 122,
+         "lua" : 8477
+      },
+      "json_se" : {
+         "ruby" : 888,
+         "perl" : 332,
+         "javascript" : 231
+      },
+      "fib" : {
+         "lua" : 173,
+         "perl6" : 4670,
+         "c#" : 0,
+         "javascript" : 121,
+         "nqp" : 7672,
+         "perl" : 4921,
+         "ruby" : 896,
+         "nim" : 24,
+         "c++" : 3
+      },
+      "takeuchi" : {
+         "perl" : 12414,
+         "perl6" : 11514,
+         "c#" : 0,
+         "javascript" : 273,
+         "nqp" : 18175,
+         "ruby" : 2284,
+         "nim" : 117,
+         "c++" : 18,
+         "lua" : 379
+      },
+      "re_capture" : {
+         "nqp" : 8381,
+         "javascript" : 137,
+         "perl6" : 11979,
+         "perl" : 195,
+         "ruby" : 600,
+         "lua" : 271
+      },
+      "str_join" : {
+         "lua" : 102,
+         "c++" : 0,
+         "nim" : 35,
+         "ruby" : 1085,
+         "nqp" : 1219,
+         "javascript" : 71,
+         "perl6" : 2205,
+         "c#" : 0,
+         "perl" : 437
+      },
+      "json_de" : {
+         "javascript" : 658,
+         "perl" : 706,
+         "ruby" : 1027
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "perl" : 3,
+         "lua" : 1,
+         "ruby" : 77,
+         "nim" : 50
+      },
+      "re_bool" : {
+         "lua" : 195,
+         "ruby" : 168,
+         "javascript" : 35,
+         "nqp" : 2661,
+         "perl6" : 2496,
+         "perl" : 472
+      },
+      "fib_fast" : {
+         "javascript" : 32,
+         "perl6" : 937
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1774896198",
+      "ruby" : "3.4.8",
+      "nim" : "2.2.10",
+      "c++" : "22.1.6",
+      "c#" : "10.0.108",
+      "perl6" : null,
+      "javascript" : "v26.2.0",
+      "nqp" : "2026.05-3-gcd443ed8d",
+      "perl" : "v5.42.2"
+   }
+}
