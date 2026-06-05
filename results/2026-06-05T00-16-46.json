@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 11961,
+         "lua" : 258,
+         "javascript" : 124,
+         "perl" : 195,
+         "ruby" : 539,
+         "nqp" : 8280
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "nim" : 45,
+         "lua" : 1,
+         "perl" : 3,
+         "ruby" : 76
+      },
+      "str_join" : {
+         "perl6" : 2528,
+         "nim" : 35,
+         "lua" : 91,
+         "c#" : 0,
+         "javascript" : 72,
+         "perl" : 432,
+         "ruby" : 1124,
+         "nqp" : 1033,
+         "c++" : 0
+      },
+      "re_bool" : {
+         "perl" : 453,
+         "nqp" : 2871,
+         "ruby" : 197,
+         "perl6" : 2283,
+         "javascript" : 35,
+         "lua" : 176
+      },
+      "json_se" : {
+         "perl" : 326,
+         "ruby" : 679,
+         "javascript" : 205
+      },
+      "takeuchi" : {
+         "nqp" : 19030,
+         "ruby" : 2204,
+         "c++" : 18,
+         "perl" : 12518,
+         "lua" : 373,
+         "c#" : 0,
+         "javascript" : 242,
+         "nim" : 118,
+         "perl6" : 12107
+      },
+      "str_join_slow" : {
+         "perl6" : 11690,
+         "nim" : 166,
+         "c#" : 0,
+         "javascript" : 153,
+         "lua" : 7638,
+         "perl" : 1649,
+         "c++" : 57,
+         "ruby" : 15498
+      },
+      "fib_fast" : {
+         "perl6" : 902,
+         "javascript" : 25
+      },
+      "fib" : {
+         "perl" : 4820,
+         "perl6" : 4557,
+         "lua" : 165,
+         "javascript" : 111,
+         "nim" : 25,
+         "c#" : 0,
+         "nqp" : 8946,
+         "ruby" : 881,
+         "c++" : 2
+      },
+      "json_de" : {
+         "javascript" : 620,
+         "ruby" : 1039,
+         "perl" : 675
+      }
+   },
+   "version" : {
+      "c#" : "10.0.108",
+      "nim" : "2.2.10",
+      "lua" : "2.1.1780076327",
+      "javascript" : "v26.2.0",
+      "perl6" : null,
+      "perl" : "v5.42.2",
+      "c++" : "22.1.6",
+      "ruby" : "3.4.8",
+      "nqp" : "2026.05-3-gcd443ed8d"
+   }
+}
