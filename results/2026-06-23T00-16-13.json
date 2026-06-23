@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "perl" : 458,
+         "ruby" : 182,
+         "perl6" : 2102,
+         "javascript" : 37,
+         "lua" : 177,
+         "nqp" : 2509
+      },
+      "str_join_repeat" : {
+         "nim" : 45,
+         "lua" : 1,
+         "ruby" : 72,
+         "perl6" : 6,
+         "perl" : 3
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 804
+      },
+      "str_join_slow" : {
+         "perl6" : 10501,
+         "ruby" : 15794,
+         "perl" : 1643,
+         "nim" : 133,
+         "c#" : 0,
+         "c++" : 57,
+         "lua" : 7640,
+         "javascript" : 173
+      },
+      "json_de" : {
+         "perl" : 720,
+         "ruby" : 1018,
+         "javascript" : 676
+      },
+      "fib" : {
+         "lua" : 151,
+         "javascript" : 117,
+         "nim" : 27,
+         "c++" : 2,
+         "nqp" : 7699,
+         "c#" : 0,
+         "perl" : 4884,
+         "perl6" : 4719,
+         "ruby" : 888
+      },
+      "re_capture" : {
+         "nqp" : 7892,
+         "javascript" : 152,
+         "lua" : 247,
+         "perl6" : 10798,
+         "ruby" : 543,
+         "perl" : 210
+      },
+      "str_join" : {
+         "perl" : 509,
+         "ruby" : 1201,
+         "perl6" : 2117,
+         "javascript" : 67,
+         "lua" : 97,
+         "c++" : 0,
+         "nqp" : 989,
+         "c#" : 0,
+         "nim" : 39
+      },
+      "takeuchi" : {
+         "perl" : 12844,
+         "ruby" : 2185,
+         "perl6" : 11119,
+         "lua" : 359,
+         "javascript" : 263,
+         "nqp" : 17310,
+         "c++" : 20,
+         "c#" : 0,
+         "nim" : 120
+      },
+      "json_se" : {
+         "javascript" : 240,
+         "perl" : 412,
+         "ruby" : 790
+      }
+   },
+   "version" : {
+      "ruby" : "3.4.8",
+      "perl6" : null,
+      "perl" : "v5.42.2",
+      "c#" : "10.0.109",
+      "nqp" : "2026.05-7-g04a224de3",
+      "c++" : "22.1.6",
+      "nim" : "2.2.10",
+      "javascript" : "v26.3.1",
+      "lua" : "2.1.1780076327"
+   }
+}
