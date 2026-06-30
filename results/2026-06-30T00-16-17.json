@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "c++" : "22.1.6",
+      "perl" : "v5.42.2",
+      "javascript" : "v26.4.0",
+      "nqp" : "2026.06",
+      "c#" : "10.0.109",
+      "ruby" : "3.4.8",
+      "nim" : "2.2.10",
+      "lua" : "2.1.1780076327",
+      "perl6" : null
+   },
+   "result" : {
+      "str_join_slow" : {
+         "lua" : 7660,
+         "nim" : 125,
+         "perl6" : 9618,
+         "javascript" : 146,
+         "perl" : 1591,
+         "c#" : 0,
+         "ruby" : 15290,
+         "c++" : 54
+      },
+      "re_bool" : {
+         "perl" : 461,
+         "javascript" : 37,
+         "nqp" : 2306,
+         "ruby" : 170,
+         "lua" : 180,
+         "perl6" : 1942
+      },
+      "json_se" : {
+         "perl" : 331,
+         "javascript" : 212,
+         "ruby" : 665
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 755
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl6" : 1903,
+         "lua" : 92,
+         "nim" : 35,
+         "c#" : 0,
+         "ruby" : 1021,
+         "nqp" : 900,
+         "javascript" : 62,
+         "perl" : 497
+      },
+      "fib" : {
+         "c#" : 0,
+         "ruby" : 862,
+         "nqp" : 7853,
+         "javascript" : 112,
+         "perl" : 4769,
+         "perl6" : 4567,
+         "lua" : 166,
+         "nim" : 24,
+         "c++" : 2
+      },
+      "takeuchi" : {
+         "c++" : 17,
+         "perl6" : 14359,
+         "nim" : 116,
+         "lua" : 361,
+         "nqp" : 17835,
+         "c#" : 0,
+         "ruby" : 5194,
+         "perl" : 12597,
+         "javascript" : 246
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 69,
+         "lua" : 1,
+         "nim" : 48,
+         "perl6" : 4
+      },
+      "json_de" : {
+         "ruby" : 943,
+         "perl" : 901,
+         "javascript" : 590
+      },
+      "re_capture" : {
+         "lua" : 248,
+         "perl6" : 9691,
+         "perl" : 199,
+         "javascript" : 136,
+         "nqp" : 7404,
+         "ruby" : 503
+      }
+   }
+}
