@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "ruby" : "3.4.8",
+      "perl6" : null,
+      "javascript" : "v26.4.0",
+      "lua" : "2.1.1783773675",
+      "nqp" : "2026.06-1-gd4f8117ac",
+      "c++" : "22.1.8",
+      "perl" : "v5.42.2",
+      "nim" : "2.2.10",
+      "c#" : "10.0.109"
+   },
+   "result" : {
+      "re_bool" : {
+         "lua" : 186,
+         "nqp" : 0,
+         "javascript" : 35,
+         "perl" : 504,
+         "ruby" : 181,
+         "perl6" : 2550
+      },
+      "re_capture" : {
+         "perl" : 207,
+         "ruby" : 552,
+         "perl6" : 10943,
+         "lua" : 254,
+         "nqp" : 0,
+         "javascript" : 89
+      },
+      "str_join_slow" : {
+         "javascript" : 155,
+         "lua" : 8044,
+         "ruby" : 17619,
+         "perl6" : 9500,
+         "c#" : 0,
+         "nim" : 138,
+         "c++" : 43,
+         "perl" : 1698
+      },
+      "str_join" : {
+         "c#" : 0,
+         "nim" : 35,
+         "c++" : 0,
+         "perl" : 483,
+         "nqp" : 0,
+         "lua" : 97,
+         "javascript" : 61,
+         "ruby" : 1091,
+         "perl6" : 2087
+      },
+      "fib" : {
+         "ruby" : 913,
+         "perl6" : 4720,
+         "javascript" : 117,
+         "nqp" : 0,
+         "lua" : 153,
+         "c++" : 2,
+         "nim" : 27,
+         "perl" : 5178,
+         "c#" : 0
+      },
+      "json_se" : {
+         "javascript" : 206,
+         "perl" : 415,
+         "ruby" : 719
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 58,
+         "ruby" : 76,
+         "perl6" : 5
+      },
+      "fib_fast" : {
+         "perl6" : 897,
+         "javascript" : 23
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nim" : 119,
+         "perl" : 13218,
+         "c++" : 21,
+         "lua" : 382,
+         "nqp" : 0,
+         "javascript" : 252,
+         "perl6" : 11500,
+         "ruby" : 2304
+      },
+      "json_de" : {
+         "ruby" : 1081,
+         "perl" : 787,
+         "javascript" : 585
+      }
+   }
+}
