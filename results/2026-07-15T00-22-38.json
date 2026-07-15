@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.2.10",
+      "c++" : "22.1.8",
+      "lua" : "2.1.1783773675",
+      "ruby" : "3.4.8",
+      "javascript" : "v26.4.0",
+      "c#" : "10.0.109",
+      "nqp" : "2026.06-1-gd4f8117ac",
+      "perl6" : null,
+      "perl" : "v5.42.2"
+   },
+   "result" : {
+      "re_bool" : {
+         "perl" : 487,
+         "ruby" : 184,
+         "lua" : 195,
+         "perl6" : 2971,
+         "nqp" : 0,
+         "javascript" : 41
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "ruby" : 79,
+         "perl" : 3,
+         "perl6" : 6,
+         "nim" : 55
+      },
+      "json_de" : {
+         "javascript" : 731,
+         "perl" : 962,
+         "ruby" : 1304
+      },
+      "str_join" : {
+         "perl6" : 2704,
+         "perl" : 435,
+         "c#" : 0,
+         "javascript" : 75,
+         "nqp" : 0,
+         "c++" : 0,
+         "nim" : 42,
+         "ruby" : 1255,
+         "lua" : 96
+      },
+      "takeuchi" : {
+         "perl6" : 12875,
+         "perl" : 14978,
+         "javascript" : 249,
+         "c#" : 0,
+         "nqp" : 0,
+         "c++" : 18,
+         "nim" : 145,
+         "lua" : 437,
+         "ruby" : 2317
+      },
+      "str_join_slow" : {
+         "c++" : 51,
+         "nim" : 152,
+         "lua" : 8881,
+         "ruby" : 18552,
+         "perl6" : 10706,
+         "perl" : 1967,
+         "javascript" : 228,
+         "c#" : 0
+      },
+      "json_se" : {
+         "ruby" : 841,
+         "perl" : 447,
+         "javascript" : 247
+      },
+      "re_capture" : {
+         "perl6" : 14964,
+         "ruby" : 624,
+         "perl" : 195,
+         "lua" : 262,
+         "javascript" : 120,
+         "nqp" : 0
+      },
+      "fib_fast" : {
+         "javascript" : 29,
+         "perl6" : 1182
+      },
+      "fib" : {
+         "nim" : 25,
+         "c++" : 2,
+         "ruby" : 991,
+         "lua" : 201,
+         "perl6" : 5512,
+         "perl" : 6082,
+         "c#" : 0,
+         "javascript" : 214,
+         "nqp" : 0
+      }
+   }
+}
