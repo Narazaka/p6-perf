@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nqp" : 7608,
+         "c#" : 0,
+         "perl6" : 4458,
+         "lua" : 168,
+         "perl" : 4662,
+         "c++" : 2,
+         "javascript" : 110,
+         "ruby" : 851,
+         "nim" : 24
+      },
+      "json_se" : {
+         "perl" : 318,
+         "ruby" : 650,
+         "javascript" : 208
+      },
+      "re_bool" : {
+         "lua" : 176,
+         "perl6" : 1858,
+         "perl" : 501,
+         "nqp" : 2230,
+         "javascript" : 35,
+         "ruby" : 165
+      },
+      "json_de" : {
+         "perl" : 665,
+         "javascript" : 579,
+         "ruby" : 942
+      },
+      "fib_fast" : {
+         "perl6" : 720,
+         "javascript" : 23
+      },
+      "str_join" : {
+         "nim" : 35,
+         "javascript" : 59,
+         "ruby" : 985,
+         "c++" : 0,
+         "perl" : 410,
+         "lua" : 93,
+         "perl6" : 2506,
+         "c#" : 0,
+         "nqp" : 1069
+      },
+      "str_join_slow" : {
+         "c#" : 0,
+         "javascript" : 144,
+         "nim" : 120,
+         "ruby" : 14219,
+         "lua" : 7545,
+         "perl6" : 9552,
+         "c++" : 54,
+         "perl" : 1537
+      },
+      "re_capture" : {
+         "lua" : 243,
+         "perl6" : 14037,
+         "nqp" : 6964,
+         "perl" : 369,
+         "javascript" : 137,
+         "ruby" : 491
+      },
+      "str_join_repeat" : {
+         "perl6" : 5,
+         "lua" : 1,
+         "perl" : 3,
+         "nim" : 49,
+         "ruby" : 67
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "nqp" : 17385,
+         "javascript" : 239,
+         "ruby" : 2241,
+         "nim" : 112,
+         "c++" : 17,
+         "perl" : 12074,
+         "lua" : 369,
+         "perl6" : 11138
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.2",
+      "c++" : "22.1.8",
+      "perl6" : null,
+      "lua" : "2.1.1783773675",
+      "ruby" : "3.4.8",
+      "nim" : "2.2.10",
+      "javascript" : "v26.4.0",
+      "nqp" : "2026.06-2-ged3e57ba1",
+      "c#" : "10.0.110"
+   }
+}
