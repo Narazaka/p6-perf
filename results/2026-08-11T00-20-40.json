@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 881
+      },
+      "re_capture" : {
+         "javascript" : 89,
+         "perl" : 209,
+         "nqp" : 0,
+         "ruby" : 557,
+         "lua" : 248,
+         "perl6" : 10908
+      },
+      "json_de" : {
+         "javascript" : 719,
+         "perl" : 684,
+         "ruby" : 1030
+      },
+      "json_se" : {
+         "javascript" : 210,
+         "perl" : 324,
+         "ruby" : 733
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl6" : 2259,
+         "lua" : 97,
+         "c#" : 0,
+         "javascript" : 68,
+         "perl" : 445,
+         "nim" : 36,
+         "ruby" : 1058,
+         "nqp" : 0
+      },
+      "re_bool" : {
+         "perl6" : 2320,
+         "lua" : 175,
+         "javascript" : 36,
+         "nqp" : 0,
+         "perl" : 457,
+         "ruby" : 163
+      },
+      "fib" : {
+         "nim" : 27,
+         "nqp" : 0,
+         "ruby" : 898,
+         "perl6" : 4842,
+         "c++" : 3,
+         "lua" : 106,
+         "c#" : 0,
+         "javascript" : 110,
+         "perl" : 4809
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "lua" : 416,
+         "c++" : 17,
+         "perl6" : 11309,
+         "perl" : 12735,
+         "javascript" : 241,
+         "nim" : 171,
+         "ruby" : 2254,
+         "nqp" : 0
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 71,
+         "perl6" : 5,
+         "lua" : 1,
+         "nim" : 59
+      },
+      "str_join_slow" : {
+         "ruby" : 15884,
+         "nim" : 144,
+         "javascript" : 157,
+         "perl" : 1634,
+         "lua" : 7966,
+         "c#" : 0,
+         "c++" : 54,
+         "perl6" : 9727
+      }
+   },
+   "version" : {
+      "javascript" : "v26.7.0",
+      "perl" : "v5.42.2",
+      "lua" : "2.1.1785763465",
+      "c#" : "10.0.110",
+      "perl6" : null,
+      "c++" : "22.1.8",
+      "ruby" : "3.4.10",
+      "nqp" : "2026.07-8-g5776e30dc",
+      "nim" : "2.2.10"
+   }
+}
