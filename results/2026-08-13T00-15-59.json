@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_bool" : {
+         "javascript" : 41,
+         "perl6" : 2216,
+         "nqp" : 2581,
+         "lua" : 194,
+         "perl" : 454,
+         "ruby" : 168
+      },
+      "takeuchi" : {
+         "nim" : 114,
+         "ruby" : 2204,
+         "c#" : 0,
+         "c++" : 17,
+         "javascript" : 247,
+         "nqp" : 8829,
+         "perl6" : 11201,
+         "lua" : 402,
+         "perl" : 12522
+      },
+      "str_join" : {
+         "javascript" : 63,
+         "perl6" : 2176,
+         "nqp" : 1102,
+         "lua" : 117,
+         "perl" : 449,
+         "c++" : 0,
+         "ruby" : 1033,
+         "nim" : 35,
+         "c#" : 0
+      },
+      "re_capture" : {
+         "lua" : 246,
+         "perl" : 187,
+         "javascript" : 94,
+         "perl6" : 10228,
+         "nqp" : 8049,
+         "ruby" : 549
+      },
+      "json_se" : {
+         "ruby" : 731,
+         "perl" : 348,
+         "javascript" : 220
+      },
+      "json_de" : {
+         "javascript" : 630,
+         "perl" : 717,
+         "ruby" : 1078
+      },
+      "fib_fast" : {
+         "perl6" : 860,
+         "javascript" : 20
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 71,
+         "lua" : 1,
+         "nim" : 55
+      },
+      "fib" : {
+         "ruby" : 887,
+         "nim" : 24,
+         "c#" : 0,
+         "c++" : 2,
+         "lua" : 94,
+         "perl" : 4880,
+         "javascript" : 115,
+         "perl6" : 4663,
+         "nqp" : 8720
+      },
+      "str_join_slow" : {
+         "lua" : 7699,
+         "perl" : 1472,
+         "javascript" : 155,
+         "perl6" : 9486,
+         "c++" : 55,
+         "c#" : 0,
+         "ruby" : 16227,
+         "nim" : 121
+      }
+   },
+   "version" : {
+      "c#" : "10.0.110",
+      "nim" : "2.2.10",
+      "ruby" : "3.4.10",
+      "c++" : "22.1.8",
+      "perl" : "v5.42.2",
+      "lua" : "2.1.1785763465",
+      "perl6" : null,
+      "nqp" : "2026.07-8-g5776e30dc",
+      "javascript" : "v26.7.0"
+   }
+}
