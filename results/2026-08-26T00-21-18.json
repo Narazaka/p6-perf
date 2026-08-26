@@ -1,0 +1,95 @@
+{
+   "version" : {
+      "nim" : "2.2.10",
+      "nqp" : "2026.08-1-g73218adde",
+      "javascript" : "v26.7.0",
+      "lua" : "2.1.1787165859",
+      "perl6" : null,
+      "c++" : "22.1.8",
+      "perl" : "v5.42.2",
+      "ruby" : "3.4.10",
+      "c#" : "10.0.111"
+   },
+   "result" : {
+      "re_bool" : {
+         "ruby" : 162,
+         "perl" : 443,
+         "javascript" : 35,
+         "nqp" : 0,
+         "lua" : 185,
+         "perl6" : 2346
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "nim" : 52,
+         "ruby" : 76,
+         "lua" : 1,
+         "perl6" : 6
+      },
+      "str_join_slow" : {
+         "c++" : 55,
+         "lua" : 7688,
+         "perl6" : 10237,
+         "javascript" : 189,
+         "nim" : 122,
+         "c#" : 0,
+         "ruby" : 17515,
+         "perl" : 1435
+      },
+      "takeuchi" : {
+         "javascript" : 280,
+         "nqp" : 0,
+         "nim" : 121,
+         "c++" : 18,
+         "perl6" : 11204,
+         "lua" : 353,
+         "c#" : 0,
+         "ruby" : 2114,
+         "perl" : 12747
+      },
+      "re_capture" : {
+         "perl6" : 14837,
+         "lua" : 265,
+         "nqp" : 0,
+         "javascript" : 91,
+         "perl" : 187,
+         "ruby" : 569
+      },
+      "json_de" : {
+         "javascript" : 620,
+         "ruby" : 1042,
+         "perl" : 683
+      },
+      "str_join" : {
+         "javascript" : 62,
+         "nqp" : 0,
+         "nim" : 35,
+         "c++" : 0,
+         "lua" : 99,
+         "perl6" : 2288,
+         "c#" : 0,
+         "ruby" : 1127,
+         "perl" : 413
+      },
+      "json_se" : {
+         "javascript" : 206,
+         "ruby" : 744,
+         "perl" : 328
+      },
+      "fib_fast" : {
+         "perl6" : 1191,
+         "javascript" : 22
+      },
+      "fib" : {
+         "c#" : 0,
+         "ruby" : 930,
+         "perl" : 4832,
+         "c++" : 2,
+         "perl6" : 4682,
+         "lua" : 96,
+         "javascript" : 112,
+         "nqp" : 0,
+         "nim" : 24
+      }
+   }
+}
