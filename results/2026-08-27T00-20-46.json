@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_de" : {
+         "ruby" : 1061,
+         "perl" : 903,
+         "javascript" : 666
+      },
+      "fib" : {
+         "javascript" : 120,
+         "nqp" : 0,
+         "nim" : 25,
+         "ruby" : 867,
+         "lua" : 103,
+         "c++" : 3,
+         "c#" : 0,
+         "perl6" : 5615,
+         "perl" : 5549
+      },
+      "re_capture" : {
+         "javascript" : 103,
+         "ruby" : 601,
+         "nqp" : 0,
+         "lua" : 272,
+         "perl" : 216,
+         "perl6" : 13147
+      },
+      "re_bool" : {
+         "ruby" : 198,
+         "nqp" : 0,
+         "javascript" : 41,
+         "perl" : 712,
+         "perl6" : 2580,
+         "lua" : 237
+      },
+      "takeuchi" : {
+         "ruby" : 2233,
+         "nim" : 117,
+         "nqp" : 0,
+         "javascript" : 267,
+         "perl" : 17221,
+         "perl6" : 13171,
+         "c#" : 0,
+         "c++" : 21,
+         "lua" : 474
+      },
+      "fib_fast" : {
+         "javascript" : 24,
+         "perl6" : 1217
+      },
+      "json_se" : {
+         "ruby" : 912,
+         "perl" : 400,
+         "javascript" : 224
+      },
+      "str_join_slow" : {
+         "javascript" : 192,
+         "ruby" : 17166,
+         "nim" : 132,
+         "lua" : 8809,
+         "c++" : 77,
+         "perl" : 1986,
+         "c#" : 0,
+         "perl6" : 12037
+      },
+      "str_join" : {
+         "c++" : 0,
+         "lua" : 104,
+         "perl" : 557,
+         "perl6" : 3053,
+         "c#" : 0,
+         "javascript" : 81,
+         "nim" : 39,
+         "ruby" : 1124,
+         "nqp" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 6,
+         "perl" : 4,
+         "nim" : 77,
+         "ruby" : 80
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.2",
+      "perl6" : null,
+      "c#" : "10.0.111",
+      "lua" : "2.1.1787165859",
+      "c++" : "22.1.8",
+      "nim" : "2.2.10",
+      "ruby" : "3.4.10",
+      "nqp" : "2026.08-2-gd04439aa5",
+      "javascript" : "v26.8.0"
+   }
+}
