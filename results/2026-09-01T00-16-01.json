@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "nqp" : 8128,
+         "c++" : 3,
+         "javascript" : 110,
+         "ruby" : 853,
+         "perl" : 8863,
+         "lua" : 114,
+         "perl6" : 4956,
+         "c#" : 0,
+         "nim" : 24
+      },
+      "str_join" : {
+         "lua" : 96,
+         "perl6" : 2080,
+         "c#" : 0,
+         "nim" : 35,
+         "c++" : 0,
+         "nqp" : 1084,
+         "ruby" : 1044,
+         "javascript" : 60,
+         "perl" : 492
+      },
+      "json_se" : {
+         "perl" : 359,
+         "javascript" : 198,
+         "ruby" : 717
+      },
+      "json_de" : {
+         "perl" : 692,
+         "ruby" : 1217,
+         "javascript" : 594
+      },
+      "re_capture" : {
+         "perl6" : 11355,
+         "lua" : 258,
+         "nqp" : 8234,
+         "ruby" : 543,
+         "javascript" : 88,
+         "perl" : 192
+      },
+      "re_bool" : {
+         "perl" : 470,
+         "javascript" : 34,
+         "ruby" : 174,
+         "nqp" : 2690,
+         "perl6" : 2171,
+         "lua" : 186
+      },
+      "str_join_slow" : {
+         "c++" : 161,
+         "javascript" : 181,
+         "ruby" : 15904,
+         "perl" : 1492,
+         "perl6" : 10090,
+         "lua" : 7489,
+         "c#" : 0,
+         "nim" : 125
+      },
+      "str_join_repeat" : {
+         "ruby" : 69,
+         "lua" : 1,
+         "perl6" : 4,
+         "nim" : 50,
+         "perl" : 3
+      },
+      "takeuchi" : {
+         "perl6" : 11302,
+         "lua" : 393,
+         "c#" : 0,
+         "nim" : 124,
+         "nqp" : 18560,
+         "c++" : 17,
+         "javascript" : 240,
+         "ruby" : 2276,
+         "perl" : 13152
+      },
+      "fib_fast" : {
+         "perl6" : 855,
+         "javascript" : 24
+      }
+   },
+   "version" : {
+      "nim" : "2.2.10",
+      "c#" : "10.0.111",
+      "lua" : "2.1.1787165859",
+      "perl6" : null,
+      "perl" : "v5.42.2",
+      "ruby" : "3.4.10",
+      "javascript" : "v26.8.1",
+      "c++" : "22.1.8",
+      "nqp" : "2026.08-3-g8b9fec97a"
+   }
+}
