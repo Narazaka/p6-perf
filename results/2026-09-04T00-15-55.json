@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "re_capture" : {
+         "perl6" : 10063,
+         "ruby" : 517,
+         "lua" : 280,
+         "javascript" : 89,
+         "perl" : 187,
+         "nqp" : 8297
+      },
+      "re_bool" : {
+         "javascript" : 35,
+         "lua" : 196,
+         "nqp" : 2532,
+         "perl" : 518,
+         "ruby" : 161,
+         "perl6" : 2217
+      },
+      "fib" : {
+         "nim" : 24,
+         "ruby" : 858,
+         "perl6" : 4575,
+         "c++" : 2,
+         "c#" : 0,
+         "nqp" : 8141,
+         "perl" : 6064,
+         "lua" : 99,
+         "javascript" : 111
+      },
+      "takeuchi" : {
+         "perl" : 12931,
+         "nqp" : 17964,
+         "lua" : 400,
+         "javascript" : 243,
+         "perl6" : 11286,
+         "nim" : 114,
+         "ruby" : 2119,
+         "c#" : 0,
+         "c++" : 17
+      },
+      "str_join_slow" : {
+         "perl" : 1466,
+         "javascript" : 147,
+         "lua" : 7614,
+         "ruby" : 15755,
+         "nim" : 129,
+         "perl6" : 10057,
+         "c++" : 56,
+         "c#" : 0
+      },
+      "str_join_repeat" : {
+         "lua" : 1,
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 73,
+         "nim" : 48
+      },
+      "str_join" : {
+         "c#" : 0,
+         "c++" : 0,
+         "perl6" : 1974,
+         "nim" : 36,
+         "ruby" : 993,
+         "javascript" : 59,
+         "lua" : 99,
+         "perl" : 524,
+         "nqp" : 1100
+      },
+      "fib_fast" : {
+         "perl6" : 962,
+         "javascript" : 24
+      },
+      "json_se" : {
+         "perl" : 447,
+         "ruby" : 734,
+         "javascript" : 202
+      },
+      "json_de" : {
+         "javascript" : 606,
+         "ruby" : 966,
+         "perl" : 862
+      }
+   },
+   "version" : {
+      "lua" : "2.1.1787165859",
+      "javascript" : "v26.8.1",
+      "perl" : "v5.42.2",
+      "nqp" : "2026.08-5-g5e9603a88",
+      "c#" : "10.0.111",
+      "c++" : "22.1.8",
+      "perl6" : null,
+      "ruby" : "3.4.10",
+      "nim" : "2.2.10"
+   }
+}
