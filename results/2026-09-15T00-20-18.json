@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "perl" : 5461,
+         "c++" : 3,
+         "c#" : 0,
+         "ruby" : 845,
+         "perl6" : 5629,
+         "javascript" : 115,
+         "lua" : 107,
+         "nim" : 27,
+         "nqp" : 9237
+      },
+      "re_bool" : {
+         "perl" : 535,
+         "ruby" : 233,
+         "perl6" : 2769,
+         "javascript" : 35,
+         "lua" : 202,
+         "nqp" : 3149
+      },
+      "takeuchi" : {
+         "nim" : 119,
+         "nqp" : 18989,
+         "lua" : 439,
+         "javascript" : 241,
+         "perl6" : 11876,
+         "ruby" : 2532,
+         "c#" : 0,
+         "c++" : 23,
+         "perl" : 14442
+      },
+      "str_join_slow" : {
+         "nim" : 130,
+         "lua" : 7874,
+         "javascript" : 167,
+         "perl6" : 11592,
+         "c#" : 0,
+         "ruby" : 17227,
+         "c++" : 58,
+         "perl" : 1765
+      },
+      "re_capture" : {
+         "perl6" : 16860,
+         "ruby" : 628,
+         "perl" : 204,
+         "nqp" : 8927,
+         "lua" : 276,
+         "javascript" : 90
+      },
+      "json_de" : {
+         "ruby" : 1001,
+         "perl" : 776,
+         "javascript" : 675
+      },
+      "json_se" : {
+         "ruby" : 801,
+         "javascript" : 201,
+         "perl" : 358
+      },
+      "str_join" : {
+         "c++" : 0,
+         "perl" : 453,
+         "perl6" : 2977,
+         "c#" : 0,
+         "ruby" : 1136,
+         "lua" : 104,
+         "javascript" : 62,
+         "nqp" : 1271,
+         "nim" : 38
+      },
+      "fib_fast" : {
+         "perl6" : 1211,
+         "javascript" : 24
+      },
+      "str_join_repeat" : {
+         "ruby" : 75,
+         "nim" : 51,
+         "perl6" : 9,
+         "perl" : 7,
+         "lua" : 1
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.2",
+      "javascript" : "v26.8.2",
+      "lua" : "2.1.1788856981",
+      "c++" : "22.1.8",
+      "c#" : "10.0.112",
+      "ruby" : "3.4.10",
+      "perl6" : null,
+      "nim" : "2.2.12",
+      "nqp" : "2026.08-21-g2fc2375fa"
+   }
+}
