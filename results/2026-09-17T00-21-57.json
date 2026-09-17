@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "perl" : 321,
+         "ruby" : 684,
+         "javascript" : 191
+      },
+      "str_join_repeat" : {
+         "perl6" : 4,
+         "perl" : 3,
+         "ruby" : 69,
+         "lua" : 1,
+         "nim" : 47
+      },
+      "str_join_slow" : {
+         "perl" : 1396,
+         "perl6" : 9848,
+         "nim" : 122,
+         "lua" : 7720,
+         "c#" : 0,
+         "ruby" : 15259,
+         "javascript" : 146,
+         "c++" : 54
+      },
+      "fib" : {
+         "javascript" : 108,
+         "nqp" : 0,
+         "ruby" : 822,
+         "c++" : 2,
+         "perl6" : 4427,
+         "perl" : 4631,
+         "nim" : 25,
+         "c#" : 0,
+         "lua" : 109
+      },
+      "re_bool" : {
+         "lua" : 184,
+         "perl6" : 2045,
+         "perl" : 457,
+         "javascript" : 35,
+         "nqp" : 0,
+         "ruby" : 159
+      },
+      "str_join" : {
+         "c#" : 0,
+         "lua" : 94,
+         "nim" : 35,
+         "perl" : 405,
+         "perl6" : 1956,
+         "c++" : 0,
+         "ruby" : 964,
+         "nqp" : 0,
+         "javascript" : 61
+      },
+      "fib_fast" : {
+         "javascript" : 23,
+         "perl6" : 797
+      },
+      "takeuchi" : {
+         "c#" : 0,
+         "lua" : 388,
+         "nim" : 117,
+         "perl" : 12143,
+         "perl6" : 10542,
+         "c++" : 17,
+         "javascript" : 236,
+         "nqp" : 0,
+         "ruby" : 2063
+      },
+      "re_capture" : {
+         "perl6" : 13550,
+         "nqp" : 0,
+         "ruby" : 505,
+         "javascript" : 89,
+         "perl" : 184,
+         "lua" : 253
+      },
+      "json_de" : {
+         "javascript" : 586,
+         "ruby" : 966,
+         "perl" : 651
+      }
+   },
+   "version" : {
+      "javascript" : "v26.8.2",
+      "nqp" : "2026.08-23-g06f61ec6a",
+      "ruby" : "3.4.10",
+      "c++" : "22.1.8",
+      "perl" : "v5.42.2",
+      "perl6" : null,
+      "lua" : "2.1.1788856981",
+      "c#" : "10.0.112",
+      "nim" : "2.2.12"
+   }
+}
