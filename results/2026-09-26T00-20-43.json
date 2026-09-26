@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "json_se" : {
+         "javascript" : 213,
+         "perl" : 406,
+         "ruby" : 728
+      },
+      "re_capture" : {
+         "perl6" : 26452,
+         "nqp" : 9298,
+         "lua" : 271,
+         "javascript" : 96,
+         "perl" : 220,
+         "ruby" : 549
+      },
+      "json_de" : {
+         "ruby" : 1027,
+         "javascript" : 642,
+         "perl" : 727
+      },
+      "takeuchi" : {
+         "javascript" : 257,
+         "nim" : 124,
+         "nqp" : 20399,
+         "c#" : 0,
+         "perl" : 14364,
+         "c++" : 17,
+         "ruby" : 2457,
+         "perl6" : 12700,
+         "lua" : 451
+      },
+      "str_join_slow" : {
+         "ruby" : 16090,
+         "c#" : 0,
+         "perl" : 1699,
+         "c++" : 60,
+         "lua" : 8284,
+         "perl6" : 10541,
+         "nim" : 123,
+         "javascript" : 157
+      },
+      "fib" : {
+         "perl" : 5270,
+         "c#" : 0,
+         "c++" : 3,
+         "ruby" : 856,
+         "perl6" : 5311,
+         "lua" : 117,
+         "javascript" : 122,
+         "nim" : 25,
+         "nqp" : 9083
+      },
+      "str_join" : {
+         "javascript" : 61,
+         "nim" : 40,
+         "nqp" : 1281,
+         "perl" : 563,
+         "c#" : 0,
+         "c++" : 0,
+         "ruby" : 1164,
+         "perl6" : 2359,
+         "lua" : 103
+      },
+      "re_bool" : {
+         "perl6" : 4408,
+         "nqp" : 2998,
+         "lua" : 198,
+         "javascript" : 43,
+         "perl" : 532,
+         "ruby" : 176
+      },
+      "str_join_repeat" : {
+         "perl" : 3,
+         "ruby" : 70,
+         "nim" : 57,
+         "perl6" : 6,
+         "lua" : 1
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 1033
+      }
+   },
+   "version" : {
+      "ruby" : "3.4.10",
+      "c#" : "10.0.112",
+      "c++" : "22.1.8",
+      "perl" : "v5.42.2",
+      "lua" : "2.1.1788856981",
+      "perl6" : null,
+      "nim" : "2.2.12",
+      "javascript" : "v26.10.0",
+      "nqp" : "2026.08-29-g2251e3d89"
+   }
+}
