@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "str_join_repeat" : {
+         "nim" : 57,
+         "perl" : 3,
+         "lua" : 1,
+         "perl6" : 6,
+         "ruby" : 73
+      },
+      "takeuchi" : {
+         "nim" : 135,
+         "c++" : 21,
+         "ruby" : 2417,
+         "nqp" : 21122,
+         "javascript" : 258,
+         "perl" : 13945,
+         "lua" : 425,
+         "perl6" : 11442,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "nqp" : 2986,
+         "ruby" : 245,
+         "perl6" : 4137,
+         "lua" : 215,
+         "perl" : 482,
+         "javascript" : 43
+      },
+      "fib" : {
+         "ruby" : 956,
+         "nqp" : 8992,
+         "nim" : 26,
+         "c++" : 2,
+         "perl6" : 5575,
+         "c#" : 0,
+         "javascript" : 176,
+         "perl" : 5432,
+         "lua" : 113
+      },
+      "re_capture" : {
+         "perl6" : 32186,
+         "ruby" : 648,
+         "nqp" : 9937,
+         "perl" : 209,
+         "lua" : 263,
+         "javascript" : 96
+      },
+      "str_join_slow" : {
+         "javascript" : 167,
+         "perl" : 1603,
+         "lua" : 8173,
+         "perl6" : 10704,
+         "c#" : 0,
+         "nim" : 132,
+         "c++" : 70,
+         "ruby" : 17017
+      },
+      "json_de" : {
+         "perl" : 772,
+         "javascript" : 690,
+         "ruby" : 1191
+      },
+      "fib_fast" : {
+         "javascript" : 25,
+         "perl6" : 1240
+      },
+      "str_join" : {
+         "javascript" : 64,
+         "perl" : 468,
+         "lua" : 99,
+         "perl6" : 2107,
+         "c#" : 0,
+         "nim" : 38,
+         "c++" : 0,
+         "nqp" : 1256,
+         "ruby" : 1201
+      },
+      "json_se" : {
+         "ruby" : 845,
+         "perl" : 384,
+         "javascript" : 234
+      }
+   },
+   "version" : {
+      "c#" : "10.0.112",
+      "perl6" : null,
+      "perl" : "v5.42.2",
+      "lua" : "2.1.1788856981",
+      "javascript" : "v26.10.0",
+      "ruby" : "3.4.10",
+      "nqp" : "2026.09",
+      "c++" : "22.1.8",
+      "nim" : "2.2.12"
+   }
+}
