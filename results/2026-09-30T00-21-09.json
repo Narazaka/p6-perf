@@ -1,0 +1,95 @@
+{
+   "result" : {
+      "fib" : {
+         "c#" : 0,
+         "nim" : 25,
+         "c++" : 2,
+         "nqp" : 8139,
+         "javascript" : 110,
+         "perl" : 4683,
+         "perl6" : 4580,
+         "lua" : 93,
+         "ruby" : 851
+      },
+      "json_se" : {
+         "javascript" : 195,
+         "ruby" : 687,
+         "perl" : 333
+      },
+      "re_capture" : {
+         "nqp" : 8479,
+         "javascript" : 88,
+         "ruby" : 520,
+         "perl6" : 25748,
+         "lua" : 259,
+         "perl" : 207
+      },
+      "str_join_slow" : {
+         "c++" : 55,
+         "javascript" : 145,
+         "c#" : 0,
+         "nim" : 123,
+         "ruby" : 15121,
+         "perl6" : 10226,
+         "lua" : 7836,
+         "perl" : 1416
+      },
+      "json_de" : {
+         "javascript" : 582,
+         "ruby" : 960,
+         "perl" : 692
+      },
+      "str_join_repeat" : {
+         "perl6" : 6,
+         "lua" : 1,
+         "ruby" : 69,
+         "nim" : 42,
+         "perl" : 3
+      },
+      "takeuchi" : {
+         "perl6" : 10992,
+         "lua" : 392,
+         "ruby" : 2101,
+         "perl" : 12945,
+         "nqp" : 18737,
+         "javascript" : 241,
+         "c++" : 17,
+         "nim" : 118,
+         "c#" : 0
+      },
+      "re_bool" : {
+         "lua" : 187,
+         "perl6" : 3052,
+         "ruby" : 161,
+         "perl" : 440,
+         "javascript" : 35,
+         "nqp" : 2726
+      },
+      "fib_fast" : {
+         "perl6" : 867,
+         "javascript" : 25
+      },
+      "str_join" : {
+         "perl" : 438,
+         "perl6" : 2058,
+         "lua" : 96,
+         "ruby" : 993,
+         "nim" : 34,
+         "c#" : 0,
+         "javascript" : 57,
+         "nqp" : 1105,
+         "c++" : 0
+      }
+   },
+   "version" : {
+      "perl" : "v5.42.2",
+      "lua" : "2.1.1788856981",
+      "perl6" : null,
+      "ruby" : "3.4.10",
+      "nim" : "2.2.12",
+      "c#" : "10.0.112",
+      "javascript" : "v26.10.0",
+      "nqp" : "2026.09",
+      "c++" : "22.1.8"
+   }
+}
